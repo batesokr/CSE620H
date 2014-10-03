@@ -1,0 +1,645 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+History of the Supreme Court of the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   The Judiciary Act of 1789 implemented the entire federal judicial
+   branch, including the Supreme Court. It was also the first act by
+   Congress to be partially invalidated by the Supreme Court.
+
+   The following is a history of the Supreme Court of the United States,
+   organized by Chief Justice. The Supreme Court of the United States is
+   the only court specifically established by the Constitution of the
+   United States, implemented in 1789; under the Judiciary Act of 1789,
+   the Court was to be composed of six members—though the number of
+   justices has been nine for almost all of its history, this number is
+   set by Congress, not the Constitution. The court convened for the first
+   time on February 2, 1790.^[1]
+   The Old Royal Exchange, in New York City, where the first meeting of
+   the Court was held in February 1790.
+
+Contents
+
+     * 1 The Jay, Rutledge, and Ellsworth Courts (1789–1801)
+     * 2 The Marshall Court (1801–1835)
+     * 3 The Taney Court (1836–1864)
+     * 4 The Chase, Waite, and Fuller Courts (1864–1910)
+     * 5 The White and Taft courts (1910–1930)
+     * 6 The Hughes, Stone, and Vinson courts (1930—1953)
+     * 7 The Warren Court (1953–1969)
+     * 8 The Burger Court (1969–1986)
+     * 9 The Rehnquist Court (1986–2005)
+     * 10 The Roberts Court (2005–)
+     * 11 References
+
+The Jay, Rutledge, and Ellsworth Courts (1789–1801)[edit]
+
+   See also: List of United States Supreme Court cases prior to the
+   Marshall Court
+   Image of two story brick building.
+   The Court lacked its own building until 1935; from 1791 to 1801, it met
+   in Philadelphia's City Hall.
+
+   The first Chief Justice of the United States was John Jay, and the
+   Court's first docketed case was Van Staphorst v. Maryland (1791) and
+   its first recorded decision was West v. Barnes (1791).^[2] Perhaps the
+   most controversial of the Supreme Court's early decisions was Chisholm
+   v. Georgia, in which it held that the federal judiciary could hear
+   lawsuits against states. Soon thereafter, responding to the concerns of
+   several states, Congress proposed the Eleventh Amendment, which granted
+   states immunity from certain types of lawsuits in federal courts. The
+   Amendment was ratified in 1795.
+
+   Jay was succeeded as Chief Justice by John Rutledge, and then by Oliver
+   Ellsworth. No major cases came before the Supreme Court during this
+   time.
+   The Supreme Court met in windowless chambers in the Capitol from 1819
+   until 1860. The room has been restored and is now known as the Old
+   Supreme Court Chamber.
+
+The Marshall Court (1801–1835)[edit]
+
+   See also: List of United States Supreme Court cases by the Marshall
+   Court
+   “ The Constitution . . . is a mere thing of wax in the hands of the
+     judiciary, which they may twist and shape into any form they please. ”
+
+   —Thomas Jefferson, about the Marshall Court, ^[3]^[4]
+
+   One of the most significant periods during the history of the Court was
+   the tenure of Chief Justice John Marshall (1801 to 1835). In the
+   landmark case Marbury v. Madison (1803), Marshall held that the Supreme
+   Court could overturn a law passed by Congress if it violated the
+   Constitution, legally cementing the power of judicial review. The
+   Marshall Court also made several important decisions relating to
+   federalism. Marshall took a broad view of the powers of the federal
+   government—in particular, the interstate commerce clause and the
+   Necessary and Proper Clause. For instance, in McCulloch v. Maryland
+   (1819), the Court ruled that the interstate commerce clause and other
+   clauses permitted Congress to create a national bank, even though the
+   power to create a bank is not explicitly mentioned in the Constitution.
+   Similarly, in Gibbons v. Ogden (1824), the Court found that the
+   interstate commerce clause permitted Congress to regulate interstate
+   navigation.
+
+   The Marshall Court also made several decisions restraining the actions
+   of state governments. The notion that the Supreme Court could consider
+   appeals from state courts was established in Martin v. Hunter's Lessee
+   (1816) and Cohens v. Virginia (1821). In several decisions, the
+   Marshall Court confirmed the supremacy of federal laws over state laws.
+   For example, in McCulloch, the Court held that a state could not tax an
+   agency of the federal government. At the same time, however, the
+   Marshall Court held in the landmark case Barron v. Baltimore (1833)
+   that the Bill of Rights restricted the federal government alone, and
+   did not apply to the states. Nonetheless, the Supreme Court would in
+   later years hold that the Fourteenth Amendment had the effect of
+   applying most provisions of the Bill of Rights to the states.
+
+   Marshall's forceful personality allowed him to steer his fellow
+   Justices; only once did he find himself on the losing side in a
+   constitutional case. In that case (Ogden v. Saunders in 1827), Marshall
+   set forth his general principles of constitutional interpretation:^[5]
+   “ To say that the intention of the instrument must prevail; that this
+     intention must be collected from its words; that its words are to be
+     understood in that sense in which they are generally used by those for
+     whom the instrument was intended; that its provisions are neither to be
+     restricted into insignificance, nor extended to objects not
+     comprehended in them, nor contemplated by its framers; -- is to repeat
+     what has been already said more at large, and is all that can be
+     necessary.                                                             ”
+
+   Marshall was in the dissenting minority only eight times throughout his
+   tenure at the Court, partly because of his influence over the associate
+   justices. As Oliver Wolcott observed when both he and Marshall served
+   in the Adams administration, Marshall had the knack of "putting his own
+   ideas into the minds of others, unconsciously to them".^[6] However, he
+   regularly curbed his own viewpoints, preferring to arrive at decisions
+   by consensus.^[7] He adjusted his role to accommodate other members of
+   the court as they developed.
+
+   Marshall had charm, humor, a quick intelligence, and the ability to
+   bring men together. His sincerity and presence commanded attention. His
+   opinions were workmanlike but not especially eloquent or subtle. His
+   influence on learned men of the law came from the charismatic force of
+   his personality, and his ability to seize upon the key elements of a
+   case and make highly persuasive arguments. Together with his vision of
+   the future greatness of the nation, these qualities are apparent in his
+   historic decisions and gave him the sobriquet, The Great Chief
+   Justice.^[8]^[9]^[10]
+
+   Marshall ran a congenial court; there was seldom any bickering. The
+   Court met in Washington only two months a year, from the first Monday
+   in February through the second or third week in March. Six months of
+   the year the justices were doing circuit duty in the various states.
+   Marshall was therefore based in Richmond, his hometown, for most of the
+   year. When the Court was in session in Washington, the justices boarded
+   together in the same rooming house, avoided outside socializing, and
+   discussed each case intently among themselves. Decisions were quickly
+   made usually in a matter of days. Marshall wrote nearly half the
+   decisions during his 33 years in office. Lawyers appearing before the
+   court, including the most brilliant in the United States, typically
+   gave oral arguments and did not present written briefs. The justices
+   did not have clerks, so they listened closely to the oral arguments,
+   and decided among themselves what the decision should be. The court
+   issued only one decision; the occasional dissenter did not issue a
+   separate opinion.^[11]
+
+   While Marshall was very good at listening to the oral briefs, and
+   convincing the other justices of his interpretation of the law, he was
+   not widely read in the law, and seldom cited precedents. After the
+   Court came to a decision, he would usually write it up himself. Often
+   he asked Justice Story, a renowned legal scholar, to do the chores of
+   locating the precedents, saying, "There, Story; that is the law of this
+   case; now go and find the authorities."^[12]
+
+The Taney Court (1836–1864)[edit]
+
+   See also: List of United States Supreme Court cases by the Taney Court
+
+   In 1836, Marshall was succeeded as Chief Justice by Roger B. Taney, who
+   had a somewhat more limited view of the powers of the federal
+   government. At a time when sectional tensions between the North and
+   South were high, many of the Supreme Court's decisions—particularly
+   those relating to slavery—met with controversy and contention. Most
+   controversial was the Taney Court's decision in Dred Scott v. Sandford
+   (1857). Dred Scott, a slave from Missouri, sued for his freedom on the
+   grounds that his master had taken him into Illinois and the territory
+   of Wisconsin, both of which prohibited slavery, for extended periods of
+   time. Taney, however, ruled that members of the African race, "beings
+   of an inferior order," were not and could never become citizens of the
+   United States. Consequently, he ruled that Scott therefore had no
+   standing to file the lawsuit. Moreover, he held that the Missouri
+   Compromise, under which Congress prohibited slavery in certain
+   territories that formed part of the Louisiana Purchase, was
+   unconstitutional. The controversial decision met with vigorous
+   opposition from abolitionists, and contributed to the tensions that led
+   to the Civil War during the next decade. The Civil War culminated in a
+   victory for the Union and in the abolition of slavery (see the
+   Thirteenth Amendment).
+
+The Chase, Waite, and Fuller Courts (1864–1910)[edit]
+
+   See also: List of United States Supreme Court cases by the Chase Court,
+   List of United States Supreme Court cases by the Waite Court and List
+   of United States Supreme Court cases by the Fuller Court
+   First photograph of the U.S. Supreme Court, by Mathew Brady, 1869
+   (courtesy of National Archives).
+
+   In the midst of the Civil War, Abraham Lincoln appointed Salmon P.
+   Chase to be Chief Justice. Chase had strong anti-slavery credentials
+   and had previously served Lincoln as Secretary of the Treasury. His
+   post-Civil War tenure featured several key decisions affirming the
+   indestructibility of the Union. Chase was considered highly ambitious,
+   even for a politician. In 1872, Chase, while serving on the Supreme
+   Court, ran for the Presidency, but his efforts were ultimately
+   unsuccessful. Chase continued to serve as Chief Justice until his death
+   in 1873.
+
+   In the aftermath of the Civil War Congress passed and the states
+   ratified the Fourteenth Amendment, which, among other things, prevented
+   states from abridging the "privileges and immunities of citizens," from
+   denying due process of law, and from denying equal protection of the
+   laws to any person. Many cases that came before the Court in the
+   post–Civil War era involved interpretation of the Fourteenth Amendment.
+   In the Civil Rights Cases (1883), the Court under Chief Justice
+   Morrison Waite held that Congress could not prohibit racial
+   discrimination by private individuals (as opposed to governments) on
+   the grounds of the Fourteenth Amendment. Later, in Plessy v. Ferguson
+   (1896), the Court under Chief Justice Melville Fuller determined that
+   the equal protection clause did not prohibit racial segregation in
+   public facilities, as long as the facilities were equal (giving rise to
+   the infamous term "separate but equal"). The sole dissenter in that
+   case was John Marshall Harlan.^[13]
+
+The White and Taft courts (1910–1930)[edit]
+
+   See also: List of United States Supreme Court cases by the White Court,
+   List of United States Supreme Court cases by the Taft Court and Lochner
+   era
+
+   In the early twentieth century, the Supreme Court established that the
+   Fourteenth Amendment protected the "liberty of contract." On the
+   grounds of the Fourteenth Amendment and other provisions of the
+   Constitution, it controversially overturned many state and federal laws
+   designed to protect employees. The first important decision of the era
+   was Lochner v. New York (1905), in which the Court overturned a New
+   York law limiting the number of hours bakers could work each week. In
+   Adair v. United States (1908), the Court overruled a federal law which
+   forbade "yellow dog contracts" (contracts that prohibited workers from
+   joining unions). Adkins v. Children's Hospital (1923) involved a
+   decision that a District of Columbia minimum wage law was
+   unconstitutional.
+
+   In 1925, the Supreme Court made a landmark ruling in Gitlow v. New
+   York, establishing the doctrine of incorporation, under which
+   provisions of the Bill of Rights were deemed to restrict the states.
+   Originally, as Chief Justice John Marshall ruled in Barron v. Baltimore
+   (1833), the Bill of Rights restricted only the federal government;
+   however, during the twentieth century, the Supreme Court held in a
+   series of decisions the Fourteenth Amendment had the effect of applying
+   some (but not all) provisions of the Bill of Rights to the states. The
+   first such decision was Gitlow, in which the Supreme Court incorporated
+   the protection of freedom of speech afforded by the First Amendment.
+   Important decisions relating to incorporations were made during later
+   decades, especially the 1960s.
+
+The Hughes, Stone, and Vinson courts (1930—1953)[edit]
+
+   See also: List of United States Supreme Court cases by the Hughes
+   Court, List of United States Supreme Court cases by the Stone Court and
+   List of United States Supreme Court cases by the Vinson Court
+   U.S. Supreme Court, 1932.
+
+   During the 1930s, the Supreme Court contained both a solid liberal bloc
+   and a conservative bloc of Justices. The four conservative Justices,
+   known as "The Four Horsemen," were James McReynolds, George Sutherland,
+   Willis Van Devanter and Pierce Butler. Their liberal opponents on the
+   bench—Louis Brandeis, Benjamin Cardozo and Harlan Stone—were conversely
+   known "The Three Musketeers", while Chief Justice Charles Evans Hughes
+   and Justice Owen Roberts controlled the balance by serving as the swing
+   votes. Hughes, as a progressive Republican, tended to side with the
+   Four Horsemen, as he did in Schechter Poultry Corporation v. United
+   States, whilst Roberts was also swayed to the side of the
+   conservatives.
+
+   As a result, The Court continued to enforce a Federal laissez-faire
+   approach, overturning many of President Franklin D. Roosevelt's New
+   Deal programs, which were designed to combat the Great Depression, by
+   5–4 margins. Most notably, the National Industrial Recovery Act was
+   overturned in Schechter Poultry Corp. v. United States (1935), and the
+   Agricultural Adjustment Act was struck down in United States v. Butler
+   (1936). In response, President Roosevelt proposed the Judiciary
+   Reorganization Bill (called the "court-packing bill" by its opponents),
+   which would have increased the size of the Supreme Court and permitted
+   the appointment of additional (presumably pro-New Deal) Justices. The
+   bill, however, had many opponents, including Roosevelt's own Vice
+   President John Nance Garner, and was defeated in Congress.
+
+   Soon after the proposal of the court-packing plan, however, the Supreme
+   Court ended the trend that had prevailed since Lochner. Justice
+   Roberts, who had previously voted with the conservative bloc in
+   invalidating New Deal legislation, began to vote on the opposite side.
+   Roberts' decision spelled the end of the Lochner era and has been
+   dubbed the "switch in time that saved nine." As the Horsemen retired,
+   Roosevelt, the longest-serving President in history, availed repeatedly
+   of opportunity to replace them with more liberal Justices. After Hughes
+   retired, Stone—The last remaining "Musketeer"—was appointed by
+   Roosevelt to be elevated to the position of Chief Justice. In 1945,
+   eight of the nine sitting Justices had been appointed by President
+   Roosevelt, the sole exception being Owen Roberts.
+
+The Warren Court (1953–1969)[edit]
+
+   Main article: Warren Court
+   See also: List of United States Supreme Court cases by the Warren Court
+
+   In 1953, President Dwight David Eisenhower appointed Earl Warren, who
+   was then governor of California, to the position of Chief Justice.
+   Warren's term, which lasted until 1969, was arguably one of the most
+   significant in the history of the Court. Under him, the Court made a
+   long series of landmark decisions. Notable members of the liberal wing
+   of the Court aside from Warren included Hugo Black, William O. Douglas
+   (the longest-serving Justice in the Court's history) and William J.
+   Brennan. The foremost conservative members of the Court were Felix
+   Frankfurter and John Marshall Harlan II (grandson of the first Justice
+   Harlan). The first important case of Warren's tenure was Brown v. Board
+   of Education (1954), in which the Court unanimously declared
+   segregation in public schools unconstitutional, effectively reversing
+   the precedent set earlier in Plessy v. Ferguson and other cases.
+
+   The Warren Court also made several controversial decisions relating to
+   the Bill of Rights. The doctrine of incorporation, which had first
+   taken root in Gitlow v. New York, was applied fully to most provisions
+   of the Bill of Rights. In Engel v. Vitale (1962), the Court declared
+   that officially sanctioned prayer in public schools was
+   unconstitutional under the First Amendment. Similarly, in Abington
+   School District v. Schempp (1963), it struck down mandatory Bible
+   readings in public schools. The Court also expanded and incorporated
+   the rights of criminal defendants, on the basis of the Fourth, Fifth,
+   and Sixth Amendments. In Mapp v. Ohio (1961), the Court incorporated
+   the Fourth Amendment and ruled that illegally seized evidence could not
+   be used in a trial. Gideon v. Wainwright (1963) established that states
+   were required to provide attorneys to indigent defendants. Miranda v.
+   Arizona (1966) held that the police must inform suspects of their
+   rights (including the right to remain silent and the right to an
+   attorney) before being interrogated. (The decision is the source of the
+   famous Miranda warning.) Another significant and controversial decision
+   made by the Warren Court was Griswold v. Connecticut (1965), which
+   established that the Constitution protected the right to privacy.
+
+The Burger Court (1969–1986)[edit]
+
+   See also: List of United States Supreme Court cases by the Burger Court
+
+   Chief Justice Earl Warren was succeeded by Warren E. Burger, who served
+   from 1969 to 1986. The Burger Court is best remembered for its ruling
+   in Roe v. Wade (1973), which held that there is a constitutionally
+   protected right to have an abortion in some circumstances. The Court
+   also made important decisions relating to the First Amendment. In Lemon
+   v. Kurtzman (1971), it established the "Lemon test" for determining if
+   legislation violates the establishment clause. Similarly, it
+   established the "Miller test" for laws banning obscenity in Miller v.
+   California (1973).
+
+   Other rulings include Landmark Communications v. Virginia in which the
+   court ruled for fining a newspaper for revealing the identity of a
+   judge under investigation by state commissioner H. Warrington Sharp.
+   The Burger Court also established a moratorium on capital punishment in
+   Furman v. Georgia (1972), holding that states generally awarded death
+   sentences arbitrarily and inconsistently. The moratorium, however, was
+   lifted four years later in Gregg v. Georgia (1976). Also in United
+   States v. Nixon (1974), the court ruled that the courts have the final
+   voice in determining constitutional questions and that no person, not
+   even the President of the United States, is completely above law.
+
+The Rehnquist Court (1986–2005)[edit]
+
+   See also: List of United States Supreme Court cases by the Rehnquist
+   Court
+   U.S. Supreme Court, 1998.
+
+   Chief Justice William Rehnquist served from Burger's retirement in 1986
+   until his own death on September 3, 2005. The Rehnquist Court generally
+   took a limited view of Congress's powers under the commerce clause, as
+   exemplified by United States v. Lopez (1995). The Court made numerous
+   controversial decisions, including Texas v. Johnson (1989), which
+   declared that flag burning was a form of speech protected by the First
+   Amendment; Lee v. Weisman (1992), which declared officially-sanctioned,
+   student-led school prayers unconstitutional; Stenberg v. Carhart
+   (2000), which voided laws prohibiting late-term abortions; and Lawrence
+   v. Texas (2003), which struck down laws prohibiting sodomy. (Some
+   commentators see these decisions as part of the "culture wars.")
+   Another controversial decision of the Rehnquist court in 2003 was
+   Grutter v. Bollinger which upheld affirmative action. Perhaps the most
+   controversial decision made by the Court came in Bush v. Gore (2000),
+   which ended election recounts in Florida following the presidential
+   election of 2000, allowing George W. Bush to become the forty-third
+   U.S. President.
+
+   Rehnquist led a remarkably stable Court - for the eleven years
+   preceding Rehnquist's death, the composition of the Court remained
+   unchanged - the longest such stretch in over 180 years.^[14]
+
+The Roberts Court (2005–)[edit]
+
+   See also: List of United States Supreme Court cases by the Roberts
+   Court
+
+   Chief Justice John G. Roberts was confirmed by the United States Senate
+   on September 29, 2005, and presided over the Court for the first time
+   on October 3, 2005, the day the 2005–2006 session opened. On October
+   31, 2005, President George W. Bush announced that he was nominating
+   Samuel Alito to replace retiring Justice Sandra Day O'Connor, and Bush
+   submitted the nomination to the Senate on November 10, 2005. Under
+   Roberts the Court has drifted primarily to the right in areas like the
+   death penalty (Kansas v. Marsh), abortion (Gonzales v. Carhart), the
+   exclusionary rule for Fourth Amendment violations (Hudson v. Michigan),
+   and campaign-finance regulation (Citizens United v. Federal Election
+   Commission). On November 20, 2007, the Court agreed to hear a case,
+   District of Columbia v. Heller, that was regarded as the first
+   important and historically significant decision on the Second Amendment
+   to the Constitution since 1875. On March 18, 2008, the Supreme Court
+   heard arguments concerning the constitutionality of a District of
+   Columbia ban on handguns.^[15] On June 26, 2008, the Supreme Court
+   ruled that "The Second Amendment protects an individual right to
+   possess a firearm unconnected with service in a militia, and to use
+   that arm for traditionally lawful purposes, such as self-defense within
+   the home."^[16]
+
+   On August 8, 2009, Sonia Sotomayor became the first Hispanic-American
+   to serve on the Supreme Court after being nominated by Barack Obama and
+   confirmed by the Senate to replace the retiring Justice David Souter.
+   On May 10, 2010, President Obama nominated Elena Kagan to replace
+   retiring Justice John Paul Stevens. She was confirmed on August 7,
+   2010. This marks the first time in the history of the Court that three
+   women are serving as Justices and that no Protestants are serving
+   (instead, there are six Roman Catholics and three Jews).
+
+References[edit]
+
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (June 2008)
+    1. ^ "The Constitution of the United States with Index and the
+       Declaration of Independence". United States Government Printing
+       Office. 1997. Retrieved 2008-11-04.
+    2. ^ U.S. Supreme Court Records of Earliest caselaw PDF (accessed
+       April 24, 2009)
+    3. ^ Jefferson, Thomas (September 6, 1819). "Limits to judicial
+       review". A letter to Judge Spencer Roane Poplar Forest. From
+       Revolution to Reconstruction. Retrieved March 15, 2010.
+    4. ^ Tucker, George (1837). The Life of Thomas Jefferson II. London:
+       Charles Knight. p. 473. Retrieved March 15, 2010.
+    5. ^ Currie, David. The Constitution in the Supreme Court: The First
+       Hundred Years, 1789-1888, pages 152-155 (Univ. of Chicago 1992).
+    6. ^ George Gibbs, Memoirs of the Administrations of Washington and
+       John Adams, (1846), vol. II, p. 350.
+    7. ^ Fox, John, Expanding Democracy, Biographies of the Robes, John
+       Marshall. Public Broadcasting Service.
+    8. ^ Jean Edward Smith, John Marshall (1996) pp. 351-2, 422, 506
+    9. ^ Albert Jeremiah Beveridge, The life of John Marshall: Volume 4
+       (1919) p. 94
+   10. ^ Charles F. Hobson, The Great Chief Justice: John Marshall and the
+       Rule of Law (1996) pp 15-16, 119-23
+   11. ^ G. Edward White, The Marshall Court and Cultural Change:
+       1815-1835 (abridged ed. 1991) pp 157-200
+   12. ^ A reliable statement of the quote was recounted by Theophilus
+       Parsons, a law professor who knew Marshall personally. Parsons,
+       "Distinguished Lawyers," Albany Law Journal Aug. 20, 1870, pp 126-7
+       online. Historian Edward Corwin garbled the quote to: "Now Story,
+       that is the law; you find the precedents for it," and that
+       incorrect version has been repeated. Edward Corwin, John Marshall
+       and the Constitution: a chronicle of the Supreme Court (1919) p
+       119.
+   13. ^ Klarman, Michael J. (2004). From Jim Crow to Civil Rights: The
+       Supreme Court and the Struggle for Racial Equality. Oxford
+       University Press. p. 16. ISBN 0-19-512903-2.
+   14. ^ Tushnet, Mark V. (2005). A Court Divided: The Rehnquist Court and
+       the Future of Constitutional Law. W. W. Norton & Company. p. 67.
+       ISBN 0-393-05868-9.
+   15. ^ Mears, Bill (2008-03-18). "Supreme Court hears arguments on gun
+       ownership". CNN. Retrieved 2008-11-04.
+   16. ^ "October, 2007 Term Syllabus". Supreme Court of the United
+       States. October 2007. Retrieved 2008-11-04.
+
+
+     * v
+     * t
+     * e
+
+   History of the Supreme Court of the United States by Chief Justice
+     * Jay Court (1789–1795)
+     * Rutledge Court (1795)
+     * Ellsworth Court (1796–1800)
+     * Marshall Court (1801–1835)
+     * Taney Court (1836–1864)
+     * Chase Court (1864–1873)
+     * Waite Court (1874–1888)
+     * Fuller Court (1888–1910)
+     * White Court (1910–1921)
+     * Taft Court (1921–1930)
+     * Hughes Court (1930–1941)
+     * Stone Court (1941–1946)
+     * Vinson Court (1946–1953)
+     * Warren Court (1953–1969)
+     * Burger Court (1969–1986)
+     * Rehnquist Court (1986–2005)
+     * Roberts Court (2005–present)
+
+   Seal of the United States Supreme Court.svg
+
+     * v
+     * t
+     * e
+
+   Supreme Court of the United States
+   The Court
+     * Decisions
+     * Procedure
+     * History
+     * Court Building
+
+   Seal of the United States Supreme Court
+   Current membership
+
+   Chief Justice
+          John Roberts
+
+   Associate Justices
+          Antonin Scalia
+          Anthony Kennedy
+          Clarence Thomas
+          Ruth Bader Ginsburg
+          Stephen Breyer
+          Samuel Alito
+          Sonia Sotomayor
+          Elena Kagan
+
+   Retired Justices
+          John Paul Stevens
+          Sandra Day O'Connor
+          David Souter
+
+   All members
+     * List of all members
+          + by court
+          + by seat
+          + by time in office
+          + by education
+          + succession
+          + timeline
+
+     * List of Chief Justices
+          + by time in office
+
+     * All nominations
+     * Unsuccessful nominations
+     * Court demographics
+     * Justices who served in Congress
+     * Jewish justices
+     * Ideological leanings
+
+   Court functionaries
+     * Clerks
+     * Reporter of Decisions
+     * Supreme Court Police
+
+     * Other countries
+     * Law Portal
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=History_of_the_Supreme_Court
+   _of_the_United_States&oldid=616477416"
+   Categories:
+     * History of the Supreme Court of the United States
+
+   Hidden categories:
+     * Articles needing additional references from June 2008
+     * All articles needing additional references
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     *
+
+   Edit links
+
+     * This page was last modified on 11 July 2014 at 03:31.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,3633 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Income inequality in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+                Income in the United States
+
+          Affluence in the United States
+          Household income in the United States
+          Income inequality in the United States
+          (Male–female disparity • Racial disparity)
+          Personal income in the United States
+          Social class in the United States
+
+                        Income by:
+
+          State (localities by state • Income equality)
+          County (highest | lowest)
+          Metropolitan statistical area
+          Place (highest | lowest)
+          Urban areas
+          ZIP Code Tabulation Area
+
+     * v
+     * t
+     * e
+
+   Income inequality in the United States has grown significantly since
+   the early 1970s,^[1]^[2]^[3]^[4]^[5]^[6] after several decades of
+   stability,^[7]^[8]^[9] and has been the subject of study of many
+   scholars and institutions. The U.S. consistently exhibits higher rates
+   of income inequality than most developed nations due to the nation's
+   enhanced support of free market capitalism.^[10]^[11]^[12]^[13] Income
+   inequality (as measured by the Gini coefficient) is not uniform among
+   the states: after-tax income inequality in 2009 was greatest in Texas
+   and lowest in Maine.^[14]
+
+   Half of the U.S. population lives in poverty or is low-income,
+   according to U.S. Census data.^[15] On the other hand, some members of
+   the U. S. population have earned a considerable income: the top earner
+   in 2011, hedge fund manager John Paulson, earned "$4.9 billion",
+   according to Business Insider.^[16]^[improper synthesis?] Most of the
+   growth has been between the middle class and top earners, with the
+   disparity widening the further one goes up in the income
+   distribution.^[17] A 2011 study by the CBO^[18] found that the top
+   earning 1 percent of households increased their income by about 275%
+   after federal taxes and income transfers over a period between 1979 and
+   2007, compared to a gain of just under 40% for the 60 percent in the
+   middle of America's income distribution.^[18] Other sources find that
+   the trend has continued since then.^[19] In spite of this data, only
+   42% of Americans think inequality has increased in the past ten
+   years.^[20] In 2012, the gap between the richest 1 percent and the
+   remaining 99 percent was the widest it's been since the 1920s.^[21]
+   Incomes of the wealthiest 1 percent rose nearly 20%, whereas the income
+   of the remaining 99 percent rose 1% in comparison.^[21] The
+   distribution of household incomes has become more unequal during the
+   post-2008 economic recovery, a first for the US but in line with the
+   trend over the last ten economic recoveries since 1949.^[22]^[23]
+   Income inequality has grown from 2005 to 2012 in more than 2 out of 3
+   metropolitan areas.^[24]
+
+   Scholars and others differ as to the causes, and the significance of
+   the trend.^[25] Education and increased demand for skilled labor are
+   often cited as causes,^[26] some have emphasized the importance of
+   public policy; others believe the cause(s) of inequality's rise are not
+   well understood.^[18] Inequality has been described both as irrelevant
+   in the face of economic opportunity (or social mobility) in America,
+   and as a cause of the decline in that opportunity.^[27]^[28]^[29]
+   Although some have spoken out in favor of inequality, including NYU Law
+   School Professor and Senior Lecturer at the University of Chicago,
+   Richard Epstein, (who said "if, in fact, it turns out that inequality
+   creates an incentive for people to produce and to create wealth, it’s a
+   wonderful force for innovation")^[30] (The notion that high levels of
+   inequality drive innovation is disputed.^[31]); others have spoken out
+   against inequality, including Yale Nobel prize for economics winner
+   Robert J. Shiller, (who called rising economic inequality "the most
+   important problem that we are facing now today"),^[32] former Federal
+   Reserve Board chairman Alan Greenspan, ("This is not the type of thing
+   which a democratic society – a capitalist democratic society – can
+   really accept without addressing"),^[28] and President Barack Obama
+   (who referred to the widening income gap as the "defining challenge of
+   our time").^[33]
+
+Contents
+
+     * 1 History
+          + 1.1 Post-1970 increase
+          + 1.2 Indicators
+          + 1.3 Most recent statistics
+     * 2 Measurement
+          + 2.1 Demographic issues
+          + 2.2 Wage inequality
+          + 2.3 Gini index
+               o 2.3.1 Comparisons by state
+               o 2.3.2 International comparisons
+     * 3 Causes
+          + 3.1 Race and gender disparities
+          + 3.2 Education
+               o 3.2.1 Skill-biased technological change
+               o 3.2.2 Relative to technological development rate
+          + 3.3 Incentives
+          + 3.4 Taxation
+               o 3.4.1 Taxes and transfer payments
+          + 3.5 Globalization
+               o 3.5.1 Immigration
+          + 3.6 Changes in income calculation
+          + 3.7 Executive and labor pay and institutions
+               o 3.7.1 Political parties and presidents
+               o 3.7.2 Non-party political action
+               o 3.7.3 Decline of unions
+     * 4 Effects
+          + 4.1 Aggregate demand, consumption and debt
+          + 4.2 Monopolization of labor, consolidation, and competition
+          + 4.3 Economic growth
+          + 4.4 Socio-economic mobility
+               o 4.4.1 Over lifetimes
+               o 4.4.2 Between generations
+          + 4.5 Poverty
+          + 4.6 Impact on democracy and society
+     * 5 Public attitudes
+     * 6 Policy responses
+          + 6.1 Public spending and welfare state spending
+          + 6.2 Taxes on the wealthy
+          + 6.3 Minimum wages
+          + 6.4 Maximum wage implementation
+          + 6.5 Subsidies and income guarantees
+          + 6.6 Rent-seeking limits
+          + 6.7 Economic democracy
+     * 7 See also
+     * 8 References
+     * 9 Further reading
+     * 10 External links
+
+History[edit]
+
+   See also: Economic History of the United States and Great Divergence
+   (inequality)
+   Share of pre-tax household income received by the top 1 percent, top
+   0.1 percent and top 0.01 percent, between 1917 and 2005^[34]^[35]
+
+   The level of concentration of income in America has fluctuated
+   throughout its history. Going back to the early 20th Century, when
+   income statistics started to become available, there has been a "great
+   economic arc" from high inequality "to relative equality and back
+   again," in the words of Nobel laureate economist Paul Krugman.^[36] In
+   1915, an era in which the Rockefellers and Carnegies dominated American
+   industry, the richest 1% of Americans earned roughly 18% of all income.
+   By 2007, the top 1 percent account for 24% of all income.^[37] In
+   between, their share fell below 10% for three decades. In terms of the
+   nation's wealth rather than income, as of 2011 the top 1 percent
+   control 40 percent.^[38]
+
+   The first era of inequality lasted roughly from the post-civil war era
+   ("the Gilded Age") to sometime around 1937. But from about 1937 to 1947
+   – a period that has been dubbed the "Great Compression"^[39] – income
+   inequality in America fell dramatically. Highly progressive New Deal
+   taxation, the strengthening of unions, and regulation of the National
+   War Labor Board during World War II raised the income of the poor and
+   working class and lowered that of top earners.^[40] This "middle class
+   society" of relatively low level of inequality remained fairly steady
+   for about three decades ending in early 1970s,^[7]^[39]^[41] the
+   product of relatively high wages for the US working class and political
+   support for income leveling government policies.
+
+   Wages remained relatively high because of lack of foreign competition
+   for American manufacturing, lack of low skilled immigrant workers,^[42]
+   competition for US workers in general, and – arguably most important –
+   strong trade unions. By 1947 more than a third of non-farm workers were
+   union members,^[43] and unions both raised average wages for their
+   membership, and indirectly and to a lesser extent, raised wages for
+   workers in similar occupations not represented by unions.^[44] Scholars
+   believe political support for equalizing government policies was
+   provided by high voter turnout from union voting drives, the support of
+   the otherwise conservative South for the New Deal, and prestige that
+   the massive mobilization and victory of World War II had given the
+   government.^[45]
+
+Post-1970 increase[edit]
+
+   The income growth of the average American family closely matched that
+   of economic productivity until some time in the 1970s. While it began
+   to stagnate, productivity has continued to climb.^[46]
+
+   The return to high inequality – or what Krugman and journalist Timothy
+   Noah have referred as the "Great Divergence"^[37] – began in the 1970s.
+   Studies have found income grew more unequal almost continuously except
+   during the economic recessions in 1990–91, 2001 (Dot-com bubble), and
+   2007 sub-prime bust.^[47]^[48]
+
+   The Great Divergence differs in some ways from the pre-Depression era
+   inequality. Before 1937 a larger share of top earners income came from
+   capital (interest, dividends, income from rent, capital gains). Post
+   1970, income of high-income taxpayers comes predominantly from "labor",
+   i.e. employment compensation.^[49]
+
+   Until 2011, the Great Divergence had not been a major political issue
+   in America, though stagnation of middle class income was. In 2009 the
+   Barack Obama administration White House Middle Class Working Families
+   Task Force convened to focus on economic issues specifically affecting
+   middle-income Americans. In 2011, the Occupy movement drew considerable
+   attention to income inequality in the country.
+
+   Breaking down the proportion of the increase in income inequality
+   between 1979 and 2007 that came from distribution of pre-tax income and
+   how much from taxes and "government transfers", the CBO data shows that
+   the 33% increase^[50] is composed of the following:^[51]^[52]
+     * 23% from changes in distribution of "market income" to households
+       (top earners received a larger share of salaries, interest,
+       dividends, capital gains, business income, etc.)
+     * 6% from changes in "government transfers" (social security,
+       unemployment, the end of AFDC welfare, etc.)
+     * 4% from changes in federal taxation (overall decline in the average
+       federal tax rate and shift in federal revenues from income taxes to
+       less progressive payroll taxes, etc.)
+
+   Of the 23% increase in inequality from changes in pre-tax "market
+   income", 79% came from a shift to top earners in different types of
+   income across the board. A smaller amount (21%) came from a shift from
+   wages and salaries to more concentrated income sources – i.e.,
+   interest, dividends, business income, and especially capital gains,
+   which are greater among top earners than income from salaries and
+   wages, which is more common to those with lower incomes.^[53]
+
+   Lisa Shalett, chief investment officer at Merrill Lynch Wealth
+   Management noted that, "for the last two decades and especially in the
+   current period, ... productivity soared ... [but] U.S. real average
+   hourly earnings are essentially flat to down, with today's
+   inflation-adjusted wage equating to about the same level as that
+   attained by workers in 1970. ... So where have the benefits of
+   technology-driven productivity cycle gone? Almost exclusively to
+   corporations and their very top executives."^[54]
+
+Indicators[edit]
+
+   Inflation adjusted increase in after-tax household income between 1979
+   and 2005 for the top 1% and the four of the five quintiles.^[55]
+
+   A number of studies by the US Department of Commerce, Congressional
+   Budget Office (CBO), and Internal Revenue Service, have found that the
+   distribution of income in the United States – most commonly measured by
+   household or individual – has become increasingly unequal since the
+   1970s.
+
+   One of the most recent and comprehensive studies on the change in
+   income inequality in America was a 2011 study by the Congressional
+   Budget Office (CBO) – "Trends in the Distribution of Household Income
+   Between 1979 and 2007". (It chose those two years because they both
+   preceded an economic recession and so both were periods of "similar
+   overall economic activity"^[56]). The report found that real household
+   income after federal taxes and including government transfers (payments
+   from Social Security, unemployment insurance, etc.^[57]^[58]) grew by
+   62%.
+
+   However, income of households in the top 1 percent of earners grew by
+   275%, compared to 65% for the next 19 percent, just under 40% for the
+   next 60 percent, 18% for the bottom fifth of households. "As a result
+   of that uneven income growth," the report noted, "the share of total
+   after-tax income received by the 1 percent of the population in
+   households with the highest income more than doubled between 1979 and
+   2007, whereas the share received by low- and middle-income households
+   declined … The share of income received by the top 1 percent grew from
+   about 8% in 1979 to over 17% in 2007. The share received by the other
+   19 percent of households in the highest income quintile (one-fifth of
+   the population as divided by income) was fairly flat over the same
+   period, edging up from 35% to 36%." ^[59]
+
+   According to CBO,^[60] the major reason for observed rise in unequal
+   distribution of after-tax income was an increase in market income, that
+   is household income before taxes and transfers. Market income for a
+   household is a combination of labor income (such as cash wages,
+   employer-paid benefits, employer-paid payroll taxes), business income
+   (such as income from businesses and farms operated solely by their
+   owners), capital gains (profits realized from the sale of assets, stock
+   options), capital income (such as interest from deposits, dividends,
+   rental income), and other income. Of these, capital gains accounted for
+   80% of the increase in market income for the households in top 20%, in
+   the 2000–2007 period. Even over 1991–2000 period, according to CBO,
+   capital gains accounted for 45% of the market income for the top 20%
+   households.
+
+   Pioneers in the use of IRS income data to analyze income distribution
+   are Emmanuel Saez and Thomas Piketty at the Paris School of Economics
+   showed that the share of income held by the top 1 percent was as large
+   in 2005 as in 1928.^[4] Other sources that have noted the increased
+   inequality included economist Janet Yellen who stated, "the growth [in
+   real income] was heavily concentrated at the very tip of the top, that
+   is, the top 1 percent."^[61]
+
+   Economist Timothy Smeeding summed up the current trend:^[62]
+
+     Americans have the highest income inequality in the rich world and
+     over the past 20–30 years Americans have also experienced the
+     greatest increase in income inequality among rich nations. The more
+     detailed the data we can use to observe this change, the more skewed
+     the change appears to be ... the majority of large gains are indeed
+     at the top of the distribution.
+
+   Various methods are used to determine income inequality and different
+   sources may give different figures for gini coefficients or ratio
+   different ratio of percentiles, etc.. The United States Census Bureau
+   studies on inequality of household income^[63] and individual
+   income^[64] show lower levels of inequality^[65] than some other
+   sources (Saez and Piketty, and the CBO), but do not include data for
+   the highest-income households where most of change in income
+   distribution has occurred.^[25]^[66]^[67]^[68]
+   Data Total gain Percent gain 2003 2000 1997 1994 1991 1988 1985 1982
+   1979 1976 1973 1970 1967
+   20th percentile $3,982 28.4% $17,984 $19,142 $17,601 $16,484 $16,580
+   $17,006 $16,306 $15,548 $16,457 $15,615 $15,844 $15,126 $14,002
+   Median (50th) $9,980 29.9% $43,318 $44,853 $42,294 $39,613 $39,679
+   $40,678 $38,510 $36,811 $38,649 $36,155 $37,700 $35,832 $33,338
+   80th percentile $31,602 57.2% $86,867 $87,341 $81,719 $77,154 $74,759
+   $75,593 $71,433 $66,920 $68,318 $63,247 $64,500 $60,148 $55,265
+   95th percentile $65,442 73.8% $154,120 $155,121 $144,636 $134,835
+   $126,969 $127,958 $119,459 $111,516 $111,445 $100,839 $102,243 $95,090
+   $88,678
+   SOURCE: U.S. Census Bureau, 2004^[69] (pp. 44–45)
+
+   CAPTION: Median income levels
+
+   Households Persons, age 25 or older with earnings Household income by
+   race or ethnicity
+   All households Dual earner
+   households Per household
+   member Males Females Both sexes Asian Non-Hispanic White Hispanic
+   (of any race) Black
+   $46,326 $67,348 $23,535 $39,403 $26,507 $32,140 $57,518 $48,977 $34,241
+   $30,134
+
+   CAPTION: Median personal income by educational attainment
+
+   Measure Some High School High school graduate Some college Associate's
+   degree Bachelor's degree or higher Bachelor's degree Master's degree
+   Professional degree Doctorate degree
+   Persons, age 25+ w/ earnings $20,321 $26,505 $31,054 $35,009 $49,303
+   $43,143 $52,390 $82,473 $70,853
+   Male, age 25+ w/ earnings $24,192 $32,085 $39,150 $42,382 $60,493
+   $52,265 $67,123 $100,000 $78,324
+   Female, age 25+ w/ earnings $15,073 $21,117 $25,185 $29,510 $40,483
+   $36,532 $45,730 $66,055 $54,666
+   Persons, age 25+, employed full-time $25,039 $31,539 $37,135 $40,588
+   $56,078 $50,944 $61,273 $100,000 $79,401
+   Household $22,718 $36,835 $45,854 $51,970 $73,446 $68,728 $78,541
+   $100,000 $96,830
+
+   CAPTION: Household income distribution
+
+   Bottom 10% Bottom 20% Bottom 25% Middle 33% Middle 20% Top 25% Top 20%
+   Top 5% Top 1.5% Top 1%
+   $0 to $10,500 $0 to $18,500 $0 to $22,500 $30,000 to $62,500 $35,000 to
+   $55,000 $77,500 and up $92,000 and up $167,000 and up $250,000 and up
+   $350,000 and up
+   Source: US Census Bureau, 2006; income statistics for the year 2005
+
+Most recent statistics[edit]
+
+   Income gini coefficient map according to The World Bank (2014).^[70]
+   Higher Income Gini Index for a nation in this map implies more income
+   inequality among its people.
+
+   According to the United States Census Bureau, it reported that the
+   income inequality between the richest and poorest people grew to its
+   widest in 2012, as the census recorded 46.2 million people living in
+   poverty.^[71] According to Michael Cembalest, the chief investment
+   officer of JPMorgan Chase,^[72] as of 2011, corporate "profit margins
+   have reached levels not seen in decades," and "reductions in wages and
+   benefits explain the majority of the net improvement. ... US labor
+   compensation is now at a 50-year low relative to both company sales and
+   US GDP"^[73]
+
+   From 1992 to 2007 the top 400 earners in the U.S. saw their income
+   increase 392% and their average tax rate reduced by 37%.^[74]^[dubious
+   – discuss] The share of total income in America going to the top 1% of
+   American households (also after federal taxes and income transfers)
+   increased from 11.3% in 1979 to 20.9% in 2007.^[75] A 2013 study by
+   Thomas Piketty, Emmanuel Saez et al., notes that the rise in the share
+   of total annual income received by the top 1%, which has more than
+   doubled since 1976, has had a significant effect on overall income
+   inequality. It states: "It is tempting to dismiss the study of this
+   group as a passing political fad due to the slogans of the Occupy
+   movement or as the academic equivalent of reality TV. But the
+   magnitudes are truly substantial."^[76] Also in 2013, the Economic
+   Policy Institute noted that even though corporate profits are at
+   historic highs, the wage and benefit growth of the vast majority has
+   stagnated. The fruits of overall growth have accrued disproportionately
+   to the top 1%.^[77]
+
+   During the Great Recession of 2007–2009, inequality declined, with
+   total income going to the bottom 99 percent of Americans declining by
+   11.6%, but falling faster (36.3%) for the top 1%.^[78]^[79]
+
+   However, disparity in income increased again during the 2009–2010
+   recovery, with the top 1% of income earners capturing 11.6% of income
+   and capital gains, and the income of the other 99% remained flat,
+   growing by only 0.2%.^[80]^[81] 60% of earners in the top 0.1 percent
+   are executives, managers, supervisors, and financial professionals.
+   More than half of them work in closely held businesses.^[82] The top 1
+   percent is composed of many professions, the five most common
+   professions being managers,^[83] physicians, administrators, lawyers,
+   and financial specialists. Doctors are more likely than any other
+   profession to be in the 1 percent.^[84]
+
+   OECD's study in May 2013 said the richest 10 percent of society in OECD
+   countries pocketed 9.5 times as much market income as the poorest 10
+   percent in 2010, up from 9 times in 2007. It also stated that the
+   widest gap between rich and poor was found in Chile, Mexico, Turkey and
+   the United States. By contrast, Iceland, Slovenia, Norway and Denmark
+   were the most egalitarian societies.^[85]
+
+   Upward redistribution of income is responsible for about 43% of the
+   projected Social Security shortfall over the next 75 years.^[86]
+
+   Rising income inequality has been linked to the political polarization
+   in Washington DC.^[87] According to a 2013 study published in the
+   Political Research Quarterly, elected officials tend to be more
+   responsive to the upper income bracket and ignore lower income
+   groups.^[88]
+
+   According to The New York Times, Canadian middle class incomes are now
+   higher than those in the United States as of 2014, and some European
+   nations are closing the gap as their citizens have been receiving
+   higher raises than their American counterparts.^[89] Bloomberg reported
+   in August 2014 that only the wealthy saw pay increases since the 2008
+   recession, while average American workers saw no boost in their
+   paychecks.^[90]
+
+Measurement[edit]
+
+   Inequality can be measured before and after the effects of taxes and
+   transfer payments.
+     * Market income, or income before taxes & transfers: Expertise,
+       productiveness and work experience, inheritance, gender, and race
+       have had a strong influence on distribution of personal
+       income^[91]^[92] in the United States as in other countries.
+     * After taxes & transfers: Reducing the progressivity of the income
+       tax system and transfers increases income inequality. CBO reported
+       in 2011 that: "The equalizing effect of transfers declined over the
+       1979–2007 period primarily because the distribution of transfers
+       became less progressive. The equalizing effect of federal taxes
+       also declined over the period, in part because the amount of
+       federal taxes shrank as a share of market income and in part
+       because of changes in the progressivity of the federal tax
+       system."^[93]
+
+   One 2013 study indicated that U.S. income inequality is comparable to
+   other developed countries before taxes and transfers, but rated last
+   (worst) among 22 developed countries after taxes and transfers. This
+   means that public policy choices, rather than market factors, drive
+   U.S. income inequality disparities relative to comparable wealthy
+   nations.^[94]
+
+Demographic issues[edit]
+
+   Comparisons of income over time should adjust for changes in average
+   age, family size, number of breadwinners, and other characteristics of
+   a population. Measuring personal income ignores dependent children, but
+   household income also has problems – a household of ten has a lower
+   standard of living than one of two people, though the income of the two
+   households may be the same.^[95] People’s earnings tend to rise over
+   their working lifetimes, so “snapshot measures of income inequality can
+   be misleading.”^[96] The inequality of a recent college graduate and a
+   55-year-old at the peak of his/her career is not an issue if the
+   graduate has the same career path.
+
+   Conservative researchers and organizations have focused on the flaws of
+   household income as a measure for standard of living in order to refute
+   claims that income inequality is growing, becoming excessive or posing
+   a problem for society.^[97] According to sociologist Dennis Gilbert,
+   growing inequality can be explained in part by growing participation of
+   women in the workforce. High earning households are more likely to be
+   dual earner households,^[7] And according to a 2004 analysis of income
+   quintile data by the Heritage Foundation, inequality becomes less when
+   household income is adjusted for size of household. Aggregate share of
+   income held by the upper quintile (the top earning 20 percent)
+   decreases by 20.3% when figures are adjusted to reflect household
+   size.^[98]
+
+   However the Pew Research Center found household income has appeared to
+   decline less than individual income in the twenty-first century because
+   those who are no longer able to afford their own housing have
+   increasingly been moving in with relatives, creating larger households
+   with more income earners in them.^[99] The 2011 CBO study "Trends in
+   the Distribution of Household Income" mentioned in this article adjusts
+   for household size so that its quintiles contain an equal number of
+   people, not an equal number of households.^[100] Looking at the issue
+   of how frequently workers or households move into higher or lower
+   quintiles as their income rises or falls over the years,^[101] the CBO
+   found income distribution over a multi-year period "modestly" more
+   equal than annual income.^[102] The CBO study confirms earlier
+   studies.^[55]
+
+   Overall, according to Timothy Noah, correcting for demographic factors
+   (today’s population is older than it was 33 years ago, and divorce and
+   single parenthood have made households smaller), you find that income
+   inequality, though less extreme than shown by the standard measure, is
+   also growing faster than shown by the standard measure.^[103]
+
+Wage inequality[edit]
+
+   According to Janet L. Yellen, former President and CEO, Federal Reserve
+   Bank of San Francisco,
+
+     ...from 1973 to 2005, real hourly wages of those in the 90th
+     percentile – where most people have college or advanced degrees –
+     rose by 30% or more... among this top 10 percent, the growth was
+     heavily concentrated at the very tip of the top, that is, the top 1
+     percent. This includes the people who earn the very highest salaries
+     in the U.S. economy, like sports and entertainment stars, investment
+     bankers and venture capitalists, corporate attorneys, and CEOs. In
+     contrast, at the 50th percentile and below – where many people have
+     at most a high school diploma – real wages rose by only 5 to 10% –
+     ^[61]
+
+   Lisa Shalett of Merrill Lynch Wealth Management found that real average
+   hourly earnings in the US "are essentially flat to down, with today’s
+   inflation-adjusted wage equating to about the same level as that
+   attained by workers in 1970", despite the fact that "for the last two
+   decades and especially in the current period", productivity has
+   "soared". The benefits of productivity during this cycle had gone
+   "almost exclusively to corporations and their very top
+   executives."^[54]
+
+Gini index[edit]
+
+   Further information: Gini coefficient
+   Further information: List of U.S. states by income equality
+
+   The Gini coefficient summarizes income inequality in a single number
+   and is one of the most commonly used measures of income inequality. It
+   uses a scale from 0 to 1 – the higher the number the more inequality. 0
+   represents perfect equality (everyone having exactly the same income),
+   and 1 represents perfect inequality (one person having all income).
+   (Index scores are commonly multiplied by 100 to make them easier to
+   understand.^[104]) Gini index ratings can be used to compare inequality
+   within (by race, gender, employment) and between countries, before and
+   after taxes.^[105]^[106]^[107]^[108] Different sources will often give
+   different gini values for the same country or population measured. For
+   example, the Census Bureau's official Gini coefficient for the United
+   States was 46.9 in 2010, up from the all-time low of 38.6 in 1968. By
+   contrast, the OECD's Gini coefficient for income inequality in the
+   United States is 37 (including wages and other cash transfers), which
+   is still the highest in the developed world, with the lowest being
+   Denmark (24.3), Norway (25.6), and Sweden (25.9).^[109]
+
+Comparisons by state[edit]
+
+   This Gini Index map shows regional and county level variation in
+   pre-tax income inequality Gini index. The 2010 Gini index value range
+   from 0.207 for Loving County (Texas) to 0.645 to East Carroll Parish
+   (Louisiana).^[110]
+
+   The household income Gini index for the United States was 0.468 in
+   2009, according to the US Census Bureau,^[111] though it varied
+   significantly between states. The states of Utah, Alaska and Wyoming
+   have a pre-tax income inequality Gini coefficient that is 10% lower
+   than the average, while Washington D.C. and Puerto Rico 10% higher.
+   After including the effects of federal and state taxes, the U.S.
+   Federal Reserve estimates 34 states in the USA have a Gini coefficient
+   between 0.30 and 0.35, with the state of Maine the lowest.^[14] At the
+   county and municipality levels, the pre-tax Gini index ranged from 0.21
+   to 0.65 in 2010 across the United States, according to Census Bureau
+   estimates.^[110]
+
+   OECD estimates the pre-tax Gini index for the United States was 0.49,
+   and after-tax Gini index was 0.38, in 2008–2009. The average pre-tax
+   Gini index for OECD countries was 0.46, while the average after-tax
+   Gini index was 0.31.^[105]
+
+International comparisons[edit]
+
+   The UN, CIA World Factbook,^[112] and OECD have used the Gini index to
+   compare inequality between countries, and as of 2006, the United States
+   had one of the highest levels of income inequality among similar
+   developed or high income countries, as measured by the index.^[10]
+   While inequality has increased since 1981 in two-thirds of OECD
+   countries^[113]^[114] most developed countries are in the lower, more
+   equal, end of the spectrum, with a Gini coefficient in the high
+   twenties to mid thirties.^[115]
+
+   The gini rating (after taxes and government income transfers^[11]) of
+   the United States is sufficiently high, however, to put it among less
+   developed countries. The US ranks above (more unequal than) South
+   American countries such Guyana, Nicaragua, and Venezuela, and roughly
+   on par with Uruguay, Nicaragua, and Venezuela, according to the
+   CIA.^[116]
+   Organization US gini
+   rating International range US ranking in
+   income equality Year(s) rated
+   Most equal
+   (lowest gini) Least equal
+   (highest gini)
+   UN^[117]^[118] 0.408 0.168 (Azerbaijan) 0.743 (Namibia) 77th out of 146
+   2000–2010
+   The World Factbook
+   (CIA)^[112] 0.45 0.23 (Sweden, 2005) 0.707 (Namibia, 2003) 100th out of
+   140^[119] 1994–2009
+   OECD^[11]
+   (after taxes and transfers) 0.378 0.236 (Slovenia) 0.494 (Chile) 31st
+   out of 34
+   (in OECD) "late 2000s"
+   OECD^[11]
+   (before taxes and transfers) 0.486 0.344 (South Korea) 0.534 (Italy)
+   26th out of 33
+   (in OECD) "late 2000s"
+
+   Among the 34 "developed" countries of the OECD the US gini rank in
+   income equality (27th) is higher before taxes and "transfers" are
+   measured,^[120] than after (31st) ^[121] – i.e., the US has less income
+   redistribution by government than some other post-industrial economies.
+   However some developed countries, such as the Netherlands and Greece,
+   have less inequality simply because incomes are more equal than in the
+   US even before taxes.^[122]
+
+   Some have argued that inequality is higher in other countries than
+   official statistics indicate because of unreported income. European
+   countries have higher amounts of wealth in offshore
+   holdings.^[123]^[124]^[125]^[126]
+
+Causes[edit]
+
+   According to the CBO and others, "the precise reasons for the [recent]
+   rapid growth in income at the top are not well understood",^[49]^[116]
+   but "in all likelihood," an "interaction of multiple factors" was
+   involved.^[127] "Researchers have offered several potential
+   rationales."^[49]^[61] Some of these rationales conflict, some
+   overlap.^[128] They include:
+     * the globalization hypothesis – low skilled American workers have
+       been losing ground in the face of competition from low-wage workers
+       in Asia and other "emerging" economies;^[129]
+     * skill-biased technological change – the rapid pace of progress in
+       information technology has increased the demand for the highly
+       skilled and educated so that income distribution favored brains
+       rather than brawn;^[129]
+     * the superstar hypothesis – modern technologies of communication
+       often turn competition into a tournament in which the winner is
+       richly rewarded, while the runners-up get far less than in the
+       past;^[129]^[130]
+     * immigration of less-educated workers – relatively high levels of
+       immigration of low skilled workers since 1965 may have reduced
+       wages for American-born high school dropouts;^[131]
+     * policy and politics – capital account liberalization,^[132] soaring
+       executive compensation, stagnating middle income pay and more
+       regressive taxation resulting from political decisions, not market
+       forces. Decision such as not intervening to stop executive capture
+       of corporate boards, the crushing of labor unions, etc. or changes
+       in the governance and structure of executive compensation,^[18] and
+       the failure of government policy makers to do anything about rising
+       inequality.^[133]
+          + This includes less progressive taxation since 1970,
+            particularly the reduction in the top marginal income tax
+            rates from 91% to less than 40%; and taxes on capital gains at
+            lower rates than income taxes;
+          + a decline in unionization of the workforce, leaving workers
+            with less bargaining power in the labor market; and
+          + austerity, or cuts in public spending during adverse economic
+            conditions, which can reduce wages of public employees, and
+            reduce financial aid to the unemployed and underemployed^[132]
+
+   Analyzing the top three hypotheses, economist Paul Krugman found them
+   to be "increasingly inadequate" as more evidence accumulated.
+
+     Globalization can explain part of the relative decline in
+     blue-collar wages, but it can't explain the 2,500 percent rise in
+     C.E.O. incomes. Technology may explain why the salary premium
+     associated with a college education has risen, but it's hard to
+     match up with the huge increase in inequality among the
+     college-educated, with little progress for many but gigantic gains
+     at the top. The superstar theory works for Jay Leno, but not for the
+     thousands of people who have become awesomely rich without going on
+     TV.^[129]
+
+   While immigration was found to have slightly depressed the wages of the
+   least skilled and least educated American workers, it doesn't explain
+   rising inequality among high school and college graduates.^[134]
+   Scholars such as political scientists Jacob S. Hacker, Paul Pierson,
+   Larry Bartels and Nathan Kelly, and economist Timothy Smeeding question
+   the explanation of educational attainment and workplace skills point
+   out that other countries with similar education levels and economies
+   have not gone the way of the US, and that the concentration of income
+   in the US hasn't followed a pattern of "the 29% of Americans with
+   college degrees pulling away" from those who have less
+   education.^[62]^[135]^[136]^[137]^[138]^[10]
+
+Race and gender disparities[edit]
+
+   Median personal income by gender and race in 2005.
+   Further information: Male-female income disparity in the United States
+   Further information: Racial wage gap in the United States
+
+   Income levels vary by gender and race with median income levels
+   considerably below the national median for females compared to men with
+   certain racial demographics.^[139]
+
+   Despite considerable progress in pursuing gender and racial equality,
+   some social scientists attribute these discrepancies in income partly
+   to continued discrimination.^[140]
+
+   Among women, part of the wage gap is due to employment choices and
+   preferences. Women are more likely to consider factors other than
+   salary when looking for employment. On average, women are less willing
+   to travel or relocate, take more hours off and work fewer hours, and
+   choose college majors that lead to lower paying jobs. Women are also
+   more likely to work for governments or non-profits, that pay less than
+   the private sector.^[141]^[142] According to this perspective certain
+   ethnic minorities and women receive fewer promotions and opportunities
+   for occupation and economic advancement than others. In the case of
+   women this concept is referred to as the glass ceiling keeping women
+   from climbing the occupational ladder.
+
+   In terms of race, Asian Americans are far more likely to be in the
+   highest earning 5 percent than the rest of Americans.^[143] Studies
+   have shown that African Americans are less likely to be hired than
+   White Americans with the same qualifications.^[144] The continued
+   prevalence of traditional gender roles and ethnic stereotypes may
+   partially account for current levels of discrimination.^[140] In 2005,
+   median income levels were highest among Asian and White males and
+   lowest among females of all races, especially those identifying as
+   African American or Hispanic. Despite closing gender and racial gaps,
+   considerable discrepancies remain among racial and gender demographics,
+   even at the same level of educational attainment.^[145] The economic
+   success of Asian Americans may come from how they devote much more time
+   to education than their peers. Asian Americans have significantly
+   higher college graduation rates than their peers and are much more
+   likely to enter high status and high income occupations.^[146]
+   Median weekly earnings of full-time wage and salary workers, by sex,
+   race, and ethnicity, 2009.^[147]
+
+   Since 1953 the income gap between male and female workers has decreased
+   considerably but remains relatively large.^[148] Women currently earn
+   significantly more Associate's, Bachelor's, and Master's degrees than
+   men and almost as many Doctorates.^[149] Women are projected to have
+   passed men in Doctorates earned in 2006–2007, and to earn nearly two
+   thirds of Associate's, Bachelor's, and Master's degrees by 2016.^[150]
+   Despite this, some^[who?] still argue that male workers still hold
+   higher educational attainment, as the success of women in academia is a
+   relatively new phenomenon.^[91]
+   Household income levels and gains for different percentiles in 2003
+   dollars.^[151]
+
+   Though it is important to note that income inequality between sexes
+   remained stark at all levels of educational attainment.^[139] Between
+   1953 and 2005 median earnings as well as educational attainment
+   increased, at a far greater pace for women than for men. Median income
+   for female earners male earners increased 157.2% versus 36.2% for men,
+   over four times as fast. Today the median male worker earns roughly
+   68.4% more than their female counterparts, compared to 176.3% in 1953.
+   The median income of men in 2005 was 2% higher than in 1973 compared to
+   a 74.6% increase for female earners.^[148]
+
+   Racial differences remained stark as well, with the highest earning
+   sex-gender demographic of workers aged 25 or older, Asian males (who
+   were roughly tied with white males) earning slightly more than twice as
+   much as the lowest-earning demographic, Hispanic females.^[152]^[153]
+   As mentioned above, inequality between races and gender persisted at
+   similar education levels.^[153]^[154] Racial differences were overall
+   more pronounced among male than among female income earners. In 2009,
+   Hispanics were more than twice as likely to be poor than non-Hispanic
+   whites, research indicates.^[155] Lower average English ability, low
+   levels of educational attainment, part-time employment, the
+   youthfulness of Hispanic household heads, and the 2007–09 recession are
+   important factors that have pushed up the Hispanic poverty rate
+   relative to non-Hispanic whites. During the early 1920s, median
+   earnings decreased for both sexes, not increasing substantially until
+   the late 1990s. Since 1974 the median income for workers of both sexes
+   increased by 31.7% from $18,474 to $24,325, reaching its high-point in
+   2000.^[156]
+   Demographic Median personal income, 2006^[157]
+   Overall Median High school graduate Some college Bachelor's degree or
+   higher Bachelor's degree Masters degree Doctorate degree
+   White Male^[158] $40,432 $33,805 $40,427 $61,175 $55,129 $67,903
+   $77,818
+   Female^[159] $26,636 $21,306 $25,190 $40,161 $36,076 $45,555 $56,759
+   Both sexes^[160] $32,919 $27,291 $31,510 $49,879 $43,841 $52,244
+   $71,184
+   Black Male^[161] $30,549 $25,747 $32,758 $46,474 $41,889 $52,488 N/A
+   Female^[161] $25,435 $20,366 $25,574 $42,461 $41,263 $45,830 N/A
+   Both sexes^[162] $27,110 $22,328 $27,589 $44,460 $41,565 $47,407
+   $61,993
+   Asian Male^[154] $42,217 $28,486 $34,548 $61,165 $51,448 $70,979
+   $81,676
+   Female^[163] $30,332 $21,057 $23,523 $41,442 $37,057 $48,177 $53,659
+   Both sexes^[164] $36,152 $25,285 $29,982 $51,481 $42,466 $61,452
+   $69,653
+   Hispanic Male^[165] $26,162 $26,579 $33,617 $48,282 $43,791 $60,194 N/A
+   Female^[166] $20,133 $18,886 $25,088 $37,405 $34,302 $47,052 N/A
+   Both sexes^[167] $23,613 $22,941 $28,698 $41,596 $37,819 $50,901
+   $67,274
+   All racial/ethnic demographics Male^[168] $39,403 $32,085 $39,150
+   $60,493 $52,265 $67,123 $78,324
+   Female^[169] $26,507 $21,117 $25,185 $40,483 $36,532 $45,730 $54,666
+   Both sexes^[170] $32,140 $26,505 $31,054 $49,303 $43,143 $52,390
+   $70,853
+   NOTE: The highest median for each level of educational attainment is
+   highlighted in green, the lowest in orange.
+   Main article: Household income in the United States
+
+Education[edit]
+
+   Median personal and household income according to different education
+   levels.^[170]^[171]
+   Main article: Educational attainment in the United States
+
+   Income differences between the varying levels of educational attainment
+   (usually measured by the highest degree of education an individual has
+   completed) have increased. Expertise and skill certified through an
+   academic degree translates into increased scarcity of an individual's
+   occupational qualification which in turn leads to greater economic
+   rewards.^[172] As the United States has developed into a
+   post-industrial society more and more employers require expertise that
+   they did not a generation ago, while the manufacturing sector which
+   employed many of those lacking a post-secondary education is decreasing
+   in size.^[173]
+
+   In the resulting economic job market the income discrepancy between the
+   working class and the professional with the higher academic
+   degrees,^[91] who possess scarce amounts of certified expertise, may be
+   growing.
+
+   Households in the upper quintiles are generally home to more, better
+   educated and employed working income earners, than those in lower
+   quintiles.^[98] Among those in the upper quintile, 62% of householders
+   were college graduates, 80% worked full-time and 76% of households had
+   two or more income earners, compared to the national percentages of
+   27%, 58% and 42%, respectively.^[91]^[92]^[174] Upper-most sphere US
+   Census Bureau data indicated that occupational achievement and the
+   possession of scarce skills correlates with higher income.^[174]
+
+     Average earnings in 2002 for the population 18 years and over were
+     higher at each progressively higher level of education... This
+     relationship holds true not only for the entire population but also
+     across most subgroups. Within each specific educational level,
+     earnings differed by sex and race. This variation may result from a
+     variety of factors, such as occupation, working full- or part-time,
+     age, or labor force experience. – ^[91]^[175]
+
+   Demographic High school graduate Some college Bachelor's degree or
+   higher Bachelor's degree Master's degree First professional degree
+   Doctorate degree
+   Median % +/- national median Median % +/- national median Median % +/-
+   national median Median % +/- national median Median % +/- national
+   median Median % +/- national median Median % +/- national median
+   Persons, age 25+ w/ earnings
+   (2005) Both sexes $26,505 −17.5% $31,054 −3.5% $49,303 +53.4% $43,143
+   +34.2% $52,390 +63.0% $82,473 +156.6% $70,853 +120.4%
+   Males $32,085 −18.6% $39,150 −0.6% $60,493 +53.5% $52,265 +32.6%
+   $67,123 +70.3% $100,000 +153.8% $78,324 +98.8%
+   Females $21,117 −20.3% $25,185 −5.0% $40,483 +52.7% $36,532 +37.8%
+   $45,730 +72.5% $66,055 +149.2% $54,666 +106.2%
+   Both sexes employed full-time $31,539 −19.8% $37,135 −5.6% $56,078
+   +42.5% $50,944 +29.5% $61,273 +55.8% $100,000 +154.2% $79,401 +101.8%
+   Households
+   (2003) $36,835 −20.5% $45,854 −0.8% $73,446 +58.8% $68,728 +48.6
+   $78,541 +69.9% $100,000 +116.2% $96,830 +109.4%
+   SOURCE: US Census Bureau, 2004/06^[170]^[171]
+
+   Two researchers have suggested that children in low income families are
+   exposed to 636 words an hour, as opposed to 2,153 words in high income
+   families during the first four formative years of a child's
+   development. This, in turn, led to low achievement in later schooling
+   due to the inability of the low income group to verbalize
+   concepts.^[176]
+
+   A psychologist has stated that society stigmatizes poverty. Conversely,
+   poor people tend to believe that the wealthy have been lucky or have
+   earned their money through illegal means. She believes that both
+   attitudes need to be discarded if the nation is to make headway in
+   addressing the issue of inequality. She suggests that college not be a
+   litmus test of success; that valorizing of one profession as more
+   important than another is a problem.^[177]
+
+Skill-biased technological change[edit]
+
+   As of the mid- to late- decade of the 2000s, the most common
+   explanation for income inequality in America was "skill-biased
+   technological change" (SBTC) ^[178] – "a shift in the production
+   technology that favors skilled over unskilled labor by increasing its
+   relative productivity and, therefore, its relative demand".^[179] For
+   example, one scholarly colloquium on the subject that included many
+   prominent labor economists estimated that technological change was
+   responsible for over 40% of the increase in inequality. Other factors
+   like international trade, decline in real minimum wage, decline in
+   unionization and rising immigration, were each responsible for 10–15%
+   of the increase.^[180]^[181]
+
+   Numbers show the strength of education's influence on income
+   distribution.^[182] In 2005, roughly 55% of income earners with
+   doctorate degrees – the most educated 1.4% – were among the top 15
+   percent earners. Among those with Masters degrees – the most educated
+   10% – roughly half had incomes among the top 20 percent of
+   earners.^[170] Only among households in the top quintile were
+   householders with college degrees in the majority.^[92]
+
+   But while the higher education commonly translates into higher
+   income,^[182] and the highly educated are disproportionately
+   represented in upper quintile households, differences in educational
+   attainment fail to explain income discrepancies between the top 1
+   percent and the rest of the population. Large percentages of
+   individuals lacking a college degree are present in all income
+   demographics, including 33% of those with heading households with six
+   figure incomes.^[92] From 2000 to 2010, the 1.5% of Americans with an
+   M.D., J.D., or M.B.A. and the 1.5% with a PhD saw median income gains
+   of approximately 5%. Among those with a college or master’s degree
+   (about 25% of the American workforce) average wages dropped by about
+   7%, (though this was less than the decline in wages for those who had
+   not completed college).^[183] Post-2000 data has provided "little
+   evidence" for SBTC’s role in increasing inequality. The wage premium
+   for college educated has risen little and there has been little shift
+   in shares of employment to more highly skilled occupations.^[184]
+
+   Approaching the issue from occupations that have been replaced or
+   downgraded since the late 1970s, one scholar found that jobs that
+   "require some thinking but not a lot" – or moderately skilled
+   middle-class occupations such as cashiers, typists, welders, farmers,
+   appliance repairmen – declined the furthest in wage rates and/or
+   numbers. Employment requiring either more skill or less has been less
+   affected.^[185] However the timing of the great technological change of
+   the era – internet use by business starting in the late 1990s – does
+   not match that of the growth of income inequality (starting in the
+   early 1970s but slackening somewhat in the 1990s). Nor does the
+   introduction of technologies that increase the demand for more skilled
+   workers seem to be generally associated with a divergence in household
+   income among the population. Inventions of the 20th century such as AC
+   electric power, the automobile, airplane, radio, television, the
+   washing machine, Xerox machine, each had an economic impact similar to
+   computers, microprocessors and internet, but did not coincide with
+   greater inequality.^[185]
+
+Relative to technological development rate[edit]
+
+   Another explanation is that the combination of the introduction of
+   technologies that increase the demand for skilled workers, and the
+   failure of the American education system to provide a sufficient
+   increase in those skilled workers has bid up those workers' salaries.
+   An example of the slowdown in education growth in America (that began
+   about the same time as the Great Divergence began) is the fact that the
+   average person born in 1945 received two more years of schooling than
+   his parents, while the average person born in 1975 received only half a
+   year more of schooling.^[186] Author Timothy Noah's
+   "back-of-the-envelope" estimation based on "composite of my discussions
+   with and reading of the various economists and political scientists" is
+   that the "various failures" in America's education system are
+   "responsible for 30%" of the post-1978 increase in inequality.^[186]
+
+Incentives[edit]
+
+   Percent of households with 2+ income earners, and full-time workers by
+   income.^[174]
+
+   In the context of concern over income inequality, a number of
+   economists, such as Federal Reserve Chairman Ben Bernanke, have talked
+   about the importance of incentives: "... without the possibility of
+   unequal outcomes tied to differences in effort and skill, the economic
+   incentive for productive behavior would be eliminated, and our
+   market-based economy ... would function far less
+   effectively."^[172]^[187]
+
+   Since abundant supply decreases market value, the possession of scarce
+   skills considerably increases income.^[91] Among the American lower
+   class, the most common source of income was not occupation, but
+   government welfare.^[188]
+
+Taxation[edit]
+
+   Main article: Tax policy and economic inequality in the United States
+
+   Another factor in income inequality/equality is the effective rate at
+   which income is taxed coupled with the progressivity of the tax system.
+   A progressive tax is a tax in which the effective tax rate increases as
+   the taxable base amount increases.^[189]^[190]^[191]^[192]^[193]
+   Overall income tax rates in the U.S. are below the OECD average, and
+   until 2005 have been declining.^[194]
+
+   How much tax policy change over the last thirty years has contributed
+   to income inequality is disputed. In their comprehensive 2011 study of
+   income inequality (Trends in the Distribution of Household Income
+   Between 1979 and 2007),^[51] the CBO found that,
+
+     The top fifth of the population saw a 10-percentage-point increase
+     in their share of after-tax income. Most of that growth went to the
+     top 1 percent of the population. All other groups saw their shares
+     decline by 2 to 3 percentage points. In 2007, federal taxes and
+     transfers reduced the dispersion of income by 20 percent, but that
+     equalizing effect was larger in 1979. The share of transfer payments
+     to the lowest-income households declined. The overall average
+     federal tax rate fell.
+
+   However, a more recent CBO analysis indicates that with changes to 2013
+   tax law, the effective federal tax rates for the highest earning
+   household will increase to levels not seen since 1979.^[195]
+
+   According to journalist Timothy Noah, "you can't really demonstrate
+   that U.S. tax policy had a large impact on the three-decade income
+   inequality trend one way or the other. The inequality trend for pre-tax
+   income during this period was much more dramatic."^[196] Noah estimates
+   tax changes account for 5% of the Great Divergence.^[186]
+
+   But many – such as economist Paul Krugman – emphasize the effect of
+   changes in taxation – such as the 2001 and 2003 Bush administration tax
+   cuts which cut taxes far more for high-income households than those
+   below – on increased income inequality.^[197]
+
+   Part of the growth of income inequality under Republican
+   administrations (described by Larry Bartels) has been attributed to tax
+   policy. A study by Thomas Piketty and Emmanuel Saez found that "large
+   reductions in tax progressivity since the 1960s took place primarily
+   during two periods: the Reagan presidency in the 1980s and the Bush
+   administration in the early 2000s."^[198]
+   Based on CBO Estimates,^[195] under 2013 tax law the top 1% will be
+   paying the highest average tax rates since 1979, while other income
+   groups will remain at historic lows.^[199]
+
+   During Republican President Ronald Reagan's tenure in office the top
+   marginal income tax rate was reduced from over 70 to 28 percent, high
+   top marginal rates like 70% being the sort in place during much of the
+   period of great income equality following the "Great
+   Compression".^[196] The lowest marginal rate for the bottom fell from
+   14 to 11 percent.^[200] However the effective rate on top earners
+   before Reagan's tax cut was much lower because of loopholes and
+   charitable contributions.^[201]^[202] President Ronald Reagan's 1981
+   cut in the top rate on unearned income reduced the maximum capital
+   gains rate to only 20% – its lowest level since the Hoover
+   administration.^[203]
+
+   During the Republican administration under George W. Bush, the tax rate
+   on capital gains and qualifying dividends – a disproportionate source
+   of income for top earners – fell to 15%, less than half the 35% top
+   rate on ordinary income.^[204] Rising inequality has also been
+   attributed to President Bush's veto of tax harmonization, as this would
+   have prohibited offshore tax havens.^[205]
+
+   One study^[206] found reductions of total effective tax rates were most
+   significant for individuals with highest incomes. (see "Federal Tax
+   Rate by Income Group" chart) For those with incomes in the top 0.01
+   percent, overall rates of Federal tax fell from 74.6% in 1970, to 34.7%
+   in 2004 (the reversal of the trend in 2000 with a rise to 40.8% came
+   after the 1993 Clinton deficit reduction tax bill), the next 0.09
+   percent falling from 59.1% to 34.1%, before leveling off with a
+   relatively modest drop of 41.4 to 33.0% for the 99.5–99.9 percent
+   group. Although the tax rate for low-income earners fell as well
+   (though not as much), these tax reductions compare with virtually no
+   change – 23.3% tax rate in 1970, 23.4% in 2004 – for the US population
+   overall.^[206]
+
+   The study found the decline in progressivity since 1960 was due to the
+   shift from allocation of corporate income taxes among labor and capital
+   to the effects of the individual income tax.^[206]^[207] Paul Krugman
+   also supports this claim saying, "The overall tax rate on these high
+   income families fell from 36.5% in 1980 to 26.7% in 1989."^[208]
+
+   From the White House's own analysis, the federal tax burden for those
+   making greater than $250,000 fell considerably during the late 1980s,
+   1990s and 2000s, from an effective tax of 35% in 1980, down to under
+   30% from the late 1980s to 2011.^[209]
+
+   Many studies argue that tax changes of S corporations confound the
+   statistics prior to 1990. However, even after these changes
+   inflation-adjusted average after-tax income grew by 25% between 1996
+   and 2006 (the last year for which individual income tax data is
+   publicly available). This average increase, however, obscures a great
+   deal of variation. The poorest 20% of tax filers experienced a 6%
+   reduction in income while the top 0.1 percent of tax filers saw their
+   income almost double. Tax filers in the middle of the income
+   distribution experienced about a 10% increase in income. Also during
+   this period, the proportion of income from capital increased for the
+   top 0.1 percent from 64% to 70%.^[210]
+
+Taxes and transfer payments[edit]
+
+   CBO reported in 2011 that less progressive tax and transfer policies
+   have contributed to greater after-tax income inequality: "As a result
+   of the diminishing effect of transfers and federal taxes, the Gini
+   index for income after transfers and federal taxes grew by more than
+   the index for market income. Between 1979 and 2007, the Gini index for
+   market income increased by 23 percent, the index for market income
+   after transfers increased by 29 percent, and the index for income
+   measured after transfers and federal taxes increased by 33
+   percent."^[93]
+
+Globalization[edit]
+
+   While economists who have studied globalization agree imports have had
+   an effect, the timing of import growth does not match the growth of
+   income inequality. China is the world's biggest exporter and maker of
+   manufactured products but had a per capita income in 2007 one-seventh
+   that of the United States. By 1995 imports of manufactured goods from
+   low-wage countries totaled less than 3% of US gross domestic
+   product.^[211]
+
+   It wasn't until 2006 that the US imported more manufactured goods from
+   low-wage (developing) countries than from high-wage (advanced)
+   economies.^[212] Inequality increased during the 2000–2010 decade not
+   because of stagnating wages for less-skilled workers, but because of
+   accelerating incomes of the top 0.1%.^[211] Author Timothy Noah
+   estimates that "trade", increases in imports are responsible for just
+   10% of the "Great Divergence" in income distribution.^[186]
+
+   Journalist James Surowiecki notes that in the last 50 years, companies
+   and the sectors of the economy providing the most employment in the US
+   – major retailers, restaurant chains, and supermarkets – are ones with
+   lower profit margins and less pricing power than in the 1960s; while
+   sectors with high profit margins and average salaries – like high
+   technology – have relatively few employees.^[213]
+
+   Some economists claim that is it WTO-led globalization and competition
+   from developing countries, especially China, that has resulted in the
+   recent decline in labor’s share of income and increased unemployment in
+   the U.S.^[214] And the Economic Policy Institute and the Center for
+   Economic and Policy Research argue that some trade agreements such as
+   the Trans-Pacific Partnership could result in further job losses and
+   declining wages.^[215]^[216]
+
+Immigration[edit]
+
+   The Immigration and Nationality Act of 1965 increased immigration to
+   America, especially of non-Europeans.^[116] From 1970 to 2007, the
+   foreign-born proportion of America's population grew from 5% to 11%,
+   most of whom had lower education levels and incomes than native-born
+   Americans. But the contribution of this increase in supply of low-skill
+   labor seem to have been relatively modest. One estimate stated that
+   immigration reduced the average annual income of native-born
+   "high-school dropouts" ("who roughly correspond to the poorest tenth of
+   the workforce") by 7.4% from 1980 to 2000. The decline in income of
+   better educated workers was much less.^[116] Author Timothy Noah
+   estimates that "immigration" is responsible for just 5% of the "Great
+   Divergence" in income distribution.^[186]
+
+Changes in income calculation[edit]
+
+   One observer who denies that household income has become more unequal
+   is Alan Reynolds, senior fellow with the Cato Institute. Reynolds has
+   declared that income inequality is a statistical illusion brought about
+   by technical changes in the tax law that alter what income gets
+   reported to the Internal Revenue Service and what income does
+   not.^[97]^[217] This claim has been criticized as "a mountain of
+   hard-to-follow, often irrelevant, and sometimes entirely erroneous
+   statistical quibbles"^[218] or "intellectual three-card monte."^[219]
+
+   Reynolds points out that all the data gathered to calculate income
+   inequality is based on federal tax returns. Income that is not on tax
+   returns is not included in the data. Not surprisingly, what income is
+   required and not required to be reported has changed. Prior to the
+   1980s, interest in municipal bonds and executive stock options did not
+   need to be reported as taxable income.^[220] In addition, many
+   corporations filed as C-Corporations and therefore their income did not
+   show up on individual tax returns. After the 1986 tax reform
+   legislation and tax cuts under President Reagan, many corporations
+   switched to being S-Corporations and therefore paid the personal income
+   tax rate rather than the corporate tax rate.^[221] As a result of these
+   and other changes, during and after the 1980s lots of new income began
+   to show up on the tax returns of top earners that had really been
+   earned all along. For this reason it is not surprising that studies
+   done by Pikkety/Saez and others show most of the increase in the top
+   1%'s share of annual income occurring in the 1986–1988 period.
+   Furthermore, tax-deferred accounts began to show income disappearing
+   from the returns of the holders of the accounts as they appeared in the
+   1980s. A 2001 Federal Reserve study showed that just 5.5% of the top
+   1%'s assets were held in tax deferred accounts, while 14.5% of the
+   50th–95th percentile's assets were held in tax deferred accounts.^[222]
+   Transfer payments are also largely ignored by most studies, but the
+   proportion of income the absorb has risen from 5.9% in 1970 to 14.2% in
+   2004.^[223] These payments generally go to lower-income families and
+   therefore their absence has steadily made the statistics more and more
+   flawed over the years. Reynolds' argument is that the changes have
+   eliminated income from the middle while adding income to the top,
+   exacerbating the situation statistically but in reality changing little
+   to nothing.
+
+Executive and labor pay and institutions[edit]
+
+   Critics of technological change as an explanation for the "Great
+   Divergence" of income levels in America^[26] point to public policy and
+   party politics, or "stuff the government did, or didn't do".^[196] They
+   argue these have led to a trend of declining labor union membership
+   rates and resulting diminishing political clout, decreased expenditure
+   on social services, and less government redistribution. Moreover, the
+   United States is the only advanced economy without a labor-based
+   political party.^[224]
+
+   As of 2011, several state legislatures have launched initiatives aimed
+   at lowering wages, labor standards, and workplace protections for both
+   union and non-union workers.^[225]
+
+Political parties and presidents[edit]
+
+   Liberal political scientist Larry Bartels has found a strong
+   correlation between the party of the president and income inequality in
+   America since 1948. (see below)^[137]^[226] Examining average annual
+   pre-tax income growth from 1948 to 2005 (which encompassed most of the
+   egalitarian Great Compression and the entire inegalitarian Great
+   Divergence)^[227] Bartels shows that under Democratic presidents (from
+   Harry Truman forward), the greatest income gains have been at the
+   bottom of the income scale and tapered off as income rose. Under
+   Republican presidents, in contrast, gains were much less but what
+   growth there was concentrated towards the top, tapering off as you went
+   down the income scale.^[52]^[228]
+
+   Summarizing Bartels's findings, journalist Timothy Noah referred to the
+   administrations of Democratic presidents as "Democrat-world", and GOP
+   administrations as "Republican-world":
+
+     In Democrat-world, pre-tax income increased 2.64% annually for the
+     poor and lower-middle-class and 2.12% annually for the
+     upper-middle-class and rich. There was no Great Divergence. Instead,
+     the Great Compression – the egalitarian income trend that prevailed
+     through the 1940s, 1950s, and 1960s – continued to the present,
+     albeit with incomes converging less rapidly than before. In
+     Republican-world, meanwhile, pre-tax income increased 0.43 percent
+     annually for the poor and lower-middle-class and 1.90 percent for
+     the upper-middle-class and rich. Not only did the Great Divergence
+     occur; it was more greatly divergent. Also of note: In
+     Democrat-world pre-tax income increased faster than in the real
+     world not just for the 20th percentile but also for the 40th, 60th,
+     and 80th. We were all richer and more equal! But in
+     Republican-world, pre-tax income increased slower than in the real
+     world not just for the 20th percentile but also for the 40th, 60th,
+     and 80th. We were all poorer and less equal! Democrats also produced
+     marginally faster income growth than Republicans at the 95th
+     percentile, but the difference wasn't statistically
+     significant.^[196]
+
+   The pattern of distribution of growth appears to be the result of a
+   whole host of policies,
+
+     including not only the distribution of taxes and benefits but also
+     the government's stance toward unions, whether the minimum wage
+     rises, the extent to which the government frets about inflation
+     versus too-high interest rates, etc., etc.^[52]
+
+   Noah admits the evidence of this correlation is "circumstantial rather
+   than direct", but so is "the evidence that smoking is a leading cause
+   of lung cancer."^[196]
+
+Non-party political action[edit]
+
+   Further information: Executive pay in the United States
+   Ratio of average compensation of CEOs and production workers,
+   1965–2009. Source: Economic Policy Institute. 2011. Based on data from
+   Wall Street Journal/Mercer, Hay Group 2010.^[229]
+
+   According to political scientists Jacob Hacker and Paul Pierson writing
+   in the book Winner-Take-All Politics, the important policy shifts were
+   brought on not by the Republican Party but by the development of a
+   modern, efficient political system, especially lobbying, by top earners
+   – and particularly corporate executives and the financial services
+   industry.^[230] the end of the 1970s saw a transformation of American
+   politics away from a focus on the middle class, with new, much more
+   effective, aggressive and well-financed lobbyists and pressure groups
+   acting on behalf of upper income groups. Executives successfully
+   eliminated any countervailing power or oversight of corporate managers
+   (from private litigation, boards of directors and shareholders, the
+   Securities and Exchange Commission or labor unions).^[231]
+
+   The financial industry's success came from successfully pushing for
+   deregulation of financial markets, allowing much more lucrative but
+   much more risky investments from which it privatized the gains while
+   socializing the losses with government bailouts.^[232] (the two groups
+   formed about 60% of the top 0.1 percent of earners.) All top earners
+   were helped by deep cuts in estate and capital gains taxes, and tax
+   rates on high levels of income.
+
+   Arguing against the proposition that the explosion in pay for corporate
+   executives – which grew from 35X average worker pay in 1978 to over
+   250X average pay before the 2007 recession^[233] – is driven by an
+   increased demand for scarce talent and set according to performance,
+   Krugman points out that multiple factors outside of executives' control
+   govern corporate profitability, particularly in short term when the
+   head of a company like Enron may look like a great success. Further,
+   corporate boards follow other companies in setting pay even if the
+   directors themselves disagree with lavish pay "partly to attract
+   executives whom they consider adequate, partly because the financial
+   market will be suspicious of a company whose CEO isn't lavishly paid."
+   Finally "corporate boards, largely selected by the CEO, hire
+   compensation experts, almost always chosen by the CEO" who naturally
+   want to please their employers.^[234]
+
+   Lucian Arye Bebchuk, Jesse M. Fried, the authors of Pay Without
+   Performance, critique of executive pay, argue that executive capture of
+   corporate governance is so complete that only public relations, i.e.
+   public `outrage`, constrains their pay.^[235] This in turn has been
+   reduced as traditional critics of excessive pay – such as politicians
+   (where need for campaign contributions from the richest outweighs
+   populist indignation), media (lauding business genius), unions
+   (crushed) – are now silent.^[236]
+
+   In addition to politics, Krugman postulated change in norms of
+   corporate culture have played a factor. In the 1950s and 60s, corporate
+   executives had (or could develop) the ability to pay themselves very
+   high compensation through control of corporate boards of directors,
+   they restrained themselves. But by the end of the 1990s, the average
+   real annual compensation of the top 100 C.E.O.'s skyrocketed from $1.3
+   million – 39 times the pay of an average worker – to $37.5 million,
+   more than 1,000 times the pay of ordinary workers from 1982 to
+   2002.^[129] Journalist George Packer also sees the dramatic increase in
+   inequality in America as a product of the change in attitude of the
+   American elite, which (in his view) has been transitioning itself from
+   pillars of society to a special interest group.^[237] Author Timothy
+   Noah estimates that what he calls "Wall Street and corporate boards'
+   pampering" of the highest earning 0.1% is "responsible for 30%" of the
+   post-1978 increase in inequality.^[186]
+
+Decline of unions[edit]
+
+   Union membership in the United States from the Great Depression to
+   current day. (Source: Union Membership Trends in the United States,
+   Table A-1 Appendix A for 1930 to 2000; Bureau of Labor Statistics for
+   2005 and 2010.)
+
+   The era of inequality growth has coincided with a dramatic decline in
+   labor union membership from 20% of the labor force in 1983 to about 12%
+   in 2007.^[238] Economists have traditionally thought that since the
+   chief purpose of a union is to maximize the income of its members, a
+   strong but not all-encompassing union movement led to increased income
+   inequality. Given the increase in income inequality of the past few
+   decades, either the sign of the effect must be reversed, the magnitude
+   of the effect small, or a much larger opposing force overridden it,
+   since unionization has decreased in that period.^[239]^[240]
+
+   However more recently research has shown that unions' ability to reduce
+   income disparities among members outweighed other factors and its net
+   effect has been to reduce national income inequality.^[240]^[241] The
+   decline of unions has hurt this leveling effect among men, and one
+   economist (Berkeley economist David Card) estimating about 15–20% of
+   the "Great Divergence" among that gender is the result of declining
+   unionization.^[240]^[242]
+
+   Still other researchers think it is the labor movement's loss of
+   national political power to promote equalizing "government intervention
+   and changes in private sector behavior" has had the greatest impact on
+   inequality in the US.^[240]^[243] Timothy Noah estimates the "decline"
+   of labor union power "responsible for 20%" of the Great
+   Divergence.^[186] While the decline of union power in the US has been a
+   factor in declining middle class incomes,^[244] they have retained
+   their clout in Western Europe.^[245]
+
+Effects[edit]
+
+   Among economists and related experts, most agree that America's growing
+   income inequality is "deeply worrying",^[28] unjust,^[129] a danger to
+   democracy/social stability,^[246]^[247]^[248] or a sign of national
+   decline.^[237] Yale professor Robert Shiller, who was among three
+   Americans who won the Nobel prize for economics in 2013, said after
+   receiving the award, "The most important problem that we are facing now
+   today, I think, is rising inequality in the United States and elsewhere
+   in the world."^[249] Economist Thomas Piketty, who has spent nearly 20
+   years studying inequality primarily in the US, warns that “The
+   egalitarian pioneer ideal has faded into oblivion, and the New World
+   may be on the verge of becoming the Old Europe of the twenty-first
+   century’s globalized economy.”^[250]
+
+   Inequality in land and income ownership is negatively correlated with
+   subsequent economic growth. A strong demand for redistribution will
+   occur in societies where a large section of the population does not
+   have access to the productive resources of the economy. Rational voters
+   must internalize such issues.^[251] High unemployment rates have a
+   significant negative effect when interacting with increases in
+   inequality. Increasing inequality harms growth in countries with high
+   levels of urbanization. High and persistent unemployment also has a
+   negative effect on subsequent long-run economic growth. Unemployment
+   may seriously harm growth because it is a waste of resources, because
+   it generates redistributive pressures and distortions, because it
+   depreciates existing human capital and deters its accumulation, because
+   it drives people to poverty, because it results in liquidity
+   constraints that limit labor mobility, and because it erodes individual
+   self-esteem and promotes social dislocation, unrest and conflict.
+   Policies to control unemployment and reduce its inequality-associated
+   effects can strengthen long-run growth.^[252]
+
+   Concern extends even to such supporters (or former supporters) of
+   laissez-faire economics and private sector financiers. Former Federal
+   Reserve Board chairman Alan Greenspan, has stated reference to growing
+   inequality: "This is not the type of thing which a democratic society –
+   a capitalist democratic society – can really accept without
+   addressing."^[28] Some economists (David Moss, Paul Krugman, Raghuram
+   Rajan) believe the "Great Divergence" may be connected to the financial
+   crisis of 2008.^[253]^[254] Money manager William H. Gross, managing
+   director of PIMCO, criticized the shift in distribution of income from
+   labor to capital that underlies some of the growth in inequality as
+   unsustainable, saying:
+
+     Even conservatives must acknowledge that return on capital
+     investment, and the liquid stocks and bonds that mimic it, are
+     ultimately dependent on returns to labor in the form of jobs and
+     real wage gains. If Main Street is unemployed and undercompensated,
+     capital can only travel so far down Prosperity Road.
+
+   He concluded: "Investors/policymakers of the world wake up – you’re
+   killing the proletariat goose that lays your golden eggs."^[255]^[256]
+
+   On the other side of the issue are those who have claimed that the
+   increase is not significant,^[257] that it doesn't matter^[248] because
+   America's economic growth and/or equality of opportunity are what's
+   important,^[258] that it is a global phenomenon which would be foolish
+   to try to change through US domestic policy,^[259] that it "has many
+   economic benefits and is the result of ... a well-functioning
+   economy",^[253]^[260] and has or may become an excuse for
+   "class-warfare rhetoric",^[257] and may lead to policies that "reduce
+   the well-being of wealthier individuals".^[101] ^[253]
+
+Aggregate demand, consumption and debt[edit]
+
+   Income inequality lowers aggregate demand, leading to increasingly
+   large segments of formerly middle class consumers unable to afford as
+   many luxury and essential goods and services.^[261] This pushes
+   production and overall employment down.^[252]
+
+   Conservative researchers have argued that income inequality is not
+   significant because consumption, rather than income should be the
+   measure of inequality, and inequality of consumption is less extreme
+   than inequality of income in the US. Will Wilkinson of the libertarian
+   Cato Institute states that "the weight of the evidence shows that the
+   run-up in consumption inequality has been considerably less dramatic
+   than the rise in income inequality," and consumption is more important
+   than income.^[262] According to Johnson, Smeeding, and Tory,
+   consumption inequality was actually lower in 2001 than it was in
+   1986.^[263]^[264] The debate is summarized in "The Hidden Prosperity of
+   the Poor" by journalist Thomas B. Edsall.^[265] Other studies have not
+   found consumption inequality less dramatic than household income
+   inequality,^[103]^[266] and the CBO's study found consumption data not
+   "adequately" capturing "consumption by high-income households" as it
+   does their income, though it did agree that household consumption
+   numbers show more equal distribution than household income.^[267]
+
+   Others dispute the importance of consumption over income, pointing out
+   that if middle and lower income are consuming more than they earn it is
+   because they are saving less or going deeper into debt.^[253] A
+   "growing body of work" suggests that income inequality has been the
+   driving factor in the growing household debt,^[103]^[268] as high
+   earners bid up the price of real estate and middle income earners go
+   deeper into debt trying to maintain what once was a middle class
+   lifestyle.^[269] Between 1983 and 2007, the top 5 percent saw their
+   debt fall from 80 cents for every dollar of income to 65 cents, while
+   the bottom 95 percent saw their debt rise from 60 cents for every
+   dollar of income to $1.40.^[103] Economist Krugman has found a strong
+   correlation between inequality and household debt in America over the
+   last hundred years.^[270]
+
+   Deep debt may lead to bankruptcy and researchers Elizabeth Warren and
+   Amelia Warren Tyagi found a fivefold increase in the number of families
+   filing for bankruptcy between 1980 and 2005.^[271] The bankruptcies
+   came not from increased spending "on luxuries", but from an "increased
+   spending on housing, largely driven by competition to get into good
+   school districts." Intensifying inequality may mean a dwindling number
+   of ever more expensive school districts that compel middle class – or
+   would-be middle class – to "buy houses they can't really afford, taking
+   on more mortgage debt than they can safely handle".^[272]
+
+   Central Banking economist Raghuram Rajan argues that "systematic
+   economic inequalities, within the United States and around the world,
+   have created deep financial 'fault lines' that have made [financial]
+   crises more likely to happen than in the past" – the Financial crisis
+   of 2007–08 being the most recent example.^[273] To compensate for
+   stagnating and declining purchasing power, political pressure has
+   developed to extend easier credit to the lower and middle income
+   earners – particularly to buy homes – and easier credit in general to
+   keep unemployment rates low. This has given the American economy a
+   tendency to go "from bubble to bubble" fueled by unsustainable monetary
+   stimulation.^[274]
+
+Monopolization of labor, consolidation, and competition[edit]
+
+   Greater income inequality can lead to monopolization of the labor
+   force, resulting in fewer employers requiring fewer
+   workers.^[261]^[275] Remaining employers can consolidate and take
+   advantage of the relative lack of competition, leading to less consumer
+   choice, market abuses, and relatively higher prices.^[252]^[275]
+
+Economic growth[edit]
+
+   A 2011 study by Ostry and Berg^[276] of the factors affecting the
+   duration of economic growth in developed and developing countries,
+   found that income equality has a more beneficial impact on steady
+   growth than trade openness, sound political institutions, or foreign
+   investment.
+
+   In response to the Occupy movement Richard A. Epstein defended
+   inequality in a free market society, maintaining that "taxing the top
+   one percent even more means less wealth and fewer jobs for the rest of
+   us." According to Epstein, "the inequalities in wealth ... pay for
+   themselves by the vast increases in wealth", while "forced transfers of
+   wealth through taxation ... will destroy the pools of wealth that are
+   needed to generate new ventures.^[277] Some researchers have found a
+   connection between lowering high marginal tax rates on high income
+   earners (high marginal tax rates on high income being a common measure
+   to fight ineuality), and higher rates of employment growth.^[278]^[279]
+
+   Among economists and reports that find inequality harming economic
+   growth are a December 2013 Associated Press survey of three dozen
+   economists',^[280] a 2014 report by Standard and Poor's,^[281]
+   economists Gar Alperovitz, Robert Reich, Joseph Stiglitz, and Branko
+   Milanovic.
+
+   A December 2013 Associated Press survey of three dozen economists found
+   that the majority believe that widening income disparity is harming the
+   US economy. They argue that wealthy Americans are receiving higher pay,
+   but they spend less per dollar earned than middle class consumers, the
+   majority of the population, whose incomes have largely stagnated.^[280]
+   Economists Gar Alperovitz and Robert Reich argue that too much
+   concentration of wealth prevents there being sufficient purchasing
+   power to make the rest of the economy function effectively.^[282]^[283]
+
+   A 2014 report by Standard and Poor's concluded that diverging income
+   inequality has slowed the economic recovery and could contribute to
+   boom-and-bust cycles in the future as more and more Americans take on
+   debt in order to consume. Higher levels of income inequality increase
+   political pressures, discouraging trade, investment, hiring, and social
+   mobility according to the report.^[281] Joseph Stiglitz argues that
+   concentration of wealth and income leads the politically powerful
+   economic elite seek to protect themselves from redistributive policies
+   by weakening the state, and this leads to less public investments by
+   the state – roads, technology, education, etc. – that are essential for
+   economic growth.^[284]^[285]
+
+   According to economist Branko Milanovic, while traditionally economists
+   thought inequality was good for growth,
+
+     The view that income inequality harms growth – or that improved
+     equality can help sustain growth – has become more widely held in
+     recent years. ... The main reason for this shift is the increasing
+     importance of human capital in development. When physical capital
+     mattered most, savings and investments were key. Then it was
+     important to have a large contingent of rich people who could save a
+     greater proportion of their income than the poor and invest it in
+     physical capital. But now that human capital is scarcer than
+     machines, widespread education has become the secret to
+     growth.^[286]
+
+   "Broadly accessible education" is both difficult to achieve when income
+   distribution is uneven and tends to reduce "income gaps between skilled
+   and unskilled labor."
+
+   Economic sociologist Lane Kenworthy has found no correlation between
+   levels of inequality and economic growth among developed countries,
+   among states of the US, or in the US over the years from 1947 to
+   2005.^[287] Jared Bernstein found a nuanced relation he summed up as
+   follows: "In sum, I’d consider the question of the extent to which
+   higher inequality lowers growth to be an open one, worthy of much
+   deeper research".^[288]
+
+Socio-economic mobility[edit]
+
+   Further information: Socio-economic mobility in the United States
+
+   Conservatives and libertarians such as economist Thomas Sowell, and
+   Congressman Paul Ryan (R., Wisc.)^[289] argue that more important than
+   the level of equality of results is America's equality of opportunity,
+   especially relative to other developed countries such as western
+   Europe.
+
+Over lifetimes[edit]
+
+   The centrist Brookings Institution said in March 2013 that income
+   inequality was increasing and becoming permanent, sharply reducing
+   social mobility in the US.^[29] A 2007 study (by Kopczuk, Saez and Song
+   in 2007) found the top population in America "very stable" and "not
+   mitigated the dramatic increase in annual earnings concentration since
+   the 1970s."^[290]
+
+   Economist Paul Krugman, attacks conservatives for resorting to
+   "extraordinary series of attempts at statistical distortion". He argues
+   that while in any given year, some of the people with low incomes will
+   be "workers on temporary layoff, small businessmen taking writeoffs,
+   farmers hit by bad weather" – the rise in their income in succeeding
+   years is not the same 'mobility' as poor people rising to middle class
+   or middle income rising to wealth. It's the mobility of "the guy who
+   works in the college bookstore and has a real job by his early
+   thirties."
+
+     Studies by the Urban Institute and the US Treasury have both found
+     that about half of the families who start in either the top or the
+     bottom quintile of the income distribution are still there after a
+     decade, and that only 3 to 6% rise from bottom to top or fall from
+     top to bottom.^[25]
+
+   On the issue of whether most Americans do not stay put in any one
+   income bracket, Krugman quotes from 2011 CBO distribution of income
+   study
+
+     Household income measured over a multi-year period is more equally
+     distributed than income measured over one year, although only
+     modestly so. Given the fairly substantial movement of households
+     across income groups over time, it might seem that income measured
+     over a number of years should be significantly more equally
+     distributed than income measured over one year. However, much of the
+     movement of households involves changes in income that are large
+     enough to push households into different income groups but not large
+     enough to greatly affect the overall distribution of income.
+     Multi-year income measures also show the same pattern of increasing
+     inequality over time as is observed in annual measures.^[18]
+
+   In other words, "many people who have incomes greater than $1 million
+   one year fall out of the category the next year – but that’s typically
+   because their income fell from, say, $1.05 million to 0.95 million, not
+   because they went back to being middle class."^[18]^[291]
+
+Between generations[edit]
+
+   Several studies have found the ability of children from poor or
+   middle-class families to rise to upper income – known as "upward
+   relative intergenerational mobility" – is lower in the US than in other
+   developed countries^[292] – and at least two economists have found
+   lower mobility linked to income inequality.^[27]^[28]
+   The Great Gatsby Curve.png
+
+   In their "Great Gatsby" curve,^[27] White House Council of Economic
+   Advisers Chairman Alan B. Krueger and labor economist Miles Corak show
+   a negative correlation between inequality and social mobility. The
+   curve plotted "intergenerational income elasticity" – i.e. the
+   likelihood that someone will inherit their parents' relative position
+   of income level – and inequality for a number of countries.^[28]^[293]
+
+   In the words of journalist Timothy Noah
+
+     you can't really experience ever-growing income inequality without
+     experiencing a decline in Horatio Alger-style upward mobility
+     because (to use a frequently-employed metaphor) it's harder to climb
+     a ladder when the rungs are farther apart.^[28]
+
+   Aside from the proverbial distant rungs, the connection between income
+   inequality and low mobility can be explained by the lack of access for
+   un-affluent children to better (more expensive) schools and preparation
+   for schools crucial to finding high-paying jobs; the lack of health
+   care that may lead to obesity and diabetes and limit education and
+   employment.^[292]
+
+   Krueger estimates that "the persistence in the advantages and
+   disadvantages of income passed from parents to the children" will "rise
+   by about a quarter for the next generation as a result of the rise in
+   inequality that the U.S. has seen in the last 25 years."^[28]
+
+Poverty[edit]
+
+   Further information: Poverty in the United States
+
+   Greater income inequality can increase the poverty rate, as more income
+   shifts away from lower income brackets to upper income brackets. Jared
+   Bernstein wrote: "If less of the economy's market-generated growth –
+   i.e., before taxes and transfers kick in – ends up in the lower reaches
+   of the income scale, either there will be more poverty for any given
+   level of GDP growth, or there will have to be a lot more transfers to
+   offset inequality's poverty-inducing impact." The Economic Policy
+   Institute estimated that greater income inequality would have added
+   5.5% to the poverty rate between 1979 and 2007, other factors equal.
+   Income inequality was the largest driver of the change in the poverty
+   rate, with economic growth, family structure, education and race other
+   important factors.^[294]^[295] An estimated 16% of Americans lived in
+   poverty in 2012, versus 26% in 1967.^[296]
+
+Impact on democracy and society[edit]
+
+   Economists Jared Bernstein and Paul Krugman have attacked the
+   concentration of income as variously "unsustainable"^[247] and
+   "incompatible"^[248] with real democracy. American political scientists
+   Jacob S. Hacker and Paul Pierson quote a warning by Greek-Roman
+   historian Plutarch: `An imbalance between rich and poor is the oldest
+   and most fatal ailment of all republics.`^[246] Some academic
+   researchers have written that the US political system risks drifting
+   towards a form of oligarchy, through the influence of corporations, the
+   wealthy, and other special interest groups.^[297]^[298]
+
+   Two journalists concerned about social separation in the US are
+   economist Robert Frank, who notes that:
+
+     Today's rich had formed their own virtual country .. [T]hey had
+     built a self-contained world unto themselves, complete with their
+     own health-care system (concierge doctors), travel network (Net
+     jets, destination clubs), separate economy. .... The rich weren't
+     just getting richer; they were becoming financial foreigners,
+     creating their own country within a country, their own society
+     within a society, and their economy within an economy. ^[299]
+
+   and George Packer,
+
+     Inequality hardens society into a class system ... Inequality
+     divides us from one another in schools, in neighborhoods, at work,
+     on airplanes, in hospitals, in what we eat, in the condition of our
+     bodies, in what we think, in our children's futures, in how we die.
+     Inequality makes it harder to imagine the lives of others.^[237]
+
+   Loss of income by the middle class relative to the top-earning 1% and
+   0.1% is both a cause and effect of political change, according to
+   journalist Hedrick Smith. In the decade starting around 2000, business
+   groups employed 30 times as many Washington lobbyists as trade unions
+   and 16 times as many lobbyists as labor, consumer, and public interest
+   lobbyists combined.^[300]
+
+     From 1998 through 2010 business interests and trade groups spent
+     $28.6 billion on lobbying compared with $492 million for labor,
+     nearly a 60-to-1 business advantage.^[301]
+
+   The result, according to Smith, is a political landscape dominated in
+   the 1990s and 2000s by business groups, specifically "political
+   insiders" – former members of Congress and government officials with an
+   inside track – working for "Wall Street banks, the oil, defense, and
+   pharmaceutical industries; and business trade associations." In the
+   decade or so prior to the Great Divergence, middle-class-dominated
+   reformist grassroots efforts – such as civil rights movement,
+   environmental movement, consumer movement, labor movement – had
+   considerable political impact.^[300]
+
+   Economist Joseph Stiglitz argues that hyper-inequality may explain
+   political questions – such as why America's infrastructure (and other
+   public investments) are deteriorating,^[302] or the country's recent
+   relative lack of reluctance to engage in military conflicts such as the
+   2003 invasion of Iraq. Top-earning families, wealthy enough to buy
+   their own education, medical care, personal security, and parks, have
+   little interest in helping pay for such things for the rest of society,
+   and the political influence to make sure they don't have to. So too,
+   the lack of personal or family sacrifice involved for top earners in
+   the military intervention of their country – their children being few
+   and far between in the relatively low-paying all-volunteer military –
+   may mean more willingness by influential wealthy to see its government
+   wage war.^[38]
+
+   Concentration of resources in a smaller segment of the population may
+   affect charitable giving. Contrary to the image of the wealthy being
+   great benefactors of charity, researchers^[who?] have found
+   higher-income groups donate less not more to charity than lower income.
+   In 2011, the top 20 percent income group donated 1.3% of their income,
+   the bottom 20 percent, 3.2%.^[303] Donations among the economic elite
+   were more likely to go to elite colleges, universities, museums and
+   arts organizations; and less likely to go to social-service
+   organizations, such as the United Way, Salvation Army, or Feeding
+   America.^[304]^[305]
+
+   The relatively high rates of health and social problems (obesity,
+   mental illness, homicides, teenage births, Incarceration, child
+   conflict, drug use) and lower rates of social goods (life expectancy,
+   educational performance, trust among strangers, women's status, social
+   mobility, even numbers of patents issued per capita), in the US
+   compared to other developed countries may be related to its high income
+   inequality. Using statistics from 23 developed countries and the 50
+   states of the US, British researchers Richard G. Wilkinson and Kate
+   Pickett have found such a correlation which remains after accounting
+   for ethnicity,^[306] national culture,^[307] and occupational classes
+   or education levels.^[308] Their findings, based on UN Human
+   Development Reports and other sources, locate the United States at the
+   top of the list in regards to inequality and various social and health
+   problems among developed countries.^[309] The authors argue inequality
+   creates psychosocial stress and status anxiety that lead to social
+   ills.^[310] A 2009 study conducted by researchers at Harvard University
+   and published in the British Medical Journal attribute one in three
+   deaths in the United States to high levels of inequality.^[311]
+   According to The Earth Institute, life satisfaction in the US has been
+   declining over the last several decades, which has been attributed to
+   soaring inequality, lack of social trust and loss of faith in
+   government.^[312]
+
+   Paul Krugman argues that the much lamented long-term funding problems
+   of Social Security and Medicare can be blamed in part on the growth in
+   inequality as well as the usual culprits like longer life expectancies.
+   The traditional source of funding for these social welfare programs –
+   payroll taxes – is inadequate because it does not capture income from
+   capital, and income above the payroll tax cap, which make up a larger
+   and larger share of national income as inequality increases.^[313]
+
+   Disagreeing with this focus on the top-earning 1%, and urging attention
+   to the economic and social pathologies of lower-income/lower education
+   Americans, is conservative^[citation needed] journalist David Brooks.
+   Whereas in the 1970s, high school and college graduates had "very
+   similar family structures", today, high school grads are much less
+   likely to get married and be active in their communities, and much more
+   likely to smoke, be obese, get divorced, or have "a child out of
+   wedlock."^[314]
+
+     The zooming wealth of the top one percent is a problem, but it’s not
+     nearly as big a problem as the tens of millions of Americans who
+     have dropped out of high school or college. It’s not nearly as big a
+     problem as the 40 percent of children who are born out of wedlock.
+     It’s not nearly as big a problem as the nation’s stagnant human
+     capital, its stagnant social mobility and the disorganized social
+     fabric for the bottom 50 percent.^[314]^[315]
+
+   Contradicting most of these arguments, classical liberals such as
+   Friedrich Hayek have maintained that because individuals are diverse
+   and different, state intervention to redistribute income is inevitably
+   arbitrary and incompatible with the concept of general rules of law,
+   and that "what is called 'social' or distributive' justice is indeed
+   meaningless within a spontaneous order". Those who would use the state
+   to redistribute, "take freedom for granted and ignore the preconditions
+   necessary for its survival." ^[316]^[317]^[317]
+
+Public attitudes[edit]
+
+   The growth of inequality has provoked a political protest movement –
+   the Occupy movement – starting in Wall Street and spreading to 600
+   communities across the United States in 2011. Its main political slogan
+   – "We are the 99%" – references its dissatisfaction with the
+   concentration of income in the top 1%.
+
+   A December 2011 Gallup poll found a decline in the number of Americans
+   who felt reducing the gap in income and wealth between the rich and the
+   poor was extremely or very important (21 percent of Republicans, 43
+   percent of independents, and 72 percent of Democrats).^[318] In 2012,
+   several surveys of voters attitudes toward growing income inequality
+   found the issue ranked less important than other economic issues such
+   as growth and equality of opportunity, and relatively low in affecting
+   voters "personally". ^[319]^[320] In 1998 a Gallup poll had found 52%
+   of Americans agreeing that the gap between rich and the poor was a
+   problem that needed to be fixed, while 45% regarded it as "an
+   acceptable part of the economic system". In 2011, those numbers are
+   reversed: Only 45% see the gap as in need of fixing, while 52% do not.
+   However, there was a large difference between Democrats and
+   Republicans, with 71% of Democrats calling for a fix.^[318]
+
+   In contrast, a January 2014 poll^[321] found 61% of Republicans, 68% of
+   Democrats and 67% of independents accept the notion that income
+   inequality in the US has been growing over the last decade.^[322] The
+   Pew Center poll also indicated that 69% of Americans supported the
+   government doing "a lot" or "some" to address income inequality and
+   that 73% of Americans supported raising the minimum wage from $7.25 to
+   $10.10 per hour.^[323]
+
+   Opinion surveys of what respondents thought was the right level of
+   inequality have found Americans no more accepting of income inequality
+   than other citizens of other nations, but more accepting of what they
+   thought the level of inequality was in their country, being under the
+   impression that there was less inequality than there actually
+   was.^[324] Dan Ariely and Michael Norton show in a study (2011) that US
+   citizens across the political spectrum significantly underestimate the
+   current US wealth inequality and would prefer a more egalitarian
+   distribution of wealth.^[325] Joseph Stiglitz in "The Price of
+   Inequality" has argued that this sense of unfairness has led to
+   distrust in government and business.^[326]
+
+Policy responses[edit]
+
+   Further information: Welfare's effect on poverty
+   Unbalanced scales.svg
+   This section may be unbalanced towards certain viewpoints. Please
+   improve the article by adding information on neglected viewpoints, or
+   discuss the issue on the talk page. (May 2014)
+
+   Public policy responses addressing causes and effects of income
+   inequality include: progressive tax incidence adjustments,
+   strengthening social safety net provisions such as Aid to Families with
+   Dependent Children, welfare, the food stamp program, Social Security,
+   Medicare, and Medicaid, increasing and reforming higher education
+   subsidies, increasing infrastructure spending, and placing limits on
+   and taxing rent-seeking.^[327]
+
+Public spending and welfare state spending[edit]
+
+   The OECD asserts that public spending is vital in reducing the ever
+   expanding wealth gap.^[85]
+
+   Lane Kenworthy advocates incremental reforms to the U.S. welfare state
+   in the direction of the Nordic social democratic model, thereby
+   increasing economic security and equal opportunity.^[328] Currently,
+   the U.S. has the weakest social safety net of all developed
+   nations.^[329]^[330]
+
+Taxes on the wealthy[edit]
+
+   CBO reported that less progressive tax and transfer policies
+   contributed to an increase in after-tax income inequality between 1979
+   and 2007.^[93] This indicates that more progressive income tax policies
+   (e.g., higher income taxes on the wealthy and a higher earned-income
+   tax credit) would reduce after-tax income inequality.
+
+   The economists Emmanuel Saez and Thomas Piketty recommend much higher
+   top marginal tax rates on the wealthy, up to 50 percent, or 70 percent
+   or even 90 percent.^[331] Ralph Nader, Jeffrey Sachs, the United Front
+   Against Austerity, among others, call for a financial transactions tax
+   (also known as the Robin Hood tax) to bolster the social safety net and
+   the public sector.^[332]^[333]^[334]
+
+   The Pew Center reported in January 2014 that 54% of Americans supported
+   raising taxes on the wealthy and corporations to expand aid to the
+   poor. By party, 29% of Republicans and 75% of Democrats supported this
+   action.^[323]
+
+Minimum wages[edit]
+
+   Main article: Minimum wage in the United States
+
+   In his 2013 State of the Union address, Barack Obama proposed raising
+   the federal minimum wage. The progressive economic think tank the
+   Economic Policy Institute agrees with this position, stating: "Raising
+   the minimum wage would help reverse the ongoing erosion of wages that
+   has contributed significantly to growing income inequality."^[335] In
+   response to the fast-food worker strikes of 2013, Labor Secretary
+   Thomas Perez said that it was another sign of the need to raise the
+   minimum wage for all workers: "It's important to hear that voice... For
+   all too many people working minimum wage jobs, the rungs on the ladder
+   of opportunity are feeling further and further apart."^[336]
+
+   The Economist wrote in December 2013: "A minimum wage, providing it is
+   not set too high, could thus boost pay with no ill effects on
+   jobs....America's federal minimum wage, at 38% of median income, is one
+   of the rich world's lowest. Some studies find no harm to employment
+   from federal of state minimum wages, others see a small one, but none
+   finds any serious damage."^[337]
+
+   The U.S. minimum wage was last raised to $7.25 per hour in July
+   2009.^[338] As of December 2013, there were 21 states with minimum
+   wages above the Federal minimum, with the State of Washington the
+   highest at $9.32. Ten states index their minimum wage to
+   inflation.^[339]
+
+   The Pew Center reported in January 2014 that 73% of Americans supported
+   raising the minimum wage from $7.25 to $10.10 per hour. By party, 53%
+   of Republicans and 90% of Democrats favored this action.^[323] Also in
+   January 2014, six hundred economists sent the President and Congress a
+   letter urging for a minimum wage hike to $10.10 an hour by 2016.^[340]
+
+Maximum wage implementation[edit]
+
+   Amalgamated Transit Union international president Lawrence J. Hanley
+   has called for a maximum wage law, which "would limit the amount of
+   compensation an employer could receive to a specified multiple of the
+   wage earned by his or her lowest paid employees."^[341] CEO pay at the
+   largest 350 U.S. companies was 20 times the average worker pay in 1965;
+   58 times in 1989 and 273 times in 2012.^[342]
+
+Subsidies and income guarantees[edit]
+
+   Others argue for a Basic income guarantee, ranging from civil rights
+   leader Martin Luther King, Jr.^[343] to libertarians such as Milton
+   Friedman (in the form of negative income tax),^[344] Robert Anton
+   Wilson,^[345] Gary Johnson (In the form of the fair tax "prebate") and
+   Charles Murray^[346] to the Green Party.^[347]
+
+Rent-seeking limits[edit]
+
+   General limitations on and taxation of rent-seeking is popular with
+   large segments of both Republicans and Democrats.^[348]
+
+Economic democracy[edit]
+
+   The economists Richard D. Wolff and Gar Alperovitz claim that greater
+   economic equality could be achieved by extending democracy into the
+   economic sphere.^[349]^[350] In an essay for Harper's Magazine,
+   investigative journalist Erik Reece argues that "With the political
+   right entrenched in its opposition to unions, worker-owned cooperatives
+   represent a less divisive yet more radical model for returning wealth
+   to the workers who earned it."^[351]
+
+See also[edit]
+
+     * American Dream
+     * Economic inequality
+     * Economic mobility
+     * Economy of the United States
+     * Educational attainment in the United States
+     * High-net-worth individual
+     * Homelessness in the United States
+     * Inequality for All – 2013 documentary film presented by Robert
+       Reich
+     * Income inequality metrics
+          + Atkinson index
+          + Gini coefficient
+          + Hoover index
+          + Pareto distribution#Applications
+          + Theil index
+     * Legatum Prosperity Index
+     * List of countries by income equality
+     * List of countries by inequality-adjusted HDI
+     * Median income per household member
+     * Racial inequality in the United States
+     * Racism in the United States
+     * Second Bill of Rights
+     * Socio-economic mobility in the United States
+     * The Divide: American Injustice in the Age of the Wealth Gap – book
+     * The Spirit Level: Why More Equal Societies Almost Always Do Better
+       – book
+     * Social justice
+     * Tax policy and economic inequality in the United States
+
+References[edit]
+
+    1. ^ "US Census Bureau. (2001). Historical Income Tables – Income
+       Equality.". Archived from the original on February 8, 2007.
+       Retrieved June 20, 2007.
+    2. ^ "Weinberg, D. H. (June 1996). A Brief Look At Postwar U.S. Income
+       Inequality. US Census Bureau." (PDF). Retrieved June 20, 2007.
+    3. ^ "Burtless, G. (January 11, 200). Has U.S. Income Inequality
+       Really Increased?. The Brookings Institute.". Retrieved June 20,
+       2007.
+    4. ^ ^a ^b "Johnston, D. (March 29, 2007). Income Gap Is Widening,
+       Data Shows. The New York Times". March 29, 2007. Retrieved June 20,
+       2007.
+    5. ^ "Shaprio, E. (October 17, 2005). New IRS Data Show Income
+       Inequality Is Again of The Rise. Center on Budget and Policy
+       Priorities". Retrieved June 20, 2007.
+    6. ^ Rugaber, Christopher S.; Boak, Josh (January 27, 2014). "Wealth
+       gap: A guide to what it is, why it matters". AP News. Retrieved
+       January 27, 2014.
+    7. ^ ^a ^b ^c Gilbert, Dennis (2002). American Class Structure in an
+       Age of Growing Inequality. Wadsworth.
+    8. ^ Beeghley, Leonard (2004). The Structure of Social Stratification
+       in the United States. Boston, MD: Pearson, Allyn & Bacpn.
+    9. ^ Piketty, Thomas (2014). Capital in the Twenty-First Century.
+       Belknap Press. ISBN 067443000X "The Explosion of US Inequality
+       after 1980": pp. 294–96.
+   10. ^ ^a ^b ^c Weeks, J. (2007). Inequality Trends in Some Developed
+       OECD countries. In J. K. S. & J. Baudot (Ed.), Flat World, Big Gaps
+       (159–174). New York: ZED Books (published in association with the
+       United Nations).
+   11. ^ ^a ^b ^c ^d Income distribution and poverty – OECD. OECD
+   12. ^ "Can Domestic Policy Affect Income Distribution?" by Timothy
+       Noah, The New Republic (March 13, 2012)
+          + "Among the industrial democracies where income inequality is
+            increasing, it's much worse in the United States than it is
+            almost anywhere else. Among 34 nations recently surveyed by
+            the OECD, the United States got beat only by Turkey, Mexico,
+            and Chile. That's as measured by the Gini coefficient, and
+            including taxes and government transfer payments." Note:
+            inequality is higher in less economically developed countries
+            such as Turkey, Mexico, Chile, which are also members of the
+            OECD
+   13. ^ Maxwell Strachan (May 1, 2014). The U.S. Is Even More Unequal
+       Than You Realized. The Huffington Post. Retrieved May 1, 2014.
+   14. ^ ^a ^b Daniel H. Cooper, Byron F. Lutz, and Michael G. Palumbo
+       (September 22, 2011). "Quantifying the Role of Federal and State
+       Taxes in Mitigating Income Inequality". Federal Reserve, Boston,
+       United States.
+   15. ^ Yen, Hope (December 15, 2011). "U.S. Poverty: Census Finds Nearly
+       Half Of Americans Are Poor Or Low-Income". The Huffington Post.
+       Retrieved August 28, 2014.
+   16. ^ Wachtel, Katya (April 4, 2011). "The Top 25 Hedge Fund Earners In
+       2010". Business Insider. Retrieved August 28, 2014.
+   17. ^ "The United States of Inequality Entry 8: The Stinking Rich and
+       the Great Divergence," by Timothy Noah, Slate.com (September 14,
+       2010)
+   18. ^ ^a ^b ^c ^d ^e ^f Congressional Budget Office: Trends in the
+       Distribution of Household Income Between 1979 and 2007. October
+       2011.
+   19. ^ "More Bad News For The Middle Class," by Timothy Noah, The New
+       Republic (September 12, 2012)
+   20. ^ Stiglitz, J.E. (June 14, 2012) "We’ve been brainwashed" Salon
+   21. ^ ^a ^b Wiseman, Paul (September 10, 2013). "Richest 1 percent earn
+       biggest share since '20s". AP News. Retrieved September 10, 2013.
+   22. ^ Tcherneva, Pavlina R. (August 2014). "This Chart Shows Just How
+       (Un)Equal Things Are During A ‘Champion’ Of The 99%’s
+       Administration". Independent Journal Review. Retrieved 13 September
+       2014.
+   23. ^ Binyamin, Appelbaum (September 4, 2014). "Fed Says Growth Lifts
+       the Affluent, Leaving Behind Everyone Else". New York Times.
+       Retrieved 13 September 2014.
+   24. ^ Chokshi, Niraj (August 11, 2014). "Income inequality seems to be
+       rising in more than 2 in 3 metro areas". Washington Post. Retrieved
+       13 September 2014.
+   25. ^ ^a ^b ^c Krugman, Paul. "The Rich, the Right, and the Facts:
+       Deconstructing the Income Distribution Debate"prospect.org,
+       December 19, 2001
+   26. ^ ^a ^b "CIA. (June 14, 2007). United States: Economy. World
+       Factbook.". Retrieved June 20, 2007.
+   27. ^ ^a ^b ^c Here is the source for the "Great Gatsby Curve" in the
+       Alan Krueger speech at the Center for American Progress on January
+       12
+   28. ^ ^a ^b ^c ^d ^e ^f ^g ^h "White House: Here's Why You Have To Care
+       About Inequality," by Timothy Noah, The New Republic (January 13,
+       2012)
+   29. ^ ^a ^b Vasia Panousi; Ivan Vidangos; Shanti Ramnath; Jason
+       DeBacker; Bradley Heim (Spring 2013). "Inequality Rising and
+       Permanent Over Past Two Decades". Brookings Papers on Economic
+       Activity. Brookings Institution. Retrieved March 23, 2013.
+   30. ^
+       http://www.pbs.org/newshour/bb/business-july-dec11-makingsense_10-2
+       6/
+   31. ^ Jonathan Hopkin, Victor Lapuente and Lovisa Moller (January 25,
+       2014). Lower levels of inequality are linked with greater
+       innovation in economies. London School of Economics. Retrieved July
+       17, 2014.
+   32. ^ John Christoffersen (October 15, 2013).Robert Shiller: Income
+       Inequality Is 'Most Important Problem'. The Huffington Post.
+       Retrieved October 16, 2013.
+   33. ^ Obama says income inequality is defining challenge for U.S. PBS
+       NewsHour. December 4, 2013. Retrieved December 26, 2013).
+   34. ^ Piketty, T.; Saez, E. (2003). "Income Inequality in the United
+       States, 1913-1998". The Quarterly Journal of Economics 118: 1.
+       doi:10.1162/00335530360535135.  edit
+   35. ^ "Saez, E. (October, 2007). Table A1: Top fractiles income shares
+       (excluding capital gains) in the U.S., 1913–2005.". Retrieved
+       January 17, 2008.
+   36. ^ Krugman, Paul (2007). The Conscience of a Liberal. New York: W.
+       W. Norton. p.5
+   37. ^ ^a ^b Noah, Timothy. "The United States of Inequality". Slate.
+       Retrieved March 20, 2011.
+   38. ^ ^a ^b Joseph E. Stiglitz (May 2011). Of the 1%, by the 1%, for
+       the 1%. Vanity Fair. Retrieved August 1, 2013.
+   39. ^ ^a ^b "Bartles, L. M. (February, 2004). Partisan Politics and the
+       U.S. Income Distribution. Woodrow Wilson School of Public and
+       International Affairs" (PDF). Retrieved June 20, 2007.
+   40. ^ Paul Krugman, The Conscience of a Liberal, pp. 47–52
+   41. ^ "Johnston, D. (June 5, 2005). Richest Are Leaving Even the
+       Richest Far Behind. The New York Times". Retrieved June 20, 2007.
+   42. ^ immigration restrictions of the Immigration Act of 1924
+   43. ^ Paul Krugman, The Conscience of a Liberal, p. 49
+   44. ^ "According to a wide range of scholarly research, unions have two
+       main effects relevant to the Great Compression." Paul Krugman, The
+       Conscience of a Liberal, p. 51
+   45. ^ Paul Krugman, The Conscience of a Liberal, pp. 52, 64, 66
+   46. ^ Productivity growth closely matched that of median family income
+       until the late 1970s when median American family income stagnated
+       while productivity continued to climb. Chart comparing productivity
+       growth and real median family income growth in the United States
+       from 1947–2009. Source: EPI Authors' analysis of Current Population
+       Survey Annual Social and Economic Supplement Historical Income
+       Tables, (Table F–5) and Bureau of Labor Statistics Productivity –
+       Major Sector Productivity and Costs Database (2012)
+   47. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p.x
+   48. ^ Saez & Piketty, "How Progressive is the U.S. Federal Tax System?
+       A Historical and International Perspective".
+   49. ^ ^a ^b ^c Congressional Budget Office: Trends in the Distribution
+       of Household Income Between 1979 and 2007. October 2011. p. xi
+   50. ^ 33% increase in gini index rating
+   51. ^ ^a ^b Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p.20 and
+       figure 12. "Between 1979 and 2007, the Gini index for market income
+       increased by 23 percent, the index for market income after
+       transfers increased by 29 percent, and the index for income
+       measured after transfers and federal taxes increased by 33
+       percent."
+   52. ^ ^a ^b ^c Paul Ryan: Inequality, Take Two, Timothy Noah, The New
+       Republic, November 18, 2011
+   53. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. pp. 12–13 and
+       table 1
+   54. ^ ^a ^b "Wall Street Bolshevism, Part 3," by Timothy Noah, The New
+       Republic (October 5, 2011)
+   55. ^ ^a ^b "Aron-Dine, A. & Sherman, A. (January 23, 2007). New CBO
+       Data Show Income Inequality Continues to Widen: After-tax-income
+       for Top 1 Percent Rose by $146,000 in 2004.". Retrieved November
+       24, 2007.
+   56. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p. ix
+   57. ^ (payments from Social Security, unemployment insurance, SSI
+       (Supplemental Security Income), AFDC, veterans benefits, etc., and
+       in-kind benefits such as food stamps and housing assistance
+   58. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. pp. iii, ix
+   59. ^ "Trends in the Distribution of House Income Between 1979 and
+       2007". Journalist's Resource.org.
+   60. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. see pp. ix–x,
+       with definitions on ii–iii, and pp. 10–12
+   61. ^ ^a ^b ^c "Yellen, J. L. (November 6, 2006). Speech to the Center
+       for the Study of Democracy at the University of California, Irvine.
+       Federal Reserve Bank of San Francisco.". Retrieved June 20, 2007.
+   62. ^ ^a ^b Smeeding, T. (2005). Public policy, economic inequality,
+       and poverty: The United States in comparative perspective. Social
+       Science Quarterly, 86, 956–983.
+   63. ^ "US Census Bureau. (2005). Historical Income Tables – Income
+       Equality." (PDF). Archived from the original on June 26, 2007.
+       Retrieved June 20, 2007.
+   64. ^ "US Census Bureau. (2006). Measures of Individual Earnings
+       Inequality for Full-Time, Year-Round Workers by Sex: 1967 to
+       2005.". Archived from the original on June 17, 2007. Retrieved June
+       21, 2007.
+   65. ^ a gini index increase of 15% as opposed to CBO's increase in gini
+       index of 33% (cbo "Trends in Distribution" study p. 7)
+   66. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. pp. 6–7
+   67. ^ A 2010 census study showed the top 20 percent of Americans earned
+       49.4% of the nation’s income, compared with the 3.4% earned by
+       Americans living below the poverty line (roughly 15 percent of the
+       population). This earnings ratio of 14.5 to 1 was an increase from
+       the 13.6 to 1 ratio just two years earlier, and a significant rise
+       from the historic low of 7.69 to 1 in 1968
+   68. ^ "Associated Press. (September 28, 2010).". Retrieved March 20,
+       2011.
+   69. ^ Income and poverty since 1967, US Census Bureau
+   70. ^ Table 2.9 of World Development Indicators: Distribution of income
+       or consumption The World Bank (2014)
+   71. ^ Cathrine Dodge; Mike Dorning (September 12, 2012). "Rich-Poor Gap
+       Widens to Most Since 1967 as Income Falls". Bloomberg. Retrieved
+       November 6, 2012.
+   72. ^ written in a clients-only July 2011 JPMorgan Chase newsletter
+       obtained by Washington Post columnist Harold Meyerson An economic
+       recovery that leaves workers further behind, April 10, 2012
+   73. ^ Brooks Brothers Bolshevism Timothy Noah, The New Republic,
+       September 14, 2011
+   74. ^ It's the Inequality, Stupid By Dave Gilson and Carolyn Perot in
+       Mother Jones, March/April 2011 Issue
+   75. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. Fig 2 & 3, p.
+       45.
+   76. ^ Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel
+       Saez (2013). The Top 1 Percent in International and Historical
+       Perspective. Journal of Economic Perspectives. Retrieved August 16,
+       2013.
+   77. ^ Lawrence Mishel and Heidi Shierholz (August 21, 2013). A Decade
+       of Flat Wages. Economic Policy Institute. Retrieved August 23,
+       2013.
+   78. ^ "The Distribution of Household Income and Federal Taxes, 2008 and
+       2009". Congressional Budget Office, US Government. July 2012.
+   79. ^ "Surveying the Aftermath of the Storm: Changes in Family Finances
+       from 2007 to 2009". Finance and Economics Discussion Series
+       Divisions of Research & Statistics and Monetary Affairs. Federal
+       Reserve Board, Washington, D.C. p. 16.
+   80. ^ Emmanuel Saez (March 2012). "Striking it Richer: The Evolution of
+       Top Incomes in the United States".
+   81. ^ "Income Inequality From Generation To Generation" by Robert
+       Lenzner, Forbes (March 26, 2012)
+   82. ^ Jobs and Income Growth of Top Earners and the Causes of Changing
+       Income Inequality: Evidence from U.S. Tax Return Data. Jon Bakija,
+       Adam Cole, Bradley T. Heim. November 2010
+   83. ^ The Top 1 Percent – What Jobs Do They Have?. New York Times
+       January 14, 2012
+   84. ^ Among the Wealthiest 1 Percent, Many Variations. The New York
+       Times. January 14, 2012
+   85. ^ ^a ^b Wealth Gap Widens In Rich Countries As Austerity Threatens
+       To Worsen Inequality: OECD. The Huffington Post. Retrieved May 14,
+       2013
+   86. ^ "The Impact of the Upward Redistribution of Wage Income on Social
+       Security Solvency" Center for Economic and Policy Research,
+       February 12, 2013
+   87. ^ Josh Harkinson (September 13, 2013). Chart: Washington Gridlock
+       Linked to Income Inequality. Mother Jones. Retrieved September 16,
+       2013.
+   88. ^ Chris Gentilviso (August 21, 2013). Senate Represents The Wealthy
+       First: Study. The Huffington Post. Retrieved September 18, 2013.
+   89. ^ David Leonhardt and Kevin Quealy (April 22, 2014). The American
+       Middle Class Is No Longer the World’s Richest. The New York Times.
+       Retrieved April 30, 2014.
+   90. ^ ki Ito, Ian Katz and Ilan Kolet (19 August 2014). Only Rich Know
+       Wage Gains With No Raises for U.S Workers. Bloomberg. Retrieved 23
+       August 2014.
+   91. ^ ^a ^b ^c ^d ^e ^f "Stoops, N. (June, 2004). Educational
+       Attainment in the United States: 2003. US Census Bureau." (PDF).
+       Retrieved June 21, 2007.
+   92. ^ ^a ^b ^c ^d "US Census Bureau. (2006). Selected Characteristics
+       of Households, by Total Money Income in 2005.". Retrieved June 21,
+       2007.
+   93. ^ ^a ^b ^c CBO-Trends in the Distribution of Household Income
+       Between 1979 and 2008, p. 20
+   94. ^ John Cassidy-New Yorker-American Inequality in Six
+       Charts-November 2013
+   95. ^ "Datta, B., & Meerman, J. (December 18, 1980). Household Income
+       or Household Income Per Capita in Welfare Comparisons. Review of
+       Income and Wealth 26 (4), 401–418.". Retrieved June 20, 2007.
+   96. ^ Consumption and the Myths of Inequality, K. Hassett and A.
+       Mathur, Wall Street Journal, October 24, 2012
+   97. ^ ^a ^b "Reynolds, A. (January 8, 2007). Has U.S. Income Inequality
+       Really Increased?. Cato Institute." (PDF). Retrieved June 20,
+       2007.
+   98. ^ ^a ^b "Rector, R., & Herderman Jr., R. (August 24, 2004). Two
+       Americas, One Rich, One Poor? Understanding Income Inequality In
+       the United States. Heritage Foundation.". Retrieved June 20, 2007.
+   99. ^ Rakesh Kochhar and D’Vera Cohn (October 3, 2011) "Fighting
+       Poverty in a Bad Economy, Americans Move in with Relatives" Pew
+       Research Center
+   100. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p. 2
+   101. ^ ^a ^b Thomas A. Garrett. U.S. Income Inequality: It’s Not So
+       Bad. Inside the Vault. Spring 2010. Federal Reserve Bank of St.
+       Louis. http://www.stlouisfed.org/publications/itv/articles/?id=1920
+   102. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p. 4
+   103. ^ ^a ^b ^c ^d "Conservative Inequality Denialism," by Timothy Noah
+       The New Republic (October 25, 2012)
+   104. ^ Schiller, Bradely (2003). The Economy Today: Ninth Edition. New
+       York, NY: McGraw-Hill.
+   105. ^ ^a ^b "Income distribution – Inequality  : Income distribution –
+       Inequality – Country tables". OECD. 2012. ^[dead link]
+   106. ^ N. C. Kakwani (April 1977). "Applications of Lorenz Curves in
+       Economic Analysis". Econometrica 45 (3): 719–28.
+       doi:10.2307/1911684. JSTOR 1911684.
+   107. ^ Chu, Davoodi, Gupta (March 2000). "Income Distribution and Tax
+       and Government Social Spending Policies in Developing Countries".
+       International Monetary Fund.
+   108. ^ Chen Wang, Koen Caminada, and Kees Goudswaard (July–September
+       2012). "The redistributive effect of social transfer programmes and
+       taxes: A decomposition across countries". International Social
+       Security Review 65 (3): 27–48.
+       doi:10.1111/j.1468-246X.2012.01435.x.
+   109. ^ Salvatore Babones (February 14, 2012). U.S. Income Distribution:
+       Just How Unequal? inequality.org, Institute for Policy Studies.
+       Retrieved September 7, 2013.
+   110. ^ ^a ^b Adam Bee (February 2012). "Household Income Inequality
+       Within U.S. Counties: 2006–2010". Census Bureau, U.S. Department of
+       Commerce.
+   111. ^ "Income, Poverty and Health Insurance Coverage in the United
+       States: 2009". Newsroom. United States Census Bureau.
+   112. ^ ^a ^b "CIA. (June 14, 2007). Field Listing – Distribution of
+       family income – Gini index. Factbook". Retrieved June 20, 2007.
+   113. ^ Growing Unequal? Income distribution and poverty in OECD
+       countries (summary) OECD (2008)
+   114. ^ Organization for Economic Cooperation and Development, Growing
+       Unequal? Income Distribution and Poverty in OECD Countries (2008)
+   115. ^ EurLIFE – Gini index. Eurofound
+   116. ^ ^a ^b ^c ^d The Great Divergence By Timothy Noah
+   117. ^ "The Real Wealth of Nations: Pathways to Human Development (2010
+       Human Development Report – see Stat Tables)". United Nations
+       Development Program. 2011. pp. 152–56.
+   118. ^ "United Nations Development Programme. (2006). Human Development
+       Report 2006: Beyond Scarcity: Power, Poverty and the Global Water
+       Crisis.". Retrieved June 20, 2007.
+   119. ^ "The World Factbook. Country Comparison :: Distribution of
+       family income – Gini index". CIA World Factbook.
+   120. ^ Based on Income distribution – Inequality – OECD Stats, Chile
+       (.526) Germany (.504) Israel (.498) Italy (.534) Mexico (.494)
+       Portugal (.521) Turkey (.409), have higher gini index than the US
+       (.486) for the "late 2000s" before taxes and transfers.
+   121. ^ Based on Income distribution – Inequality – OECD Stats, only
+       Chile (.494) Mexico (.476) and Turkey (.409) have higher gini index
+       than the US (.378) after taxes and transfers for the "late 2000s".
+   122. ^ "Inequality and taxes: Equality doesn't always mean
+       redistribution" The Economist
+   123. ^ For example, Ingvar Kamprad's family is one of the richest in
+       the world (by some accounts with wealth between 50 and 90 billion
+       U.S. dollars. but because of offshore arrangements the family's
+       wealth and income never shows up in Swedish statistics. (see:
+       "Who's really the world's richest?" CNNMoney.com, April 6, 2004)
+   124. ^ Peter Baldwin (2009). The narcissism of minor differences: how
+       America and Europe are alike. Oxford University Press. ISBN
+       978-0-19-539120-6
+   125. ^ Tax evasion is a national pastime afflicting southern Europe.
+       CNN. November 2, 2011
+   126. ^ Low-Income Italians Own An Awful Lot Of Supercars, Private Jets
+       And Yachts. Business Insider. January 12, 2012
+   127. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p. 13
+   128. ^ Inequality in America. The rich, the poor and the growing gap
+       between them June 15, 2006
+   129. ^ ^a ^b ^c ^d ^e ^f Krugman, Paul (October 20, 2002). "For
+       Richer". The New York Times.
+   130. ^ the superstar hypothesis was coined by the Chicago economist
+       Sherwin Rosen) used the example of the passing of the hundreds of
+       comedians that made a modest living at live shows in the borscht
+       belt and other places in bygone days that have been replaced by a
+       handful of superstar TV comedians.
+   131. ^ estimate by economist George Borjas, quoted in Conscience of a
+       Liberal, p. 34
+   132. ^ ^a ^b Furceri, D.; Loungani, P. (February 13, 2014). "Who let
+       the Gini out? Searching for sources of inequality". VOXEU.
+       Retrieved February 13, 2014.
+   133. ^ Hacker, Jacob S. Winner-Take-All Politics, (Simon & Schuster,
+       2010), pp. 62–4, 246
+   134. ^ "The United States of Inequality: Did the post-1965 immigration
+       surge cause the Great Divergence?" by Timothy Noah (September 7,
+       2010)
+   135. ^ "American politics, Democracy in America: Winner-Take-All
+       Politics. It's a pretty good book." The Economist (September 21,
+       2010)
+   136. ^ Winner-Take-All Politics, p. 39, Figure 3
+   137. ^ ^a ^b Bartels, L. M. (2008). Unequal democracy: The political
+       economy of the new gilded age. Princeton, NJ: Princeton University
+       Press.
+   138. ^ Krugman, P. (2007). The conscience of a liberal. New York: W. W.
+       Norton.
+   139. ^ ^a ^b "US Census Bureau. (2006). People 18 Years Old and Over,
+       by Total Money Earnings in 2005, Age, Race, Hispanic Origin, and
+       Sex.". Retrieved June 22, 2007.
+   140. ^ ^a ^b Schaeffer, Richard (2005). Racial and Ethnic Groups. New
+       York, NY: Prentice Hall. 013192897X.
+   141. ^ Lukas, Carrie (April 3, 2007). "A Bargain At 77 Cents To a
+       Dollar". The Washington Post. Retrieved May 5, 2010.
+   142. ^ The Truth About the Pay Gap: Feminist politics and bad economics
+       – Reason Magazine
+   143. ^ "US Census Bureau 2005 Economic survey, racial income
+       distribution". Retrieved June 29, 2006.
+   144. ^ Hine, Darlene; William C. Hine; Stanley Harrold (2006). The
+       African American Odyssey. Boston, MA: Pearson. 0-12-182217-3.
+   145. ^ "People 18 Years Old and Over, by Total Money Income in 2005,
+       Work Experience in 2005, Age, Race, Hispanic Origin, and Sex.".
+       Retrieved June 22, 2007.
+   146. ^ Asian-American Parenting and Academic Success. Miller-McCune.
+       December 13, 2010
+   147. ^ U.S. Bureau of Labor Statistics. Highlights of Women’s Earnings
+       in 2009. Report 1025, June 2010.
+   148. ^ ^a ^b "US Census Bureau. (2006). People by Median Income and
+       Sex: 1953 to 2005.". Archived from the original on November 2,
+       2007. Retrieved June 22, 2007.
+   149. ^ Historical summary of faculty, students, degrees, and finances
+       in degree-granting institutions: Selected years, 1869–70 through
+       2005–06
+   150. ^ Degrees conferred by degree-granting institutions, by level of
+       degree and sex of student: Selected years, 1869–70 through 2016–17
+   151. ^ "DeNavas, C., Proctor, B. D., Mills, R. J. (August 2004).
+       Income, Poverty, Health Insurance Coverage in the United States:
+       2003". Retrieved June 20, 2007.
+   152. ^ "US Census Bureau. (2006). Income distribution among Asian
+       males, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   153. ^ ^a ^b "US Census Bureau. (2006). Income distribution among
+       Hispanic females, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   154. ^ ^a ^b "US Census Bureau. (2006). Personal income distribution
+       among Asian males, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   155. ^ Federal Reserve Bank of Dallas, Trends in Poverty and Inequality
+       among Hispanics, June 2011
+   156. ^ "US Census Bureau. (2006). People (Both Sexes Combined – All
+       Races) by Median and Mean Income: 1974 to 2005.". Retrieved June
+       23, 2007.
+   157. ^ US Bureau of Census, 2006
+   158. ^ "US Census Bureau. (2006). Personal income distribution for
+       white males, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   159. ^ "US Census Bureau. (2006). Personal income distribution for
+       white females, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   160. ^ "US Census Bureau. (2006). Personal income distribution for
+       whites, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   161. ^ ^a ^b "US Census Bureau. (2006). Personal income distribution
+       for Black males, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   162. ^ "US Census Bureau. (2006). Personal income distribution for
+       Blacks, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   163. ^ "US Census Bureau. (2006). Personal income distribution for
+       Asian females, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   164. ^ "US Census Bureau. (2006). Personal income distribution for
+       Asians, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   165. ^ "US Census Bureau. (2006). Personal income distribution for
+       Hispanic males, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   166. ^ "US Census Bureau. (2006). Personal income distribution for
+       Hispanic females, age 25+ according to educational attainment.".
+       Retrieved June 22, 2007.
+   167. ^ "US Census Bureau. (2006). Personal income distribution for
+       Hispanics, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   168. ^ "US Census Bureau. (2006). Personal income distribution for
+       males, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   169. ^ "US Census Bureau. (2006). Personal income distribution for
+       females, age 25+ according to educational attainment.". Retrieved
+       June 22, 2007.
+   170. ^ ^a ^b ^c ^d "US Census Bureau. (2006). Personal income and
+       educational attainment". Retrieved September 24, 2006.
+   171. ^ ^a ^b "US Census Bureau. (2006). Educational attainment and
+       median household income". Retrieved September 24, 2006.
+   172. ^ ^a ^b Levine, Rhonda (1998). Social Class and Stratification.
+       Lanham, MD: Rowman & Littlefield. 0-8476-8543-8.
+   173. ^ Zweig, M. (2004). The What's Class Got To Do With It? Ithica,
+       NY: Cornell University Press.
+   174. ^ ^a ^b ^c "US Census Bureau. (2006). Household income quintiles
+       and top 5%.". Retrieved June 20, 2007.
+   175. ^ Nichole Stoops, US Census Bureau, August 2004
+   176. ^ Hart, Betty; Todd Risley (1995). The Early Catastrophe. American
+       Federation of Teachers. ISSN 0148-432X.
+   177. ^ Creaser, Richard (January 22, 2014). "NECAP scores can
+       illustrate achievement gap". The Chronicle (Barton, Vermont).
+       pp. 1A, 22A–24A.
+   178. ^ Jacob S. Hacker and Paul Pierson (2011) Winner-Take-All
+       Politics: How Washington made the rich richer – and turned its back
+       on the middle class.
+   179. ^ Dictionary of economics online
+   180. ^ Economic Report of the President 1997 mentions "colloquium on
+       this topic at the Federal Reserve Bank of New York" (1995?)
+   181. ^ Experts' Consensus on Earnings Inequality. Economic Report of
+       the President 1997
+   182. ^ ^a ^b "New York Times. (June 7, 2007). The Rewards of
+       Education". The New York Times. June 9, 2007. Retrieved June 22,
+       2007.
+   183. ^ CNN-Travis Waldon-Only Advanced Degree Holders Saw Wage Gains in
+       the Past Decade
+   184. ^ Bernstein, Jared (November 18, 2013). "Inequality’s Roots:
+       Beyond Technology". New York Times. Retrieved November 22, 2013.
+   185. ^ ^a ^b "The United States of Inequality, Entry 4: Did Computers
+       Create Inequality?" by Timothy Noah, Slate (September 8, 2010)
+   186. ^ ^a ^b ^c ^d ^e ^f ^g "The United States of Inequality. Entry 9:
+       How the Decline in K-12 Education Enriches College Graduates," by
+       Timothy Noah, Slate.com (September 15, 2010)
+   187. ^ Economic Mobility: Is the American Dream Alive and Well?^[dead
+       link] Isabel Sawhill & John E. Morton. February 21, 2007. Economic
+       Mobility Project, Washington, D.C.. December 4, 2007.
+   188. ^ Thompson, William; Joseph Hickey (2005). Society in Focus.
+       Boston, MA: Pearson.
+   189. ^ Webster (4b): increasing in rate as the base increases (a
+       progressive tax)
+   190. ^ American Heritage (6). Increasing in rate as the taxable amount
+       increases.
+   191. ^ Britannica Concise Encyclopedia: Tax levied at a rate that
+       increases as the quantity subject to taxation increases.
+   192. ^ Princeton University WordNet: (n) progressive tax (any tax in
+       which the rate increases as the amount subject to taxation
+       increases)
+   193. ^ Sommerfeld, Ray M., Silvia A. Madeo, Kenneth E. Anderson, Betty
+       R. Jackson (1992), Concepts of Taxation, Dryden Press: Fort Worth,
+       TX
+   194. ^ Income inequality in the United States, p. 104, at Google Books
+       OECD Publishing, ISBN 978-92-64-04418-0, 2008, pp. 103, 104.
+   195. ^ ^a ^b "The Distribution of Household Income and Federal Taxes,
+       2010". The US Congressional Budget Office (CBO). December 4, 2013.
+       Retrieved January 6, 2014.
+   196. ^ ^a ^b ^c ^d ^e Noah, Timothy. "Can We Blame Income Inequality on
+       Republicans" in the multi-part series "The United States of
+       Inequality." Slate, September 9, 2010.
+   197. ^ "New CBO Data Show Income Inequality Continues to Widen
+       After-Tax-Income for Top 1 Percent Rose by $146,000 in 2004," by
+       Aviva Aron-Dine and Arloc Sherman, Center on Budget and Policy
+       Priorities (January 23, 2007)
+   198. ^ How Progressive is the U.S. Federal Tax System? A Historical and
+       International Perspective Thomas Piketty and Emmanuel Saez, p. 23
+   199. ^ Lowrey, Annie (January 4, 2013). "Tax Code May Be the Most
+       Progressive Since 1979". The New York Times. Retrieved January 6,
+       2014.
+   200. ^ Silliman, B. R. (2008). Will the next president reform the tax
+       code? A historical examination. The CPA Journal, 78(11), 23–7.
+       Retrieved from http://search.proquest.com
+   201. ^ "How Progressive is the U.S. Federal Tax System? A Historical
+       and International Perspective"
+   202. ^ "What Do Tax Rates' Ups and Downs Mean for Economic Growth?" PBS
+       NewsHour (Dec. 12, 2011.) Retrieved on 2013-07-29.
+   203. ^ "The Hidden Entitlements". CTJ.
+   204. ^ Kocieniewski, David (January 18, 2012). "Since 1980s, the
+       Kindest of Tax Cuts for the Rich". New York Times. Retrieved
+       January 21, 2012.
+   205. ^ Dickinson, Tom (November 9, 2011). "How the GOP Became the Party
+       of the Rich". Rolling Stone. Retrieved January 2, 2012.
+   206. ^ ^a ^b ^c Thomas Piketty and Emmanuel Saez, "How Progressive is
+       the U.S. Federal Tax System? A Historical and International
+       Perspective". Journal of Economic Perspectives Volume 21, Number 1
+       – Winter 2007
+   207. ^ "Even after exploiting all possible deductions and credits, the
+       typical high-income taxpayer during the Great Prosperity paid a
+       federal tax of well over 50 percent of his earnings." Clinton
+       Administration Secretary of labor Robert Reich In his book
+       Aftershock: The Next Economy and America's Future
+   208. ^ Krugman, Paul (1995). Peddling Prosperity: Economic Sense and
+       Nonsense in an Age of Diminished Expectations. New York: W. W.
+       Norton & Company. p. 155. ISBN 978-0-393-31292-8. Retrieved
+       2-03-12.  Check date values in: |accessdate= (help)
+   209. ^ "FactChecking Obama’s Budget Speech". FactCheck.org. April 15,
+       2011. Retrieved January 4, 2011.
+   210. ^ Thomas L. Hungerford "Changes in the Distribution of Income
+       Among Tax Filers Between 1996 and 2006: The Role of Labor Income,
+       Capital Income, and Tax Policy." Congressional Research Service,
+       December 29, 2011. http://taxprof.typepad.com/files/crs-1.pdf
+   211. ^ ^a ^b "The United States of Inequality, Entry 7: Trade Didn't
+       Create Inequality, and Then It Did," by Timothy Noah (September 14,
+       2010)
+   212. ^ "Trade and Wages, Reconsidered", by Paul Krugman (February 2008)
+   213. ^ Surowiecki, James (August 12, 2013). "The Pay Is Too Damn Low".
+       The New Yorker.
+   214. ^ Smith, Noah (January 6, 2014.). The Dark Side of Globalization:
+       Why Seattle's 1999 Protesters Were Right. The Atlantic. Retrieved
+       January 10, 2014.
+   215. ^ No Jobs from Trade Pacts: The Trans-Pacific Partnership Could Be
+       Much Worse than the Over-Hyped Korea Deal. Economic Policy
+       Institute. July 18, 2013
+   216. ^ Gains from Trade? The Net Effect of the Trans-Pacific
+       Partnership Agreement on U.S. Wages. Center for Economic and Policy
+       Research. September 2013
+   217. ^ "Tax Rates, Inequality and the 1%", by Alan Reynolds (December
+       6, 2011)
+   218. ^ "Alan Reynolds Vs. Inequality", by Timothy Noah, December 6,
+       2011
+   219. ^ "Intellectual Garbage Collection: The Unreliability of Alan
+       Reynolds"
+   220. ^ Reynolds, Alan. Income and Wealth. Westport, CT: Greenwood,
+       2006. 108. Print.
+   221. ^ Auerbach, Alan J. (2006). "Who Bears the Corporate Tax? A Review
+       of What We Know". Tax Policy and the Economy 20: 1–40.
+       JSTOR 20061903.  edit
+   222. ^ Arthur B. Kennickell, “A Rolling Tide: changes in the
+       Distribution of Wealth in the U.S., 1989–2001” (Federal Reserve
+       Board, September 2003), tables 10 and 11.
+   223. ^ Economic Report of the President (2005), table B-29.
+   224. ^ Archer, Robin (2007). Why Is There No Labor Party in the United
+       States? Princeton University Press. ISBN 0691149348 Income
+       inequality in the United States, p. 1, at Google Books Retrieved
+       November 23, 2013.
+   225. ^ Gordon Lafer (October 31, 2013). The Legislative Attack on
+       American Wages and Labor Standards, 2011–2012. Economic Policy
+       Institute. Retrieved October 31, 2013.
+   226. ^ Kelly, N.J. (2009). The Politics of Income Inequality in the
+       United States. New York: Cambridge University Press.
+   227. ^ Unequal Democracy: The Political Economy of the New Gilded Age
+       by Larry Bartels (Princeton University Press: 2008)
+   228. ^ Income Growth Rates 1948–2005 under Democratic presidents and
+       under Republican presidents. Graphics by Catherine Mulbrandon
+   229. ^ More compensation heading to the very top: 1965–2009. May 16,
+       2011.
+   230. ^ Winner-Take-All Politics, p.7
+   231. ^ Winner-Take-All Politics, pp. 115, 219, 228
+   232. ^ Winner-Take-All Politics, p. 66
+   233. ^ More compensation heading for the very top EPI 2010
+   234. ^ Krugman, Paul, The Conscience of a Liberal, W W Norton &
+       Company, 2007, pp. 143–44
+   235. ^ Income inequality in the United States at Google Books By Lucian
+       Arye Bebchuk, Jesse M. Fried]
+   236. ^ Krugman, The Conscience of a Liberal, 2007, p. 145
+   237. ^ ^a ^b ^c "The Broken Contract", By George Packer, Foreign
+       Affairs, November/December 2011
+   238. ^ "Union Members in 2007", US Bureau of Labor Statistics, January
+       25, 2008
+   239. ^ "Unions and wage inequality", by David Card, Thomas Lemieux and
+       W. Craig Riddell, in Journal of Labor Research, Volume 25, Number
+       4, 519–59, doi:10.1007/s12122-004-1011-z
+   240. ^ ^a ^b ^c ^d The United States of Inequality, Entry 6: The Great
+       Divergence and the death of organized labor. By Timothy Noah,
+       Slate.com, September 12, 2010
+   241. ^ "Unionism and the Dispersion of Wages" by Richard B. Freeman,
+       National Bureau of Economic Research, 1980
+   242. ^ "The Effect of Unions on Wage Inequality in the U.S. Labor
+       Market", by David Card, Industrial and Labor Relations Review, Vol.
+       54, No. 2. (January 2001), pp. 296–315.
+   243. ^ Inequality and Institutions in 20th Century America Frank Levy
+       and Peter Temin] Revised June 27, 2007
+   244. ^ David Madland and Keith Miller (September 17, 2013). Latest
+       Census Data Underscore How Important Unions Are for the Middle
+       Class. Center for American Progress. Retrieved September 18, 2013.
+   245. ^ Tami Luhby (November 8, 2011). Global income inequality: Where
+       the U.S. ranks. CNNMoney Retrieved September 2, 2013.
+   246. ^ ^a ^b Winner-Take-All Politics (book) by Jacob S. Hacker and
+       Paul Pierson p. 75
+   247. ^ ^a ^b "CBO Report Shows Rich Got Richer, As Did Most Americans:
+       View". businessweek.com. October 31, 2011.
+   248. ^ ^a ^b ^c Oligarchy, American Style by Paul Krugman (November 3,
+       2011)
+   249. ^ Christoffersen, John (October 14, 2013). "Rising inequality
+       'most important problem,' says Nobel-winning economist". St. Louis
+       Post-Dispatch. Retrieved October 19, 2013.
+   250. ^ Cassidy, John (March 31, 2014). "Forces of Divergence Is surging
+       inequality endemic to capitalism? (review of Capital in the
+       Twenty-first Century by Thomas Piketty)". New Yorker. Retrieved
+       March 31, 2014.
+   251. ^ Alesina, Alberto; Dani Rodrick (May 1994). "Distributive
+       Politics and Economic Growth". Quarterly Journal of Economics 109
+       (2): 465–90. doi:10.2307/2118470. Retrieved October 17, 2013.
+   252. ^ ^a ^b ^c Castells-Quintana, David; Vicente Royuela (2012).
+       "Unemployment and long-run economic growth: The role of income
+       inequality and urbanisation". Investigaciones Regionales 12 (24):
+       153–73. Retrieved October 17, 2013.
+   253. ^ ^a ^b ^c ^d "The United States of Inequality, Entry 10: Why We
+       Can't Ignore Growing Income Inequality," by Timothy Noah, Slate
+       (September 16, 2010)
+   254. ^ Inequality and crises: coincidence or causation? Paul Krugman
+   255. ^ "Investment Outlook: Six Pac(k)in," PIMCO (October 2011)
+   256. ^ "Wall Street Bolshies Watch," by Timothy Noah, The New Republic
+       (October 3, 2011)
+   257. ^ ^a ^b "Two Americas: One Rich, One Poor? Understanding Income
+       Inequality in the United States," by Rea Hederman, Jr. and Robert
+       Rector, Heritage Foundation (August 24, 2004)
+   258. ^ Sowell, Thomas "Perennial Economic Fallacies", Jewish World
+       Review February 7, 2000, URL accessed November 3, 2011.
+   259. ^ A Look at the Global One Percent By Allan H. Meltzer, Wall
+       Street Journal (March 9, 2012)
+   260. ^ "U.S. Income Inequality: It’s Not So Bad," by Thomas A. Garrett,
+       Federal Reserve Bank of St. Louis (Spring 2010)
+   261. ^ ^a ^b Pigou, Arthur C. (1932). "Part I, Chapter VIII". The
+       Economics of Welfare (4th ed.). London: Macmillan and Co. Retrieved
+       August 11, 2014.
+   262. ^ "Thinking Clearly About Economic Inequality", Will Wilkinson,
+       Cato Institute 2009
+   263. ^ Johnson, Smeeding, Tory, "Economic Inequality" in Monthly Labor
+       review of April 2005, table 3.
+   264. ^ see also "Consumption and the Myths of Inequality", by Kevin
+       Hassett and Aparna Mathur, Wall Street Journal, October 24, 2012
+   265. ^ Edsall, Thomas B. (January 30, 2013). "The Hidden Prosperity of
+       the Poor". New York Times. Retrieved January 2, 2013.
+   266. ^ Attanasio, Orazio; Hurst, Erik; Pistaferri, Luigi (2012). "The
+       Evolution of Income, Consumption, and Leisure Inequality in The US,
+       1980–2010". NBER Working Papers #17982. SSRN 2035781.
+   267. ^ Congressional Budget Office: Trends in the Distribution of
+       Household Income Between 1979 and 2007. October 2011. p. 5
+   268. ^ The Way Forward By Daniel Alpert, Westwood Capital; Robert
+       Hockett, Professor of Law, Cornell University; and Nouriel Roubini,
+       Professor of Economics, New York University, New America
+       Foundation, October 10, 2011
+   269. ^ Plumer, Brad. "‘Trickle-down consumption’: How rising inequality
+       can leave everyone worse off". 27 March 2013. Washington Post.
+       Retrieved March 27, 2013.
+   270. ^ Inequality and crises: coincidence or causation? Paul Krugman
+       (see last chart: Inequality and household debt)
+   271. ^ Vanishing Trials: The Bankruptcy Experience Elizabeth Warren*
+   272. ^ Krugman, Paul, The Conscience of a Liberal, W W Norton &
+       Company, 2007, (pp. 246–7)
+   273. ^ Lo, Andrew W. "Reading About the Financial Crisis: A 21-Book
+       Review". 2012. Journal of Economic Literature . Retrieved November
+       27, 2013.
+   274. ^ Koehn, Nancy F. (July 31, 2010). "A Call to Fix the Fundamentals
+       (Review of Fault Lines: How Hidden Fractures Still Threaten the
+       World Economy by Raghuram G. Rajan)". New York Times. Retrieved
+       November 20, 2013.
+   275. ^ ^a ^b Lynn, Barry C.; Longman, Phillip (March–April 2010). "Who
+       Broke America’s Jobs Machine?". Washington Monthly. Retrieved
+       August 11, 2014.
+   276. ^ Study covers years between 1950 and 2006. Berg, Andrew G.;
+       Ostry, Jonathan D. (2011). "Equality and Efficiency". Finance and
+       Development (International Monetary Fund) 48 (3). Retrieved
+       September 10, 2012.
+   277. ^ Three Cheers for Income Inequality
+   278. ^ Corley-Coulibaly, Marva; Prasadm, Naren ; Sekerler Richiardi,
+       Pelin (October 2011). "Tax reform for improving job recovery and
+       equity". World of Work Report. International Institute for Labour
+       Studies. pp. 97–120. doi:10.1002/wow3.28. Retrieved September 10,
+       2012.  Cite uses deprecated parameters (help)
+   279. ^ Escudero, Verónica; López Mourelo, Elva (2012). "Chapter 3,
+       Fiscal consolidation and employment growth". In Torres, Raymond
+       (ed.). World of Work Report. International Institute for Labour
+       Studies. pp. 59–80. ISBN 978-92-9251-010-7. Retrieved September 10,
+       2012.
+   280. ^ ^a ^b Widening income gap is hurting the economy, survey says.
+       The Associated Press. December 18, 2013. Retrieved December 18,
+       2013.
+   281. ^ ^a ^b Josh Boak (August 5, 2014). Inequality Is Really Hurting
+       The Economy, S&P Warns. The Huffington Post. Retrieved August 5,
+       2014.
+   282. ^ Capitalism in Long Term Stagnation and Decay – Gar Alperovitz on
+       Reality Asserts Itself (3/5). The Real News, January 26, 2014.
+       Retrieved January 26, 2014.
+   283. ^ Reich, Robert (February 8, 2014). The War on the Poor and
+       Middle-Class Families. Truthdig. Retrieved February 8, 2014.
+   284. ^ Stiglitz, Joseph (July 2, 2012). "Stiglitz: the full
+       transcript". The Independent. Interview with Ben Chu. Retrieved
+       September 8, 2012.
+   285. ^ Stiglitz, Joseph E. (June 4, 2012). The Price of Inequality: How
+       Today's Divided Society Endangers Our Future (p. 85). Norton.
+       Kindle Edition. See also: Karen E. Dynan, Jonathan Skinner, and
+       Stephen P. Zeldes, “Do the Rich Save More?,” Journal of Political
+       Economy 112, no. 2 (2004): 397– 444.
+   286. ^ "More or Less", by Branko Milanovic, Finance & Development
+       (September 2011) Vol. 48, No. 3
+   287. ^ Kenworthy, Lane (December 3, 2007). "Does More Equality Mean
+       Less Economic Growth?".
+   288. ^ "Does inequality prevent economic growth?" by Jared Bernstein,
+       Salon (October 1, 2012)
+   289. ^ Paul Ryan on Income Inequality and Upward Mobility Diane Ellis,
+       Ed. · November 28, 2011
+   290. ^ Uncovering the American Dream: Inequality and Mobility in Social
+       Security Earnings Data since 1937 Wojciech Kopczuk, Emmanuel Saez,
+       Jae Song, September 15, 2007, Figure 4B
+   291. ^ Millionaire For A Day Paul Krugman. November 3, 2011,
+   292. ^ ^a ^b "Harder for Americans to Rise From Lower Rungs", By Jason
+       DeParle (January 4, 2012)
+   293. ^ Corak graphs 25 countries, Krueger limits his to developed
+       countries and lists 10
+   294. ^ NYT-Jared Bernstein-Poverty and Inequality, in Charts-January
+       13, 2014
+   295. ^ Matt Bruenig (January 17, 2014). We Would Have Eliminated
+       Poverty Entirely by Now if Inequality Hadn't Skyrocketed. Moyers &
+       Company. Retrieved January 18, 2014.
+   296. ^ Zachary A. Goldfarb (December 9, 2013). Study: U.S. poverty rate
+       decreased over past half-century thanks to safety-net programs. The
+       Washington Post. Retrieved January 15, 2015.
+   297. ^ Gilens & Page (2014) Testing Theories of American Politics:
+       Elites, Interest Groups, and Average Citizens, Perspectives on
+       Politics, Princeton University. Retrieved April 18, 2014.
+   298. ^ Piketty, Thomas (2014). Capital in the Twenty-First Century.
+       Belknap Press. ISBN 067443000X p. 514:
+          + "the risk of a drift towards oligarchy is real and gives
+            little reason for optimism about where the United States is
+            headed."
+   299. ^ Income inequality in the United States, p. 3, at Google Books By
+       Robert Frank
+   300. ^ ^a ^b Smith, Hedrick, Who Stole the American Dream, Random House
+       pp. xviii–xix
+   301. ^ Smith, Hedrick, Who Stole the American Dream, Random House p.
+       xix
+   302. ^ Stiglitz, Joseph E. (June 4, 2012). The Price of Inequality: How
+       Today's Divided Society Endangers Our Future (p. 92). Norton.
+       Kindle Edition.
+   303. ^ This is despite the fact that low income taxpayers are less
+       likely to be able to deduct their giving for tax purposes as they
+       are less likely to use itemized deductions on their income tax.
+   304. ^ Stern, Ken (April 2013). "Why the Rich Don't Give to Charity".
+       Atlantic. Retrieved March 27, 2013.
+   305. ^ Explanations for this effect include the rise of gated
+       communities and general isolation of the well off from exposure to
+       social problems of poverty, and a correlation of ambition for
+       monetary gain with lack of interest in others and their problems.
+       Why the Rich Don't Give to Charity
+   306. ^ A study confined to non-Hispanic whites in US and England also
+       showed the effect. (Pickett and Wilkinson, The Spirit Level, 2011,
+       p. 177)
+   307. ^ Countries of similar cultures and different levels of equality –
+       Spain and Portugal – showed difference in the index, while
+       countries with very different cultures and ways of achieving
+       equality – Nordic countries and Japan – charted closer to each
+       other. (Pickett and Wilkinson, The Spirit Level, 2011, p. 183)
+   308. ^ The effect was worse among low class/education level in high
+       inequality countries, but continued through all occupational
+       classes and was still significant among the highest. (Pickett and
+       Wilkinson, The Spirit Level, 2011, pp. 178–79)
+   309. ^ Statistics and graphs from Wilkinson and Pickett research.
+   310. ^ "The Spirit Level: How 'ideas wreckers' turned book into
+       political punchbag," by Robert Booth, The Guardian (August 13,
+       2010)
+   311. ^ Joshua Holland (April 19, 2014). High Inequality Results in More
+       US Deaths Than Tobacco, Car Crashes and Guns Combined. Moyers &
+       Company. Retrieved July 1, 2014.
+   312. ^ John Helliwell, Richard Layard and Jeffrey Sachs. World
+       Happiness Report. The Earth Institute at Columbia University, p. 8.
+       Retrieved October 1, 2013.
+   313. ^ "Policy Implications of Capital-Biased Technology: Opening
+       Remarks" by Paul Krugman, New York Times (December 28, 2012)
+   314. ^ ^a ^b "The Wrong Inequality," by David Brooks, New York Times
+       (31 October 2011)
+   315. ^ "The White Underclass," by Niholas D. Kristof, New York Times (8
+       February 2012)
+   316. ^ Hayek, Friedrich A. Von. Law, Legislation, and Liberty. Volume
+       2: The Mirage of Social Justice. Chicago: University of Chicago,
+       1976. 33. Print.
+   317. ^ ^a ^b Hayek, Friedrich A. Von. The Constitution of Liberty.
+       Chicago: University of Chicago, 1960. 231. Print.
+   318. ^ ^a ^b "Why Obama’s New Populism May Sink His Campaign," by
+       William Galston, The New Republic (December 17, 2011)
+   319. ^ "Why the President’s Campaign Shouldn’t Focus on Inequality" by
+       William Galston, The New Republic (May 3, 2012) accessed May 5,
+       2012
+   320. ^ NBC/WSJ: Americans prefer message focused on fairness over
+       anti-government or inequality argument by Jed Lewison dailykos.com
+       April 20, 2012
+   321. ^ by USA Today/Pew Research Center
+   322. ^ Susan Page and Kendall Breitman (January 23, 2014). Poll: United
+       we stand on wealth gap. USA Today. Retrieved January 24, 2014.
+   323. ^ ^a ^b ^c Pew Center-Most See Inequality Growing, But Partisans
+       Differ Over Solutions-January 23, 2014
+   324. ^ Lars Osberg and Timothy Smeeding. "Fair Inequality? Attitudes
+       Toward Pay Dfferentials: The United States in Comparative
+       Perspective, " American Sociological Review, 71, 2006, pp. 450–73.
+   325. ^ Norton, M. I., & Ariely, D., "Building a Better America – One
+       Wealth Quintile at a Time", Perspectives on Psychological Science,
+       January 2011 6: 9–12
+   326. ^ Joseph E. Stiglitz (2012) The Price of Inequality. New York:
+       W.W.Norton
+   327. ^ Grusky, David B. (March–April 2013). "What to Do about
+       Inequality". Boston Review. Retrieved April 6, 2013.
+   328. ^ Kenworthy, Lane (February 2014). America's Social Democratic
+       Future. Foreign Affairs. Retrieved February 2, 2014. See also:
+       Kenworthy, Lane (2014). Social Democratic America. Oxford
+       University Press. ISBN 0199322511
+   329. ^ Kenworthy, Lane (1999). "Do Social-Welfare Policies Reduce
+       Poverty? A Cross-National Assessment". Social Forces 77 (3):
+       1119–1139. doi:10.1093/sf/77.3.1119.
+       Bradley, D., E. Huber, S. Moller, F. Nielsen, and J. D. Stephens
+       (2003). "Determinants of Relative Poverty in Advanced Capitalist
+       Democracies". American Sociological Review 68 (1): 22–51.
+       doi:10.2307/3088901.
+   330. ^ Gould, Elise and Wething, Hilary (July 24, 2012). "U.S. poverty
+       rates higher, safety net weaker than in peer countries." Economic
+       Policy Institute. Retrieved February 2, 2014.
+   331. ^ Annie Lowrey (April 16, 2012). For Two Economists, the Buffett
+       Rule Is Just a Start. The New York Times. Retrieved August 17,
+       2013.
+   332. ^ Nader, Ralph (April 18, 2013). Time for a Sales Tax on Wall
+       Street Financial Transactions. The Huffington Post. Retrieved June
+       5, 2013.
+   333. ^ 1% Wall Street Sales Tax. UFAA.
+   334. ^ Erika Eichelberger (October 30, 2013). Economists to Congress:
+       It's Time for a "Robin Hood Tax" on the Rich. Mother Jones.
+       Retrieved November 15, 2013.
+   335. ^ Cooper, David and Hall, Doug (March 13, 2013).Raising the
+       federal minimum wage to $10.10 would give working families, and the
+       overall economy, a much-needed boost. Economic Policy Institute.
+       Retrieved July 24, 2013.
+   336. ^ Hananel, Sam (August 29, 2013). Labor Secretary Thomas Perez:
+       Fast Food Strikes Show Need For Minimum Wage Hike The Huffington
+       Post. Retrieved August 30, 2013.
+   337. ^ The Economist-The Logical Floor-December 2013
+   338. ^ U.S. Department of Labor-History of Federal Minimum Wage
+       Rates-Retrieved January 11, 2013
+   339. ^ U.S. Department of Labor – Minimum Wage Laws in the States – See
+       commentary at bottom of web page – Retrieved January 11, 2013
+   340. ^ Economist Statement on the Federal Minimum Wage. Economic Policy
+       Institute. Retrieved January 29, 2014.
+   341. ^ Hanley, Lawrence J. (August 3, 2012). A Maximum Wage Law? The
+       Huffington Post. Retrieved July 24, 2013.
+   342. ^ EPI-Mishel & Shabadish-CEO Pay in 2012 Was Extraordinarily High
+       Relative to Typical Workers and Other High Earners-June 2013
+   343. ^ Allan Sheahen (August 26, 2013). Fulfilling One of MLK's Dreams
+       – A Basic Income Guarantee. The Huffington Post. Retrieved January
+       29, 2014.
+   344. ^ Robert H. Frank (November 23, 2006). "The Other Milton Friedman:
+       A Conservative With a Social Welfare Program". New York Times.
+   345. ^ RAWIllumination.net. RAWIllumination.net (August 9, 2011).
+       Retrieved on 2013-07-29.
+   346. ^ Danny Vinik (November 20, 2013). Paul Ryan Should Get Behind
+       This Plan To Give Everyone Free Money. Business Insider. Retrieved
+       January 26, 2014.
+   347. ^ 2010 Platform: Economic Justice & Sustainability. Green Party of
+       the United States
+   348. ^ Konczal, Mike (March 30, 2013). "How an anti-rentier agenda
+       might bring liberals, conservatives together". Washington Post.
+       Retrieved April 6, 2013.
+   349. ^ Richard Wolff on Curing Capitalism. Moyers & Company, March 22,
+       2013; See also: Wolff, Richard D. (2012). Democracy at Work: A Cure
+       for Capitalism. Haymarket Books. ISBN 1608462471.
+   350. ^ 11-20-13: MK Asante's Memoir "Buck" and Gar Alperovitz on Using
+       Democracy to Reduce Inequality. WYPR. Retrieved January 29, 2014;
+       See also: Alperovitz, Gar (2013). What Then Must We Do?: Straight
+       Talk about the Next American Revolution. Chelsea Green Publishing.
+       ISBN 1603585044
+   351. ^ Erik Reece (October 4, 2013). The End of Illth: In search of an
+       economy that won’t kill us. Harper's Magazine. Retrieved January 9,
+       2014.
+
+Further reading[edit]
+
+     * Willford I. King Income inequality in the United States at Google
+       Books, 1915 – at the time most comprehensive study to date
+
+     * Larry M. Bartels Income inequality in the United States at Google
+       Books Princeton: Princeton University Press. 2008. 328 pp.
+
+External links[edit]
+
+   Wikimedia Commons has media related to Income distribution in the
+   United States.
+     * Levy, Frank (2008). "Distribution of Income". In David R. Henderson
+       (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis:
+       Library of Economics and Liberty. ISBN 978-0865976658.
+       OCLC 237794267.
+     * A Giant Statistical Round-up of the Income Inequality Crisis in 16
+       Charts from The Atlantic
+     * Recent Trends in Household Wealth in the United States: Rising Debt
+       and the Middle-Class Squeeze – by Dr. Edward Wolff
+     * The Great Divergence 2010: What's causing America's growing income
+       inequality?, Timothy Noah, Slate^[dead link]
+     * Income Gap Widens: 2010 Census Finds Record Gap Between Rich And
+       Poor by Hope Yen, AP
+     * It's the Inequality, Stupid: 11 Charts that Explain Everything
+       that's Wrong with America – March 2011 issue of Mother Jones
+     * The Top 1 Percent: What Jobs Do They Have? (What percentage of what
+       occupations are in the top 1% income bracket) New York Times
+       January 15, 2012
+     * What Percent Are You? (Enter your household income and see how you
+       rank) New York Times January 14, 2012
+     * Islands of High Income
+     * Bill Moyers: The United States of Inequality
+     * Richard Wilkinson: How economic inequality harms societies. TED,
+       Oct 2011.
+     * Economic Inequality is Real, Personal, Expensive, and it was
+       Created. We'll show you how. Economic Policy Institute, 2013.
+     * TED talk on inequality given by Nick Hanauer. on YouTube
+     * This Map Will Show You The Staggering Growth In Income Inequality
+       Over The Past 40 Years. The Huffington Post, September 2013.
+     * The End of Illth: In search of an economy that won’t kill us.
+       Harper's Magazine, October 4, 2013.
+     * Center on Budget & Policy Priorities – A Guide to Statistics on
+       Historical Trends in Income Inequality – December 2013
+     * Five Economic Reforms Millennials Should Be Fighting For. Rolling
+       Stone, January 3, 2014.
+     * Income Inequality in the United States: Hearing Before the Joint
+       Economic Committee, Congress of the United States, One Hundred
+       Thirteenth Congress, Second Session, January 16, 2014
+     * "Wealth Gap" – A Guide (AP News – January 27, 2014).
+
+
+     * v
+     * t
+     * e
+
+   United States Life in the United States
+     * Affluence
+     * Crime
+     * Culture
+     * Economic issues
+     * Education (attainment)
+     * Family structure
+     * Health care
+     * Health insurance
+     * Holidays
+     * Income (Household
+     * Personal)
+     * Income inequality
+     * Homelessness
+     * Homeownership
+     * Human rights
+     * Labor unions
+     * Languages
+     * Middle class
+     * Passenger vehicle transport
+     * Political ideologies
+     * Poverty
+     * Race
+     * Religion
+     * Social class
+     * Society
+     * Sports
+     * Standard of living
+     * Wealth
+
+
+     * v
+     * t
+     * e
+
+   Demographics of the United States
+   Demographic history
+   Economic and social
+     * Affluence
+     * Educational attainment
+     * Emigration
+     * Homeownership
+     * Household income
+     * Immigration
+     * Income inequality
+     * Language
+     * LGBT
+     * Middle classes
+     * Personal income
+     * Poverty
+     * Social class
+     * Unemployment by state
+     * Wealth
+
+   Religion
+     * Prominent examples: Buddhists
+     * Christians
+          + Catholics
+          + Protestants, etc.
+     * Hindus
+     * Jainism
+     * Jews
+     * Muslims
+     * Neopagans
+     * Non-religious
+     * Sikhs
+
+   Race and ethnicity
+     * People of the United States/Americans
+     * Ethnic groups in the United States
+     * American people by ethnic or national origin
+     * History of the United States by ethnic group
+     * American culture by ethnicity
+     * Race and ethnicity in the Census
+     * Maps of American ancestries
+     * American ethnicity
+     * 2010 Census
+     * in the Equal Employment Opportunity Commission
+     * Racism
+
+     * - African immigrants to the United States
+          + Central Africans in the United States
+          + Horn Africans in the United States
+          + North Africans in the United States
+          + Southeast Africans in the United States
+          + Southern Africans in the United States
+          + West Africans in the United States
+     * - White Americans: European Americans
+          + English Americans
+          + German Americans
+          + Irish Americans
+          + Italian Americans
+          + French Americans
+          + Basque Americans, etc.
+     * Euro Oceanic American
+          + Australian American, New Zealand American
+     * Non-Hispanic Whites
+     * White Hispanic and Latino Americans
+     * Middle Eastern Americans
+          + Arab Americans
+          + Israeli Americans
+          + Iranian Americans
+     * - Afro-American peoples of the Americas
+          + African Americans
+          + Afro-Caribbean/West Indian Americans,
+          + Black Hispanic and Latino Americans
+     * - Asian Americans
+          + Chinese Americans
+          + Filipino Americans
+          + Indian Americans
+          + Vietnamese Americans
+          + Japanese Americans
+          + Pakistani Americans
+          + Asian Hispanic and Latino Americans, etc.
+     * - Americans from other parts of the Americas: Canadian
+     * Hispanic and Latino Americans
+          + Mexican Americans
+          + Puerto Ricans (Stateside)
+          + Cuban Americans
+          + Colombian Americans, etc.
+     * Belizean American
+     * Guyanese American
+     * Native Americans and Alaska Natives
+     * - Oceanic American: Euro Oceanic and Pacific Islands Americans
+          + Chamorro Americans
+          + Native Hawaiians
+          + Samoan Americans
+          + Tongan Americans, etc.
+     * - Others ethnic groups
+          + Melungeon
+          + Roma in the United States
+     * Multiracial Americans
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+     * v
+     * t
+     * e
+
+   Social class and Status
+     * Caste
+     * Legal personality
+     * Personhood
+     * Status group
+     * Social stratification
+     * Status inconsistency
+
+   Theories
+     * Gilbert Model
+     * Marxist
+     * Mudsill theory
+     * New class
+     * Weberian
+
+   Related topics
+     * Chattering classes
+     * Class conflict
+     * Class discrimination
+     * Classicide
+     * Classless society
+     * Euthenics
+     * Nouveau riche / Parvenu
+     * Poverty
+     * Social stigma
+     * Subaltern
+
+
+
+   By demographic
+    By status
+                 * Administrative detainee
+                 * Alien
+                      + Illegal immigrant
+                      + Refugee
+                 * Citizen
+                      + Dual-citizen
+                      + Native-born citizen
+                      + Naturalized citizen
+                      + Second-class citizen
+                 * Convicted felon
+                 * Migrant worker
+                 * Political prisoner
+                 * Stateless person
+
+   By "collar"
+                 * Blue
+                 * Gold
+                 * Green
+                 * Grey
+                 * Pink
+                 * White
+
+     By type
+
+               Creative
+                         * Knowledge worker
+                         * Bohemians
+                         * Robber baron
+                         * Business magnate
+                         * Overclass
+
+                Middle
+                         * Lower middle class
+                         * Upper middle class
+                         * Bourgeoisie
+                         * Petite bourgeoisie
+
+               Working
+                         * Working poor
+                         * Proletariat
+                         * Lumpenproletariat
+
+               Warrior
+                         * Kshatriya
+                         * Yadav
+                         * Nair
+                         * Knight
+                         * Samurai
+                         * Jaguar warrior
+                         * Spartiate
+
+                Under
+                         * Outcast
+                         * Outlaw
+                         * Peasant / Serf
+                         * Slave
+                         * Untouchable
+
+                Upper
+                         * Elite
+                         * Gentry
+                         * Global elite
+                         * Nobility
+                         * Old money
+
+                Ruling
+                         * Aristocracy
+                         * Royal family
+
+
+
+   By geopolitical
+     * Cambodia
+     * Colombia
+     * Ecuador
+     * France
+     * Haiti
+     * Iran
+     * Italy
+     * New Zealand
+     * Romania
+     * Sri Lanka
+     * Tibet
+     * United Kingdom
+
+   United States
+
+                   * Affluence
+                   * American Dream
+                   * Conflict
+                   * Social class in American history
+
+                      Classes
+                                     * Lower
+                                     * Middle
+                                     * Upper
+                                     * Under
+
+                       Income
+                                     * Household
+                                     * Inequality
+                                     * Personal
+                                     * Poverty
+
+                 Standard of living
+                                     * Educational attainment
+                                     * Homelessness
+                                     * Homeownership
+                                     * Wealth
+
+     Historic
+                   * Ancient Greece
+                   * Ancient Rome
+                   * Ottoman Empire
+                   * Soviet Union
+                   * Pre-industrial East Asia
+                   * Pre-industrial Europe
+
+     * Category Category
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Income_inequality_in_the_Uni
+   ted_States&oldid=625444170"
+   Categories:
+     * Income in the United States
+     * Economic inequality
+     * Social inequality
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from October 2013
+     * Articles with dead external links from November 2013
+     * CS1 errors: dates
+     * Pages containing cite templates with deprecated parameters
+     * Use mdy dates from August 2014
+     * Articles that may contain original research from August 2014
+     * All accuracy disputes
+     * Articles with disputed statements from January 2014
+     * All articles with specifically marked weasel-worded phrases
+     * Articles with specifically marked weasel-worded phrases from July
+       2008
+     * Articles with specifically marked weasel-worded phrases from April
+       2013
+     * All articles with unsourced statements
+     * Articles with unsourced statements from April 2013
+     * Articles needing more viewpoints from May 2014
+     * Commons category with local link same as on Wikidata
+     * Articles with dead external links from May 2014
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Polski
+     *
+
+   Edit links
+
+     * This page was last modified on 13 September 2014 at 22:10.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,818 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States Intelligence Community
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   CAPTION: United States Intelligence Community
+
+   United States Intelligence Community Seal.svg
+   Seal of the United States Intelligence Community
+                             Agency overview
+        Formed      December 4, 1981
+   Agency executive James R. Clapper, Director of National Intelligence
+
+   The United States Intelligence Community (I.C.) is a federation of 17
+   separate United States government agencies that work separately and
+   together to conduct intelligence activities considered necessary for
+   the conduct of foreign relations and national security of the United
+   States. Member organizations of the I.C. include intelligence agencies,
+   military intelligence, and civilian intelligence and analysis offices
+   within federal executive departments. The I.C. is headed by the
+   Director of National Intelligence (DNI), who reports to the President
+   of the United States.
+
+   Among their varied responsibilities, the members of the Community
+   collect and produce foreign and domestic intelligence, contribute to
+   military planning, and perform espionage. The I.C. was established by
+   Executive Order 12333, signed on December 4, 1981, by U.S. President
+   Ronald Reagan.^[1]
+
+   The Washington Post reported in 2010 that there were 1,271 government
+   organizations and 1,931 private companies in 10,000 locations in the
+   United States that are working on counterterrorism, homeland security,
+   and intelligence, and that the intelligence community as a whole
+   includes 854,000 people holding top-secret clearances.^[2] According to
+   a 2008 study by the Office of the Director of National Intelligence,
+   private contractors make up 29% of the workforce in the U.S.
+   intelligence community and cost the equivalent of 49% of their
+   personnel budgets.^[3]
+
+Contents
+
+     * 1 Etymology
+     * 2 History
+     * 3 Organization
+          + 3.1 Members
+          + 3.2 Programs
+          + 3.3 Organizational structure and leadership
+          + 3.4 Interagency cooperation
+          + 3.5 Budget
+          + 3.6 Oversight
+     * 4 See also
+     * 5 References
+     * 6 Further reading
+     * 7 External links
+
+Etymology[edit]
+
+   The term "Intelligence Community" was first used during Lt. Gen. Walter
+   Bedell Smith's tenure as Director of Central Intelligence
+   (1950-1953).^[4]
+
+History[edit]
+
+   Intelligence is information that agencies collect, analyze, and
+   distribute in response to government leaders’ questions and
+   requirements. Intelligence is a broad term that entails:
+
+     Collection, analysis, and production of sensitive information to
+     support national security leaders, including policymakers, military
+     commanders, and Members of Congress. Safeguarding these processes
+     and this information through counterintelligence activities.
+     Execution of covert operations approved by the President. The IC
+     strives to provide valuable insight on important issues by gathering
+     raw intelligence, analyzing that data in context, and producing
+     timely and relevant products for customers at all levels of national
+     security—from the war-fighter on the ground to the President in
+     Washington.^[5]
+
+   Executive Order 12333 charged the IC with six primary objectives:^[6]
+     * Collection of information needed by the President, the National
+       Security Council, the Secretary of State, the Secretary of Defense,
+       and other executive branch officials for the performance of their
+       duties and responsibilities;
+     * Production and dissemination of intelligence;
+     * Collection of information concerning, and the conduct of activities
+       to protect against, intelligence activities directed against the
+       U.S., international terrorist and/or narcotics activities, and
+       other hostile activities directed against the U.S. by foreign
+       powers, organizations, persons and their agents;
+     * Special activities (defined as activities conducted in support of
+       U.S. foreign policy objectives abroad which are planned and
+       executed so that the "role of the United States Government is not
+       apparent or acknowledged publicly", and functions in support of
+       such activities, but which are not intended to influence United
+       States political processes, public opinion, policies, or media and
+       do not include diplomatic activities or the collection and
+       production of intelligence or related support functions);
+     * Administrative and support activities within the United States and
+       abroad necessary for the performance of authorized activities and
+     * Such other intelligence activities as the President may direct from
+       time to time.
+
+Organization[edit]
+
+Members[edit]
+
+   The official seals of U.S. Intelligence Community members.
+
+   The IC consists of 17 members (also called elements), most of which are
+   offices or bureaus within federal executive departments.^[7] The IC is
+   led by the Director of National Intelligence.
+     * Independent agencies
+          + The Office of the Director of National Intelligence (ODNI)
+          + Central Intelligence Agency (CIA)
+     * United States Department of Energy
+          + Office of Intelligence and Counterintelligence (OICI)
+     * United States Department of Homeland Security
+          + Office of Intelligence and Analysis (I&A)
+          + Coast Guard Intelligence (CGI)
+     * United States Department of State
+          + Bureau of Intelligence and Research (INR)
+     * United States Department of the Treasury
+          + Office of Terrorism and Financial Intelligence (TFI)
+     * United States Department of Defense
+          + Defense Intelligence Agency (DIA)
+          + National Security Agency (NSA)
+          + National Geospatial-Intelligence Agency (NGA)
+          + National Reconnaissance Office (NRO)
+          + Air Force Intelligence, Surveillance and Reconnaissance Agency
+            (AFISRA), National Air and Space Intelligence Center (NASIC)
+          + United States Army Intelligence and Security Command (INSCOM),
+            National Ground Intelligence Center (NGIC)
+          + Marine Corps Intelligence Activity (MCIA)
+          + Office of Naval Intelligence (ONI)
+     * United States Department of Justice
+          + Federal Bureau of Investigation, National Security Branch
+            (FBI/NSB)
+          + Drug Enforcement Administration, Office of National Security
+            Intelligence (DEA/ONSI)
+
+Programs[edit]
+
+   IC Circle.jpg
+
+   The IC performs under two separate programs:
+     * The National Intelligence Program (NIP), formerly known as the
+       National Foreign Intelligence Program as defined by the National
+       Security Act of 1947 (as amended), "refers to all programs,
+       projects, and activities of the intelligence community, as well as
+       any other programs of the intelligence community designated jointly
+       by the Director of National Intelligence (DNI) and the head of a
+       United States department or agency or by the President. Such term
+       does not include programs, projects, or activities of the military
+       departments to acquire intelligence solely for the planning and
+       conduct of tactical military operations by United States Armed
+       Forces". Under the law, the DNI is responsible for directing and
+       overseeing the NIP, though the ability to do so is limited (see the
+       Organization structure and leadership section).
+     * The Military Intelligence Program (MIP) refers to the programs,
+       projects, or activities of the military departments to acquire
+       intelligence solely for the planning and conduct of tactical
+       military operations by United States Armed Forces. The MIP is
+       directed and controlled by the Under Secretary of Defense for
+       Intelligence. In 2005 the Department of Defense combined the Joint
+       Military Intelligence Program and the Tactical Intelligence and
+       Related Activities program to form the MIP.
+
+   Since the definitions of the NIP and MIP overlap when they address
+   military intelligence, assignment of Department of Defense intelligence
+   activities to the NIP and MIP sometimes proves problematic.
+
+Organizational structure and leadership[edit]
+
+   The overall organization of the IC is primarily governed by the
+   National Security Act of 1947 (as amended) and Executive Order 12333.
+   The statutory organizational relationships were substantially revised
+   with the 2004 Intelligence Reform and Terrorism Prevention Act (IRTPA)
+   amendments to the 1947 National Security Act.
+
+   Though the IC characterizes itself as a federation of its member
+   elements, its overall structure is better characterized as a
+   confederation due to its lack of a well-defined, unified leadership and
+   governance structure. Prior to 2004, the Director of Central
+   Intelligence (DCI) was the head of the IC, in addition to being the
+   director of the CIA. A major criticism of this arrangement was that the
+   DCI had little or no actual authority over the budgetary authorities of
+   the other IC agencies and therefore had limited influence over their
+   operations.
+
+   Following the passage of IRTPA in 2004, the head of the IC is the
+   Director of National Intelligence (DNI). The DNI exerts leadership of
+   the IC primarily through statutory authorities under which he or she:
+     * controls the "National Intelligence Program" budget;
+     * establishes objectives, priorities, and guidance for the IC; and
+     * manages and directs the tasking of, collection, analysis,
+       production, and dissemination of national intelligence by elements
+       of the IC.
+
+   However, the DNI has no authority to direct and control any element of
+   the IC except his own staff — the Office of the DNI — neither does the
+   DNI have the authority to hire or fire personnel in the IC except those
+   on his own staff. The member elements in the executive branch are
+   directed and controlled by their respective department heads, all
+   cabinet-level officials reporting to the President. By law, only the
+   Director of the Central Intelligence Agency reports to the DNI.
+
+   In the light of major intelligence failures in recent years that called
+   into the question how well Intelligence Community ensures U.S. national
+   security, particularly those identified by the 9/11 Commission
+   (National Commission on Terrorist Attacks Upon the United States), and
+   the "WMD Commission" (Commission on the Intelligence Capabilities of
+   the United States Regarding Weapons of Mass Destruction), the
+   authorities and powers of the DNI and the overall organizational
+   structure of the IC have become subject of intense debate in the United
+   States.
+
+Interagency cooperation[edit]
+
+   Previously, interagency cooperation and the flow of information among
+   the member agencies was hindered by policies that sought to limit the
+   pooling of information out of privacy and security concerns. Attempts
+   to modernize and facilitate interagency cooperation within the IC
+   include technological, structural, procedural, and cultural dimensions.
+   Examples include the Intellipedia wiki of encyclopedic security-related
+   information; the creation of the Office of the Director of National
+   Intelligence, National Intelligence Centers, Program Manager
+   Information Sharing Environment, and Information Sharing Council; legal
+   and policy frameworks set by the Intelligence Reform and Terrorism
+   Prevention Act of 2004, information sharing Executive Orders 13354 and
+   Executive Order 13388, and the 2005 National Intelligence Strategy.
+
+Budget[edit]
+
+   The U.S. intelligence budget (excluding the Military Intelligence
+   Program) in fiscal year 2013 was appropriated as $52.7 billion, and
+   reduced by the amount sequestered to $49.0 billion.^[8] In fiscal year
+   2012 it peaked at $53.9 billion, according to a disclosure required
+   under a recent law implementing recommendations of the 9/11
+   Commission.^[9] The 2012 figure was up from $53.1 billion in 2010,^[10]
+   $49.8 billion in 2009,^[11] $47.5 billion in 2008,^[12] $43.5 billion
+   in 2007,^[13] and $40.9 billion in 2006.^[14]
+
+   About 70 percent of the intelligence budget went to contractors for the
+   procurement of technology and services (including analysis), according
+   to the May 2007 chart from the ODNI. Intelligence spending has
+   increased by a third over ten years ago, in inflation-adjusted dollars,
+   according to the Center for Strategic and Budgetary
+   Assessments.^[citation needed].
+
+   In a statement on the release of new declassified figures, DNI Mike
+   McConnell said^[when?] there would be no additional disclosures of
+   classified budget information beyond the overall spending figure
+   because "such disclosures could harm national security". How the money
+   is divided among the 17 intelligence agencies and what it is spent on
+   is classified. It includes salaries for about 100,000 people,
+   multibillion dollar satellite programs, aircraft, weapons, electronic
+   sensors, intelligence analysis, spies, computers, and software.
+
+   On August 29, 2013 the Washington Post published the summary of the
+   Office of the Director of National Intelligence's multivolume FY 2013
+   Congressional Budget Justification, the U.S. intelligence community's
+   top-secret "black budget."^[15]^[16]^[17] The IC's FY 2013 budget
+   details, how the 17 spy agencies use the money and how it performs
+   against the goals set by the president and Congress. Experts said that
+   access to such details about U.S. spy programs is without precedent.
+   Steven Aftergood, Federation of American Scientists, which provides
+   analyses of national security issues stated that “It was a titanic
+   struggle just to get the top-line budget number disclosed, and that has
+   only been done consistently since 2007,...but a real grasp of the
+   structure and operations of the intelligence bureaucracy has been
+   totally beyond public reach. This kind of material, even on a
+   historical basis, has simply not been available.”^[18] Access to budget
+   details will enable an informed public debate on intelligence spending
+   for the first time said the co-chair of the 9/11 Commission Lee H.
+   Hamilton. He added that Americans should not be excluded from the
+   budget process because the intelligence community has a profound impact
+   on the life of ordinary Americans.^[18]
+
+Oversight[edit]
+
+   Intelligence Community Oversight duties are distributed to both the
+   Executive and Legislative branches. Primary Executive oversight is
+   performed by the President's Foreign Intelligence Advisory Board, the
+   Joint Intelligence Community Council, the Office of the Inspector
+   General, and the Office of Management and Budget. Primary congressional
+   oversight jurisdiction over the IC is assigned to two committees: the
+   United States House Permanent Select Committee on Intelligence and the
+   United States Senate Select Committee on Intelligence. The House Armed
+   Services Committee and Senate Armed Services Committee draft bills to
+   annually authorize the budgets of DoD intelligence activities, and both
+   the House and Senate appropriations committees annually draft bills to
+   appropriate the budgets of the IC. The Senate Committee on Homeland
+   Security and Governmental Affairs took a leading role in formulating
+   the intelligence reform legislation in the 108th Congress.
+
+See also[edit]
+
+     * Australian Intelligence Community (AIC)
+     * National Virtual Translation Center
+     * UK-USA Security Agreement (UKUSA)
+     * Utah Data Center
+
+References[edit]
+
+    1. ^ "Executive Order 12333". Cia.gov. Retrieved 2013-01-23.
+    2. ^ Dana Priest and William M Arkin (19 July 2010). "A hidden world,
+       growing beyond control". The Washington Post.
+    3. ^ Priest, Dana (2011). Top Secret America: The Rise of the New
+       American Security State. Little, Brown and Company. p. 320.
+       ISBN 0-316-18221-4.
+    4. ^ Michael Warner; Kenneth McDonald. "US Intelligence Community
+       Reform Studies Since 1947". CIA. p. 4. Retrieved 28 June 2013.
+    5. ^ Rosenbach, Eric, and Aki J. Peritz (12 June 2009). "Confrontation
+       or Collaboration? Congress and the Intelligence Community" (PDF).
+       Belfer Center for Science and International Affairs, Harvard
+       Kennedy School. Retrieved 21 July 2009.
+    6. ^ Executive Order 12333 text
+    7. ^ "Intelligence Community of the United States Government".
+    8. ^ "DNI Releases Budget Figure for 2013 National Intelligence
+       Program". Office of the Director of National Intelligence. 30
+       October 2013. Retrieved 2 August 2014.
+    9. ^ DNI Releases FY 2012 Appropriated Budget Figure. Dni.gov
+       (2012-10-30). Retrieved on 2013-08-16.
+   10. ^ "DNI Releases Budget Figure for 2010 National Intelligence
+       Program". Office of the Director of National Intelligence.
+       2010-10-28. Retrieved 15 June 2013.
+   11. ^ "DNI Releases Budget Figure for 2009 National Intelligence
+       Program" (PDF). Retrieved 15 June 2013.
+   12. ^ "DNI Releases Budget Figure for 2008 National Intelligence
+       Program" (PDF). Retrieved 15 June 2013.
+   13. ^ "DNI Releases Budget Figure for 2007 National Intelligence
+       Program" (PDF). Retrieved 15 June 2013.
+   14. ^ Hacket, John F. (2010-10-28). "FY2006 National Intelligence
+       Program Budget, 10-28-10". Office of the Director of National
+       Intelligence. Retrieved 15 June 2013.
+   15. ^ Matt DeLong (29 August 2013). "Inside the 2013 U.S. intelligence
+       'black budget'". The Washington Post. Retrieved 31 August 2013.
+   16. ^ Matthews, Dylan (29 August 2013). "America’s secret intelligence
+       budget, in 11 (nay, 13) charts". The Washington Post. Retrieved 31
+       August 2013.
+   17. ^ DeLong, Matt (29 August 2013). "2013 U.S. intelligence budget:
+       Additional resources". The Washington Post. Retrieved 31 August
+       2013.
+   18. ^ ^a ^b Barton Gellman and Greg Miller (29 August 2013). "U.S. spy
+       network’s successes, failures and objectives detailed in ‘black
+       budget’ summary". The Washington Post. Retrieved 31 August 2013.
+
+Further reading[edit]
+
+     * Richelson, Jeffrey T. (2012). The United States Intelligence
+       Community (Sixth ed.). Boulder, Colo.: Westview Press.
+       ISBN 9780813345123. OCLC 701015423.
+
+External links[edit]
+
+   Wikimedia Commons has media related to United States Intelligence
+   Community.
+     * Congressional Research Service (CRS) Reports regarding U.S.
+       Intelligence
+     * United States Intelligence Community website
+     * Top Secret America: A Washington Post Investigation
+
+
+     * v
+     * t
+     * e
+
+   Intelligence agencies and organizations of the United States
+   Intelligence
+   Community
+
+   Department of Defense
+     * Defense Intelligence Agency (Defense Clandestine Service • Defense
+       Attaché System • National Intelligence University)
+     * National Geospatial-Intelligence Agency
+     * National Reconnaissance Office
+     * National Security Agency (Central Security Service)
+
+
+ Armed Forces
+                * Air Force Intelligence, Surveillance and Reconnaissance Agency
+                * Army Military Intelligence
+                * Marine Corps Intelligence Activity
+                * Office of Naval Intelligence
+
+   Civilian
+     * Bureau of Intelligence and Research (State)
+     * Central Intelligence Agency (National Clandestine Service • Special
+       Activities Division • Open Source Center)
+     * Drug Enforcement Administration (Justice)
+     * Federal Bureau of Investigation (Justice)
+     * Office of Intelligence and Analysis (Homeland Security)
+     * Coast Guard Intelligence (Homeland Security)
+     * Office of Terrorism and Financial Intelligence (Treasury)
+     * Office of Intelligence and Counterintelligence (Energy)
+
+   United States Intelligence Community Seal 2008.jpg
+   Other
+     * Director of National Intelligence (National Counterterrorism
+       Center • National Counterproliferation Center • Office of the
+       National Counterintelligence Executive • National Intelligence
+       Council • Intelligence Advanced Research Projects Activity)
+     * National Security Council
+     * President's Intelligence Advisory Board
+     * Under Secretary of Defense for Intelligence
+     * Intelligence Support Activity
+
+   Defunct
+     * Counterintelligence Field Activity
+     * Military Intelligence Service
+     * Office of Strategic Services
+     * Office of Special Plans
+     * Strategic Support Branch
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_Intelligence_C
+   ommunity&oldid=624668336"
+   Categories:
+     * Executive branch of the United States government
+     * Intelligence communities
+     * Organizations established in 1981
+     * United States intelligence agencies
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from April 2012
+     * Vague or ambiguous time from August 2014
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Български
+     * Deutsch
+     * Ελληνικά
+     * Español
+     * فارسی
+     * Français
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * Lëtzebuergesch
+     * Magyar
+     * Bahasa Melayu
+     * 日本語
+     * Norsk bokmål
+     * Polski
+     * Русский
+     * Svenska
+     * Tiếng Việt
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 8 September 2014 at 13:17.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,205 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Time-driven programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Question book-new.svg
+   This article does not cite any references or sources. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (December 2006)
+
+   Time-driven programming is a computer programming paradigm, where the
+   control flow of the computer program is driven by a clock and is often
+   used in Real-time computing. A program is divided into a set of tasks
+   (i.e., processes or threads), each of which has a periodic activation
+   pattern. The activation patterns are stored in a dispatch table ordered
+   by time. The Least-Common-Multiple (LCM) of all period-times determines
+   the length of the dispatch table. The scheduler of the program
+   dispatches tasks by consulting the next entry in the dispatch table.
+   After processing all entries, it continues by looping back to the
+   beginning of the table.
+
+   The programming paradigm is mostly used for safety critical programs,
+   since the behaviour of the program is highly deterministic. No external
+   events are allowed to affect the control-flow of the program, the same
+   pattern (i.e., described by the dispatch table) will be repeated time
+   after time. However, idle time of the processor is also highly
+   deterministic, allowing for the scheduling of other non-critical tasks
+   through slack stealing techniques during these idle periods.
+
+   The drawback with the method is that the program becomes static (in the
+   sense that small changes may recompile into large effects on execution
+   structure), and unsuitable for applications requiring a large amount of
+   flexibility. For example, the execution time of a task may change if
+   its program code is altered. As a consequence, a new dispatch table
+   must be regenerated for the entire task set. Such a change may require
+   expensive retesting as is often required in safety critical systems.
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Time-driven_programming&oldi
+   d=606314973"
+   Categories:
+     * Scheduling algorithms
+     * Real-time computing
+
+   Hidden categories:
+     * Articles lacking sources from December 2006
+     * All articles lacking sources
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 29 April 2014 at 11:28.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

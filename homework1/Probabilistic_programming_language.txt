@@ -1,0 +1,201 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Probabilistic programming language
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   The topic of this article may not meet Wikipedia's general notability
+   guideline. Please help to establish notability by adding reliable,
+   secondary sources about the topic. If notability cannot be established,
+   the article is likely to be merged, redirected, or deleted.
+   Find sources: "Probabilistic programming language" – news ·
+   newspapers · books · scholar · JSTOR · free images (June 2011)
+
+   A probabilistic programming language (PPL) is a programming language
+   specially designed to describe and infer with probabilistic models.
+
+   PPLs often extend from a basic language. The inventors' choices of
+   underlying basic language depend on the similarity of their models to
+   the basic language's ontology, as well as commercial considerations and
+   personal preference. For instance, Dimple^[1] and Chimple^[2] are based
+   on Java, Infer.NET is based on .NET framework,^[3] while PRISM extends
+   from Prolog.^[4] However, some PPLs such as WinBUGS and Stan (software)
+   define a self-contained language for their users to use, which is not
+   obviously derived from a predecessor language.^[5]^[6]
+
+   Currently there are several PPLs in active development, some of them
+   have advanced to the beta stage. However because PRMs are new, up to
+   year 2010 there have been no well-known software projects utilizing
+   those languages.
+
+Contents
+
+     * 1 Probabilistic relational programming language
+     * 2 List of probabilistic programming languages
+     * 3 See also
+     * 4 Notes
+     * 5 External links
+
+Probabilistic relational programming language[edit]
+
+   A probabilistic relational programming language (PRPL) is a PPL
+   specially designed to describe and infer with probabilistic relational
+   models (PRMs).
+
+   A PRM is usually developed with a set of algorithms for reducing,
+   inference about and discovery of concerned distributions, which are
+   embedded into the corresponding PRPL.
+
+List of probabilistic programming languages[edit]
+
+          This list is incomplete; you can help by expanding it.
+
+          Name          Extends from
+   IBAL^[7]            OCaml
+   PRISM^[4]           B-Prolog
+   Infer.NET^[3]       .NET Framework
+   dimple ^[1]         MATLAB, Java
+   chimple ^[2]        MATLAB, Java
+   BLOG^[8]             ?
+   PSQL^[9]            SQL
+   BUGS^[5]            n/a
+   FACTORIE^[10]       Scala
+   PMTK^[11]           MATLAB
+   Alchemy^[12]        C++
+   Dyna^[13]           Prolog
+   Figaro^[14]         Scala
+   Church^[15]         Scheme
+   ProbLog^[16]        Prolog
+   ProBT^[17]          C++, Python
+   Stan (software)^[6] n/a
+   Hakaru^[18]         Haskell
+
+See also[edit]
+
+     * Statistical relational learning
+     * Inductive programming
+     * Bayesian programming
+
+Notes[edit]
+
+    1. ^ ^a ^b Dimple Home Page
+    2. ^ ^a ^b Chimple Home Page
+    3. ^ ^a ^b Infer.NET Home Page
+    4. ^ ^a ^b PRISM Home Page
+    5. ^ ^a ^b BUGS Home Page
+    6. ^ ^a ^b Stan homepage
+    7. ^ IBAL Home Page
+    8. ^ BLOG Home Page
+    9. ^ PSQL: A query language for probabilistic relational data, D. Dey
+       etc
+   10. ^ FACTORIE Home Page
+   11. ^ PMTK Home Page
+   12. ^ Alchemy Home Page
+   13. ^ Dyna Home Page
+   14. ^ Figaro Home Page
+   15. ^ Church Wiki Page
+   16. ^ ProbLog Home Page
+   17. ^ ProBT Download Page
+   18. ^ Hakaru Home Page
+
+External links[edit]
+
+     * List of Probabilistic Model Mini Language Toolkits
+     * Probabilistic programming wiki
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Probabilistic_programming_la
+   nguage&oldid=625156652"
+   Categories:
+     * Probabilistic models
+     * Probabilistic software
+
+   Hidden categories:
+     * Articles with topics of unclear notability from June 2011
+     * All articles with topics of unclear notability
+     * Incomplete lists from February 2011
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 11 September 2014 at 22:36.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

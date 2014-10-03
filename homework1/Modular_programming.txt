@@ -1,0 +1,340 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Modular programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   "Code Factoring" redirects here. It is not to be confused with code
+   refactoring.
+   Gnome-searchtool.svg
+   This article's factual accuracy is disputed. Please help to ensure that
+   disputed statements are reliably sourced. See the relevant discussion
+   on the talk page. (October 2010)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Modular programming is a software design technique that emphasizes
+   separating the functionality of a program into independent,
+   interchangeable modules, such that each contains everything necessary
+   to execute only one aspect of the desired functionality.^[1]
+   Conceptually, modules represent a separation of concerns, and improve
+   maintainability by enforcing logical boundaries between components.
+   Modules are typically incorporated into the program through
+   interfaces.^[2] A module interface expresses the elements that are
+   provided and required by the module. The elements defined in the
+   interface are detectable by other modules. The implementation contains
+   the working code that corresponds to the elements declared in the
+   interface.
+
+Contents
+
+     * 1 Language support
+     * 2 Key aspects
+     * 3 History
+     * 4 See also
+     * 5 References
+
+Language support[edit]
+
+   Languages that formally support the module concept include Ada, Algol,
+   BlitzMax, COBOL, Component Pascal, D, Erlang, F, Fortran, Haskell,
+   IBM/360 Assembler, IBM RPG, Java (packages are considered modules in
+   the JLS^[3]—the package chapter does not mention modules and
+   "superpackages", meant for Java 7 were meant to provide Java with
+   module support. Also Project Jigsaw is now scheduled to provide modules
+   for Java 9 http://openjdk.java.net/projects/jigsaw/ ), MATLAB, ML,
+   Modula-2, Modula-3, Morpho, Oberon, NEWP, Node.js, Object Pascal,
+   OCaml, Pascal, Perl, PL/I, Python, PureBasic, and Ruby.[1] The IBM
+   System i also uses Modules in CL, COBOL, and RPG when programming in
+   the Integrated Language Environment (ILE). Modular programming can be
+   performed even where the programming language lacks explicit syntactic
+   features to support named modules. OSGI adds a module layer to the Java
+   language.
+
+   Software tools can create modular code units from groups of components.
+   Libraries of components built from separately compiled modules can be
+   combined into a whole by using a linker.
+
+Key aspects[edit]
+
+   With modular programming, concerns are separated such that modules
+   perform logically discrete functions. No (or few) modules interact with
+   other modules of the system; except in the sense that one module may
+   use another module, to achieve its purpose. The desired module goal is
+   to have no interaction between modules [other than that already
+   stated].
+
+   Each module (which can contain a number of separate processes) works
+   independently from another module. At the lowest module hierarchy, no
+   other module is used; at the highest module hierarchy, there may be
+   several layers of other modules used, before the top module achieves
+   its purpose.
+
+   When creating a modular system, instead of creating a monolithic
+   application (where the smallest component is the whole), several
+   smaller modules are built (and usually compiled) separately so that,
+   when composed together, they construct the executable application
+   program. A just-in-time compiler may perform some of this construction
+   "on-the-fly" at run time.
+
+   This makes modular designed systems, if built correctly, far more
+   reusable than a traditional monolithic design, since all (or many) of
+   these modules may then be reused (without change) in other projects.
+   This also facilitates the "breaking down" of projects into several
+   smaller projects. Theoretically, a modularized software project will be
+   more easily assembled by large teams, since no team members are
+   creating the whole system, or even need to know about the system as a
+   whole. They can focus just on the assigned smaller task (this, it is
+   claimed, counters the key assumption of The Mythical Man Month—making
+   it actually possible to add more developers to a late software
+   project—without making it later still).
+
+History[edit]
+
+   Traditional programming languages have been used to support modular
+   programming since at least the 1960s. Modular programming is a loosely
+   defined concept with no official definition. It is, in essence, simply
+   a programming technique^[dubious – discuss]. Exactly where
+   "modularized" programming ends, and dynamically linked libraries or
+   object-oriented programming starts in this context is subjective. It
+   might be defined as the natural predecessor of OOP, or an evolutionary
+   step beyond it, depending upon viewpoint.^[citation
+   needed]^[clarification needed]
+
+See also[edit]
+
+     * Architecture description language
+     * Cohesion
+     * Constructionist design methodology, a methodology for creating
+       modular, broad Artificial Intelligence systems
+     * Component-based software engineering
+     * Coupling
+     * David Parnas
+     * Information hiding (encapsulation)
+     * Interface-based programming
+     * Library (computing)
+     * List of system quality attributes
+     * Snippet (programming)
+     * Structured programming
+
+References[edit]
+
+    1. ^ Jürgen Haas. "Modular programming". http://www.about.com/:
+       About.com. "Modular programming is a programming style that breaks
+       down program functions into modules, each of which accomplishes one
+       function and contains all the source code and variables needed to
+       accomplish that function. Modular programming is a solution to the
+       problem of very large programs that are difficult to debug and
+       maintain. By segmenting the program into modules that perform
+       clearly defined functions, you can determine the source of program
+       errors more easily. Object-orientated programming languages, such
+       as SmallTalk and HyperTalk, incorporate modular programming
+       principles."  Missing or empty |url= (help); |accessdate= requires
+       |url= (help)
+    2. ^ Seif Haridi; Nils Franzén. "7. Modules and Interfaces".
+       http://www.mozart-oz.org/documentation/index.html: Mozart
+       Documentation. "Modules, also known as packages, are collection of
+       procedures and other values1 that are constructed together to
+       provide certain related functionality. A module typically has a
+       number of private procedures that are not visible outside the
+       module and a number of interface procedures that provide the
+       external services of the module."  Missing or empty |url= (help);
+       |accessdate= requires |url= (help)
+    3. ^ James Gosling, Bill Joy, Guy Steele, Gilad Bracha, The Java
+       Language Specification, Third Edition, ISBN 0-321-24678-0, 2005. In
+       the Introduction, it is stated "Chapter 7 describes the structure
+       of a program, which is organized into packages similar to the
+       modules of Modula." The word "module" has no special meaning in
+       Java.
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Modular_programming&oldid=61
+   8953117"
+   Categories:
+     * Programming paradigms
+     * Holism
+
+   Hidden categories:
+     * Pages using web citations with no URL
+     * Pages using citations with accessdate and no URL
+     * Accuracy disputes from October 2010
+     * All accuracy disputes
+     * Articles with disputed statements from October 2010
+     * All articles with unsourced statements
+     * Articles with unsourced statements from September 2013
+     * Wikipedia articles needing clarification from September 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Български
+     * Čeština
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * Galego
+     * 한국어
+     * Italiano
+     * עברית
+     * ქართული
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Suomi
+     * Türkçe
+     * Українська
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 29 July 2014 at 10:36.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,229 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Relativistic programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+     This article has multiple issues. Please help improve it or discuss
+   these issues on the talk page.
+
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (May 2011)
+
+   The topic of this article may not meet Wikipedia's general notability
+   guideline. Please help to establish notability by adding reliable,
+   secondary sources about the topic. If notability cannot be established,
+   the article is likely to be merged, redirected, or deleted.
+   Find sources: "Relativistic programming" – news · newspapers · books ·
+   scholar · JSTOR · free images (May 2011)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Relativistic programming (RP) is a style of concurrent programming
+   where instead of trying to avoid conflicts between readers and writers
+   (or writers and writers in some cases) the algorithm is designed to
+   tolerate them and get a correct result regardless of the order of
+   events. Also, relativistic programming algorithms are designed to work
+   without the presences of a global order of events. That is, there may
+   be some cases where one thread sees two events in a different order
+   than another thread (hence the term relativistic because in Einstein's
+   theory of special relativity the order of events is not always the same
+   to different viewers).
+
+   Relativistic programming provides advantages in performance compared to
+   other concurrency paradigms because it does not require one thread to
+   wait for another nearly as often. Because of this, forms of it
+   (Read-Copy-Update for instance) are now used extensively in the Linux
+   kernel (more than 5,000 times as of 2011^[update]).^[1]
+
+See also[edit]
+
+     * Non-blocking algorithm
+
+References[edit]
+
+    1. ^ http://www.rdrop.com/users/paulmck/RCU/linuxusage.html
+
+External links[edit]
+
+     * Relativistic Programming at Portland State University
+
+   Stub icon This computer science article is a stub. You can help
+             Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Relativistic_programming&old
+   id=580088097"
+   Categories:
+     * Concurrent computing
+     * Computer science stubs
+
+   Hidden categories:
+     * Articles needing additional references from May 2011
+     * All articles needing additional references
+     * Articles with topics of unclear notability from May 2011
+     * All articles with topics of unclear notability
+     * Articles containing potentially dated statements from 2011
+     * All articles containing potentially dated statements
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 4 November 2013 at 01:16.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

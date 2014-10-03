@@ -1,0 +1,3216 @@
+   #alternate Wikipedia (en) alternate copyright Wikipedia Atom feed
+
+Second Amendment to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Page semi-protected
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   The Bill of Rights in the National Archives.
+   Close up image of the Second Amendment
+                U.S. Firearms Legal Topics
+     * Assault weapon
+     * Assault weapons legislation
+     * ATF Bureau
+     * Brady Handgun Violence Prevention Act
+     * Concealed carry in the U.S.
+     * Connecticut Children's Safety Act
+     * Domestic Violence Offender Gun Ban
+     * Federal Assault Weapons Ban
+     * Federal Firearms Act of 1938
+     * Federal Firearms License
+     * Firearm case law
+     * Firearm Owners Protection Act
+     * Gun Control Act of 1968
+     * Gun-Free School Zones Act (GFSZA)
+     * Gun laws in the U.S.—by state
+     * Gun laws in the U.S.—federal
+     * Gun politics in the U.S.
+     * High-capacity magazine ban
+     * International treaties for arms control
+     * National Instant Criminal Background Check System
+     * National Firearms Act (NFA)
+     * NY SAFE Act
+     * Open carry in the U.S.
+     * Second Amendment to the Constitution
+     * Straw purchase
+     * Sullivan Act (New York)
+     * Tiahrt Amendment
+     * Violent Crime Control Act
+
+     * v
+     * t
+     * e
+
+   The Second Amendment (Amendment II) to the United States Constitution
+   protects the right of individuals^[1]^[2] to keep and bear
+   arms.^[3]^[4]^[5]^[6] The Supreme Court of the United States has ruled
+   that the right vests in individuals, not merely collective militias,
+   while also ruling that the right is not unlimited and does not prohibit
+   all regulation of either firearms or similar devices.^[7] State and
+   local governments are limited to the same extent as the federal
+   government from infringing this right per the incorporation of the Bill
+   of Rights. The Second Amendment was adopted on December 15, 1791, as
+   part of the first ten amendments comprising the Bill of Rights.
+
+   The Second Amendment was based partially on the right to keep and bear
+   arms in English common-law and was influenced by the English Bill of
+   Rights of 1689. Sir William Blackstone described this right as an
+   auxiliary right, supporting the natural rights of self-defense,
+   resistance to oppression, and the civic duty to act in concert in
+   defense of the state.^[8]
+
+   In United States v. Cruikshank (1876), the Supreme Court of the United
+   States ruled that, "The right to bear arms is not granted by the
+   Constitution; neither is it in any manner dependent upon that
+   instrument for its existence" and limited the applicability of the
+   Second Amendment to the federal government.^[9] In United States v.
+   Miller (1939), the Supreme Court ruled that the federal government and
+   the states could limit any weapon types not having a “reasonable
+   relationship to the preservation or efficiency of a well regulated
+   militia”.^[10]^[11]
+
+   In the twenty-first century, the amendment has been subjected to
+   renewed academic inquiry and judicial interest.^[11] In District of
+   Columbia v. Heller (2008), the Supreme Court handed down a landmark
+   decision, expressly holding the amendment to protect an individual
+   right to possess and carry firearms.^[12]^[13] In McDonald v. Chicago
+   (2010), the Court clarified its earlier decisions that limited the
+   amendment's impact to a restriction on the federal government,
+   expressly holding that the Fourteenth Amendment applies the Second
+   Amendment to state and local governments to the same extent that the
+   Second Amendment applies to the federal government.^[14] Despite these
+   decisions, the debate between the gun control and gun rights movements
+   and related organizations continues.^[15]
+
+Contents
+
+     * 1 Text
+     * 2 Pre-Constitution background
+          + 2.1 Influence of the English Bill of Rights of 1689
+          + 2.2 Experience in America prior to the U.S. Constitution
+     * 3 Drafting and adoption of the Constitution
+     * 4 Ratification debates
+     * 5 Conflict and compromise in Congress produce the Bill of Rights
+     * 6 Militia in the decades following ratification
+     * 7 Scholarly commentary
+          + 7.1 Early commentary
+               o 7.1.1 Tench Coxe
+               o 7.1.2 Tucker/Blackstone
+               o 7.1.3 William Rawle
+               o 7.1.4 Joseph Story
+               o 7.1.5 Lysander Spooner
+               o 7.1.6 Timothy Farrar
+               o 7.1.7 Judge Thomas Cooley
+          + 7.2 Late 20th century commentary
+          + 7.3 Meaning of "well regulated militia"
+          + 7.4 Meaning of "the right of the People"
+          + 7.5 Meaning of "keep and bear arms"
+     * 8 Supreme Court cases
+          + 8.1 United States v. Cruikshank
+          + 8.2 Presser v. Illinois
+          + 8.3 Miller v. Texas
+          + 8.4 Robertson v. Baldwin
+          + 8.5 United States v. Miller
+          + 8.6 District of Columbia v. Heller
+               o 8.6.1 Judgment
+               o 8.6.2 Notes and analysis
+          + 8.7 McDonald v. Chicago
+     * 9 United States Courts of Appeals decisions before and after Heller
+          + 9.1 Before Heller
+          + 9.2 After Heller
+     * 10 See also
+     * 11 Notes and citations
+     * 12 References
+          + 12.1 Books
+          + 12.2 Periodicals
+          + 12.3 Other publications
+     * 13 Further reading
+     * 14 External links
+
+Text
+
+   There are several versions of the text of the Second Amendment, each
+   with capitalization or punctuation differences. Differences exist
+   between the drafted and ratified copies, the signed copies on display,
+   and various published
+   transcriptions.^[16]^[17]^[18]^[19]^[20]^[21]^[22]^[23] The importance
+   (or lack thereof) of these differences has been the source of debate
+   regarding the meaning and interpretation of the amendment, particularly
+   regarding the importance of the prefatory clause.
+
+   One version was passed by the Congress,^[24]^[25]^[26]^[27]^[28]
+
+   As passed by the Congress and preserved in the National Archives:^[29]
+
+     A well regulated Militia, being necessary to the security of a free
+     State, the right of the people to keep and bear Arms, shall not be
+     infringed.
+
+   As ratified by the States and authenticated by Thomas Jefferson,
+   then-Secretary of State:^[30]
+
+     A well regulated militia being necessary to the security of a free
+     state, the right of the people to keep and bear arms shall not be
+     infringed.
+
+   As written by scribe William Lambert as part of the original
+   hand-written copy of the Bill of Rights approved by the House and
+   Senate, which resides in the National Archives.
+
+Pre-Constitution background
+
+Influence of the English Bill of Rights of 1689
+
+   The right to bear arms in English history is believed to have been
+   regarded in English law as an auxiliary to the long-established natural
+   right of self-defense, auxiliary to the natural and legally defensible
+   rights to life.^[31] The English Bill of Rights of 1689 emerged from a
+   tempestuous period in English politics during which two issues were
+   major sources of conflict: the authority of the King to govern without
+   the consent of Parliament and the role of Catholics in a country that
+   was becoming ever more Protestant. Ultimately, the Catholic James II
+   was overthrown in the Glorious Revolution, and his successors, the
+   Protestants William III and Mary II, accepted the conditions that were
+   codified in the Bill. One of the issues the Bill resolved was the
+   authority of the King to disarm its subjects, after James II had
+   attempted to disarm many Protestants, and had argued with Parliament
+   over his desire to maintain a standing (or permanent) army.^[32] The
+   bill states that it is acting to restore "ancient rights" trampled upon
+   by James II, though some have argued that the English Bill of Rights
+   created a new right to have arms, which developed out of a duty to have
+   arms.^[33] In District of Columbia v. Heller (2008), the Supreme Court
+   did not accept this view, remarking that the English right at the time
+   of the passing of the English Bill of Rights was "clearly an individual
+   right, having nothing whatsoever to do with service in the militia" and
+   that it was a right not to be disarmed by the Crown and was not the
+   granting of a new right to have arms.^[34]
+
+   The text of the English Bill of Rights of 1689 includes language
+   protecting the right of Protestants against disarmament by the Crown.
+   This document states: "That the Subjects which are Protestants may have
+   Arms for their Defence suitable to their Conditions and as allowed by
+   Law."^[35] It also contained text that aspired to bind future
+   Parliaments, though under English constitutional law no Parliament can
+   bind any later Parliament.^[36] Nevertheless, the English Bill of
+   Rights remains an important constitutional document, more for
+   enumerating the rights of Parliament over the monarchy than for its
+   clause concerning a right to have arms.
+
+   The statement in the English Bill of Rights concerning the right to
+   bear arms is often quoted only in the passage where it is written as
+   above and not in its full context. In its full context it is clear that
+   the bill was asserting the right of Protestant citizens not to be
+   disarmed by the King without the consent of Parliament and was merely
+   restoring rights to Protestants that the previous King briefly and
+   unlawfully had removed. In its full context it reads:
+
+     Whereas the late King James the Second by the Assistance of diverse
+     evill Councellors Judges and Ministers imployed by him did endeavour
+     to subvert and extirpate the Protestant Religion and the Lawes and
+     Liberties of this Kingdome (list of grievances including) ... by
+     causing severall good Subjects being Protestants to be disarmed at
+     the same time when Papists were both Armed and Imployed contrary to
+     Law, (Recital regarding the change of monarch) ... thereupon the
+     said Lords Spirituall and Temporall and Commons pursuant to their
+     respective Letters and Elections being now assembled in a full and
+     free Representative of this Nation takeing into their most serious
+     Consideration the best meanes for attaining the Ends aforesaid Doe
+     in the first place (as their Auncestors in like Case have usually
+     done) for the Vindicating and Asserting their ancient Rights and
+     Liberties, Declare (list of rights including) ... That the Subjects
+     which are Protestants may have Arms for their Defence suitable to
+     their Conditions and as allowed by Law.^[35]
+
+   The historical link between the English Bill of Rights and the Second
+   Amendment, which both codify an existing right and do not create a new
+   one, has been acknowledged by the U.S. Supreme Court.^[37]^[38]
+
+   The English Bill of Rights includes the proviso that arms must be as
+   "allowed by law." This has been the case before and after the passage
+   of the Bill. While it did not override earlier restrictions on the
+   ownership of guns for hunting, it was written to preserve the hunting
+   rights of the landed aristocracy and is subject to the parliamentary
+   right to implicitly or explicitly repeal earlier enactments.^[39] There
+   is some difference of opinion as to how revolutionary the events of
+   1688–89 actually were, and several commentators make the point that the
+   provisions of the English Bill of Rights did not represent new laws,
+   but rather stated existing rights. Mark Thompson wrote that, apart from
+   determining the succession, the English Bill of Rights did "little more
+   than set forth certain points of existing laws and simply secured to
+   Englishmen the rights of which they were already posessed [sic]."^[40]
+   Before and after the English Bill of Rights, the government could
+   always disarm any individual or class of individuals it considered
+   dangerous to the peace of the realm.^[41] In 1765, William Blackstone
+   wrote the Commentaries on the Laws of England describing the right to
+   have arms in England during the 18th century as a natural right of the
+   subject that was "also declared" in the English Bill of
+   Rights.^[42]^[43]
+
+     The fifth and last auxiliary right of the subject, that I shall at
+     present mention, is that of having arms for their defence, suitable
+     to their condition and degree, and such as are allowed by law. Which
+     is also declared by the same statute I W. & M. st.2. c.2. and is
+     indeed a public allowance, under due restrictions, of the natural
+     right of resistance and self-preservation, when the sanctions of
+     society and laws are found insufficient to restrain the violence of
+     oppression.^[44]
+
+   Although there is little doubt that the writers of the Second Amendment
+   were heavily influenced by the English Bill of Rights, it is a matter
+   of interpretation as to whether they were intent on preserving the
+   power to regulate arms to the states over the federal government (as
+   the English Parliament had reserved for itself against the monarch) or
+   whether it was intent on creating a new right akin to the right of
+   others written into the Constitution (as the Supreme Court decided in
+   Heller). Some in the United States have preferred the "rights" argument
+   arguing that the English Bill of Rights had granted a right. The need
+   to have arms for self-defence was not really in question. Peoples all
+   around the world since time immemorial had armed themselves for the
+   protection of themselves and others, and as organized nations began to
+   appear these arrangements had been extended to the protection of the
+   state.^[45] Without a regular army and police force (which in England
+   was not established until 1829), it had been the duty of certain men to
+   keep watch and ward at night and to confront and capture suspicious
+   persons. Every subject had an obligation to protect the king's peace
+   and assist in the suppression of riots.^[46]
+
+Experience in America prior to the U.S. Constitution
+
+   Ideals that helped to inspire the Second Amendment in part are
+   symbolized by the minutemen.^[47]
+
+   Early English settlers in America viewed the right to arms and/or the
+   right to bear arms and/or state militias as important for one or more
+   of these purposes (in no particular
+   order):^[48]^[49]^[50]^[51]^[52]^[53]^[54]^[55]
+     * enabling the people to organize a militia system.
+     * participating in law enforcement;
+     * deterring tyrannical government;^[56]
+     * repelling invasion;
+     * suppressing insurrection, allegedly including slave
+       revolts;^[57]^[58]^[59]
+     * facilitating a natural right of self-defense.
+
+   Which of these considerations were thought of as most important and
+   ultimately found expression in the Second Amendment is disputed. Some
+   of these purposes were explicitly mentioned in early state
+   constitutions; for example, the Pennsylvania Constitution of 1776
+   asserted that, "the people have a right to bear arms for the defence of
+   themselves and the state".^[60]
+
+   During the 1760s pre-revolutionary period, the established colonial
+   militia was composed of colonists, including many who were loyal to
+   British imperial rule. As defiance and opposition to British rule
+   developed, a distrust of these Loyalists in the militia became
+   widespread among the colonists, known as Patriots, who favored
+   independence from British rule. As a result, some Patriots created
+   their own militias that excluded the Loyalists and then sought to stock
+   independent armories for their militias. In response to this arms build
+   up, the British Parliament established an embargo on firearms, parts
+   and ammunition on the American colonies.^[61]
+
+   British and Loyalist efforts to disarm the colonial Patriot militia
+   armories in the early phases of the American Revolution resulted in the
+   Patriot colonists protesting by citing the Declaration of Rights,
+   Blackstone's summary of the Declaration of Rights, their own militia
+   laws and common law rights to self-defense.^[62] While British policy
+   in the early phases of the Revolution clearly aimed to prevent
+   coordinated action by the Patriot militia, some have argued that there
+   is no evidence that the British sought to restrict the traditional
+   common law right of self-defense.^[62] Patrick J. Charles disputes
+   these claims citing similar disarming by the patriots and challenging
+   those scholars' interpretation of Blackstone.^[63]
+
+   The right of the colonists to arms and rebellion against oppression was
+   asserted, for example, in a pre-revolutionary newspaper editorial in
+   1769 Boston objecting to the British army suppression of colonial
+   opposition to the Townshend Acts:
+
+     Instances of the licentious and outrageous behavior of the military
+     conservators of the peace still multiply upon us, some of which are
+     of such nature, and have been carried to such lengths, as must serve
+     fully to evince that a late vote of this town, calling upon its
+     inhabitants to provide themselves with arms for their defense, was a
+     measure as prudent as it was legal: such violences are always to be
+     apprehended from military troops, when quartered in the body of a
+     populous city; but more especially so, when they are led to believe
+     that they are become necessary to awe a spirit of rebellion,
+     injuriously said to be existing therein. It is a natural right which
+     the people have reserved to themselves, confirmed by the Bill of
+     Rights, to keep arms for their own defence; and as Mr. Blackstone
+     observes, it is to be made use of when the sanctions of society and
+     law are found insufficient to restrain the violence of
+     oppression.^[62]
+
+   The armed forces that won the American Revolution consisted of the
+   standing Continental Army created by the Continental Congress, together
+   with regular French army and naval forces and various state and
+   regional militia units. In opposition, the British forces consisted of
+   a mixture of the standing British Army, Loyalist Militia and Hessian
+   mercenaries. Following the Revolution, the United States was governed
+   by the Articles of Confederation. Federalists argued that this
+   government had an unworkable division of power between Congress and the
+   states, which caused military weakness, as the standing army was
+   reduced to as few as 80 men.^[64] They considered it to be bad that
+   there was no effective federal military crackdown to an armed tax
+   rebellion in western Massachusetts known as Shays' Rebellion.^[65]
+   Anti-federalists on the other hand took the side of limited government
+   and sympathized with the rebels, many of whom were former Revolutionary
+   War soldiers. Subsequently, the Constitutional Convention proposed in
+   1787 to grant Congress exclusive power to raise and support a standing
+   army and navy of unlimited size.^[66]^[67] Anti-federalists objected to
+   the shift of power from the states to the federal government, but as
+   adoption of the Constitution became more and more likely, they shifted
+   their strategy to establishing a bill of rights that would put some
+   limits on federal power.^[68]
+
+   Modern scholars Thomas B. McAffee and Michael J. Quinlan have stated
+   that James Madison "did not invent the right to keep and bear arms when
+   he drafted the Second Amendment; the right was pre-existing at both
+   common law and in the early state constitutions."^[69] In contrast,
+   historian Jack Rakove suggests that Madison's intention in framing the
+   Second Amendment was to provide assurances to moderate Anti-Federalists
+   that the militias would not be disarmed.^[70]
+
+   One aspect of the gun control debate is the conflict between gun
+   control laws and the right to rebel against unjust governments.
+   Blackstone in his Commentaries alluded to this right to rebel as the
+   natural right of resistance and self preservation, to be used only as a
+   last resort, exercisable when "the sanctions of society and laws are
+   found insufficient to restrain the violence of oppression".^[71] Some
+   believe that the framers of the Bill of Rights sought to balance not
+   just political power, but also military power, between the people, the
+   states and the nation,^[72] as Alexander Hamilton explained in 1788:
+
+     [I]f circumstances should at any time oblige the government to form
+     an army of any magnitude[,] that army can never be formidable to the
+     liberties of the people while there is a large body of citizens,
+     little, if at all, inferior to them in discipline and the use of
+     arms, who stand ready to defend their own rights and those of their
+     fellow-citizens.^[72]^[73]
+
+   Some scholars have said that it is wrong to read a right of armed
+   insurrection in the Second Amendment because clearly the founding
+   fathers sought to place trust in the power of the ordered liberty of
+   democratic government versus the anarchy of insurrectionists.^[74]^[75]
+   Other scholars, such as Glenn Reynolds, contend that the framers did
+   believe in an individual right to armed insurrection. The latter
+   scholars cite examples, such as the Declaration of Independence
+   (describing in 1776 "the Right of the People to...institute new
+   Government") and the Constitution of New Hampshire (stating in 1784
+   that "nonresistance against arbitrary power, and oppression, is absurd,
+   slavish, and destructive of the good and happiness of mankind").^[76]
+
+   There was an ongoing debate beginning in 1789 about "the people"
+   fighting governmental tyranny (as described by Anti-Federalists); or
+   the risk of mob rule of "the people" (as described by the Federalists)
+   related to the increasingly violent French Revolution.^[77] A
+   widespread fear, during the debates on ratifying the Constitution, was
+   the possibility of a military takeover of the states by the federal
+   government, which could happen if the Congress passed laws prohibiting
+   states from arming citizens,^[78] or prohibiting citizens from arming
+   themselves.^[62] Though it has been argued that the states lost the
+   power to arm their citizens when the power to arm the militia was
+   transferred from the states to the federal government by Article I,
+   Section 8 of the Constitution, the individual right to arm was retained
+   and strengthened by the Militia Acts of 1792 and the similar act of
+   1795.^[79]^[80]
+
+Drafting and adoption of the Constitution
+
+   Further information: Constitutional Convention
+   James Madison (left) is known as the "Father of the Constitution" and
+   "Father of the Bill of Rights"^[81] while George Mason (right) with
+   Madison is also known as the "Father of the Bill of Rights"^[82]
+   Patrick Henry (left) believed that a citizenry trained in arms was the
+   only sure guarantor of liberty^[83] while Alexander Hamilton (right)
+   wrote in Federalist No. 29 that "little more can be reasonably aimed
+   at, with respect to the people at large, than to have them properly
+   armed..."^[73]
+
+   In March 1785, delegates from Virginia and Maryland assembled at the
+   Mount Vernon Conference to fashion a remedy to the inefficiencies of
+   the Articles of Confederation. The following year, at a meeting in
+   Annapolis, Maryland, 12 delegates from five states (New Jersey, New
+   York, Pennsylvania, Delaware, and Virginia) met and drew up a list of
+   problems with the current government model. At its conclusion, the
+   delegates scheduled a follow-up meeting in Philadelphia, Pennsylvania
+   for May 1787 to present solutions to these problems, such as the
+   absence of:^[84]^[85]
+     * interstate arbitration processes to handle quarrels between states;
+     * sufficiently trained and armed intrastate security forces to
+       suppress insurrection;
+     * a national militia to repel foreign invaders.
+
+   It quickly became apparent that the solution to all three of these
+   problems required shifting control of the states' militias to the
+   federal congress and giving that congress the power to raise a standing
+   army.^[86] Article 1, Section 8 of the Constitution codified these
+   changes by allowing the Congress to provide for the common defense and
+   general welfare of the United States by doing the following:^[87]
+     * raise and support armies, but no appropriation of money to that use
+       shall be for a longer term than two years;
+     * provide and maintain a navy;
+     * make rules for the government and regulation of the land and naval
+       forces;
+     * provide for calling forth the militia to execute the laws of the
+       union, suppress insurrections and repel invasions;
+     * provide for organizing, arming, and disciplining the militia, and
+       for governing such part of them as may be employed in the service
+       of the United States, reserving to the states respectively, the
+       appointment of the officers, and the authority of training the
+       militia according to the discipline prescribed by Congress.
+
+   Some representatives mistrusted proposals to enlarge federal powers,
+   because they were concerned about the inherent risks of centralizing
+   power. Federalists, including James Madison, initially argued that a
+   bill of rights was unnecessary, sufficiently confident that the federal
+   government could never raise a standing army powerful enough to
+   overcome a militia.^[88] Federalist Noah Webster argued that an armed
+   populace would have no trouble resisting the potential threat to
+   liberty of a standing army.^[89]^[90] Anti-federalists, on the other
+   hand, advocated amending the Constitution with clearly defined and
+   enumerated rights providing more explicit constraints on the new
+   government. Many Anti-federalists feared the new federal government
+   would choose to disarm state militias. Federalists countered that in
+   listing only certain rights, unlisted rights might lose protection. The
+   Federalists realized there was insufficient support to ratify the
+   Constitution without a bill of rights and so they promised to support
+   amending the Constitution to add a bill of rights following the
+   Constitution's adoption. This compromise persuaded enough
+   Anti-federalists to vote for the Constitution, allowing for
+   ratification.^[91] The Constitution was declared ratified on June 21,
+   1788, when nine of the original thirteen states had ratified it. The
+   remaining four states later followed suit, although the last two
+   states, North Carolina and Rhode Island, ratified only after Congress
+   had passed the Bill of Rights and sent it to the states for
+   ratification.^[92] James Madison drafted what ultimately became the
+   Bill of Rights, which was proposed by the first Congress on June 8,
+   1789, and was adopted on December 15, 1791.
+
+Ratification debates
+
+   The debate surrounding the Constitution's ratification is of practical
+   importance, particularly to adherents of originalist and strict
+   constructionist legal theories. In the context of such legal theories
+   and elsewhere, it is important to understand the language of the
+   Constitution in terms of what that language meant to the people who
+   wrote and ratified the Constitution.^[93]
+
+   The Second Amendment was relatively uncontroversial at the time of its
+   ratification.^[94] Robert Whitehill, a delegate from Pennsylvania,
+   sought to clarify the draft Constitution with a bill of rights
+   explicitly granting individuals the right to hunt on their own land in
+   season,^[95] though Whitehill's language was never debated.^[96]
+
+   There was substantial opposition to the new Constitution, because it
+   moved the power to arm the state militias from the states to the
+   federal government. This created a fear that the federal government, by
+   neglecting the upkeep of the militia, could have overwhelming military
+   force at its disposal through its power to maintain a standing army and
+   navy, leading to a confrontation with the states, encroaching on the
+   states' reserved powers and even engaging in a military takeover.
+   Article VI of the Articles of Confederation states:
+
+          No vessel of war shall be kept up in time of peace by any State,
+          except such number only, as shall be deemed necessary by the
+          united States in congress assembled, for the defense of such
+          State, or its trade; nor shall any body of forces be kept up by
+          any State in time of peace, except such number only, as in the
+          judgement of the united States, in congress assembled, shall be
+          deemed requisite to garrison the forts necessary for the defense
+          of such State; but every State shall always keep up a
+          well-regulated and disciplined militia, sufficiently armed and
+          accoutered, and shall provide and constantly have ready for use,
+          in public stores, a due number of field pieces and tents, and a
+          proper quantity of arms, ammunition and camp equipage.^[97]^[98]
+
+   In contrast, Article I, Section 8, Clause 16 of the U.S. Constitution
+   states:
+
+          To provide for organizing, arming, and disciplining, the
+          Militia, and for governing such Part of them as may be employed
+          in the Service of the United States, reserving to the States
+          respectively, the Appointment of the Officers, and the Authority
+          of training the Militia according to the discipline prescribed
+          by Congress.^[99]
+
+   A foundation of American political thought during the Revolutionary
+   period was the well justified concern about political corruption and
+   governmental tyranny. Even the federalists, fending off their opponents
+   who accused them of creating an oppressive regime, were careful to
+   acknowledge the risks of tyranny. Against that backdrop, the framers
+   saw the personal right to bear arms as a potential check against
+   tyranny. Theodore Sedgwick of Massachusetts expressed this sentiment by
+   declaring that it is "a chimerical idea to suppose that a country like
+   this could ever be enslaved . . . Is it possible . . . that an army
+   could be raised for the purpose of enslaving themselves or their
+   brethren? or, if raised whether they could subdue a nation of freemen,
+   who know how to prize liberty and who have arms in their hands?"^[100]
+   Noah Webster similarly argued:
+
+          Before a standing army can rule the people must be disarmed; as
+          they are in almost every kingdom in Europe. The supreme power in
+          America cannot enforce unjust laws by the sword; because the
+          whole body of the people are armed, and constitute a force
+          superior to any band of regular troops that can be, on any
+          pretence, raised in the United States.^[101]^[102]
+
+   George Mason argued the importance of the militia and right to bear
+   arms by reminding his compatriots of England's efforts "to disarm the
+   people; that it was the best and most effectual way to enslave them . .
+   . by totally disusing and neglecting the militia." He also clarified
+   that under prevailing practice the militia included all people, rich
+   and poor. "Who are the militia? They consist now of the whole people,
+   except a few public officers." Because all were members of the militia,
+   all enjoyed the right to individually bear arms to serve
+   therein.^[101]^[103]
+
+   The framers thought the personal right to bear arms to be a paramount
+   right by which other rights could be protected. Therefore, writing
+   after the ratification of the Constitution, but before the election of
+   the first Congress, James Monroe included "the right to keep and bear
+   arms" in a list of basic "human rights", which he proposed to be added
+   to the Constitution.^[101]^[104]
+
+   Patrick Henry argued in the Virginia ratification convention on June 5,
+   1788, for the dual rights to arms and resistance to oppression:
+
+     Guard with jealous attention the public liberty. Suspect everyone
+     who approaches that jewel. Unfortunately, nothing will preserve it
+     but downright force. Whenever you give up that force, you are
+     inevitably ruined.^[105]
+
+   While both Monroe and Adams supported the Constitution being ratified,
+   its most influential framer was James Madison. In Federalist No. 46, he
+   confidently contrasted the federal government of the United States to
+   the European kingdoms, which he contemptuously described as "afraid to
+   trust the people with arms." He assured his fellow citizens that they
+   need never fear their government because of "the advantage of being
+   armed...."^[101]^[106]
+
+   By January 1788, Delaware, Pennsylvania, New Jersey, Georgia and
+   Connecticut ratified the Constitution without insisting upon
+   amendments. Several specific amendments were proposed, but were not
+   adopted at the time the Constitution was ratified. For example, the
+   Pennsylvania convention debated fifteen amendments, one of which
+   concerned the right of the people to be armed, another with the
+   militia. The Massachusetts convention also ratified the Constitution
+   with an attached list of proposed amendments. In the end, the
+   ratification convention was so evenly divided between those for and
+   against the Constitution that the federalists agreed to amendments to
+   assure ratification. Samuel Adams proposed that the Constitution:
+
+          Be never construed to authorize Congress to infringe the just
+          liberty of the press, or the rights of conscience; or to prevent
+          the people of the United States, who are peaceable citizens,
+          from keeping their own arms; or to raise standing armies, unless
+          when necessary for the defence of the United States, or of some
+          one or more of them; or to prevent the people from petitioning,
+          in a peaceable and orderly manner, the federal legislature, for
+          a redress of their grievances: or to subject the people to
+          unreasonable searches and seizures.^[101]
+
+Conflict and compromise in Congress produce the Bill of Rights
+
+   James Madison's initial proposal for a bill of rights was brought to
+   the floor of the House of Representatives on June 8, 1789, during the
+   first session of Congress. The initial proposed passage relating to
+   arms was:
+
+     The right of the people to keep and bear arms shall not be
+     infringed; a well armed and well regulated militia being the best
+     security of a free country but no person religiously scrupulous of
+     bearing arms shall be compelled to render military service in
+     person.^[107]
+
+   On July 21, Madison again raised the issue of his bill and proposed a
+   select committee be created to report on it. The House voted in favor
+   of Madison's motion,^[108] and the Bill of Rights entered committee for
+   review. The committee returned to the House a reworded version of the
+   Second Amendment on July 28.^[109] On August 17, that version was read
+   into the Journal:
+
+     A well regulated militia, composed of the body of the people, being
+     the best security of a free State, the right of the people to keep
+     and bear arms shall not be infringed; but no person religiously
+     scrupulous shall be compelled to bear arms.^[110]
+
+   In late August 1789, the House debated and modified the Second
+   Amendment. These debates revolved primarily around risk of
+   "mal-administration of the government" using the "religiously
+   scrupulous" clause to destroy the militia as Great Britain had
+   attempted to destroy the militia at the commencement of the American
+   Revolution. These concerns were addressed by modifying the final
+   clause, and on August 24, the House sent the following version to the
+   Senate:
+
+     A well regulated militia, composed of the body of the people, being
+     the best security of a free state, the right of the people to keep
+     and bear arms shall not be infringed; but no one religiously
+     scrupulous of bearing arms shall be compelled to render military
+     service in person.
+
+   The next day, August 25, the Senate received the amendment from the
+   House and entered it into the Senate Journal. However, the Senate
+   scribe added a comma before "shall not be infringed" and changed the
+   semicolon separating that phrase from the religious exemption portion
+   to a comma:
+
+     A well regulated militia, composed of the body of the people, being
+     the best security of a free state, the right of the people to keep
+     and bear arms, shall not be infringed, but no one religiously
+     scrupulous of bearing arms shall be compelled to render military
+     service in person.^[111]
+
+   By this time, the proposed right to keep and bear arms was in a
+   separate amendment, instead of being in a single amendment together
+   with other proposed rights such as the due process right. As a
+   Representative explained, this change allowed each amendment to "be
+   passed upon distinctly by the States."^[112] On September 4, the Senate
+   voted to change the language of the Second Amendment by removing the
+   definition of militia, and striking the conscientious objector clause:
+
+     A well regulated militia, being the best security of a free state,
+     the right of the people to keep and bear arms, shall not be
+     infringed.^[113]
+
+   The Senate returned to this amendment for a final time on September 9.
+   A proposal to insert the words "for the common defence" next to the
+   words "bear arms" was defeated. An extraneous comma added on August 25
+   was also removed.^[114] The Senate then slightly modified the language
+   and voted to return the Bill of Rights to the House. The final version
+   passed by the Senate was:
+
+     A well regulated militia being the security of a free state, the
+     right of the people to keep and bear arms shall not be infringed.
+
+   The House voted on September 21, 1789 to accept the changes made by the
+   Senate, but the amendment as finally entered into the House journal
+   contained the additional words "necessary to":
+
+     A well regulated militia being necessary to the security of a free
+     State, the right of the People to keep and bear arms shall not be
+     infringed.^[115]
+
+   On December 15, 1791, the Bill of Rights (the first ten amendments to
+   the Constitution) was adopted, having been ratified by three-fourths of
+   the states.
+
+Militia in the decades following ratification
+
+   Ketland brass barrel smooth bore pistol common in Colonial America
+
+   During the first two decades following the ratification of the Second
+   Amendment, public opposition to standing armies, among Anti-Federalists
+   and Federalists alike, persisted and manifested itself locally as a
+   general reluctance to create a professional armed police force, instead
+   relying on county sheriffs, constables and night watchmen to enforce
+   local ordinances.^[116] Though sometimes compensated, often these
+   positions were unpaid—held as a matter of civic duty. In these early
+   decades, law enforcement officers were rarely armed with firearms,
+   using billy clubs as their sole defensive weapons.^[116] In serious
+   emergencies, a posse comitatus, militia company, or group of vigilantes
+   assumed law enforcement duties; these individuals were more likely than
+   the local sheriff to be armed with firearms.^[116] On May 8, 1792,
+   Congress passed "[a]n act more effectually to provide for the National
+   Defence, by establishing an Uniform Militia throughout the United
+   States" requiring:
+
+     [E]ach and every free able-bodied white male citizen of the
+     respective States, resident therein, who is or shall be of age of
+     eighteen years, and under the age of forty-five years (except as is
+     herein after excepted) shall severally and respectively be enrolled
+     in the militia...[and] every citizen so enrolled and notified,
+     shall, within six months thereafter, provide himself with a good
+     musket or firelock, a sufficient bayonet and belt, two spare flints,
+     and a knapsack, a pouch with a box therein to contain not less than
+     twenty-four cartridges, suited to the bore of his musket or
+     firelock, each cartridge to contain a proper quantity of powder and
+     ball: or with a good rifle, knapsack, shot-pouch and powder-horn,
+     twenty balls suited to the bore of his rifle, and a quarter of a
+     pound of powder; and shall appear, so armed, accoutred and provided,
+     when called out to exercise, or into service, except, that when
+     called out on company days to exercise only, he may appear without a
+     knapsack.^[117]
+
+   The act also gave specific instructions to domestic weapon
+   manufacturers "that from and after five years from the passing of this
+   act, muskets for arming the militia as herein required, shall be of
+   bores sufficient for balls of the eighteenth part of a pound."^[117] In
+   practice, private acquisition and maintenance of rifles and muskets
+   meeting specifications and readily available for militia duty proved
+   problematic; estimates of compliance ranged from 10 to 65
+   percent.^[118] Compliance with the enrollment provisions was also poor.
+   In addition to the exemptions granted by the law for custom-house
+   officers and their clerks, post-officers and stage drivers employed in
+   the care and conveyance of U.S. mail, ferrymen, export inspectors,
+   pilots, merchant mariners and those deployed at sea in active service;
+   state legislatures granted numerous exemptions under Section 2 of the
+   Act, including exemptions for: clergy, conscientious objectors,
+   teachers, students, and jurors. And though a number of able-bodied
+   white men remained available for service, many simply did not show up
+   for militia duty. Penalties for failure to appear were enforced
+   sporadically and selectively.^[119] None are mentioned in the
+   legislation.^[117]
+   The Model 1795 Musket was made in the U.S. and used in the War of 1812
+
+   The first test of the militia system occurred in July 1794, when a
+   group of disaffected Pennsylvania farmers rebelled against federal tax
+   collectors whom they viewed as illegitimate tools of tyrannical
+   power.^[120] Attempts by the four adjoining states to raise a militia
+   for nationalization to suppress the insurrection proved inadequate.
+   When officials resorted to drafting men, they faced bitter resistance.
+   Forthcoming soldiers consisted primarily of draftees or paid
+   substitutes as well as poor enlistees lured by enlistment bonuses. The
+   officers, however, were of a higher quality, responding out of a sense
+   of civic duty and patriotism, and generally critical of the rank and
+   file.^[121] Most of the 13,000 soldiers lacked the required weaponry;
+   the war department provided nearly two-thirds of them with guns.^[121]
+   In October, President George Washington and General Harry Lee marched
+   on the 7,000 rebels who conceded without fighting. The episode provoked
+   criticism of the citizen militia and inspired calls for a universal
+   militia. Secretary of War Henry Knox and Vice-President John Adams had
+   lobbied Congress to establish federal armories to stock imported
+   weapons and encourage domestic production.^[121] Congress did
+   subsequently pass "[a]n act for the erecting and repairing of Arsenals
+   and Magazines" on April 2, 1794, two months prior to the
+   insurrection.^[122] Nevertheless, the militia continued to deteriorate
+   and twenty years later, the militia's poor condition contributed to
+   several losses in the War of 1812, including the sacking of Washington,
+   D.C., and the burning of the White House in 1814.^[119]
+
+Scholarly commentary
+
+Early commentary
+
+   William Rawle of Pennsylvania (left) was a lawyer and district
+   attorney; Thomas M. Cooley of Michigan (right) was an educator and
+   judge.
+   Joseph Story of Massachusetts (left) became a U.S. Supreme Court
+   justice; Tench Coxe of Pennsylvania (right) was a political economist
+   and delegate to the Continental Congress.
+
+Tench Coxe
+
+   In 1792, Tench Coxe made the following point in a commentary on the
+   Second Amendment:^[123]
+
+     As civil rulers, not having their duty to the people duly before
+     them, may attempt to tyrannize, and as the military forces which
+     must be occasionally raised to defend our country, might pervert
+     their power to the injury of their fellow citizens, the people are
+     confirmed by the next article in their right to keep and bear their
+     private arms.^[124]^[125]
+
+Tucker/Blackstone
+
+   The earliest published commentary on the Second Amendment by a major
+   constitutional theorist was by St. George Tucker. He annotated a
+   five-volume edition of Sir William Blackstone's Commentaries on the
+   Laws of England, a critical legal reference for early American
+   attorneys published in 1803.^[126] Tucker wrote:
+
+     A well regulated militia being necessary to the security of a free
+     state, the right of the people to keep, and bear arms, shall not be
+     infringed. Amendments to C. U. S. Art. 4. This may be considered as
+     the true palladium of liberty.... The right of self defence is the
+     ﬁrst law of nature: in most governments it has been the study of
+     rulers to conﬁne this right within the narrowest limits possible.
+     Wherever standing armies are kept up, and the right of the people to
+     keep and bear arms is, under any colour or pretext whatsoever,
+     prohibited, liberty, if not already annihilated, is on the brink of
+     destruction. In England, the people have been disarmed, generally,
+     under the specious pretext of preserving the game : a never failing
+     lure to bring over the landed aristocracy to support any measure,
+     under that mask, though calculated for very different purposes. True
+     it is, their bill of rights seems at ﬁrst view to counteract this
+     policy: but the right of bearing arms is conﬁned to protestants, and
+     the words suitable to their condition and degree, have been
+     interpreted to authorise the prohibition of keeping a gun or other
+     engine for the destruction of game, to any farmer, or inferior
+     tradesman, or other person not qualiﬁed to kill game. So that not
+     one man in ﬁve hundred can keep a gun in his house without being
+     subject to a penalty.^[127]
+
+   In footnotes 40 and 41 of the Commentaries, Tucker stated that the
+   right to bear arms under the Second Amendment was not subject to the
+   restrictions that were part of English law: "The right of the people to
+   keep and bear arms shall not be infringed. Amendments to C. U. S. Art.
+   4, and this without any qualification as to their condition or degree,
+   as is the case in the British government" and "whoever examines the
+   forest, and game laws in the British code, will readily perceive that
+   the right of keeping arms is effectually taken away from the people of
+   England." Blackstone himself also commented on English game laws, Vol.
+   II, p. 412, "that the prevention of popular insurrections and
+   resistance to government by disarming the bulk of the people, is a
+   reason oftener meant than avowed by the makers of the forest and game
+   laws."^[126] Blackstone discussed the right of self-defense in a
+   separate section of his treatise on the common law of crimes. Tucker's
+   annotations for that latter section did not mention the Second
+   Amendment but cited the standard works of English jurists such as
+   Hawkins.^[128]
+
+   Further, Tucker criticized the English Bill of Rights for limiting gun
+   ownership to the very wealthy, leaving the populace effectively
+   disarmed, and expressed the hope that Americans "never cease to regard
+   the right of keeping and bearing arms as the surest pledge of their
+   liberty."^[126]
+
+William Rawle
+
+   Tucker's commentary was soon followed, in 1825, by that of William
+   Rawle in his landmark text, A View of the Constitution of the United
+   States of America. Like Tucker, Rawle condemned England's "arbitrary
+   code for the preservation of game," portraying that country as one that
+   "boasts so much of its freedom," yet provides a right to "protestant
+   subjects only" that it "cautiously describ[es] to be that of bearing
+   arms for their defence" and reserves for "[a] very small proportion of
+   the people[.]"^[129] In contrast, Rawle characterizes the second clause
+   of the Second Amendment, which he calls the corollary clause, as a
+   general prohibition against such capricious abuse of government power,
+   declaring bluntly:
+
+     No clause could by any rule of construction be conceived to give to
+     congress a power to disarm the people. Such a flagitious attempt
+     could only be made under some general pretence by a state
+     legislature. But if in any blind pursuit of inordinate power, either
+     should attempt it, this amendment may be appealed to as a restraint
+     on both.^[130]
+
+   Speaking of the Second Amendment generally, Rawle said:^[131]
+
+     The prohibition is general. No clause in the Constitution could by
+     any rule of construction be conceived to give to congress a power to
+     disarm the people. Such a flagitious attempt could only be made
+     under some general pretence by a state legislature. But if in any
+     blind pursuit of inordinate power, either should attempt it, this
+     amendment may be appealed to as a restraint on both.^[131]^[132]
+
+   Rawle, long before the concept of incorporation was formally recognized
+   by the courts, or Congress drafted the Fourteenth Amendment, contended
+   that citizens could appeal to the Second Amendment should either the
+   state or federal government attempt to disarm them. He did warn,
+   however, that "this right [to bear arms] ought not...be abused to the
+   disturbance of the public peace" and observed, paraphrasing Coke, that
+   "[a]n assemblage of persons with arms, for unlawful purpose, is an
+   indictable offence, and even the carrying of arms abroad by a single
+   individual, attended with circumstances giving just reason to fear that
+   he purposes to make an unlawful use of them, would be sufficient cause
+   to require him to give surety of the peace."^[129]
+
+Joseph Story
+
+   Joseph Story articulated in his influential Commentaries on the
+   Constitution^[133] the orthodox view of the Second Amendment, which he
+   viewed as the amendment's clear meaning:
+
+     The right of the citizens to keep and bear arms has justly been
+     considered, as the palladium of the liberties of a republic; since
+     it offers a strong moral check against the usurpations and arbitrary
+     power of rulers; and it will generally, even if these are successful
+     in the first instance, enable the people to resist and triumph over
+     them. And yet, though this truth would seem so clear, and the
+     importance of a well-regulated militia would seem so undeniable, it
+     cannot be disguised, that among the American people there is a
+     growing indifference to any system of militia discipline, and a
+     strong disposition, from a sense of its burdens, to be rid of all
+     regulations. How it is practicable to keep the people duly armed
+     without some organization, it is difficult to see. There is
+     certainly no small danger, that indifference may lead to disgust,
+     and disgust to contempt; and thus gradually undermine all the
+     protection intended by this clause of our National Bill of
+     Rights.^[134]^[135]
+
+   Story describes a militia as the "natural defence of a free country,"
+   both against foreign foes, domestic revolts and usurpation by rulers.
+   The book regards the militia as a "moral check" against both usurpation
+   and the arbitrary use of power, while expressing distress at the
+   growing indifference of the American people to maintaining such an
+   organized militia, which could lead to the undermining of the
+   protection of the Second Amendment.^[135]
+
+Lysander Spooner
+
+   Abolitionist Lysander Spooner, commenting on bills of rights, stated
+   that the object of all bills of rights is to assert the rights of
+   individuals against the government and that the Second Amendment right
+   to keep and bear arms was in support of the right to resist government
+   oppression, as the only security against the tyranny of government lies
+   in forcible resistance to injustice, for injustice will certainly be
+   executed, unless forcibly resisted.^[136] Spooner's theory provided the
+   intellectual foundation for John Brown and other radical abolitionists
+   who believed that arming slaves was not only morally justified, but
+   entirely consistent with the Second Amendment.^[137] An express
+   connection between this right and the Second Amendment was drawn by
+   Lysander Spooner who commented that a "right of resistance" is
+   protected by both the right to trial by jury and the Second
+   Amendment.^[138]
+
+   The congressional debate on the proposed Fourteenth Amendment
+   concentrated on what the Southern States were doing to harm the newly
+   freed slaves, including disarming the former slaves.^[139]
+
+Timothy Farrar
+
+   In 1867, Judge Timothy Farrar published his Manual of the Constitution
+   of the United States of America, which was written when the Fourteenth
+   Amendment was “in the process of adoption by the State
+   legislatures.”:^[125]^[140]
+
+     The States are recognized as governments, and, when their own
+     constitutions permit, may do as they please; provided they do not
+     interfere with the Constitution and laws of the United States, or
+     with the civil or natural rights of the people recognized thereby,
+     and held in conformity to them. The right of every person to "life,
+     liberty, and property," to "keep and bear arms," to the "writ of
+     habeas corpus" to "trial by jury," and divers others, are recognized
+     by, and held under, the Constitution of the United States, and
+     cannot be infringed by individuals or or even by the government
+     itself.
+
+Judge Thomas Cooley
+
+   Judge Thomas Cooley, perhaps the most widely read constitutional
+   scholar of the nineteenth century, wrote extensively about this
+   amendment,^[141]^[142] and he explained in 1880 how the Second
+   Amendment protected the "right of the people":^[143]
+
+     It might be supposed from the phraseology of this provision that the
+     right to keep and bear arms was only guaranteed to the militia; but
+     this would be an interpretation not warranted by the intent. The
+     militia, as has been elsewhere explained, consists of those persons
+     who, under the law, are liable to the performance of military duty,
+     and are officered and enrolled for service when called upon. But the
+     law may make provision for the enrolment of all who are fit to
+     perform military duty, or of a small number only, or it may wholly
+     omit to make any provision at all; and if the right were limited to
+     those enrolled, the purpose of this guaranty might be defeated
+     altogether by the action or neglect to act of the government it was
+     meant to hold in check. The meaning of the provision undoubtedly is,
+     that the people, from whom the militia must be taken, shall have the
+     right to keep and bear arms; and they need no permission or
+     regulation of law for the purpose.
+
+Late 20th century commentary
+
+   Assortment of modern handguns
+
+   In the latter half of the 20th century there was considerable debate
+   over whether the Second Amendment protected an individual right or a
+   collective right.^[144] The debate centered on whether the prefatory
+   clause (“A well regulated militia being necessary to the security of a
+   free State”) declared the amendment’s only purpose or merely announced
+   a purpose to introduce the operative clause (“the right of the People
+   to keep and bear arms shall not be infringed”).
+
+   Three basic competing models were offered to interpret the Second
+   Amendment:^[145]
+
+   The first, known as the "states' rights" or "collective right" model,
+   holds that the Second Amendment does not apply to individuals; rather,
+   it recognizes the right of each state to arm its militia.
+
+     Judicial reluctance to consider seriously whether the Fourteenth
+     Amendment protects the right to keep and bear arms from state
+     infringement perhaps reflects a tendency to view the Second
+     Amendment, with its apparent guarantee of gun ownership, as
+     embarrassing and politically incorrect. Under the twentieth-century
+     “State’s rights” view, “the people” have no right to keep or bear
+     arms, but the states have a collective right to have the National
+     Guard.^[125]
+
+   The second, known as the "sophisticated collective right model", holds
+   that the Second Amendment recognizes some limited individual right.
+   However, this individual right could only be exercised by actively
+   participating members of a functioning, organized state militia.
+
+     Indeed, the fact that the collective right theory was once so
+     confidently advanced by gun control enthusiasts is on its way down
+     the collective memory hole as though it had never been asserted.
+     With its demise, the intellectual debate over the original meaning
+     of the second Amendment has turned in a different direction.
+     Although now conceding that the right to keep and bear arms indeed
+     belongs to individuals rather than to states, almost without missing
+     a beat, gun control enthusiasts now claim with equal assurance that
+     the individual right to bear arms was somehow "conditioned" in its
+     exercise on participation in an organized militia.^[146]
+
+   The third, known as the "standard model", is that the Second Amendment
+   recognized the personal right of individuals to keep and bear arms.
+
+     However, the weight of serious scholarship supports the historical
+     intent of the Second Amendment to protect individual rights and to
+     deter governmental tyranny. From the Federalist Papers to
+     explanations when the Bill of Rights was introduced, it is clear
+     that the purpose of the Second Amendment was to protect individual
+     rights.^[125]
+
+   Under both of the collective right models, the opening phrase was
+   considered essential as a pre-condition for the main clause.^[147]
+   These interpretations held that this was a grammar structure that was
+   common during that era^[148] and that this grammar dictated that the
+   Second Amendment protected a collective right to firearms to the extent
+   necessary for militia duty.^[149]
+
+   Under the standard model, the opening phrase is believed to be
+   prefatory or amplifying to the operative clause. The opening phrase was
+   meant as a non-exclusive example—one of many reasons for the
+   amendment.^[42] This interpretation is consistent with the position
+   that the Second Amendment protects a modified individual right.^[150]
+
+   The question of a collective right versus an individual right was
+   progressively resolved with the Fifth Circuit ruling in United States
+   v. Emerson (2001), along with the Supreme Court's rulings in District
+   of Columbia v. Heller (2008), and McDonald v. Chicago (2010). These
+   rulings upheld the individual rights model when interpreting the Second
+   Amendment. In Heller, the Supreme Court ruled that the Second Amendment
+   protects an individual right.^[151] Although the Second Amendment is
+   the only Constitutional amendment with a prefatory clause, such
+   constructions were widely used elsewhere.^[152]
+
+Meaning of "well regulated militia"
+
+   The term "regulated" means "disciplined" or "trained".^[153] In Heller,
+   the U.S. Supreme Court stated that "[t]he adjective 'well-regulated'
+   implies nothing more than the imposition of proper discipline and
+   training."^[154]
+
+   In the year prior to the drafting of the Second Amendment, in
+   Federalist No. 29 Alexander Hamilton wrote the following about
+   "organizing", "disciplining", "arming", and "training" of the militia
+   as specified in the enumerated powers:
+
+     If a well regulated militia be the most natural defence of a free
+     country, it ought certainly to be under the regulation and at the
+     disposal of that body which is constituted the guardian of the
+     national security...confiding the regulation of the militia to the
+     direction of the national authority...[but] reserving to the
+     states...the authority of training the militia....A tolerable
+     expertness in military movements is a business that requires time
+     and practice. It is not a day, or even a week, that will suffice for
+     the attainment of it. To oblige the great body of the yeomanry, and
+     of the other classes of the citizens, to be under arms for the
+     purpose of going through military exercises and evolutions, as often
+     as might be necessary to acquire the degree of perfection which
+     would entitle them to the character of a well-regulated militia,
+     would be a real grievance to the people, and a serious public
+     inconvenience and loss.... Little more can reasonably be aimed at,
+     with respect to the People at large, than to have them properly
+     armed and equipped; and in order to see that this be not neglected,
+     it will be necessary to assemble them once or twice in the course of
+     a year.^[73]
+
+   Justice Scalia, writing for the Court in Heller : "In Nunn v. State, 1
+   Ga. 243, 251 (1846), the Georgia Supreme Court construed the Second
+   Amendment as protecting the 'natural right of self-defence' and
+   therefore struck down a ban on carrying pistols openly. Its opinion
+   perfectly captured the way in which the operative clause of the Second
+   Amendment furthers the purpose announced in the prefatory clause, in
+   continuity with the English right":
+
+     Nor is the right involved in this discussion less comprehensive or
+     valuable: "The right of the people to bear arms shall not be
+     infringed." The right of the whole people, old and young, men, women
+     and boys, and not militia only, to keep and bear arms of every
+     description, not such merely as are used by the militia, shall not
+     be infringed, curtailed, or broken in upon, in the smallest degree;
+     and all this for the important end to be attained: the rearing up
+     and qualifying a well-regulated militia, so vitally necessary to the
+     security of a free State. Our opinion is, that any law, State or
+     Federal, is repugnant to the Constitution, and void, which
+     contravenes this right, originally belonging to our forefathers,
+     trampled under foot by Charles I. and his two wicked sons and
+     successors, reestablished by the revolution of 1688, conveyed to
+     this land of liberty by the colonists, and finally incorporated
+     conspicuously in our own Magna Charta! And Lexington, Concord,
+     Camden, River Raisin, Sandusky, and the laurel-crowned field of New
+     Orleans, plead eloquently for this interpretation! And the
+     acquisition of Texas may be considered the full fruits of this great
+     constitutional right.^[155]
+
+   Justice Stevens in dissent:
+
+     When each word in the text is given full effect, the Amendment is
+     most naturally read to secure to the people a right to use and
+     possess arms in conjunction with service in a well-regulated
+     militia. So far as appears, no more than that was contemplated by
+     its drafters or is encompassed within its terms. Even if the meaning
+     of the text were genuinely susceptible to more than one
+     interpretation, the burden would remain on those advocating a
+     departure from the purpose identified in the preamble and from
+     settled law to come forward with persuasive new arguments or
+     evidence. The textual analysis offered by respondent and embraced by
+     the Court falls far short of sustaining that heavy burden. And the
+     Court’s emphatic reliance on the claim “that the Second Amendment …
+     codified a pre-existing right,” ante, at 19 [refers to page 19 of
+     the opinion], is of course beside the point because the right to
+     keep and bear arms for service in a state militia was also a
+     pre-existing right.^[156]
+
+Meaning of "the right of the People"
+
+   Justice Antonin Scalia, writing for the majority in Heller, stated:
+
+     Nowhere else in the Constitution does a “right” attributed to “the
+     people” refer to anything other than an individual right. What is
+     more, in all six other provisions of the Constitution that mention
+     “the people,” the term unambiguously refers to all members of the
+     political community, not an unspecified subset. This contrasts
+     markedly with the phrase “the militia” in the prefatory clause. As
+     we will describe below, the “militia” in colonial America consisted
+     of a subset of “the people”— those who were male, able bodied, and
+     within a certain age range. Reading the Second Amendment as
+     protecting only the right to “keep and bear Arms” in an organized
+     militia therefore fits poorly with the operative clause’s
+     description of the holder of that right as “the people”.^[157]
+
+   An earlier case, United States v. Verdugo-Urquidez (1990), dealt with
+   nonresident aliens and the Fourth Amendment, but led to a discussion of
+   who are "the People" when referred to elsewhere in the
+   Constitution:^[158]
+
+     The Second Amendment protects "the right of the people to keep and
+     bear Arms," and the Ninth and Tenth Amendments provide that certain
+     rights and powers are retained by and reserved to "the people." ...
+     While this textual exegesis is by no means conclusive, it suggests
+     that "the people" protected by the Fourth Amendment, and by the
+     First and Second Amendments, and to whom rights and powers are
+     reserved in the Ninth and Tenth Amendments, refers to a class of
+     persons who are part of a national community or who have otherwise
+     developed sufficient connection with this country to be considered
+     part of that community.
+
+   There were several different reasons for this amendment, and protecting
+   militias was only one of them; if protecting militias had been the only
+   reason then the amendment could have instead referred to “the right of
+   the militia to keep and bear arms” instead of “the right of the people
+   to keep and bear arms”.^[159]^[160]
+
+Meaning of "keep and bear arms"
+
+   In Heller the majority rejected the view that the term "to bear arms"
+   implies only the military use of arms:
+
+     Before addressing the verbs “keep” and “bear,” we interpret their
+     object: “Arms.” The term was applied, then as now, to weapons that
+     were not specifically designed for military use and were not
+     employed in a military capacity. Thus, the most natural reading of
+     “keep Arms” in the Second Amendment is to “have weapons.” At the
+     time of the founding, as now, to “bear” meant to “carry.” In
+     numerous instances, “bear arms” was unambiguously used to refer to
+     the carrying of weapons outside of an organized militia. Nine state
+     constitutional provisions written in the 18th century or the first
+     two decades of the 19th, which enshrined a right of citizens “bear
+     arms in defense of themselves and the state” again, in the most
+     analogous linguistic context—that “bear arms” was not limited to the
+     carrying of arms in a militia. The phrase “bear Arms” also had at
+     the time of the founding an idiomatic meaning that was significantly
+     different from its natural meaning: “to serve as a soldier, do
+     military service, fight” or “to wage war.” But it unequivocally bore
+     that idiomatic meaning only when followed by the preposition
+     “against,”. Every example given by petitioners’ amici for the
+     idiomatic meaning of “bear arms” from the founding period either
+     includes the preposition “against” or is not clearly idiomatic. In
+     any event, the meaning of “bear arms” that petitioners and Justice
+     Stevens propose is not even the (sometimes) idiomatic meaning.
+     Rather, they manufacture a hybrid definition, whereby “bear arms”
+     connotes the actual carrying of arms (and therefore is not really an
+     idiom) but only in the service of an organized militia. No
+     dictionary has ever adopted that definition, and we have been
+     apprised of no source that indicates that it carried that meaning at
+     the time of the founding. Worse still, the phrase “keep and bear
+     Arms” would be incoherent. The word “Arms” would have two different
+     meanings at once: “weapons” (as the object of “keep”) and (as the
+     object of “bear”) one-half of an idiom. It would be rather like
+     saying “He filled and kicked the bucket” to mean “He filled the
+     bucket and died.”^[157]
+
+   In a dissent, joined by Justices Souter, Ginsburg, and Breyer, Justice
+   Stevens said:
+
+     The Amendment's text does justify a different limitation: the "right
+     to keep and bear arms" protects only a right to possess and use
+     firearms in connection with service in a state-organized militia.
+     Had the Framers wished to expand the meaning of the phrase "bear
+     arms" to encompass civilian possession and use, they could have done
+     so by the addition of phrases such as "for the defense of
+     themselves".^[161]
+
+Supreme Court cases
+
+   U.S. Supreme Court
+   See also: Firearm case law in the United States
+
+   In the century following the ratification of the Bill of Rights, the
+   intended meaning and application of the Second Amendment drew less
+   interest than it does in modern times.^[162] The vast majority of
+   regulation was done by states, and the first case law on weapons
+   regulation dealt with state interpretations of the Second Amendment. A
+   notable exception to this general rule was Houston v. Moore, 18 U.S. 1
+   (1820), where the U.S. Supreme Court mentioned the Second Amendment in
+   an aside.^[163] In the Dred Scott decision, the opinion of the court
+   stated that if African Americans were considered U.S. citizens, "It
+   would give to persons of the negro race, who were recognised as
+   citizens in any one State of the Union, the right...to keep and carry
+   arms wherever they went."^[164]
+
+   State and federal courts historically have used two models to interpret
+   the Second Amendment: the "individual rights" model, which holds that
+   individuals hold the right to bear arms, and the "collective rights"
+   model, which holds that the right is dependent on militia membership.
+   The "collective rights" model has been rejected by the Supreme Court,
+   in favor of the individual rights model.
+
+   The Supreme Court's primary Second Amendment cases include United
+   States v. Miller, (1939); District of Columbia v. Heller (2008); and
+   McDonald v. Chicago (2010).
+
+   Heller and McDonald supported the individual rights model, under which
+   the Second Amendment protects the right to keep and bear arms much as
+   the First Amendment protects the right to free speech. Under this
+   model, the militia is composed of members who supply their own arms and
+   ammunition. This is generally recognized as the method by which
+   militias have historically been armed, as the Supreme Court in Miller
+   said:
+
+     The signification attributed to the term Militia appears from the
+     debates in the Convention, the history and legislation of Colonies
+     and States, and the writings of approved commentators. These show
+     plainly enough that the Militia comprised all males physically
+     capable of acting in concert for the common defense. 'A body of
+     citizens enrolled for military discipline.' And further, that
+     ordinarily when called for service these men were expected to appear
+     bearing arms supplied by themselves and of the kind in common use at
+     the time.^[165]
+
+   Of the collective rights model that holds that the right to arms is
+   based on militia membership, the Supreme Court in Heller said:
+
+     A purposive qualifying phrase that contradicts the word or phrase it
+     modifies is unknown this side of the looking glass (except,
+     apparently, in some courses on Linguistics). If “bear arms” means,
+     as we think, simply the carrying of arms, a modifier can limit the
+     purpose of the carriage (“for the purpose of self-defense” or “to
+     make war against the King”). But if “bear arms” means, as the
+     petitioners and the dissent think, the carrying of arms only for
+     military purposes, one simply cannot add “for the purpose of killing
+     game.” The right “to carry arms in the militia for the purpose of
+     killing game” is worthy of the mad hatter.^[166]
+
+United States v. Cruikshank
+
+   Main article: United States v. Cruikshank
+
+   In the Reconstruction Era case of United States v. Cruikshank, 92 U.S.
+   542 (1875), the defendants were white men who had killed more than
+   sixty black people in what was known as the Colfax massacre and had
+   been charged with conspiring to prevent blacks from exercising their
+   right to bear arms. The Court dismissed the charges, holding that the
+   Bill of Rights restricted Congress but not private individuals. The
+   Court concluded, "[f]or their protection in its enjoyment, the people
+   must look to the States."^[167]
+
+   The Court stated that "[t]he Second Amendment...has no other effect
+   than to restrict the powers of the national government...."^[168]
+   Likewise, the Court held that there was no state action in this case,
+   and therefore the Fourteenth Amendment was not applicable:
+
+     The fourteenth amendment prohibits a State from depriving any person
+     of life, liberty, or property, without due process of law; but this
+     adds nothing to the rights of one citizen as against another.^[169]
+
+   Thus, the Court held a federal anti-Ku-Klux-Klan statute to be
+   unconstitutional as applied in that case.^[170]
+
+Presser v. Illinois
+
+   Main article: Presser v. Illinois
+
+   In Presser v. Illinois, 116 U.S. 252 (1886), Herman Presser headed a
+   German-American paramilitary shooting organization and was arrested for
+   leading a parade group of 400 men, training and drilling with military
+   weapons with the declared intention to fight, through the streets of
+   Chicago as a violation of Illinois law that prohibited public drilling
+   and parading in military style without a permit from the
+   governor.^[171]^[172]
+
+   At his trial, Presser argued that the State of Illinois had violated
+   his Second Amendment rights. The Supreme Court reaffirmed Cruikshank,
+   and also held that the Second Amendment prevented neither the States
+   nor Congress from barring private militias that parade with arms; such
+   a right "cannot be claimed as a right independent of law." This
+   decision upheld the States' authority to regulate the militia and that
+   citizens had no right to create their own militias or to own weapons
+   for semi-military purposes.^[171] However the court said: "A state
+   cannot prohibit the people therein from keeping and bearing arms to an
+   extent that would deprive the United States of the protection afforded
+   by them as a reserve military force."^[173]
+
+Miller v. Texas
+
+   In Miller v. Texas, 153 U.S. 535 (1894), Franklin Miller was convicted
+   and sentenced to be executed for shooting a police officer to death
+   with an illegally carried handgun in violation of Texas law. Miller
+   sought to have his conviction overturned, claiming his Second Amendment
+   rights were violated and that the Bill of Rights should be applied to
+   state law. The Supreme Court ruled that the Second Amendment did not
+   apply to state laws such as the Texas law:^[174] "As the proceedings
+   were conducted under the ordinary forms of criminal prosecutions there
+   certainly was no denial of due process of law."^[175]
+
+Robertson v. Baldwin
+
+   In Robertson v. Baldwin, 165 U.S. 275 (1897), the Court stated in dicta
+   that laws regulating concealed arms did not infringe upon the right to
+   keep and bear arms and thus were not a violation of the Second
+   Amendment:
+
+     The law is perfectly well settled that the first ten amendments to
+     the Constitution, commonly known as the "Bill of Rights," were not
+     intended to lay down any novel principles of government, but simply
+     to embody certain guaranties and immunities which we had inherited
+     from our English ancestors, and which had, from time immemorial,
+     been subject to certain well recognized exceptions arising from the
+     necessities of the case. In incorporating these principles into the
+     fundamental law, there was no intention of disregarding the
+     exceptions, which continued to be recognized as if they had been
+     formally expressed. Thus, the freedom of speech and of the press
+     (Art. I) does not permit the publication of libels, blasphemous or
+     indecent articles, or other publications injurious to public morals
+     or private reputation; the right of the people to keep and bear arms
+     (Art. II) is not infringed by laws prohibiting the carrying of
+     concealed weapons.^[176]
+
+United States v. Miller
+
+   Main article: United States v. Miller
+
+   In United States v. Miller, 307 U.S. 174 (1939), the Supreme Court
+   rejected a Second Amendment challenge to the National Firearms Act
+   prohibiting the interstate transportation of unregistered Title II
+   weapons:
+
+     Jack Miller and Frank Layton "did unlawfully...transport in
+     interstate commerce from...Claremore...Oklahoma to...Siloam
+     Springs...Arkansas a certain firearm...a double barrel...shotgun
+     having a barrel less than 18 inches in length...at the time of so
+     transporting said firearm in interstate commerce...not having
+     registered said firearm as required by Section 1132d of Title 26,
+     United States Code, ...and not having in their possession a
+     stamp-affixed written order...as provided by Section 1132C..."^[177]
+
+   In a unanimous opinion authored by Justice McReynolds, the Supreme
+   Court stated "the objection that the Act usurps police power reserved
+   to the States is plainly untenable."^[178] As the Court explained:
+
+     In the absence of any evidence tending to show that possession or
+     use of a 'shotgun having a barrel of less than eighteen inches in
+     length' at this time has some reasonable relationship to any
+     preservation or efficiency of a well regulated militia, we cannot
+     say that the Second Amendment guarantees the right to keep and bear
+     such an instrument. Certainly it is not within judicial notice that
+     this weapon is any part of the ordinary military equipment or that
+     its use could contribute to the common defense.^[179]
+
+   Gun rights advocates claim that the Court in Miller ruled that the
+   Second Amendment protected the right to keep arms that are part of
+   "ordinary military equipment."^[180] They also claim that the Court did
+   not consider the question of whether the sawed-off shotgun in the case
+   would be an applicable weapon for personal defense, instead looking
+   solely at the weapon's suitability for the "common defense."^[181] Law
+   professor Andrew McClurg states, "The only certainty about Miller is
+   that it failed to give either side a clear-cut victory. Most modern
+   scholars recognize this fact."^[182]
+
+District of Columbia v. Heller
+
+   Main article: District of Columbia v. Heller
+
+Judgment
+
+   The Justices who decided Heller
+
+   According to the syllabus prepared by the U.S. Supreme Court Reporter
+   of Decisions,^[183] in District of Columbia v. Heller, 554 U.S. 570
+   (2008), the Supreme Court held:^[183]^[184]
+
+          1. The Second Amendment protects an individual right to possess
+          a firearm unconnected with service in a militia, and to use that
+          arm for traditionally lawful purposes, such as self-defense
+          within the home. Pp. 2–53.^[183]^[184]
+
+                (a) The Amendment’s prefatory clause announces a purpose,
+                but does not limit or expand the scope of the second part,
+                the operative clause. The operative clause’s text and
+                history demonstrate that it connotes an individual right
+                to keep and bear arms. Pp. 2–22.^[183]^[184]
+                (b) The prefatory clause comports with the Court’s
+                interpretation of the operative clause. The “militia”
+                comprised all males physically capable of acting in
+                concert for the common defense. The Antifederalists feared
+                that the Federal Government would disarm the people in
+                order to disable this citizens’ militia, enabling a
+                politicized standing army or a select militia to rule. The
+                response was to deny Congress power to abridge the ancient
+                right of individuals to keep and bear arms, so that the
+                ideal of a citizens’ militia would be preserved.
+                Pp. 22–28.^[183]^[184]
+                (c) The Court’s interpretation is confirmed by analogous
+                arms-bearing rights in state constitutions that preceded
+                and immediately followed the Second Amendment.
+                Pp. 28–30.^[183]^[184]
+                (d) The Second Amendment’s drafting history, while of
+                dubious interpretive worth, reveals three state Second
+                Amendment proposals that unequivocally referred to an
+                individual right to bear arms. Pp. 30–32.^[183]^[184]
+                (e) Interpretation of the Second Amendment by scholars,
+                courts and legislators, from immediately after its
+                ratification through the late 19th century also supports
+                the Court’s conclusion. Pp. 32–47.^[183]^[184]
+                (f) None of the Court’s precedents forecloses the Court’s
+                interpretation. Neither United States v. Cruikshank, 92 U.
+                S. 542 , nor Presser v. Illinois, 116 U. S. 252, refutes
+                the individual-rights interpretation. United States v.
+                Miller, 307 U. S. 174, does not limit the right to keep
+                and bear arms to militia purposes, but rather limits the
+                type of weapon to which the right applies to those used by
+                the militia, i.e., those in common use for lawful
+                purposes. Pp. 47–54.^[183]^[184]
+
+          2. Like most rights, the Second Amendment right is not
+          unlimited. It is not a right to keep and carry any weapon
+          whatsoever in any manner whatsoever and for whatever purpose:
+          For example, concealed weapons prohibitions have been upheld
+          under the Amendment or state analogues. The Court’s opinion
+          should not be taken to cast doubt on longstanding prohibitions
+          on the possession of firearms by felons and the mentally ill, or
+          laws forbidding the carrying of firearms in sensitive places
+          such as schools and government buildings, or laws imposing
+          conditions and qualifications on the commercial sale of arms.
+          Miller's holding that the sorts of weapons protected are those
+          "in common use at the time" finds support in the historical
+          tradition of prohibiting the carrying of dangerous and unusual
+          weapons. Pp. 54–56.^[183]^[184]
+          3. The handgun ban and the trigger-lock requirement (as applied
+          to self-defense) violate the Second Amendment. The District’s
+          total ban on handgun possession in the home amounts to a
+          prohibition on an entire class of "arms" that Americans
+          overwhelmingly choose for the lawful purpose of self-defense.
+          Under any of the standards of scrutiny the Court has applied to
+          enumerated constitutional rights, this prohibition—in the place
+          where the importance of the lawful defense of self, family, and
+          property is most acute—would fail constitutional muster.
+          Similarly, the requirement that any lawful firearm in the home
+          be disassembled or bound by a trigger lock makes it impossible
+          for citizens to use arms for the core lawful purpose of
+          self-defense and is hence unconstitutional. Because Heller
+          conceded at oral argument that the D. C. licensing law is
+          permissible if it is not enforced arbitrarily and capriciously,
+          the Court assumes that a license will satisfy his prayer for
+          relief and does not address the licensing requirement. Assuming
+          he is not disqualified from exercising Second Amendment rights,
+          the District must permit Heller to register his handgun and must
+          issue him a license to carry it in the home. Pp. 56–64.^[184]
+
+   There are similar legal summaries of the Supreme Court's findings in
+   Heller.^[185]^[186]^[187]^[188]^[189]^[190] For example, the Illinois
+   Supreme Court in People v. Aguilar (2013), summed up the Heller's
+   findings and reasoning:
+
+     In District of Columbia v. Heller, 554 U.S. 570 (2008), the Supreme
+     Court undertook its first-ever “in-depth examination” of the second
+     amendment’s meaning Id. at 635. After a lengthy historical
+     discussion, the Court ultimately concluded that the second amendment
+     “guarantee[s] the individual right to possess and carry weapons in
+     case of confrontation” (id. at 592); that “central to” this right is
+     “the inherent right of self-defense”(id. at 628); that “the home” is
+     “where the need for defense of self, family, and property is most
+     acute” (id. at 628); and that, “above all other interests,” the
+     second amendment elevates “the right of law abiding, responsible
+     citizens to use arms in defense of hearth and home” (id. at 635).
+     Based on this understanding, the Court held that a District of
+     Columbia law banning handgun possession in the home violated the
+     second amendment. Id. at 635.^[191]
+
+Notes and analysis
+
+   Heller has been widely described as a landmark
+   decision.^[192]^[193]^[194]^[195]^[196] To clarify that its ruling does
+   not invalidate a broad range of existing firearm laws, the majority
+   opinion, written by Justice Antonin Scalia, said:^[197]
+
+     Like most rights, the right secured by the Second Amendment is not
+     unlimited....Although we do not undertake an exhaustive historical
+     analysis today of the full scope of the Second Amendment, nothing in
+     our opinion should be taken to cast doubt on longstanding
+     prohibitions on the possession of firearms by felons and the
+     mentally ill, or laws forbidding the carrying of firearms in
+     sensitive places such as schools and government buildings, or laws
+     imposing conditions and qualifications on the commercial sale of
+     arms.^[198]
+
+   The Court's statement that the right is limited has been widely
+   discussed by lower courts and the media.^[199]^[200]^[201]^[202]^[203]
+   The majority opinion also said that the amendment's prefatory clause
+   (referencing the "militia") serves to clarify the operative clause
+   (referencing "the people"), but does not limit the scope of the
+   operative clause, because "the 'militia' in colonial America consisted
+   of a subset of 'the people'...."^[204]
+
+   Justice Stevens' dissenting opinion, which was joined by the three
+   other dissenters, said:
+
+     The question presented by this case is not whether the Second
+     Amendment protects a "collective right" or an "individual right."
+     Surely it protects a right that can be enforced by individuals. But
+     a conclusion that the Second Amendment protects an individual right
+     does not tell us anything about the scope of that right.^[205]
+
+   This dissent called the majority opinion "strained and unpersuasive"
+   and said that the right to possess a firearm exists only in relation to
+   the militia and that the D.C. laws constitute permissible regulation.
+   In the majority opinion, Justice Stevens' interpretation of the phrase
+   "to keep and bear arms" was referred to as a "hybrid" definition that
+   Stevens purportedly chose in order to avoid an "incoherent" and
+   "[g]rotesque" idiomatic meeting.^[206]
+
+   Justice Breyer, in his own dissent joined by Stevens, Souter, and
+   Ginsburg, stated that the entire Court subscribes to the proposition
+   that "the amendment protects an 'individual' right—i.e., one that is
+   separately possessed, and may be separately enforced, by each person on
+   whom it is conferred".^[207]
+
+   Regarding the term "well regulated", the majority opinion said, "The
+   adjective 'well-regulated' implies nothing more than the imposition of
+   proper discipline and training."^[154] The majority opinion quoted
+   Spooner from The Unconstitutionality of Slavery as saying that the
+   right to bear arms was necessary for those who wanted to take a stand
+   against slavery.^[208] The majority opinion also stated that:
+
+     A purposive qualifying phrase that contradicts the word or phrase it
+     modifies is unknown this side of the looking glass (except,
+     apparently, in some courses on Linguistics). If "bear arms" means,
+     as we think, simply the carrying of arms, a modifier can limit the
+     purpose of the carriage ("for the purpose of self-defense" or "to
+     make war against the King"). But if "bear arms" means, as the
+     petitioners and the dissent think, the carrying of arms only for
+     military purposes, one simply cannot add "for the purpose of killing
+     game." The right "to carry arms in the militia for the purpose of
+     killing game" is worthy of the mad hatter.^[209]
+
+   The dissenting justices were not persuaded by this argument.^[210]
+
+   Reaction to Heller has varied, with many sources giving focus to the
+   ruling referring to itself as being the first in Supreme Court history
+   to read the Second Amendment as protecting an individual right. The
+   majority opinion, authored by Justice Scalia, gives explanation of the
+   majority legal reasoning behind this decision.^[184] The majority
+   opinion made clear that the recent ruling did not foreclose the Court’s
+   prior interpretations given in United States v. Cruikshank, Presser v.
+   Illinois, and United States v. Miller though these earlier rulings did
+   not limit the right to keep and bear arms solely to militia purposes,
+   but rather limits the type of weapon to which the right applies to
+   those used by the militia (i.e., those in common use for lawful
+   purposes).^[184]
+
+   Heller pertained to three District of Columbia ordinances involving
+   restrictions on firearms amounting to a total ban. These three
+   ordinances were a ban on handgun registration, a requirement that all
+   firearms in a home be either disassembled or have a trigger lock, and
+   licensing requirement that prohibits carrying an unlicensed firearm in
+   the home, such as from one room to another.
+
+     Under any of the standards of scrutiny the Court has applied to
+     enumerated constitutional rights, this prohibition—in the place
+     where the importance of the lawful defense of self, family, and
+     property is most acute—would fail constitutional muster.... Because
+     Heller conceded at oral argument that the District's licensing law
+     is permissible if it is not enforced arbitrarily and capriciously,
+     the Court assumed that a license will satisfy his prayer for relief
+     and did not address the licensing requirement. Assuming he is not
+     disqualified from exercising Second Amendment rights, the District
+     must permit Heller to register his handgun and must issue him a
+     license to carry it in the home."^[184]
+
+McDonald v. Chicago
+
+   Main article: McDonald v. Chicago
+
+   On June 28, 2010, the Court in McDonald v. Chicago, 561 U.S. 3025
+   (2010) held that the Second Amendment was incorporated. This means that
+   the Court ruled that the Second Amendment limits state and local
+   governments to the same extent that it limits the federal
+   government.^[14] It also remanded a case regarding a Chicago handgun
+   prohibition. Four of the five Justices in the majority voted to do so
+   by way of the Due Process Clause of the Fourteenth Amendment, while the
+   fifth Justice, Clarence Thomas, voted to do so through the amendment's
+   Privileges or Immunities Clause.^[211]
+
+   Justice Thomas noted that the Privileges or Immunities Clause refers to
+   "citizens" whereas the Due Process Clause refers more broadly to any
+   "person", and therefore Thomas reserved the issue of non-citizens for
+   later decision.^[212] After McDonald, many questions about the Second
+   Amendment remain unsettled, such as whether non-citizens are protected
+   through the Equal Protection Clause.^[212]
+
+   In People v. Aguilar (2013), the Illinois Supreme Court summed up the
+   central Second Amendment findings in McDonald:
+
+     Two years later, in McDonald v. City of Chicago, 561 U.S. ___, ___,
+     130 S. Ct. 3020, 3050 (2010), the Supreme Court held that the second
+     amendment right recognized in Heller is applicable to the states
+     through the due process clause of the fourteenth amendment. In so
+     holding, the Court reiterated that “the Second Amendment protects
+     the right to keep and bear arms for the purpose of self-defense”
+     (id. at ___, 130 S. Ct. at 3026); that “individual self-defense is
+     ‘the central component’ of the Second Amendment right” (emphasis in
+     original) (id. at ___, 130 S. Ct. at 3036 (quoting Heller, 554 U.S.
+     at 599)); and that “[s]elf-defense is a basic right, recognized by
+     many legal systems from ancient times to the present day” (id. at
+     ___, 130 S. Ct. at 3036).^[191]
+
+United States Courts of Appeals decisions before and after Heller
+
+Before Heller
+
+   Until District of Columbia v. Heller (2008), United States v. Miller
+   (1939) had been the only Supreme Court decision that "tested a
+   congressional enactment against [the Second Amendment]."^[11] Miller
+   did not directly mention either a collective or individual right, but
+   for the 62-year period from Miller until the Fifth Circuit's decision
+   in United States v. Emerson (2001), federal courts recognized only the
+   collective right,^[213] with "courts increasingly referring to one
+   another's holdings...without engaging in any appreciably substantive
+   legal analysis of the issue".^[11]
+
+   Emerson changed this by addressing the question in depth, with the
+   Fifth Circuit determining that the Second Amendment protects an
+   individual right.^[11] Subsequently, the Ninth Circuit conflicted with
+   Emerson in Silviera v. Lockyer, and the D.C. Circuit supported Emerson
+   in Parker v. District of Columbia.^[11] Parker evolved into District of
+   Columbia v. Heller, in which the U.S. Supreme Court determined that the
+   Second Amendment protects an individual right.
+
+After Heller
+
+   Since Heller, the United States courts of appeals have ruled on many
+   Second Amendment challenges to convictions and gun control
+   laws.^[214]^[215] The following are post-Heller cases, divided by
+   Circuit, along with summary notes:
+
+   D.C. Circuit
+     * Heller v. District of Columbia, Civil Action No. 08-1289 (RMU), No.
+       23., 25 On March 26, 2010, the D.C. Circuit denied the follow up
+       appeal of Dick Heller who requested the court to overturn the new
+       District of Columbia gun control ordinances newly enacted after the
+       2008 Heller ruling. The court refused to do so, stating that the
+       firearms registration procedures; the prohibition on assault
+       weapons; and the prohibition on large capacity ammunition feeding
+       devices were found to not violate the Second Amendment.^[216]
+
+   First Circuit
+     * United States v. Rene E., 583 F.3d 8 (1st Cir. 2009) – On August
+       31, 2009, the First Circuit affirmed the conviction of a juvenile
+       for the illegal possession of a handgun as a juvenile, under 18
+       U.S.C. § 922(x)(2)(A) and 18 U.S.C. § 5032, rejecting the
+       defendant's argument that the federal law violated his Second
+       Amendment rights under Heller. The court cited "the existence of a
+       longstanding tradition of prohibiting juveniles from both receiving
+       and possessing handguns" and observed "the federal ban on juvenile
+       possession of handguns is part of a longstanding practice of
+       prohibiting certain classes of individuals from possessing firearms
+       — those whose possession poses a particular danger to the
+       public."^[217]
+
+   Second Circuit
+     * Kachalsky v. County of Westchester, 11-3942 – On November 28, 2012,
+       the Second Circuit upheld New York's may-issue concealed carry
+       permit law, ruling that "the proper cause requirement is
+       substantially related to New York's compelling interests in public
+       safety and crime prevention."^[218]
+
+   Fourth Circuit
+     * United States v. Hall, 551 F.3d 257 (4th Cir. 2009) – On August 4,
+       2008, the Fourth Circuit upheld as constitutional the prohibition
+       of possession of a concealed weapon without a permit.^[219]
+
+     * United States v. Chester, 628 F.3d 673 (4th Cir. 2010) – On
+       December 30, 2010, the Fourth Circuit vacated William Chester's
+       conviction for possession of a firearm after having been convicted
+       of a misdemeanor crime of domestic violence, in violation of 18
+       U.S.C. § 922(g)(9).^[220] The court found that the district court
+       erred in perfunctorily relying on Heller's exception for
+       "presumptively lawful" gun regulations made in accordance with
+       "longstanding prohibitions".^[221]
+
+   Fifth Circuit
+     * United States v. Dorosan, 350 Fed. Appx. 874 (5th Cir. 2009) – On
+       June 30, 2008, the Fifth Circuit upheld 39 C.F.R. 232.1(l), which
+       bans weapons on postal property, sustaining restrictions on guns
+       outside the home, specifically in private vehicles parked in
+       employee parking lots of government facilities, despite Second
+       Amendment claims that were dismissed. The employee's Second
+       Amendment rights were not infringed since the employee could have
+       instead parked across the street in a public parking lot, instead
+       of on government property.^[222]^[223]
+
+     * United States v. Bledsoe, 334 Fed. Appx. 771 (5th Cir. 2009) – The
+       Fifth Circuit affirmed the decision of a U.S. District Court
+       decision in Texas, upholding 18 U.S.C. § 922(a)(6), which prohibits
+       "straw purchases." A "straw purchase" occurs when someone eligible
+       to purchase a firearm buys one for an ineligible person.
+       Additionally, the court rejected the request for a strict scrutiny
+       standard of review.^[219]
+
+     * United States v. Scroggins, 551 F.3d 257 (5th Cir. 2010) – On March
+       4, 2010, the Fifth Circuit affirmed the conviction of Ernie
+       Scroggins for possession of a firearm as a convicted felon, in
+       violation of 18 U.S.C. § 922(g)(1). The court noted that it had,
+       prior to Heller, identified the Second Amendment as providing an
+       individual right to bear arms, and had already, likewise,
+       determined that restrictions on felon ownership of firearms did not
+       violate this right. Moreover, it observed that Heller did not
+       affect the longstanding prohibition of firearm possession by
+       felons.
+
+   Seventh Circuit
+     * United States v. Skoien, 587 F.3d 803 (7th Cir. 2009) – Steven
+       Skoien, a Wisconsin man convicted of two misdemeanor domestic
+       violence convictions, appealed his conviction based on the argument
+       that the prohibition violated the individual rights to bear arms,
+       as described in Heller. After initial favorable rulings in lower
+       court based on a standard of intermediate scrutiny,^[224] on July
+       13, 2010, the Seventh Circuit, sitting en banc, ruled 10–1 against
+       Skoien and reinstated his conviction for a gun violation, citing
+       the strong relation between the law in question and the government
+       objective.^[224] Skoien was convicted and sentenced to two years in
+       prison for the gun violation, and will thus likely be subject to a
+       lifetime ban on gun ownership.^[225]^[226] Editorials favoring gun
+       rights sharply criticized this ruling as going too far with the
+       enactment of a lifetime gun ban,^[227] while editorials favoring
+       gun regulations praised the ruling as "a bucket of cold water
+       thrown on the 'gun rights' celebration".^[228]
+
+     * Moore v. Madigan (Circuit docket 12-1269)^[229] – On December 11,
+       2012, the Seventh Circuit ruled that the Second Amendment protected
+       a right to keep and bear arms in public for self-defense. This was
+       an expansion of the Supreme Court's decisions in Heller and
+       McDonald, each of which referred only to such a right in the home.
+       Based on this ruling, the court declared Illinois's ban on the
+       concealed carrying of firearms to be unconstitutional. The court
+       stayed this ruling for 180 days, so Illinois could enact
+       replacement legislation.^[230]^[231]^[232] On February 22, 2013, a
+       petition for rehearing en banc was denied by a vote of 5-4.^[233]
+       On July 9, 2013, the Illinois General Assembly, overriding Governor
+       Quinn's veto, passed a law permitting the concealed carrying of
+       firearms.^[234]
+
+   Ninth Circuit
+     * Nordyke v. King, 2012 WL 1959239 (9th Cir. 2012) – On July 29,
+       2009, the Ninth Circuit vacated an April 20 panel decision and
+       reheard the case en banc on September 24,
+       2009.^[235]^[236]^[237]^[238] The April 20 decision had held that
+       the Second Amendment applies to state and local governments, while
+       upholding an Alameda County, California ordinance that makes it a
+       crime to bring a gun or ammunition on to, or possess either while
+       on, county property.^[239]^[240] The en banc panel remanded the
+       case to the three-judge panel. On May 2, 2011, that panel ruled
+       that intermediate scrutiny was the correct standard by which to
+       judge the ordinance's constitutionality and remanded the case to
+       the United States District Court for the Northern District of
+       California.^[241] On November 28, 2011, the Ninth Circuit vacated
+       the panel's May 2 decision and agreed to rehear the case en
+       banc.^[242]^[243] On April 4, 2012, the panel sent the case to
+       mediation.^[244] The panel dismissed the case on June 1, 2012, but
+       only after Alameda County officials changed their interpretation of
+       the challenged ordinance. Under the new interpretation, gun shows
+       may take place on county property under the ordinance's exception
+       for "events", subject to restrictions regarding the display and
+       handling of firearms.^[245]
+
+See also
+
+   See also Category:Firearms-related organizations.
+     * Right to keep and bear arms in the United States
+     * Uniform Firearms Act - a set of statutes in Pennsylvania that
+       define and amplify the right to bear arms in that state's
+       Constitution.
+     * Right to keep and bear arms - international views on the concept by
+       country
+     * List of Amendments to the United States Constitution
+
+Notes and citations
+
+    1. ^
+       http://ia600607.us.archive.org/23/items/gov.uscourts.mad.135876/gov
+       .uscourts.mad.135876.31.0.pdf
+    2. ^ http://monachuslex.com/?p=143
+    3. ^ Constitutional Law. Casenotes.
+    4. ^ Jilson, Cal. American Government: Political Development and
+       Institutional Change.
+    5. ^ Shaman, Jeffrey. "After Heller : What Now for the Second
+       Amendment". Santa Clara Law Review. Retrieved 30 January 2014.
+    6. ^ "US Senate Annotated Constitution". Retrieved 30 January 2014.
+    7. ^ Epstein, Lee; Walk, Thomas G. (Sep 18, 2012). Constitutional Law
+       for a Changing America: Rights, Liberties and Justice (8 ed.). CQ
+       Press. pp. 395–396. ISBN 978-1-4522-2674-3.
+    8. ^ "Blackstone's Commentaries on the Laws of England - Book the
+       First - Chapter the First: Of the Absolute Rights of Individuals,
+       page 139". Avalon.law.yale.edu. Retrieved 2013-08-01.
+    9. ^ "United States v. Cruikshank - 92 U.S. 542 (1875)". Retrieved
+       September 5, 2013.
+   10. ^ "United States v. Miller, 307 U.S. 174 (1939)". Cornell
+       University Law School. Retrieved September 5, 2013.
+   11. ^ ^a ^b ^c ^d ^e ^f CRS Report for Congress District of Columbia v.
+       Heller: The Supreme Court and the Second Amendment April 11, 2008
+       Congressional Research Service T.J. Halsted,Legislative
+       Attorney,American Law Division. Order Code RL34446
+       http://assets.opencrs.com/rpts/RL34446_20080411.pdf.
+   12. ^ Pollock, Earl (2008). The Supreme Court and American Democracy:
+       Case Studies on Judicial Review and Public Policy. Greenwood.
+       p. 423. ISBN 978-0-313-36525-6.
+   13. ^ editor, Gregg Lee Carter,. Guns in American society : an
+       encyclopedia of history, politics, culture, and the law (2nd ed.
+       ed.). Santa Barbara, Calif.: ABC-CLIO. ISBN 978-0-313-38670-1.
+   14. ^ ^a ^b Liptak, Adam (June 28, 2010). "Justices Extend Firearm
+       Rights in 5-to-4 Ruling". The New York Times. Retrieved December
+       17, 2012.
+   15. ^ editor, Gregg Lee Carter,. Guns in American society : an
+       encyclopedia of history, politics, culture, and the law (2nd ed.
+       ed.). Santa Barbara, Calif.: ABC-CLIO. p. Introduction.
+       ISBN 978-0-313-38670-1.
+   16. ^ Davies, pp. 209–16.
+   17. ^ The second amendment's capitalization and punctuation are not
+       uniformly reported; another version has four commas, after
+       "militia," "state," and "arms." Since documents were at that time
+       copied by hand, variations in punctuation and capitalization are
+       common, and the copy retained by the first Congress, the copies
+       transmitted by it to the state legislatures, and the ratifications
+       returned by them show wide variations in such details. Letter from
+       Marlene McGuirl, Chief, British-American Law Division, Library of
+       Congress (Oct. 29, 1976).
+   18. ^ Freedman, Adam (December 16, 2007). "Clause and Effect". The New
+       York Times.
+   19. ^
+       http://www.archives.gov/publications/prologue/2012/fall/const-error
+       s.html
+   20. ^ "The Second Amendment Controversy Explained - Theodore L. Johnson
+       - Google Books". Books.google.com. Retrieved 2013-07-05.
+   21. ^ "Writing Instruction for Generation 2.0 - Gloria E. Jacobs -
+       Google Books". Books.google.com. Retrieved 2013-07-05.
+   22. ^ "Constitutional Mythologies: New Perspectives on Controlling the
+       State - Google Books". Books.google.com. Retrieved 2013-07-05.
+   23. ^ "Separation of Powers in Practice - Thomas Campbell - Google
+       Books". Books.google.com. Retrieved 2013-07-05.
+   24. ^ In Part II-A of the Opinion of the Court in District of Columbia
+       v. Heller, the Supreme Court cited this version of the amendment,
+       but another version is found in the copies distributed and then
+       ratified by them.
+   25. ^ "The Constitution of the United States of America: Analysis, and
+       Interpretation - 1992 Edition - Second Amendment - Bearing Arms".
+       Gpo.gov. Retrieved 2013-07-05.
+   26. ^ "Second Amendment Foundation Online". Saf.org. 1995-08-09.
+       Retrieved 2013-07-05.
+   27. ^ "U.S. Constitution For Dummies - Michael Arnheim - Google Books".
+       Books.google.com. 2009-04-29. Retrieved 2013-07-05.
+   28. ^ "Reading the Second Amendment: The Freeman: Foundation for
+       Economic Education". Fee.org. Retrieved 2013-07-05.
+   29. ^ "National Archives - Bill of Rights". Retrieved 28 May 2013.
+   30. ^
+       http://memory.loc.gov/cgi-bin/ampage?collId=llsl&fileName=001/llsl0
+       01.db&recNum=220
+   31. ^ Blackstone's Commentaries Book 1 Ch 1 – "The fifth and last
+       auxiliary right of the subject ... is that of having arms for their
+       defence".
+   32. ^ From the English civil war until the Glorious Revolution,
+       militias occasionally disarmed Catholics, and the King, without
+       Parliament's consent, likewise occasionally disarmed Protestants.
+       Malcolm, "The Role of the Militia," pp. 139–51.
+   33. ^ Joyce Lee Malcolm, To Keep and Bear Arms.
+   34. ^ "They accordingly obtained an assurance from William and Mary, in
+       the...(Bill of Rights), that Protestants would never be
+       disarmed:..This right has long been understood to be the
+       predecessor to our Second Amendment.... It was clearly an
+       individual right, having nothing whatever to do with service in a
+       militia. To be sure, it was an individual right not available to
+       the whole population, given that it was restricted to Protestants,
+       and like all written English rights it was held only against the
+       Crown, not Parliament." Opinion of the Court in Heller
+   35. ^ ^a ^b "1688 c.2 1 Will. and Mar. Sess. 2". Statutelaw.gov.uk.
+       Retrieved August 30, 2010.
+   36. ^ Barnett, Law, p. 172.
+   37. ^ "This meaning is strongly confirmed by the historical background
+       of the Second Amendment. We look to this because it has always been
+       widely understood that the Second Amendment, like the First and
+       Fourth Amendments, codified a pre-existing right. The very text of
+       the Second Amendment implicitly recognizes the pre-existence of the
+       right and declares only that it “shall not be infringed.” As we
+       (the United States Supreme Court) said in United States v.
+       Cruikshank, 92 U. S. 542, 553 (1876), “[t]his is not a right
+       granted by the Constitution. Neither is it in any manner dependent
+       upon that instrument for its existence. The Second amendment
+       declares that it shall not be infringed ..”. Between the
+       Restoration and the Glorious Revolution, the Stuart Kings Charles
+       II and James II succeeded in using select militias loyal to them to
+       suppress political dissidents, in part by disarming their
+       opponents. See J. Malcolm, To Keep and Bear Arms 31–53 (1994)
+       (hereinafter Malcolm); L. Schwoerer, The Declaration of Rights,
+       1689, p. 76 (1981). Under the auspices of the 1671 Game Act, for
+       example, the Catholic James II had ordered general disarmaments of
+       regions home to his Protestant enemies. See Malcolm 103–106. These
+       experiences caused Englishmen to be extremely wary of concentrated
+       military forces run by the state and to be jealous of their arms.
+       They accordingly obtained an assurance from William and Mary, in
+       the Declaration of Right (which was codified as the English Bill of
+       Rights), that Protestants would never be disarmed: “That the
+       subjects which are Protestants may have arms for their defense
+       suitable to their conditions and as allowed by law.” 1 W. & M., c.
+       2, §7, in 3 Eng. Stat. at Large 441 (1689). This right has long
+       been understood to be the predecessor to our Second Amendment. See
+       E. Dumbauld, The Bill of Rights and What It Means Today 51 (1957);
+       W. Rawle, A View of the Constitution of the United States of
+       America 122 (1825) (hereinafter Rawle)." From the Opinion of the
+       Court in District of Coöimbia versus Heller
+       http://www.supremecourt.gov/opinions/07pdf/07-290.pdf
+   38. ^ Justice Antonin Scalia, wrote that "the right of the people to
+       keep and bear Arms, shall not be infringed" was a just a
+       controlling one and referred to it as a pre-existing right of
+       individuals to possess and carry personal weapons for self-defense
+       and intrinsically for defense against tyranny. As with the English
+       law "like most rights, the Second Amendment is not unlimited. It is
+       not a right to keep and carry any weapon whatsoever in any manner
+       whatsoever and for whatever purpose." District of Columbia v Heller
+   39. ^ "Where a later enactment does not expressly repeal an earlier
+       enactment which it has power to override, but the provisions of the
+       later enactment are contrary to those of the earlier, the latter by
+       implication repeals the earlier." R v. Burke, [1998] EWHC Admin
+       913; "[T]he Bill of Rights...was declaratory of the common law. It
+       contained in it its own words of limitation, namely that the right
+       to have arms for self-defence is limited by the words 'and as
+       allowed by Law'. The law is a changing thing. Parliament by statute
+       can repeal the common law...Where the Bill of Rights says that 'the
+       Subjects may have arms for their defence suitable for their
+       condition and as allowed by law', 'and as allowed by law' means
+       'and as allowed by law for the time being'[.]" R v. Burke, [1999]
+       EWCA Civ 923.
+   40. ^ Thompson, Mark (1938). Constitutional History of England.  qtd.
+       in Maer and Gay, p. 4.
+   41. ^ Malcolm, To Keep and Bear Arms, p. 51.
+   42. ^ ^a ^b Ely and Bodenhamer, pp. 89–91.
+   43. ^ Heyman, pp. 253–9. "Finally, we should note that (contrary to
+       Kates's assertion), Blackstone nowhere suggests that the right to
+       arms derives from "the common law." Instead, this is a right that
+       is secured by "the constitution," and in particular by the Bill of
+       Rights."
+   44. ^ "English Bill of Rights, 1689, "An Act Declaring the Rights and
+       Liberties of the Subject and Settling the Succession of the
+       Crown"". The Avalon Project. Yale Law School. 2008. Retrieved
+       December 26, 2012.
+   45. ^ e.g., King Henry II's Assize of Arms and the Statute of
+       Winchester of 1285. See "The history of policing in the West,
+       Collective responsibility in early Anglo-Saxon times", Encyclopædia
+       Britannica online.
+   46. ^ Levy, pp. 136–7.
+   47. ^ Cornell, Gun Control, p. 2.
+   48. ^ Hardy, p. 1237. "Early Americans wrote of the right in light of
+       three considerations: (1) as auxiliary to a natural right of
+       self-defense; (2) as enabling an armed people to deter undemocratic
+       government; and (3) as enabling the people to organize a militia
+       system."
+   49. ^ Malcolm, "That Every Man Be Armed," pp. 452, 466. "The Second
+       Amendment reflects traditional English attitudes toward these three
+       distinct, but intertwined, issues: the right of the individual to
+       protect his life, the challenge to government of an armed
+       citizenry, and the preference for a militia over a standing army.
+       The framers' attempt to address all three in a single declarative
+       sentence has contributed mightily to the subsequent confusion over
+       the proper interpretation of the Second Amendment."
+   50. ^ Levy, p. 136.
+   51. ^ Merkel and Uviller, pp. 62, 179 ff, 183, 188 ff, 306. "[T]he
+       right to bear arms was articulated as a civic right inextricably
+       linked to the civic obligation to bear arms for the public
+       defense."
+   52. ^ Spitzer, pp. 155–9.
+   53. ^ Dulaney, p. 2.
+   54. ^ Bogus, Carl T. (editor); Bellesiles, Michael A. (contributor)
+       (2001). The Second Amendment in Law and History: Historians and
+       Constitutional Scholars on the Right to Bear Arms. New Press, The.
+       pp. 67–69, 239–240. ISBN 1565846990.
+   55. ^ Merkel and Uviller, pp. 62, 179 ff, 183, 188 ff, 306.
+   56. ^ Col. Charles J. Dunlap, Jr. (1995). "Revolt of the Masses: Armed
+       Civilians and the Insurrectionary Theory of the Second Amendment".
+       62 TENN. L. REV. 643. Retrieved December 18, 2012. "The concept
+       postulates that the Second Amendment was intended to provide the
+       means by which the people, as a last resort, could rise in armed
+       revolt against tyrannical authorities."
+   57. ^ Bogus, Carl T.; Professor, Roger Williams University School of
+       Law (Winter 1998). "The Hidden History of the Second Amendment".
+       U.C. Davis Law Review 31: 309–408.
+   58. ^ Hartmann, Thom (2013-01-15). "The Second Amendment was Ratified
+       to Preserve Slavery". Truthout.org. Retrieved February 4, 2013.
+   59. ^ "Whitewashing the Second Amendment". 2008. Retrieved January 16,
+       2013. "the "well-regulated militias" cited in the Constitution
+       almost certainly referred to state militias that were used to
+       suppress slave insurrections."
+   60. ^ "Pennsylvania Constitution of 1776". The Avalon Project. Yale Law
+       School. 2008. Retrieved December 26, 2012.
+   61. ^ DeConde, Alexander (2001). Gun Violence in America: the Struggle
+       for Control. Boston: Northeastern University Press. p. 27.
+       ISBN 1-55553-486-4.
+   62. ^ ^a ^b ^c ^d "Boston, March 17". N. Y. J., Supplement: 1, Col.3.
+       April 13, 1769.  qtd. in Halbrook, A Right to Bear Arms, p. 7.
+   63. ^ Charles, "Arms for Their Defence?", p. 4.
+   64. ^ Anderson and Horwitz, pp. 91–2.
+   65. ^ Vest, Rose. "Shay's Rebellion", Home of Heroes.
+   66. ^ Pole and Greene, p. 386.
+   67. ^ Vile, p. 30.
+   68. ^ Merkel and Uviller, p. 79.
+   69. ^ McAffee and Quinlan, p. 781.
+   70. ^ Rakove, p. ?^[page needed]
+   71. ^ William Blackstone, Commentaries on the Laws of England, Book 1,
+       Chapter 1 "the fifth and last auxiliary right...when the sanctions
+       of society and laws are found insufficient to restrain the violence
+       of oppression".
+   72. ^ ^a ^b Millis, p. 49. "The founders sought to balance military, as
+       they did political, power, between people, states, and nation[.]"
+   73. ^ ^a ^b ^c The Federalist Papers No. 29 (Alexander Hamilton)
+       (concerning the militia).
+   74. ^ Bogus, Carl T. "Do We Place our Faith in Law or Guns?". Retrieved
+       July 29, 2009.
+   75. ^ Henigan, p. ?. "[A] generalized constitutional right of all
+       citizens to engage in armed insurrection against their
+       government...would threaten the rule of law itself."^[page needed]
+   76. ^ Reynolds, p. ?^[page needed]
+   77. ^ "Letter from John Adams to Abigail Adams, 22 December 1793".
+       Masshist.org. Retrieved August 30, 2010.
+   78. ^ Cooke, p. 100. "This is another protection against a possible
+       abuse by Congress. The right protected is really the right of a
+       state to maintain an armed militia, or national guard, as we call
+       it now. In the eighteenth century people feared that Congress
+       might, by passing a law, prohibit the states from arming their
+       citizens. Then having all the armed strength at its command, the
+       national government could overwhelm the states. Such a circumstance
+       has never happened, but this amendment would prevent it. The Second
+       Amendment does not give anybody or everybody the right to possess
+       and use firearms. The states may very properly prescribe
+       regulations and permits governing the use of guns within their
+       borders."
+   79. ^ US Constitution Article 1 Section 8 To provide for organizing,
+       arming, and disciplining, the Militia, and for governing such Part
+       of them as may be employed in the Service of the United States,
+       reserving to the States respectively, the Appointment of the
+       Officers, and the Authority of training the Militia according to
+       the discipline prescribed by Congress.
+   80. ^ "Elliots Debates Vol 3, Virginia Convention, Saturday June 14,
+       1788". Teachingamericanhistory.org. January 1, 1980. Retrieved
+       August 30, 2010.  The national government has an exclusive right to
+       provide for arming, organizing, and disciplining the militia, and
+       for governing such part of them as may be employed in the service
+       of the United States. The state governments have the power of
+       appointing the officers, and of training the militia, according to
+       the discipline prescribed by Congress, if they should think proper
+       to prescribe any. Should the national government wish to render the
+       militia useless, they may neglect them, and let them perish, in
+       order to have a pretence of establishing a standing army.
+   81. ^ Mulloy, p. 43.
+   82. ^ Smith, pp. 591, 600.
+   83. ^ Cress, Lawrence. An Armed Community: The Origins and Meaning of
+       the Right to Bear Arms. p. 31.  qtd. in Cottrol, p. 283.
+   84. ^ Vile, p. 19.
+   85. ^ Schmidt et al., p. 39.
+   86. ^ Williams, pp. 41–4.
+   87. ^ Story, Joseph. "Commentaries on the Constitution 2:§§ 904--25,
+       927--30, 946--52, 954--70, 972--76, 988". The Founders
+       Constitution. The University of Chicago Press. Retrieved 10 April
+       2013.
+   88. ^ The Federalist Papers No. 46 (James Madison) (concerning the
+       influence of state and federal governments).
+   89. ^ Webster, Noah. "An Examination of the Leading Principles of the
+       Federal Constitution" (October 10, 1787).
+   90. ^ Young, pp. 38–41. "A Citizen of America (Noah Webster) October
+       10, 1787 Pamphlet: An Examination into the leading principles of
+       the Federal Constitution."
+   91. ^ Foner and Garraty, p. 914. "The Massachusetts compromise
+       determined the fate of the Constitution, as it permitted delegates
+       with doubts to vote for it in the hope that it would be amended."
+   92. ^ Adamson, p. 63.
+   93. ^ See Theories of Constitutional Interpretation, maintained by Doug
+       Linder, University of Missouri-Kansas City Law School. Retrieved
+       2011-12-11. (Author cites Robert Bork: "If the Constitution is law,
+       then presumably its meaning, like that of all other law, is the
+       meaning the lawmakers were understood to have intended.")
+   94. ^ Garry Wills, A Necessary Evil: A History of American Distrust of
+       Government, Simon and Schuster, 1999, page 252. ("Until recently,
+       the Second Amendment was a little-visited area of the Constitution.
+       A two thousand-page commentary on the Constitution put out by the
+       Library of Congress in 1973 has copious annotation for most
+       clauses, but less than a page and a half for the Second
+       Amendment.")
+   95. ^ Garry Wills, A Necessary Evil: A History of American Distrust of
+       Government, Simon and Schuster, 1999, pages 253–254. ("Whitehill
+       deals with guns in three of his fifteen headings. Article 8 begins:
+       'The inhabitants of the several states shall have liberty to fowl
+       and hunt in seasonable times...' article 7: 'That the people have a
+       right to bear arms for the defense of themselves and their own
+       state, or the United States, or for the purposes of killing
+       game...'")
+   96. ^ Garry Wills, A Necessary Evil: A History of American Distrust of
+       Government, Simon and Schuster, 1999, page 253. ("The items on the
+       [Whitehill's] list were never discussed in the convention, which
+       when on to approve the Constitution.")
+   97. ^ "Articles of Confederation". Usconstitution.net. May 19, 2010.
+       Retrieved August 30, 2010.
+   98. ^ "US Library of Congress, repro of original text". Memory.loc.gov.
+       Retrieved August 30, 2010.
+   99. ^ "US Constitution". US Constitution. Retrieved August 30, 2010.
+   100. ^ 2 Jonathan Elliot, The Debates in the Several State Conventions
+       on the Adoption of the Federal Constitution 97 (2d ed. 1863)
+   101. ^ ^a ^b ^c ^d ^e "United States of America v. Timothy Joe Emerson
+       – The Ratification Debates". Law.umkc.edu. Retrieved August 30,
+       2010.
+   102. ^ Noah Webster, An Examination into the Leading Principles of the
+       Federal Constitution (1787), Reprinted in Pamphlets on the
+       Constitution of the United States, Published During Its Discussion
+       by the People, 1787–1788, at 56 (Paul L. Ford, ed. 1971) (1888)
+   103. ^ 3 Jonathan Elliot, The Debates in the Several State Conventions
+       on the Adoption of the Federal Constitution 425 (3d Ed. 1937)
+   104. ^ James Monroe Papers, New York Public Library (Miscellaneous
+       Papers of James Monroe)
+   105. ^ Speech on the Federal Constitution, Virginia Ratifying
+       Convention, 1788
+   106. ^ The Federalist No. 46, at 371 (James Madison) (John. C. Hamilton
+       Ed., 1864)
+   107. ^ Annals of Congress, House of Representatives, 1st Congress, 1st
+       Session: p. 451.
+   108. ^ Journal of the House of Representatives of the United States,
+       Vol. 1: p. 64.
+   109. ^ Annals of Congress, House of Representatives, 1st Congress, 1st
+       Session: p. 669.
+   110. ^ Annals of Congress, House of Representatives, 1st Congress, 1st
+       Session: p. 778.
+   111. ^ Journal of the Senate of the United States of America, Vol. 1:
+       pp. 63–64.
+   112. ^ Letter from Roger Sherman to Simeon Baldwin (Aug. 22, 1789) qtd.
+       in Bickford, et al., p. 16 See also letter from James Madison to
+       Alexander White (Aug. 24, 1789) qtd. in Madison, Writings, pp.
+       418–9.
+   113. ^ Journal of the Senate of the United States of America, Vol. 1:
+       p. 71.
+   114. ^ Journal of the Senate of the United States of America, Vol. 1:
+       p. 77.
+   115. ^ Journal of the House of Representatives of the United States,
+       Vol. 1: p. 305.
+   116. ^ ^a ^b ^c DeConde, p. 53.
+   117. ^ ^a ^b ^c 1 Stat. 272.
+   118. ^ Merkel and Uviller, pp. 293–4.
+   119. ^ ^a ^b Merkel and Uviller, p. 12.
+   120. ^ Szatmary, p. 107.
+   121. ^ ^a ^b ^c DeConde, pp. 40–3.
+   122. ^ 1 Stat. 351.
+   123. ^ “Remarks on the First Part of the Amendments to the Federal
+       Constitution,” Federal Gazette, June 18, 1792, at 2, col. 1
+   124. ^ http://guncite.com/journals/reycrit.html
+   125. ^ ^a ^b ^c ^d Halbrook, Stephen P. (1998). Freedmen, the 14th
+       Amendment, and the Right to Bear Arms, 1866-1876. Greenwood
+       Publishing Group. ISBN 9780275963316. Retrieved 19 March 2013.
+   126. ^ ^a ^b ^c Tucker, p. 490 and Kopel, David B. "The Second
+       Amendment in the Nineteenth Century". Second Amendment Project.
+   127. ^ Blackstone, Sir William; Tucker, St. George; Christian, Edward
+       (1803). Blackstone's Commentaries: With Notes of Reference, to the
+       Constitution and Laws, of the Federal Government of the United
+       States; and of the Commonwealth of Virginia. In Five Volumes. With
+       an Appendix to Each Volume, Containing Short Tracts Upon Such
+       Subjects as Appeared Necessary to Form a Connected View of the Laws
+       of Virginia, as a Member of the Federal Union. William Young Birch,
+       and Abraham Small, no. 17, South Second-street, Robert Carr,
+       printer. Retrieved 5 July 2013.
+   128. ^ For two radically different views of Blackstone on the Second
+       Amendment, see Heyman, Chicago-Kent, and Volokh, Senate Testimony.
+   129. ^ ^a ^b Rawle, p. 126.
+   130. ^ Rawle, pp. 125–6.
+   131. ^ ^a ^b Rawle, William (1825). A View of the Constitution of the
+       United States of America. H.C. Carey & I. Lea. Retrieved 5 July
+       2013. "In the second article, it is declared, that a well regulated
+       militia is necessary to the security of a free state; a proposition
+       from which few will dissent. Although in actual war, the services
+       of regular troops are confessedly more valuable; yet, while peace
+       prevails, and in the commencement of a war before a regular force
+       can be raised, the militia form the palladium of the country. They
+       are ready to repel invasion, to suppress insurrection, and preserve
+       the good order and peace of government. That they should be well
+       regulated, is judiciously added. A disorderly militia is
+       disgraceful to itself, and dangerous not to the enemy, but to its
+       own country. The duty of the state government is, to adopt such
+       regulations as will tend to make good soldiers with the least
+       interruptions of the ordinary and useful occupations of civil life.
+       In this all the Union has a strong and visible interest. The
+       corollary, from the first position, is, that the right of the
+       people to keep and bear arms shall not be infringed."
+   132. ^ http://www.portagepub.com/dl/causouth/rawle.pdf?
+   133. ^ A Familiar Exposition of the Constitution of the United States:
+       Containing a Brief Commentary on Every Clause, Explaining the True
+       Nature, Reasons, and Objects Thereof : Designed for the Use of
+       School Libraries and General Readers : with an Appendix, Containing
+       Important Public Documents, Illustrative of the Constitution. 1833
+   134. ^ Story, Joseph (1865). A Familiar Exposition of the Constitution
+       of the United States: Containing a Brief Commentary on Every
+       Clause, Explaining the True Nature, Reasons, and Objects Thereof :
+       Designed for the Use of School Libraries and General Readers : with
+       an Appendix, Containing Important Public Documents, Illustrative of
+       the Constitution. The Lawbook Exchange, Ltd. ISBN 9781886363717.
+       Retrieved 5 July 2013. "The next amendment is, 'A well-regulated
+       militia being necessary to the security of a free state, the right
+       of the people to keep and bear arms shall not be infringed.' One of
+       the ordinary modes, by which tyrants accomplish their purposes
+       without resistance, is, by disarming the people, and making it an
+       offence to keep arms, and by substituting a regular army in the
+       stead of a resort to the militia. The friends of a free government
+       cannot be too watchful, to overcome the dangerous tendency of the
+       public mind to sacrifice, for the sake of mere private convenience,
+       this powerful check upon the designs of ambitious men. § 451. The
+       importance of this article will scarcely be doubted by any persons,
+       who have duly reflected upon the subject. The militia is the
+       natural defence of a free country against sudden foreign invasions,
+       domestic insurrections, and domestic usurpations of power by
+       rulers. It is against sound policy for a free people to keep up
+       large military establishments and standing armies in time of peace,
+       both from the enormous expenses, with which they are attended, and
+       the facile means, which they afford to ambitious and unprincipled
+       rulers, to subvert the government, or trample upon the rights of
+       the people. The right of the citizens to keep and bear arms has
+       justly been considered, as the palladium of the liberties of a
+       republic; since it offers a strong moral check against the
+       usurpations and arbitrary power of rulers; and it will generally,
+       even if these are successful in the first instance, enable the
+       people to resist and triumph over them. And yet, though this truth
+       would seem so clear, and the importance of a well-regulated militia
+       would seem so undeniable, it cannot be disguised, that among the
+       American people there is a growing indifference to any system of
+       militia discipline, and a strong disposition, from a sense of its
+       burdens, to be rid of all regulations. How it is practicable to
+       keep the people duly armed without some organization, it is
+       difficult to see. There is certainly no small danger, that
+       indifference may lead to disgust, and disgust to contempt; and thus
+       gradually undermine all the protection intended by this clause of
+       our National Bill of Rights."
+   135. ^ ^a ^b Story, Joseph (1833). Commentaries on the U.S.
+       Constitution. Harper & Brothers. pp. §1890.
+   136. ^ Spooner, pp. 17–8.
+   137. ^ Renehan, pp. 172–4.
+   138. ^ Spooner, p. 17.
+   139. ^ Cramer, p. ?^[page needed]
+   140. ^ Farrar, Timothy (1872). Manual of the Constitution of the United
+       States of America. Little, Brown. Retrieved 6 July 2013. "§ 34. The
+       people of the United States, in making their Constitution, do not
+       create or confer on themselves any new rights, but they expressly
+       reserve all the rights they then held, except what were delegated
+       for their own benefit; and they particularly and expressly
+       recognize and perpetuate many natural and civil common-law rights,
+       which, of course, are placed beyond the reach of any subordinate
+       government, and even of their own. Among these are the following :
+       1. The right to be, what they call themselves, 'the people of the
+       United States,' citizens, and component members of the body
+       politic, — the nation; and to participate in all the privileges,
+       immunities, and benefits the Constitution was designed to obtain or
+       secure for all the American people, especially the right to be
+       protected and governed according to the provisions of the
+       Constitution. 2. A right to the privileges and immunities of
+       citizens in any of the several States. Among these is the
+       fundamental and elementary right of suffrage. The Representatives
+       to the national and State legislatures must be chosen by the
+       people, the citizens (Section 2). Consequently, the citizens must
+       choose them, and have a right to choose them. Am. 14, § 2. 3. A
+       right to the common-law writ of habeas corpus, to protect the other
+       common-law right, as well as natural and constitutional right, of
+       personal liberty. 4. A right to trial by jury in any criminal case.
+       5. A right to keep and bear arms. 6. A right to life, liberty, and
+       property, unless deprived by due process of law. 7. A right to just
+       compensation for private property legally taken for public use. 8.
+       A right to participate in all rights retained by, or reserved to,
+       the people. Most of these rights, with many others, belong by the
+       Constitution not only to the citizens, — the people of the United
+       States, strictly so called, by reason of the franchise of natural
+       birth or otherwise, — but also to all persons who may be allowed to
+       be and remain under the jurisdiction and protection of our
+       government. These are a part only of the rights held by every
+       member of the nation, under and by virtue of the Constitution of
+       the United States, independent of any other earthly power, and
+       which, of course, 'cannot be destroyed or abridged by the laws of
+       any particular State.' Who, then, in the United States is destitute
+       of rights?...The States are recognized as governments, and, when
+       their own constitutions permit, may do as they please; provided
+       they do not interfere with the Constitution and laws of the United
+       States, or with the civil or natural rights of the people
+       recognized thereby, and held in conformity to them. The right of
+       every person to 'life, liberty, and property,' to 'keep and bear
+       arms,' to the 'writ of habeas corpus' to 'trial by jury,' and
+       divers others, are recognized by, and held under, the Constitution
+       of the United States, and cannot be infringed by individuals or or
+       even by the government itself."
+   141. ^ Thomas M. Cooley, The Abnegation of Self-Government, 12
+       Princeton Review 213–14 (1883): "The right of the people to bear
+       arms in their own defence, and to form and drill military
+       organizations in defence of the State,… is reserved by the people
+       as a possible and necessary resort for the protection of
+       self-government against usurpation, and against any attempt on the
+       part of those who may for the time be in possession of State
+       authority or resources to set aside the constitution and substitute
+       their own rule for that of the people. Should the contingency ever
+       arise when it would be necessary for the people to make use of the
+       arms in their hands for the protection of constitutional liberty,
+       the proceeding, so far from being revolutionary, would be in strict
+       accord with popular right and duty."
+   142. ^ Cooley, Thomas McIntyre (1871). A treatise on the constitutional
+       limitations which rest upon the legislative power of the states of
+       the American union. Little, Brown and company. p. 350:note page=381
+       in Google Books. Retrieved 7 July 2013. "Among the other safeguards
+       to liberty should be mentioned the right of the people to keep and
+       bear arms.1 A standing army is peculiarly obnoxious in any free
+       government, and the jealousy of such an army has at times been so
+       strongly demonstrated in England as to lead to the belief that even
+       though recruited from among themselves, it was more dreaded by the
+       people as an instrument of oppression than a tyrannical monarch or
+       any foreign power. So impatient did the English people become of
+       the very army that liberated them from the tyranny of James II.
+       that they demanded its reduction even before the liberation became
+       complete ; and to this day the British Parliament render a standing
+       army practically impossible by only passing a mutiny act from
+       session to session. The alternative to a standing army is " a
+       well-regulated militia ; " but this cannot exist unless the people
+       are trained to bearing arms. The federal and State constitutions
+       therefore provide that the right of the people to bear arms shall
+       not be infringed ; but how far it may be in the power of the
+       legislature to regulate the right we shall not undertake to say, as
+       happily there neither has been, nor perhaps is likely to be, much
+       occasion for a discussion of that question by the courts."
+   143. ^ Cooley, Thomas McIntyre (1880). The General Principles of
+       Constitutional Law in the United States of America. F.B. Rothman.
+       Retrieved 11 December 2013.
+   144. ^ Right to Keep and Bear Arms, U.S. Senate. 2001 Paladin Press.
+       ISBN 1-58160-254-5.
+   145. ^ "United States v. Emerson" (http). Retrieved August 30, 2010.
+   146. ^ Barnett, Randy E. (2004). Was the Right to Keep and Bear Arms
+       Conditioned on Service in an Organized Militia?. Retrieved 21 March
+       2013.
+   147. ^ Merkel and Uviller, p. 150. "The linguistically correct reading
+       of this unique construction is as though it said: 'Congress shall
+       not limit the right of the people (that is, the potential members
+       of the state militia) to acquire and keep the sort of arms
+       appropriate to their military duty, so long as the following
+       statement remains true: "an armed, trained, and controlled militia
+       is the best – if not the only – way to protect the state government
+       and the liberties of its people against uprisings from within and
+       incursions or oppression from without.'"
+   148. ^ Winterer, pp. 1–21
+   149. ^ "Amicus Brief, ACRU, Case No. 03-CV-0213-EGS, Shelly Parker, et
+       al. vs. District of Columbia, p.14" (PDF). Retrieved August 30,
+       2010.
+   150. ^ Frey and Wellman, p. 194.
+   151. ^ Shapiro, p. 148.
+   152. ^ Volokh, "Commonplace," p. 793. "The Second Amendment is widely
+       seen as quite unusual, because it has a justification clause as
+       well as an operative clause. Professor Volokh points out that this
+       structure was actually quite commonplace in American constitutions
+       of the Framing era: State Bills of Rights contained justification
+       clauses for many of the rights they secured."
+   153. ^ Merkel, p. 361. "Well-regulated meant well trained, rather than
+       subject to rules and regulations."
+   154. ^ ^a ^b Heller, Opinion of the Court, Part II-A-2.
+   155. ^ "Scalia in Heller". Retrieved 25 March 2013.
+   156. ^ "Stevens' dissent". Retrieved 25 March 2013.
+   157. ^ ^a ^b "District of Columbia v Heller". Supreme.justia.com.
+       Retrieved August 30, 2010.
+   158. ^ Kopel, David B. (1999). The Supreme Court's Thirty-five Other
+       Gun Cases: What the Supreme Court Has Said about the Second
+       Amendment. Independence Institute. Retrieved 17 March 2013.
+   159. ^ Crooker, Constance. Gun Control and Gun Rights, p. 55 (Greenwood
+       Publishing Group, 2003).
+   160. ^ Lund, Nelson. "The Past and Future of the Individual’s Right to
+       Arms", Georgia Law Review, Volume 31, p. 26 (1996).
+   161. ^ "District of Columbia v Heller". Cornell University Law School.
+       Retrieved August 30, 2010.
+   162. ^ Cornell, Gun Control, p. 6. Neither of the two modern theories
+       that have defined public debate over the right to bear arms is
+       faithful to the original understanding of this provision of the
+       Bill of Rights.
+   163. ^ Justice Story "misidentified" it as the "5th Amendment. Several
+       public officials, including James Madison and Supreme Court Justice
+       Joseph Story, retained the confusing practice of referring to each
+       of the ten amendments in the Bill of Rights by the enumeration
+       found in the first draft; the fifth article is the Second
+       Amendment.
+   164. ^ "FindLaw | Cases and Codes". Caselaw.lp.findlaw.com. Retrieved
+       2013-07-05.
+   165. ^ "''United States v. Miller''". Supreme.justia.com. Retrieved
+       August 30, 2010.
+   166. ^ "''District of Columbia v. Heller''". Supreme.justia.com.
+       Retrieved August 30, 2010.
+   167. ^ Cruikshank, at 552.
+   168. ^ Cruikshank, at 553.
+   169. ^ Cruikshank, at 554.
+   170. ^ Doherty, p. 14.
+   171. ^ ^a ^b DeConde, pp. 92–3.
+   172. ^ "The Lehr und Wehr Verein". The New York Times. July 20, 1886.
+       p. 5.
+   173. ^ Cramer, Clayton E. (1994). For the defense of themselves and the
+       state: the original intent and judicial interpretation of the right
+       to keep and bear arms. Praeger. ISBN 9780275949136. Retrieved 11
+       March 2013.
+   174. ^ DeConde, p. 96.
+   175. ^ Miller, at 539.
+   176. ^ Robertson, at 281.
+   177. ^ Miller, at 175.
+   178. ^ Miller, at 177–8.
+   179. ^ Miller, at 178.
+   180. ^ Fezell, Howard J. "The misconstruction of United States v.
+       Miller". Retrieved January 5, 2009.
+   181. ^ Paul Helmke (March 28, 2008). "One Court's Second Amendment
+       Fantasy". Huffington Post. Retrieved April 29, 2011.
+   182. ^ McClurg, p. 139. "But when all is said and done, the only
+       certainty about Miller is that it failed to give either side a
+       clear-cut victory. Most modern scholars recognize this fact. For
+       example, Professor Eugene Volokh describes Miller as 'deliciously
+       and usefully ambiguous' in an article about using the Second
+       Amendment as a teaching tool in constitutional law. That is
+       probably the most accurate statement that can be made about the
+       case."
+   183. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j "DISTRICT OF COLUMBIA v. HELLER
+       (No. 07-290)". Legal Information Institute. Cornell University Law
+       School. Retrieved December 26, 2012.
+   184. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m "Cornell School of Law
+       Summary of the ''Heller'' Decision". Law.cornell.edu. Retrieved
+       September 1, 2012.
+   185. ^ "Witkin Legal Institute Summary of the ''Heller'' Decision".
+       Witkin.com. June 30, 2009. Retrieved December 26, 2012.
+   186. ^ "Nathan Moore Summary of the Heller Decision".
+       Mooredefenselaw.com. June 30, 2008. Retrieved December 26, 2012.
+   187. ^ "Global Legal Information Network Summary of the ''Heller''
+       Decision". Glin.gov. Retrieved September 1, 2012.
+   188. ^ Veronica Rose, Principal Analyst. "OLR Research Institute's
+       Summary of the Heller Decision". Cga.ct.gov. Retrieved September 1,
+       2012.
+   189. ^ "Oyez Summary of the ''Heller'' Decision". Oyez.org. Retrieved
+       December 26, 2012.
+   190. ^ ""Legal Community Against Violence" Summary of the ''Heller''
+       Decision". Lcav.org. Retrieved September 1, 2012.
+   191. ^ ^a ^b "People v. Aguilar, 2013 IL 112116". Illinois Supreme
+       Court. Illinois Supreme Court. September 12, 2013. p. 5-6.
+       Retrieved September 14, 2014.
+   192. ^ Mauro, Tony (June 27, 2008). "Supreme Court Strikes Down D.C.
+       Gun Ban". Retrieved January 5, 2009. "In a historic 5–4 decision...
+       the landmark ruling..."
+   193. ^ Biskupic, Joan and Johnson, Kevin (June 27, 2008). "Landmark
+       ruling fires challenges to gun laws". USA Today. Retrieved January
+       5, 2009.
+   194. ^ Vicini, James (June 26, 2008). "Americans have right to guns
+       under landmark ruling". Reuters. Retrieved January 5, 2009.
+   195. ^ Greenhouse, Linda (June 27, 2008). "Justices, Ruling 5–4,
+       Endorse Personal Right to Own Gun". The New York Times. Retrieved
+       January 5, 2009. "The landmark ruling..."
+   196. ^ Liptak, Adam (March 16, 2009). "Few Ripples From Supreme Court
+       Ruling on Guns". The New York Times. Retrieved August 13, 2010.
+       "The Heller case is a landmark decision that has not changed very
+       much at all..."
+   197. ^ Robert A. Sedler (June 30, 2008). "Ruling upholds most gun
+       control laws". The Detroit News. Retrieved August 20, 2009.
+   198. ^ Heller, Opinion of the Court, Part III.
+   199. ^ Harris, Andrew. “Illinois Bid for Rehearing of Gun-Carry Appeal
+       Rejected”, Bloomberg News (February 22, 2013): “The U.S. Court of
+       Appeals in Denver today ruled the constitutional provision doesn’t
+       guarantee a right to carry a concealed firearm….”
+   200. ^ Kirkland, Michael. “Scalia in '08 -- Right to bear arms is 'not
+       unlimited'”, UPI (December 16, 2012).
+   201. ^ Henigan, Dennis. Lethal Logic: Exploding the Myths That Paralyze
+       American Gun Policy, p. 204 (Potomac Books 2009).
+   202. ^ Epstein, Lee and Walk, Thomas. Constitutional Law: Rights,
+       Liberties and Justice, p. 396 (SAGE 2012).
+   203. ^ Huebert, Jacob. Libertarianism Today, p. 147 (ABC-CLIO, 2010).
+   204. ^ Heller, Opinion of the Court, 128 S.Ct. 2790, 2791
+   205. ^ "''Heller'', Justice Stevens dissenting". Supreme.justia.com.
+       Retrieved August 30, 2010.
+   206. ^ Heller, Opinion of the Court, Part II-A-1-b.
+   207. ^ "''Heller'', Justice Breyer dissenting". Supreme.justia.com.
+       Retrieved August 30, 2010.
+   208. ^ "''Heller'', Opinion of the Court, Part II-D-1".
+       Supreme.justia.com. Retrieved August 30, 2010.
+   209. ^ District of Columbia v. Heller, 128 S.Ct. 2783 (2008).
+   210. ^ Greenhouse, Linda (June 27, 2008). "Justices Rule for Individual
+       Gun Rights - NYTimes.com". The New York Times. Retrieved May 23,
+       2010. "[A] dramatic upheaval in the law, Justice Stevens said in a
+       dissent"
+   211. ^ Scarola, Matthew (June 28, 2010). "Analysis: state gun
+       regulations and McDonald". SCOTUSblog. Retrieved July 3, 2010.
+   212. ^ ^a ^b Duignan, Brian. The U.S. Constitution and Constitutional
+       Law, pp. 31-32 (Rosen Publishing Group, 2013).
+   213. ^ Cases v. United States, 131 F.2d 916 (1st Cir. 1942); United
+       States v. Toner, 728 F.2d 115 (2nd Cir. 1984); United States v.
+       Rybar, 103 F.3d 273 (3rd Cir. 1997); Love v. Peppersack, 47 F.3d
+       120 (4th Cir. 1995); United States v. Johnson, 441 F.2d 1134 (5th
+       Cir. 1971); United States v. Warin, 530 F.2d 103 (6th Cir. 1976);
+       Quilici v. Village of Morton Grove, 695 F.2d 261 (7th Cir. 1983);
+       United States v. Hale, 978 F.2d 1016 (8th Cir. 1993); Hickman v.
+       Block, 81 F.3d 98 (9th Cir. 1996); United States v. Oakes, 564 F.2d
+       384 (10th Cir. 1978); and United States v. Wright, 117 F.3d 1265
+       (11th Cir. 1997)
+   214. ^ Winkler, "Heller's Catch 22," p. 14.
+   215. ^ Liptak, Adam (March 17, 2009). "Few Ripples From Supreme Court
+       Ruling on Guns". New York Times. Retrieved March 26, 2009.
+   216. ^ "HELLER v. DISTRICT OF COLUMBIA 2010". Leagle. March 26, 2010.
+       Retrieved 22 February 2013.
+   217. ^ Rene E., at 12–15.
+   218. ^ N.Y.'s Concealed Gun Licensing Scheme Is Upheld by Circuit – New
+       York Law Journal
+   219. ^ ^a ^b Winkler, "Heller's Catch 22," p. 15.
+   220. ^ "United States Court of Appeals, Fourth Circuit". FindLaw.
+       Thomson Reuters. Retrieved December 26, 2012.
+   221. ^ Part III of the decision.
+   222. ^ Weisselberg, pp. 99–100.
+   223. ^ Text of decision in Dorosan
+   224. ^ ^a ^b "Skoien and the many challenges of Second Amendment
+       jurisprudence". SENTENCING LAW AND POLICY. Retrieved August 13,
+       2010.
+   225. ^ "U.S. v. SKOIEN No. 08-3770".
+   226. ^ "Laws, Life, and Legal Matters – Court Cases and Legal
+       Information at Leagle.com – All Federal and State Appeals Court
+       Cases in One Search".
+   227. ^ "The right to regain the right to own a gun".
+   228. ^ "Dennis A. Henigan: New Court Ruling Throws Cold Water on "Gun
+       Rights" Celebration". Huffington Post. July 16, 2010.
+   229. ^ "Moore v. Madigan (Circuit docket 12-1269)". United States Court
+       of Appeals for the Seventh Circuit (suntimes.com). December 11,
+       2012. Retrieved December 18, 2012.
+   230. ^ Denniston, Lyle (December 11, 2012). "Broader gun right
+       declared". SCOTUSblog. Retrieved December 11, 2012.
+   231. ^ Liptak, Adam (December 18, 2012). "Supreme Court Gun Ruling
+       Doesn’t Block Proposed Controls". The New York Times. Retrieved
+       December 18, 2012.
+   232. ^ Kopel, David (December 11). "Moore v. Madigan, key points". The
+       Volokh Conspiracy. Retrieved December 18, 2012.  Check date values
+       in: |date= (help)
+   233. ^ Volokh, Eugene (February 22, 2013). "Rehearing En Banc Denied in
+       Case Invalidating Illinois’ Ban on Carrying Loaded Guns in Public".
+       The Volokh Conspiracy. Retrieved 22 February 2013.
+   234. ^ Todd D. Steenson, Phillip M. Schreiber and Adam R. Young (5
+       August 2013). "Illinois Firearm Concealed Carry Act Will Require
+       Employers to Take Action". Holland & Koch. Retrieved 4 November
+       2013.
+   235. ^ Volokh, Eugene (July 29, 2009). "Ninth Circuit Will Rehear
+       Nordyke v. King En Banc". The Volokh Conspiracy. Retrieved July 30,
+       2009.
+   236. ^ McCullagh, Declan (August 25, 2009). "High-Profile Gun Rights
+       Case Inches Toward Supreme Court". CBS News. Retrieved August 25,
+       2009.
+   237. ^ Schwartz, John (July 30, 2009). "Appeals Court Sets Rehearing on
+       Ruling That Eased Gun Restrictions". NYTimes.com. Retrieved August
+       17, 2009.
+   238. ^ Denniston, Lyle (July 30, 2009). "Second Amendment: Less chance
+       of review?". SCOTUSblog. Retrieved July 31, 2009.
+   239. ^ Nordyke v. King (9th Cir. 2009)
+   240. ^ Denniston, Lyle (April 20, 2009). "Second Amendment extended".
+       SCOTUSblog. Retrieved April 20, 2009.
+   241. ^ Denniston, Lyle (May 4, 2011). "Circuit Court bolsters gun
+       rights". SCOTUSblog. Retrieved May 4, 2011.
+   242. ^ "Text of November 28 order granting rehearing" (PDF). Retrieved
+       September 1, 2012.
+   243. ^ Mintz, Howard (November 29, 2011). "9th Circuit agrees to rehear
+       long-running Alameda County gun rights case". Oakland Tribune.
+       Retrieved November 30, 2011.
+   244. ^ Denniston, Lyle (April 4, 2012). "Major gun case shunted aside".
+       SCOTUSblog. Retrieved April 5, 2012.
+   245. ^ Denniston, Lyle (June 2, 2012). "Nordyke gun case nears end".
+       SCOTUSblog. Retrieved June 3, 2012.
+
+References
+
+Books
+
+     * Adams, Les (1996). The Second Amendment Primer: A Citizen's
+       Guidebook to the History, Sources, and Authorities for the
+       Constitutional Guarantee of the Right to Keep and Bear Arms.
+       Birmingham, Alabama: Paladium Press.
+     * Adamson, Barry (2008). Freedom of Religion, the First Amendment,
+       and the Supreme Court. Pelican Publishing. ISBN 1-58980-520-8.
+     * Anderson, Casey; Horwitz, Joshua (2009). Guns, Democracy, and the
+       Insurrectionist Idea. Ann Arbor, MI: University of Michigan Press.
+       ISBN 0-472-03370-0.
+     * Barnett, Hilaire (2004). Constitutional & Administrative Law.
+       Routledge Cavendish. ISBN 1-85941-927-5.
+     * Bickford, Charlene; et al., ed. (2004). Documentary History of the
+       First Federal Congress of the United States of America, March 4,
+       1789 – March 3, 1791: Correspondence: First Session,
+       September–November 1789 17. The Johns Hopkins University Press.
+       ISBN 978-0-8018-7162-7.
+     * Bogus, Carl T. (2001). The Second Amendment in Law and History:
+       Historians and Constitutional Scholars on the Right to Bear Arms.
+       New York: The New Press. ISBN 1-56584-699-0.
+     * Boynton, Lindsay Oliver J. (1971). The Elizabethan Militia
+       1558–1638. David & Charles. ISBN 0-7153-5244-X. OCLC 8605166.
+     * Carter, Gregg Lee (2002). Guns in American Society. ABC-CLIO.
+     * Charles, Patrick J. (2009). The Second Amendment: The Intent and
+       Its Interpretation by the States and the Supreme Court. McFarland.
+       ISBN 978-0-7864-4270-6.
+     * Cooke, Edward Francis (2002). A Detailed Analysis of the
+       Constitution. Lanham, MD: Rowman & Littlefield Publishers.
+       ISBN 0-7425-2238-5.
+     * Cornell, Saul (2006). A Well-Regulated Militia — The Founding
+       Fathers and the Origins of Gun Control in America. New York, New
+       York: Oxford University Press. ISBN 978-0-19-514786-5.
+     * Cottrol, Robert (1994). Gun Control and the Constitution: Sources
+       and Explorations on the Second Amendment. Taylor & Francis.
+     * Cramer, Clayton E.; Olson, Joseph (2008). "What Did "Bear Arms"
+       Mean in the Second Amendment?". Geo. J.L. & Pub. Pol'y 6 (2).
+     * Crooker, Constance Emerson (2003). Gun Control and Gun Rights.
+       Greenwood Publishing Group. ISBN 978-0-313-32174-0.
+     * Denson, John V. (1999). The Costs of War: America's Pyrrhic
+       Victories (2 ed.). Transaction Publishers. ISBN 978-0-7658-0487-7.
+     * Doherty, Brian (2008). Gun Control on Trial: Inside the Supreme
+       Court Battle Over the Second Amendment. Washington, D.C.: Cato
+       Institute. ISBN 1-933995-25-4.
+     * Dulaney, W. Marvin (1996). Black Police in America. Bloomington:
+       Indiana University Press. ISBN 0-253-21040-2.
+     * Ely, James W.; Bodenhamer, David J. (2008). The Bill of Rights in
+       Modern America. Bloomington: Indiana University Press.
+       ISBN 0-253-21991-4.
+     * Foner, Eric; Garraty, John Arthur (1991). The Reader's Companion to
+       American History. Houghton Mifflin Harcourt. ISBN 0-395-51372-3.
+     * Frey, Raymond; Wellman, Christopher (2003). A Companion to Applied
+       Ethics. Cambridge, MA: Blackwell Publishing. ISBN 1-55786-594-9.
+     * Halbrook, Stephen P. (1989). A Right to Bear Arms: State and
+       Federal Bills of Rights and Constitutional Guarantees. Greenwood
+       Publishing Group.
+     * Halbrook, Stephen P. (1994). That Every Man Be Armed: The Evolution
+       of a Constitutional Right (Independent Studies in Political
+       Economy). Oakland, CA: The Independent Institute.
+       ISBN 0-945999-38-0.
+     * Hemenway, David (2007). Private Guns, Public Health. University of
+       Michigan Press. ISBN 978-0-472-03162-7.
+     * Kruschke, Earl R. (1995). Gun Control: A Reference Handbook. Santa
+       Barbara, CA: ABC-CLIO. ISBN 0-87436-695-X.
+     * Levy, Leonard W. (1999). Origins of the Bill of Rights. New Haven,
+       CT: Yale University Press. ISBN 0-300-07802-1.
+     * Madison, James (2010). The Writings of James Madison: 1787–1790.
+       Nabu Press. ISBN 978-1-144-58273-7.
+     * Malcolm, Joyce Lee (1996). To Keep and Bear Arms: The Origins of an
+       Anglo-American Right. Cambridge: Harvard University Press.
+       ISBN 0-674-89307-7.
+     * Merkel, William G.; Uviller, H. Richard (2002). The Militia and the
+       Right to Arms, Or, How the Second Amendment Fell Silent. Durham,
+       NC: Duke University Press. ISBN 0-8223-3017-2. Retrieved 14
+       February 2013.
+     * Millis, Walter (1981). Arms and Men. Rutgers University Press.
+     * Mulloy, D. (2004). American Extremism. Routledge.
+     * Pepper, John; Petrie, Carol; Wellford, Charles F. (2005). Firearms
+       and Violence. A Critical Review. Washington, DC: National Academies
+       Press. ISBN 0-309-09124-1.
+     * Pole, J. R.; Greene, Jack P. (2003). A Companion to the American
+       Revolution (Blackwell Companions to American History). Cambridge,
+       MA: Blackwell Publishers. ISBN 1-4051-1674-9.
+     * Renehan, Edward J. (1997). The Secret Six: The True Tale of the Men
+       Who Conspired With John Brown. Columbia, SC: University of South
+       Carolina Press. ISBN 1-57003-181-9.
+     * Schmidt, Steffen; Bardes, Barbara A.; Shelley, Mack C. (2008).
+       American Government and Politics Today: The Essentials. Belmont,
+       CA: Wadsworth Publishing. ISBN 0-495-57170-9.
+     * Shapiro, Ilya (2008). Cato Supreme Court Review 2007–2008.
+       Washington, D.C: Cato Institute. ISBN 1-933995-17-3.
+     * Smith, Rich (2007). The Bill of Rights: Defining Our Freedoms. ABDO
+       Group. ISBN 978-1-59928-913-7.
+     * Spitzer, Robert J. (2001). The Right to Bear Arms: Rights and
+       Liberties under the Law. Santa Barbara, CA: ABC-CLIO.
+       ISBN 1-57607-347-5.
+     * Szatmary, David P. (1980). Shays' Rebellion: the Making of an
+       Agrarian Insurrection. Amherst: University of Massachusetts Press.
+       ISBN 0-87023-295-9.
+     * Tucker, St. George; Blackstone, William (1996). Blackstone's
+       Commentaries: With Notes of Reference to the Constitution and Laws,
+       of the Federal Government of the United States, and of the
+       Commonwealth of Virginia: In Five Volumes. The Lawbook Exchange,
+       Ltd. ISBN 978-1-886363-15-1.
+     * Tushnet, Mark V. (2007). Out of Range: Why the Constitution Can't
+       End the Battle Over Guns. Oxford University Press. pp. xv.
+       ISBN 978-0-19-530424-4.
+     * Rabban, David (1999). Free Speech in its Forgotten Years. Cambridge
+       University Press.
+     * Rawle, William (1829). A View of the Constitution of the United
+       States of America (2 ed.). P.H. Nicklin.
+     * Spooner, Lysander (1852). An Essay on the Trial by Jury. Retrieved
+       6 July 2013.
+     * Vile, John R. (2005). The Constitutional Convention of 1787: A
+       Comprehensive Encyclopedia of America's Founding (2 Volume Set).
+       Santa Barbara, CA: ABC-CLIO. ISBN 1-85109-669-8.
+     * Williams, David H. (2003). The Mythic Meanings of the Second
+       Amendment: Taming Political Violence in a Constitutional Republic.
+       New Haven, CT: Yale University Press. ISBN 0-300-09562-7.
+     * Wills, Garry (2000). Saul, Cornell, ed. Whose Right to Bear Arms
+       did the Second Amendment Protect?. Boston: Bedford/St. Martin's.
+       ISBN 0-312-24060-0.
+     * Wills, Garry (2002). A Necessary Evil: A History of American
+       Distrust of Government. New York: Simon & Schuster. pp. 256–7.
+       ISBN 0-684-87026-6.
+     * Winterer, Caroline (2002). The Culture of Classicism: Ancient
+       Greece and Rome in American Intellectual Life, 1780–1910.
+       Baltimore: Johns Hopkins University Press.
+     * Young, David E. (2001). The Origin of the Second Amendment: A
+       Documentary History of the Bill of Rights 1787–1792 (2 ed.). Golden
+       Oak Books. ISBN 0-9623664-3-9.
+
+Periodicals
+
+     * Barnett, Gary E. (June 24, 2008). "The Reasonable Regulation of the
+       Right to Keep and Bear Arms". Geo. J.L. & Pub. Pol'y 6 (2).
+     * Bogus, Carl (1998). "The Hidden History of the Second Amendment".
+       U.C. Davis L. Rev. 31.
+     * Blodgett-Ford, Sayoko (Fall 1995). "The Changing Meaning of the
+       Right to Bear Arms". Seton Hall Const. L.J. 101.
+     * Breen, T. H. (1972). "English Origins and New World Development:
+       The Case of the Covenanted Militia in Seventeenth-Century
+       Massachusetts". Past & Present 57 (1): 74.
+       doi:10.1093/past/57.1.74.
+     * Sunstein, Cass (November 2008). "Comment: Second Amendment
+       Minimalism: Heller as Griswold". Harv. L. Rev. 122. Retrieved
+       February 20, 2009.
+     * Charles, Patrick J. (2009). "'Arms for Their Defence?': An
+       Historical, Legal, and Textual Analysis of the English Right to
+       Have Arms and Whether the Second Amendment should Be Incorporated
+       in McDonald v. City of Chicago". Clev. St. L. Rev. 57 (3).
+     * Cramer, Clayton (Winter 1995). "The Racist Roots of Gun Control".
+       Kan. J. Of Pub. Pol'y.
+     * Davies, Ross (Winter 2008). "Which is the Constitution". Green Bag
+       2d 11 (2): 209–16.
+     * Gunn, Steven H. (1998). "A Lawyer's Guide to the Second Amendment".
+       BYU L. Rev. 35.
+     * Hardy, David (2007). "Book Review: A Well-Regulated Militia: The
+       Founding Fathers and the Origins of Gun Control in America". Wm. &
+       Mary Bill of Rts. J. 15.
+     * Henigan, Denis (1991). "Arms, Anarchy, and the Second Amendment".
+       Val. L. Rev. 26 (107). ^[dead link]
+     * Heyman, Stephen (2000). "Natural Rights and the Second Amendment".
+       Chi.-Kent. L. Rev. 76 (237).
+     * Kates, Jr., Don B. (November 1983). "Handgun Prohibition and the
+       Original Meaning of the Second Amendment". Mich. L. Rev. (Michigan
+       Law Review, Vol. 82, No. 2) 82 (2): 204–273. doi:10.2307/1288537.
+       JSTOR 1288537.
+     * Konig, David Thomas (2004). "The Second Amendment: A Missing
+       Transatlantic Context for the Historical Meaning of "the Right of
+       the People to Keep and Bear Arms"". Law and History Review 22 (1).
+     * Lund, Nelson. "Heller and Second Amendment Precedent". Lewis &
+       Clark L. Rev.
+     * Malcolm, Joyce Lee (1986). Book Review: That Every Man Be Armed
+       54.
+     * Malcolm, Joyce Lee (1993). "The Role of the Militia in the
+       Development of the Englishman's Right to be Armed — Clarifying the
+       Legacy". J. On Firearms & Pub. Pol'y 5.
+     * McAffee, Thomas B.; Quinlan, Michael J. (March 1997). "Bringing
+       Forward the Right to Keep and Bear Arms: Do Text, History, or
+       Precedent Stand in the Way?". N.C. L. Rev.
+     * McClurg, Andrew (1999). "Lotts' More Guns and Other Fallacies
+       Infecting the Gun Control Debate". J. Of Firearms & Pub. Pol'y 11.
+     * Merkel, William (Summer 2009). "Heller and Scalia's Originalism".
+       Lewis & Clark L. Rev. 13 (2).
+     * Pierce, Darell R. (1982). "Second Amendment Survey". N. Ky. L. Rev.
+       10 (1).
+     * Rakove, Jack (2000). "The Second Amendment: The Highest Stage of
+       Originalism". Chi.-Kent. L. Rev. 76.
+     * Reynolds, Glenn (1995). "A Critical Guide to the Second Amendment".
+       Tenn. L. Rev. 62 (461).
+     * Schmidt, Christopher (February 2007). "An International Human Right
+       to Keep and Bear Arms". Wm. & Mary Bill of Rts. J. 15 (3): 983.
+     * Smith, Douglas (2008). "The Second Amendment and the Supreme
+       Court". Geo. J.L. & Pub. Pol'y 6.
+     * Volokh, Eugene (1998). "The Commonplace Second Amendment". NYU L.
+       Rev. 73 (793).
+     * Volokh, Eugene (November–December 1998). "Testimony of Eugene
+       Volokh on the Second Amendment, Senate Subcommittee on the
+       Constitution, September 23, 1998". Cal. Pol. Rev.
+     * Weisselberg, Charles D. (2009). "Selected Criminal Law Cases in the
+       Supreme Court's 2007–2008 Term, and a Look Ahead". Court Review
+       44.
+     * Wills, Garry (1995). "To Keep and Bear Arms". N.Y. Rev. Of Books 42
+       (14). ISSN 0028-7504.
+     * Winkler, Adam (February 2007). "Scrutinizing the Second Amendment".
+       Mich. L. Rev. 105.
+     * Winkler, Adam (June 2009). "Heller's Catch 22". UCLA L. Rev. 56.
+       SSRN 1359225.
+
+Other publications
+
+     * Maer, Lucinda; Gay, Oonagh (2009). "The Bill of Rights 1689".
+       Parliament and Constitution Centre.
+
+Further reading
+
+     * Tahmassebi, S. B. (1991). "Gun Control and Racism". George Mason
+       University Civil Rights Law Journal 2 (1): 67–100. Archived from
+       the original on August 16, 2000.
+
+External links
+
+   Wikiquote has quotations related to: Second Amendment to the United
+   States Constitution
+     * Works related to United States Bill of Rights at Wikisource
+     * District of Columbia v. Heller
+     * National Archives Scanned Image of the Bill of Rights, including
+       the Second Amendment
+     * The short film Big Picture: To Keep and Bear Arms is available for
+       free download at the Internet Archive [more]
+     * State Constitutional Right to Keep and Bear Arms Provisions as
+       provided by Prof. Eugene Volokh, UCLA Law School
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Second_Amendment_to_the_Unit
+   ed_States_Constitution&oldid=625744048"
+   Categories:
+     * 1791 in American politics
+     * 1791 in law
+     * Amendments to the United States Constitution
+     * Militia in the United States
+     * United States federal firearms legislation
+     * Gun politics in the United States
+
+   Hidden categories:
+     * Wikipedia articles needing page number citations from February 2011
+     * CS1 errors: dates
+     * Wikipedia indefinitely semi-protected pages
+     * All articles with dead external links
+     * Articles with dead external links from June 2010
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * View source
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Беларуская
+     * Čeština
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * Italiano
+     * עברית
+     * മലയാളം
+     * Nederlands
+     * Polski
+     * Português
+     * Русский
+     * Simple English
+     * Suomi
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 16 September 2014 at 00:36.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,298 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Tacit programming
+
+   From Wikipedia, the free encyclopedia
+     (Redirected from Pointless programming)
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Tacit programming, also called point-free style, is a programming
+   paradigm in which function definitions do not identify the arguments
+   (or "points") on which they operate. Instead the definitions merely
+   compose other functions, among which are combinators that manipulate
+   the arguments. Tacit programming is of theoretical interest, because
+   the strict use of composition results in programs that are well adapted
+   for equational reasoning.^[1] It is also the natural style of certain
+   programming languages, including APL and its derivatives,^[2] and
+   concatenative languages such as Forth. Despite this following, the lack
+   of argument naming gives point-free style a reputation of being
+   unnecessarily obscure, hence the epithet "pointless style."^[1]
+
+   For example, a sequence of operations in an applicative language like
+   the following:
+def example(x):
+  y = foo(x)
+  z = bar(y)
+  w = baz(z)
+  return w
+
+   ...is written in point-free style as the composition of a sequence of
+   functions, without parameters:^[3]
+def example: baz bar foo
+
+   The key idea in tacit programming is to assist in operating at the
+   appropriate level of abstraction. That is, to translate the natural
+   transformation given by currying:
+
+          \hom(A \times B, C) \equiv \hom(A, \hom(B, C))
+
+   into computer functions, where the left represents the uncurried form
+   of a function and the right the curried. hom(X, Y) denotes the
+   homomorphisms from X to Y while, A × B denotes the Cartesian product of
+   A and B.
+
+Contents
+
+     * 1 Examples
+          + 1.1 Functional programming
+          + 1.2 APL family
+          + 1.3 Stack-based
+     * 2 See also
+     * 3 References
+     * 4 External links
+
+Examples[edit]
+
+Functional programming[edit]
+
+   A simple example (in Haskell) is a program which takes a sum of a list.
+   A programmer might define a sum recursively using a pointed (cf.
+   value-level programming) method as:
+sum (x:xs) = x + sum xs
+sum [] = 0
+
+   However by noting this as a fold the programmer could replace this
+   with:
+sum xs = foldr (+) 0 xs
+
+   And then the argument is not needed, so this can be replaced with
+sum  = foldr (+) 0
+
+   which is point-free.
+
+   Another example uses the dot operator:
+p x y z = f (g x y) z
+
+   We can simply group
+f (g x y) z ≡ f ((g x) y) z ≡ (f .) (g x) y z ≡ ((f .) . g) x y z
+
+   so
+p = (f .) . g
+
+   Finally, to see a complex example imagine a map filter program which
+   takes a list, applies a function to it, and then filters the elements
+   based on a criterion
+mf criteria operator list = filter criteria (map operator list)
+
+   It can be expressed point-free^[4] as
+mf = (. map) . (.) . filter
+
+APL family[edit]
+
+   In J, the same sort of point-free code occurs in a function made to
+   compute the average of a list (array) of numbers:
+ avg=: +/ % #
+
+   # counts the number of items in the array. +/ sums the items of the
+   array. % divides the sum by the number of items
+
+Stack-based[edit]
+
+   In stack-oriented programming languages (and concatenative ones, most
+   of which are stack based), point-free methods are commonly used. For
+   example a procedure to compute the Fibonacci numbers might look like:
+/fib
+{
+   dup dup 1 eq exch 0 eq or not
+   {
+      dup 1 sub fib
+      exch 2 sub fib
+      add
+   } if
+} def
+
+See also[edit]
+
+     * Combinatory logic
+     * Concatenative programming language
+     * Function-level programming
+     * Joy (programming language), modern highly tacit language
+     * Pointless topology
+
+References[edit]
+
+    1. ^ ^a ^b Manuel Alcino Cunha (2005) Point-free Program Calculation
+    2. ^ W. Neville Holmes, ed. (2006) Computers and People
+    3. ^ "Name code not values". Concatenative.org. Retrieved 13 September
+       2013.
+    4. ^ pipermail
+
+External links[edit]
+
+     * Pure Functions in APL and J How to use tacit programming in any
+       APL-like language
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Tacit_programming&oldid=6120
+   11449"
+   Categories:
+     * Programming paradigms
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Simple English
+     *
+
+   Edit links
+
+     * This page was last modified on 8 June 2014 at 00:02.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

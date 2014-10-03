@@ -1,0 +1,1794 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Water supply and sanitation in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States: Water and Sanitation
+   Data
+   Average urban water use (liter/capita/day) 371 (98 gallons) in 2005
+   ^[1]
+   Average water and sanitation bill $474/year (US$40/month) in 2002^[2]
+   Share of household metering very high
+   Annual investment in water supply and sanitation $28.5bn or $97/capita
+   (2005)^[3]^[4]
+   Share of self-financing by utilities 39% (water only)^[5]
+   Share of tax-financing 5% by government grants, 13% by government loans
+   (water only, 2000)^[5]
+   Institutions
+   Service provision Local
+   Policy and regulation State and Federal
+   Number of urban service providers 4,000^[6]^[7]
+   Number of rural service providers 50,000^[6]
+
+   Issues that affect water supply and sanitation in the United States
+   include water scarcity, pollution, a backlog of investment, concerns
+   about the affordability of water for the poorest, and a rapidly
+   retiring workforce. Increased variability and intensity of rainfall as
+   a result of climate change is expected to produce both more severe
+   droughts and flooding, with potentially serious consequences for water
+   supply and for pollution from combined sewer overflows.^[8]^[9]
+   Droughts are likely to particularly affect the 66 percent of Americans
+   whose communities depend on surface water.^[10] As for drinking water
+   quality, there are concerns about disinfection by-products, lead,
+   perchlorates and pharmaceutical substances, but generally drinking
+   water quality in the U.S. is good.
+
+   Cities, utilities, state governments and the federal government have
+   addressed the above issues in various ways. To keep pace with demand
+   from an increasing population, utilities traditionally have augmented
+   supplies. However, faced with increasing costs and droughts, water
+   conservation is beginning to receive more attention and is being
+   supported through the federal WaterSense program. The reuse of treated
+   wastewater for non-potable uses is also becoming increasingly common.
+   Pollution through wastewater discharges, a major issue in the 1960s,
+   has been brought largely under control.
+
+   Most Americans are served by publicly owned water and sewer utilities.
+   Eleven percent of Americans receive water from private (so-called
+   “investor-owned”) utilities. In rural areas, cooperatives often provide
+   drinking water. Finally, up to 15 percent of Americans are served by
+   their own wells.^[11]^[12] Water supply and wastewater systems are
+   regulated by state governments and the federal government. At the state
+   level, health and environmental regulation is entrusted to the
+   corresponding state-level departments. Public Utilities Commissions or
+   Public Service Commissions regulate tariffs charged by private
+   utilities. In some states they also regulate tariffs by public
+   utilities. At the federal level, drinking water quality and wastewater
+   discharges are regulated by the United States Environmental Protection
+   Agency, which also provides funding to utilities through State
+   Revolving Funds.^[13]^[14]^[15]
+
+   Water consumption in the United States is more than double that in
+   Central Europe, with large variations among the states. In 2002 the
+   average American family spent $474 on water and sewerage charges,^[2]
+   which is about the same level as in Europe. The median household spent
+   about 1.1 percent of its income on water and sewerage.^[16]
+
+Contents
+
+     * 1 History
+          + 1.1 Piped water supply until 1948
+          + 1.2 Sanitation until 1948
+          + 1.3 After 1948: Enter the federal government
+     * 2 Technical and environmental overview
+          + 2.1 Infrastructure
+          + 2.2 Water sources
+               o 2.2.1 Cities supplied primarily by surface water without
+                 water treatment
+               o 2.2.2 Cities supplied primarily by surface water with
+                 water treatment
+               o 2.2.3 Cities supplied primarily by groundwater
+               o 2.2.4 Cities supplied by a mix of groundwater and surface
+                 water
+          + 2.3 Water use
+     * 3 Institutional overview
+          + 3.1 Service providers
+          + 3.2 Regulators
+          + 3.3 Other stakeholders
+     * 4 Issues
+          + 4.1 Water scarcity and climate change
+          + 4.2 Pollution
+          + 4.3 Investment gap
+          + 4.4 Access
+          + 4.5 Pricing and affordability
+          + 4.6 Retiring workforce
+          + 4.7 Fluoridation
+     * 5 Responses to address issues
+          + 5.1 Supply-side management
+          + 5.2 Demand-side management
+          + 5.3 Water reuse
+          + 5.4 Pollution control
+          + 5.5 Federal assistance
+     * 6 See also
+     * 7 References
+     * 8 External links
+
+History[edit]
+
+   In the 19th century numerous American cities were afflicted with major
+   outbreaks of disease, including cholera in 1832, 1849 and 1866 and
+   typhoid in 1848.^[17] The fast-growing cities did not have sewers and
+   relied on contaminated wells within the city confines for drinking
+   water supply. In the mid-19th century many cities built centralized
+   water supply systems. However, initially these systems provided raw
+   river water without any treatment. Only after John Snow established the
+   link between contaminated water and disease in 1854 and after
+   authorities became gradually convinced of that link, water treatment
+   plants were added and public health improved. Sewers were built since
+   the 1850s, initially based on the erroneous belief that bad air (miasma
+   theory) caused cholera and typhoid. It took until the 1890s for the now
+   universally accepted germ theory of disease to prevail.
+
+   However, most wastewater was still discharged without any treatment,
+   because wastewater was not believed to be harmful to receiving waters
+   due to the natural dilution and self-purifying capacity of rivers,
+   lakes and the sea. Wastewater treatment only became widespread after
+   the introduction of federal funding in 1948 and especially after an
+   increase in environmental consciousness and the upscaling of financing
+   in the 1970s. For decades federal funding for water supply and
+   sanitation was provided through grants to local governments. After 1987
+   the system was changed to loans through revolving funds.
+
+Piped water supply until 1948[edit]
+
+   In the 1840s and 1850s the largest cities in the U.S. built pipelines
+   to supply drinking water from rivers or lakes. However, the drinking
+   water was initially not treated, since the link between waterborne
+   pathogens and diseases was not yet well known. In 1842 New York City
+   was one of the first cities in the U.S. to tap water resources outside
+   the city limits. It dammed the Croton River in Westchester County, New
+   York, and built an aqueduct from the reservoir to the city.^[18] Also
+   in 1842, construction was completed on Chicago's first water works,
+   with water mains made of cedar and a water intake located about 150
+   feet (46 m) into Lake Michigan.^[19] In 1848, Boston began construction
+   of a water transmission system. A tributary of the Sudbury River was
+   impounded creating Lake Cochituate, from where the Cochituate Aqueduct
+   transported water to the Brookline Reservoir that fed the city’s
+   distribution system.^[20] In 1853 Washington, DC, followed suit by
+   beginning the construction of the Washington Aqueduct to provide water
+   from the Great Falls on the Potomac River.
+
+   In 1854, the British physician John Snow found that cholera was spread
+   through contaminated water. As a result of his findings, several cities
+   began to treat all water with sand filters and chlorine before
+   distributing it to the public. Cities also began to construct
+   sewers.^[21] As a result of water treatment and sanitation, the
+   incidence of cholera and typhoid rapidly decreased. Slow sand
+   filtration was initially the technology of choice for water treatment,
+   later being gradually displaced by rapid sand filtration.
+
+   In the arid American Southwest, the water demand of rapidly growing
+   cities such as Los Angeles exceeded local water availability, requiring
+   the construction of large pipelines to bring in water from far-away
+   sources. The most spectacular example is the first Los Angeles Aqueduct
+   built between 1905 and 1913 to supply water from the Owens Valley over
+   a distance of 375 km.
+
+Sanitation until 1948[edit]
+
+   Most of the first sewer systems in the United States were built as
+   combined sewers (carrying both storm water and sewerage). They
+   discharged into rivers, lakes and the sea without any treatment. The
+   main reason for choosing combined sewers over separate systems
+   (separating sanitary sewers from storm water drains) was a belief that
+   combined sewer systems were cheaper to build than separate systems.
+   Also, there was no European precedent for successful separate sewer
+   systems at the time.^[17] The first large-scale sewer systems in the
+   United States were constructed in Chicago and Brooklyn in the late
+   1850s, followed by other major U.S. cities.^[17]
+
+   Few sewage treatment facilities were constructed in the late 19th
+   century to treat combined wastewater because of the associated
+   difficulties. There were only 27 U.S. cities with wastewater treatment
+   works by 1892, most of them "treating" wastewater through land
+   application. Of these 27 cities, 26 had separate sanitary and storm
+   water sewer systems, thus facilitating wastewater treatment, because
+   there was no need for large capacitites to accommodate wet weather
+   flows. Furthermore, there was a belief that the diluted combined
+   wastewater was not harmful to receiving waters, due to the natural
+   dilution and self-purifying capacity of rivers, lakes and the sea.^[17]
+   In the early 20th century a debate evolved between those who thought it
+   was in the best interest of public health to construct wastewater
+   treatment facilities and those who believed building them was
+   unnecessary. Nevertheless, many cities began to opt for separate sewer
+   systems, creating favorable conditions for adding wastewater treatment
+   plants in the future.^[17]
+
+   Where wastewater was being treated it was typically discharged into
+   rivers or lakes. However, in 1932, the first reclaimed water facility
+   in the U.S. was built in Golden Gate Park, San Francisco, for the reuse
+   of treated wastewater in landscape irrigation.
+
+   Sanitary sewers were not the only sanitation solution applied. They
+   were particularly useful in high-density urban areas. However, in some
+   newly built lower-density areas, decentralized septic systems were
+   built. They were attractive because they reduced capital expenditures
+   and had fewer operation and maintenance costs compared to wastewater
+   treatment plants.^[17]
+
+After 1948: Enter the federal government[edit]
+
+   In the first half of the 20th century water supply and sanitation were
+   a local government responsibility with regulation at the state level;
+   the federal government played almost no role in the sector at that
+   time. This changed with the enactment of the Federal Water Pollution
+   Control Act of 1948, which provided for comprehensive planning,
+   technical services, research, and financial assistance by the federal
+   government to state and local governments for sanitary infrastructure.
+   The Act was amended in 1965, establishing a uniform set of water
+   quality standards and creating a Federal Water Pollution Control
+   Administration authorized to set standards where states failed to do
+   so.^[17] Comprehensive federal regulations for water supply and
+   sanitation were introduced in the 1970s, in reaction to an increase in
+   environmental concerns. In 1970 the Environmental Protection Agency
+   (EPA) was created. In 1972, the Clean Water Act was passed, requiring
+   industrial plants to proactively improve their waste procedures in
+   order to limit the effect of contaminants on freshwater sources. In
+   1974, the Safe Drinking Water Act was adopted for the regulation of
+   public water systems. This law specified a number of contaminants that
+   must be closely monitored and reported to residents should they exceed
+   the maximum contaminant levels allowed. From then on, drinking water
+   systems were closely monitored by federal, state, and municipal
+   governments for safety and compliance with existing regulations.^[21]
+   The Clean Water Act set the unprecedented goal of eliminating all water
+   pollution by 1985 and authorized massive expenditures of $24.6 billion
+   in research and construction grants. The funds initially provided an
+   incentive to build centralized wastewater collection and treatment
+   infrastructure instead of decentralized systems.”^[17] However, the
+   1977 amendments to the Clean Water Act required communities to consider
+   alternatives to the conventional centralized sewer systems, and
+   financial assistance was made available.^[17] In the mid-1990s
+   decentralized systems served approximately 25 percent of the U.S.
+   population, and approximately 37 percent of new housing
+   developments.^[22]
+
+   There were disagreements between the federal government and local
+   government about the appropriate level of wastewater treatment, with
+   the former arguing for more stringent standards. For example, in the
+   late 1980s, the City of San Diego and the Environmental Protection
+   Agency (EPA) were involved in a legal dispute over the requirement to
+   treat sewage at the Point Loma Wastewater Treatment Plant to secondary
+   standards. The City prevailed, saying that it saved ratepayers an
+   estimated $3 billion and that process had proved successful in
+   maintaining a healthy ocean environment. The city’s Point Loma
+   Wastewater Treatment Plant uses an advanced primary process.^[23] The
+   requirement to perform secondary treatment on wastewater before ocean
+   discharge was waived by the EPA in 1995, "taking into account the
+   city's unique circumstances".^[24]
+
+   In 1987 Congress, through the Water Quality Act, passed an amendment of
+   the Clean Water Act, abolishing construction grants and replacing them
+   by a system of subsidized loans using the Clean Water State Revolving
+   Fund (CWSRF). The intention at the time was to completely phase out
+   federal funding after a few years. Funding peaked in 1991 and continued
+   at high levels thereafter, despite the original intentions. New
+   challenges arose, such as the need to address combined sewer overflows
+   for which EPA issued a policy in 1994. In 1997 Congress established the
+   Drinking Water State Revolving Fund, building on the success of the
+   CWSRF, in order to finance investments to improve compliance with more
+   stringent drinking water quality standards.
+
+Technical and environmental overview[edit]
+
+   This section provides a brief overview of the water supply and
+   sanitation infrastructure in the U.S., water sources of some of the
+   main cities, and the main types of residential water use.
+
+Infrastructure[edit]
+
+   The centralized drinking water supply infrastructure in the United
+   States consists of dams and reservoirs, well fields, pumping stations,
+   aqueducts for the transport of large quantities of water over long
+   distances, water treatment plants, reservoirs in the distribution
+   system (including water towers), and 1.8 million miles of distribution
+   lines.^[25] Depending on the location and quality of the water source,
+   all or some of these elements may be present in a particular water
+   supply system. In addition to this infrastructure for centralized
+   network distribution, 14.5% of Americans rely on their own water
+   sources, usually wells.^[11]^[12]
+
+   The centralized sanitation infrastructure in the U.S. consists of 1.2
+   million miles of sewers - including both sanitary sewers and combined
+   sewers -, sewage pumping stations and 16,024 publicly owned wastewater
+   treatment plants.^[26] In addition, at least 17% of Americans are
+   served by on-site sanitation systems such as septic tanks.^[27]
+
+   Publicly owned wastewater treatment plants serve 189.7 million people
+   and treat 32.1 billion gallons per day.^[26] 9,388 facilities provide
+   secondary treatment, 4,428 facilities provide advanced treatment, and
+   2,032 facilities do not discharge.^[26] There are 176 facilities that
+   provide a treatment level that is less than secondary. These include
+   facilities with ocean discharge waivers, and treatment facilities
+   discharging to other facilities meeting secondary treatment or better.
+   880 facilities receive flows from combined sewer systems.^[26] About
+   772 communities in the U.S. have combined sewer systems, serving about
+   40 million people.^[28]
+
+Water sources[edit]
+
+   The Wachusett Reservoir is a source of drinking water supply for Boston
+
+   About 90% of public water systems in the U.S. obtain their water from
+   groundwater. However, since systems served by groundwater tend to be
+   much smaller than systems served by surface water, only 34% of
+   Americans (101 million) are supplied with treated groundwater, while
+   66% (195 million) are supplied with surface water.^[10]
+
+   For a surface water system to operate without filtration it has to
+   fulfill certain criteria set by the EPA under its Surface Water
+   Treatment Rule, including the implementation of a watershed control
+   program. The water system of New York City has repeatedly fulfilled
+   these criteria.^[29]
+
+Cities supplied primarily by surface water without water treatment[edit]
+
+   Boston, New York City, San Francisco, Denver, and Portland, Oregon are
+   among the large cities in the U.S. that do not need to treat their
+   surface water sources beyond disinfection, because their water sources
+   are located in the upper reaches of protected watersheds and thus are
+   naturally very pure.^[30] Boston receives most of its water from the
+   Quabbin and Wachusett Reservoirs and the Ware River in central and
+   western Massachusetts. New York City's water supply is fed by a
+   2,000-square-mile (5,200 km^2) watershed in the Catskill Mountains. The
+   watershed is in one of the largest protected wilderness areas in the
+   United States.^[31] San Francisco obtains 85% of its drinking water
+   from high Sierra snowmelt through the Hetch Hetchy Reservoir in
+   Yosemite National Park.^[32] However, to supplement the imported water
+   supply, and to help maintain delivery of drinking water in the event of
+   a major earthquake, drought or decline in the snowpack, San Francisco
+   considers the use of alternative locally produced, sustainable water
+   sources such as reclaimed water for irrigation, local groundwater and
+   desalination during drought periods, all as part of its Water Supply
+   Diversification Program.^[33] The largest source of water supply for
+   Portland, Oregon, is the Bull Run Watershed.^[34] Denver receives its
+   water almost entirely from mountain snowmelt in a number of highly
+   protected watersheds in more than 9 counties. Its water is stored in 14
+   reservoirs, the largest of which is the Dillon Reservoir on the Blue
+   River in the Colorado River. Water is diverted from there through the
+   Harold D. Roberts Tunnel under the Continental Divide into the South
+   Platte River Basin.^[35]
+
+Cities supplied primarily by surface water with water treatment[edit]
+
+   Lake Havasu on the Colorado River is the secondary source of drinking
+   water for Phoenix, Arizona, supplying about 40% of Phoenix's water
+   supply. 50% comes from the watersheds of the Verde and Salt Rivers,
+   according to the official website of the City of Phoenix Water Services
+   Department. Los Angeles also obtains a significant percentage of its
+   water supply from Lake Havasu.
+
+   Cities that rely on more or less polluted surface water from the lower
+   reaches of rivers have to rely on extensive and costly water
+   purification plants. The Las Vegas Valley obtains 90% of its water from
+   Lake Mead on the Colorado River, which has been affected by
+   drought.^[36] To supply a portion of the future water supply, Las Vegas
+   plans to buy water rights in the Snake Valley in White Pine County,
+   250 mi (400 km) north of the city straddling the Utah border and other
+   areas, pumping it to Las Vegas through a US$2 billion pipeline.^[37]
+   Phoenix draws about half of its drinking water from the Salt
+   River–Verde River watershed, and about 40% from the Colorado River
+   further downstream at Lake Havasu through the Central Arizona Project.
+   Los Angeles obtains about half of its drinking water from the Owens
+   River and Mono Lake through the Los Angeles Aqueduct,^[38] with
+   additional supplies from Lake Havasu through the Colorado River
+   Aqueduct.^[39] San Diego imports nearly 90 percent of its water from
+   other areas, specifically northern California and the Colorado
+   River.^[40]
+   The Schuylkill River provides 40% of the water used in Philadelphia
+
+   The cities on the Mississippi River are supplied by water from that
+   river except for Memphis. The metropolitan area of Atlanta receives 70%
+   of its water from the Chattahoochee River and another 28% from the
+   Etowah, Flint, Ocmulgee and Oconee rivers.^[41] Chicago is supplied by
+   water from Lake Michigan and Detroit receives its water from the
+   Detroit River.^[42] Philadelphia receives 60% of its water from the
+   Delaware River and 40% from the Schuylkill River.^[43] Washington, D.C.
+   receives its water from the Potomac River through the Washington
+   Aqueduct.^[44]
+
+Cities supplied primarily by groundwater[edit]
+
+   Miami and its metropolitan area obtain drinking water primarily from
+   the Biscayne Aquifer. Given increasing water demand, Miami-Dade County
+   is considering the use of reclaimed water to help preserve the Biscayne
+   Aquifer.^[45] Memphis receives its water from artesian aquifers.^[46]
+   San Antonio draws the bulk of its water from the Edwards
+   Aquifer;^[47]^[48] it did not use any surface water until 2006.^[49]
+
+Cities supplied by a mix of groundwater and surface water[edit]
+
+   Seventy-one percent of Houston's supply flows from the Trinity River
+   into Lake Livingston, and from the San Jacinto River into Lake Conroe
+   and Lake Houston. Deep underground wells drilled into the Evangeline
+   and Chicot aquifers provide the other 29 percent of the city’s water
+   supply.^[50]
+
+Water use[edit]
+
+   Toilets account for 31% of indoor water use in the U.S.
+
+   Domestic water use (also called home or residential water use) in the
+   United States was estimated by the United States Geological Survey at
+   29.4 billion US gallons (111,000,000 m^3) per day in 2005.^[1] The bulk
+   of domestic water is provided through public networks. 13% or
+   3.8 billion US gallons (14,000,000 m^3) of water is self-supplied.^[1]
+   The average domestic water use per person in the U.S. is 98-US-gallon
+   (370 L) per day.^[1] This is about 2.5 times as high as in England (150
+   Liter)^[51] and three times as high as in Germany (126
+   Liter).^[52]^[53]
+
+   One of the reasons for the high domestic water use in the U.S. is the
+   high share of outdoor water use. For example, the arid West has some of
+   the highest per capita domestic water use, largely because of landscape
+   irrigation. Per capita domestic water use varied from 51-US-gallon
+   (190 L) per day in Maine to 189-US-gallon (720 L) per day in
+   Nevada.^[1] According to a 1999 study, on average all over the U.S. 58%
+   of domestic water use is outdoors for gardening, swimming pools etc.
+   and 42% is used indoors.^[54] Indoor use falls into the following
+   categories:
+     * 31% Toilets
+     * 2% Baths
+     * 19% Showers
+     * 25% Clothes Washers
+     * 2% Dishwashers
+     * 18% Faucets
+     * 3% Other Domestic Uses^[54]
+
+   Only a very small share of public water supply is used for drinking.
+   According to one 2002 survey of 1,000 households, an estimated 56% of
+   Americans drank water straight from the tap and an additional 37% drank
+   tap water after filtering it.^[55] 74% of Americans said they bought
+   bottled water.^[55] According to a non-representative survey conducted
+   among 216 parents (173 Latinos and 43 non-Latinos), 63 (29%) never
+   drank tap water. The share is much higher among Latinos (34%) than
+   among non-Latinos (12%). The study concluded that many Latino families
+   avoid drinking tap water because they fear it causes illness, resulting
+   in greater cost for the purchase of bottled and filtered water.^[56]
+   This notion is also repeated among Asians.^[56]
+
+Institutional overview[edit]
+
+Service providers[edit]
+
+   The California Aqueduct brings water from Northern to Southern
+   California
+   See also: List of United States water companies
+
+   The United States Environmental Protection Agency classifies a Public
+   Water System (PWS) as provide water for human consumption through pipes
+   or other constructed conveyances to at least 15 service connections or
+   serves an average of at least 25 people for at least 60 days a year.
+   EPA has defined three types of public water systems: 1) Community Water
+   System (CWS): A public water system that supplies water to the same
+   population year-round. 2) Non-Transient Non-Community Water System
+   (NTNCWS): A public water system that regularly supplies water to at
+   least 25 of the same people at least six months per year, but not
+   year-round. Some examples are schools, factories, office buildings, and
+   hospitals which have their own water systems. 3)Transient Non-Community
+   Water System (TNCWS): A public water system that provides water in a
+   place such as a gas station or campground where people do not remain
+   for long periods of time.^[57]
+
+   In 2007 there were about 155,000 PWSs in the United States, of which
+   52,000 CWSs. PWSs are either publicly owned, cooperatives or privately
+   owned,^[6] serving a total of about 242 million people in 2000.^[58]
+   Four thousand systems provide water in localities with more than 10,000
+   inhabitants, and the remaining 50,000 systems provide water in
+   localities with less than 10,000 inhabitants.^[6] In 2000 15% of
+   Americans (43.5 million people) relied on their own water source,
+   usually a well, for drinking water.^[1]^[59]
+
+   Utilities in charge of public water supply and sanitation systems can
+   be owned, financed, operated and maintained by a public entity, a
+   private company or both can share responsibilities through a
+   public-private partnership. Utilities can either be in charge of only
+   water supply and/or sanitation, or they can also be in charge of
+   providing other services, in particular electricity and gas. In the
+   latter case they are called multi-utilities. Bulk water suppliers are
+   entities that manage large aqueducts and sell either treated or
+   untreated water to various users, including utilities.
+
+   Public service providers. Eighty-nine percent of Americans served by a
+   public water system are served by a public or cooperative
+   entity.^[60]^[61] Usually public systems are managed by utilities that
+   are owned by a city or county, but have a separate legal personality,
+   management and finances. Examples are the District of Columbia Water
+   and Sewer Authority, the Los Angeles Department of Water and Power and
+   Denver Water. In some cases public utilities span several
+   jurisdictions. An example is the Washington Suburban Sanitary
+   Commission that spans two counties in Maryland. Utility cooperatives
+   are a major provider of water services, especially in small towns and
+   rural areas^[62]^[63]
+
+   Private utilities. About half of American drinking water utilities, or
+   about 26,700, are privately owned, providing water to 11% of Americans
+   served by public water systems.^[60] Most of the private utilities are
+   small, but a few are large and are traded on the stock exchange. The
+   largest private water company in the U.S. is American Water, which
+   serves 15 million customers in 1,600 communities in the U.S. and
+   Canada.^[64] It is followed by United Water, which serves 7 million
+   customers and is owned by the French firm Suez Environnement.^[65]
+   Overall, about 33.5 million Americans (11% of the population) get water
+   from a privately owned drinking water utility.^[60] In addition, 20% of
+   all wastewater utilities in the U.S. are privately owned, many of them
+   relatively small. About 3% of Americans get wastewater service from
+   private wastewater utilities. In addition, more than 1,300 government
+   entities (typically municipalities) contract with private companies to
+   provide water and/or wastewater services.^[60]
+
+   Multi-utilities. Some utilities in the U.S. provide only water and/or
+   sewer services, while others are multi-utilities that also provide
+   power and gas services. Examples of utilities that provide only water
+   and sewer services are the Boston Water and Sewer Commission, Dallas
+   Water Utilities, the New York City Department of Environmental
+   Protection, Seattle Public Utilities and the Washington Suburban
+   Sanitary Commission. Other utilities, such as the San Francisco Public
+   Utilities Commission, provide power in addition to water and sewer
+   services. Other multi-utilities provide power and water services, but
+   no sewer services, such as the Los Angeles Department of Water and
+   Power and the Orlando Utilities Commission. There are also some
+   utilities that provide only sewer services, such as the Metropolitan
+   Water Reclamation District of Greater Chicago or the sewer utility in
+   the city of Santa Clara.^[66]
+   The Central Arizona Project supplies water to 80 municipal, industrial,
+   agricultural and Indian customers in Central and Southern Arizona
+
+   Bulk water suppliers. There are also a few large bulk water suppliers
+   in the arid Southwest of the United States, which sell water to
+   utilities. The Metropolitan Water District of Southern California (MWD)
+   sells treated water from the Colorado River and Northern California to
+   its member utilities in Southern California through the California
+   Aqueduct. Twenty-six cities and water districts serving 18 million
+   people are members of MWD.^[67] The Central Arizona Water Conservation
+   district supplies water from the Colorado River to 80 municipal,
+   industrial, agricultural and Indian customers in Central and Southern
+   Arizona through the Central Arizona Project Aqueduct (CAP).^[68]
+
+Regulators[edit]
+
+   The economic regulation of water and sanitation service providers in
+   the U.S. (in particular in relation to the setting of user water rates)
+   is usually the responsibility of regulators such as Public Utility
+   Commissions at the state level, which are organized in the National
+   Association of Regulatory Utility Commissioners.^[69] (see economic
+   regulator). However, while all investor-owned utilities are subject to
+   tariff regulation, only few public utilities are subjected to the same
+   regulation. In fact, only 12 states have laws restricting pricing
+   practices by public water and sanitation utilities.^[70]
+
+   The environmental and drinking water quality regulation is the
+   responsibility of state departments of health or environment and the
+   EPA.^[71]
+
+Other stakeholders[edit]
+
+   There are a number of Professional associations, trade associations and
+   other non-governmental organizations (NGOs) that are actively engaged
+   in water supply and sanitation.
+
+   Professional associations include the American Water Works Association
+   (AWWA) oriented mainly towards drinking water professionals and the
+   Water Environment Federation (WEF) geared mainly at wastewater
+   professionals. The geographical scope of both is greater than the U.S.:
+   AWWA has members in 100 countries,^[72] with a focus on the U.S. and
+   Canada, and WEF has member associations in 30 countries.^[73]
+
+   There are a number of trade associations in the sector, including:
+     * The National Association of Water Companies (NAWC), founded in
+       1895, which represents the interests of small and large private
+       water and wastewater utilities;^[74]
+     * The National Association of Clean Water Agencies (NACWA), founded
+       in 1970, which represents the interests of wastewater
+       utilities;^[75]
+     * The National Rural Water Association (NRWA), founded in 1976, which
+       represents small water and wastewater utilities;^[62]
+     * The Association of Metropolitan Water Agencies (AMWA), founded in
+       1981, which represents the interests of large publicly owned
+       drinking water utilities.^[76]
+     * The Water Reuse Association, founded in 2000, which promotes water
+       reclamation, recycling, reuse and desalination.^[77]
+     * The Water Quality Association represents manufacturers and dealers
+       of equipment for water treatment.^[78]
+
+   In addition to lobbying, some of these trade associations also provide
+   public education, as well as training and technical assistance to their
+   members.^[79]^[80]
+
+   An example of an NGO active in water supply and sanitation is Food &
+   Water Watch, a consumer rights group created in 2005 which focuses on
+   corporate and government accountability relating to food, water, and
+   fishing. Another example is the Alliance for Water Efficiency (AWE),
+   which was created in 2007 with seed funding from the EPA to “advocate
+   for water efficiency research, evaluation, and education” at the
+   national level. Its Board members “represent water utilities,
+   environmental organizations, plumbing and appliance associations,
+   irrigation manufacturers, the academic community, government, and
+   others.”^[81]
+
+Issues[edit]
+
+   Among the main issues facing water users and the water industry in the
+   U.S. in 2009 are water scarcity and adaptation to climate change;
+   concerns about combined sewer overflows and drinking water quality; as
+   well as concerns about a gap between investment needs and actual
+   investments. Other issues are concerns about a swiftly retiring
+   workforce, the affordability of water bills for the poor during a
+   recession, and water fluoridation, which is opposed by some mainly on
+   ethical and safety grounds.
+
+Water scarcity and climate change[edit]
+
+   With water use in the United States increasing every year, many regions
+   are starting to feel the pressure. At least 36 states are anticipating
+   local, regional, or statewide water shortages by 2013, even under
+   non-drought conditions.^[82]
+
+   According to the National Academies, climate change affects water
+   supply in the U.S. in the following ways:
+     * Rising water demands. Hotter summers mean thirstier people and
+       plants. In addition, more evaporation from reservoirs and irrigated
+       farmland will lead to faster depletion of water supplies.
+     * Increased drought. Scientific evidence suggests that rising
+       temperatures in the southwestern United States will reduce river
+       flows and contribute to an increased severity, frequency, and
+       duration of droughts.
+     * Seasonal supply reductions. Many utilities depend on winter
+       snowpack to store water and then gradually release it through
+       snowmelt during spring and summer. Warmer temperatures will
+       accelerate snowmelt, causing the bulk of the runoff to occur
+       earlier and potentially increasing water storage needs in these
+       areas.^[9]
+
+Pollution[edit]
+
+   Sewer overflows. Combined sewer overflows (CSO) and sanitary sewer
+   overflows affect the quality of water resources in many parts of the
+   U.S. About 772 communities have combined sewer systems, serving about
+   40 million people, mostly in the Northeast, the Great Lakes Region and
+   the Pacific Northwest.^[28] CSO discharges during heavy storms can
+   cause serious water pollution. A 2004 EPA report to Congress estimated
+   that there are 9,348 CSO outflows in the U.S., discharging about
+   850 billion US gallons (3.2×10^9 m^3) of untreated wastewater and storm
+   water to the environment.^[83] EPA estimates that between 23,000 and
+   75,000 sanitary sewer overflows occur each year, resulting in releases
+   of between 3 and 10 billion US gallons (38,000,000 m^3) of untreated
+   wastewater.^[83]
+
+   The increased frequency and intensity of rainfall as a result of
+   climate change^[8]^[84] will result in additional water pollution from
+   wastewater treatment, storage, and conveyance systems."^[84] For the
+   most part, wastewater treatment plants and combined sewer overflow
+   control programs have been designed on the basis of the historic
+   hydrologic record, taking no account of prospective changes in flow
+   conditions due to climate change.^[84]
+   Main article: Drinking water quality in the United States
+
+   Drinking water quality. There are several aspects of drinking water
+   quality that are of some concern in the United States, including
+   Cryptosporidium,^[85] disinfection by-products, lead, perchlorates and
+   pharmaceutical substances. However, in almost all cases drinking water
+   quality is in conformity with the norms of the Safe Drinking Water Act,
+   which sets Maximum Contaminant Levels for pollutants. In addition, the
+   EPA's Consumer Confidence Rule of 1998 requires most public water
+   suppliers to provide consumer confidence reports, also known as annual
+   water quality reports, to their customers.^[86] According to the EPA,
+   each year by July 1 anyone connected to a public water system should
+   receive in the mail an annual water quality report that tells where
+   water in a specific locality comes from and what's in it. Consumers can
+   find out about these local reports on a map provided by EPA.^[87] 29%
+   of Americans are reading their water quality reports. Customers are
+   generally satisfied with the information they are receiving from their
+   water companies and their local or state environmental offices.^[55]
+
+Investment gap[edit]
+
+   In its Infrastructure Report Card the American Society of Civil
+   Engineers gave both the U.S. drinking water and wastewater
+   infrastructure a grade of D- in 2005, down from D in 2001. According to
+   the report, "the nation's drinking water system faces a staggering
+   public investment need to replace aging facilities, comply with safe
+   drinking water regulations and meet future needs."^[88] Investment
+   needs are about $19 billion/year for sanitation and $14 billion/year
+   for drinking water, totaling $33 billion/year.^[89] State and local
+   governments invested $28.5 billion in water supply and sanitation in
+   2005, split roughly half and half between water and sanitation.^[3]^[4]
+   This implies an investment gap of $4.5 billion/year. If tariff revenues
+   remain constant in real terms, utilities face a funding gap of the same
+   magnitude. However, the funding gap would disappear if municipalities
+   increased water and sanitation spending at a real rate of growth of
+   three percent per year.^[89]
+
+   As of 2013, the American Society of Civil Engineers report card remains
+   a "D", and a recent paper from Stanford University's Center for
+   Reinventing the Nation's Urban Water Infrastructure (ReNUWIt) describes
+   why "water infrastructure is systemically resistant to innovation":
+
+     Despite a growing sense that water will be as important a global
+     issue as energy in the coming century, capital deployed for water
+     resources "pales in comparison to that for renewable energy." ...
+     Only 5 percent of the $4.3 billion in VC money invested in the clean
+     tech industry goes to water technologies.
+
+     Federal support is also on the decline. The membranes that today
+     enable desalinization and water reuse, for example, were the fruits
+     of R&D undertaken during the Kennedy administration. We now spend
+     ten times less on that research.^[90]
+
+   The paper notes that innovations occur when utilities see opportunities
+   for "short-term benefits and immediate savings," when there are water
+   shortages, and in quality of life situations, like Philadelphia's
+   "green infrastructure initiative designed to reduce combined sewer
+   overflow."^[90]
+
+   Concerning drinking water supply the EPA estimated in 2003 that $276.8
+   billion would have to be invested between 2003 and 2023.^[91]^[92]
+   Concerning sanitation, the EPA estimated in 2007 that investment of
+   $202.5 billion is needed over the next 20 years to control wastewater
+   pollution. This includes $134 billion for wastewater treatment and
+   collection, $54.8 billion for resolving unsatisfactory combined sewer
+   overflows and $9 billion for stormwater management.^[93] The EPA needs
+   surveys do not capture all investment needs, in particular concerning
+   capital replacement.^[89]
+
+Access[edit]
+
+   More than 99% of the U.S. population has access to "complete plumbing
+   facilities", defined as the following services within the housing unit:
+     * hot and cold piped water,
+     * bathtub or shower, and
+     * flush toilet.
+
+   However, more than 1.7 million people in the United States, 670,986
+   households, still lack basic plumbing facilities. More than a third of
+   them have household incomes below the federal poverty level. They are
+   spread across all racial and ethnic categories, but they are more
+   prominent in the minority groups. Most of the people who lacked
+   plumbing services were elderly, poor, and living in rural areas. Alaska
+   has the highest percentage of households without plumbing – 6.32
+   percent of all its households.^[94]
+
+Pricing and affordability[edit]
+
+   Water meters are a prerequisite for accurate, volumetric billing of
+   water users
+
+   The median household in the U.S. spent about 1.1% of its income on
+   water and sewerage in 2002. However, poor households face a different
+   situation: In 1997 18% of U.S. households, many of them poor, paid more
+   than 4% of their income on their water and sewer bill.^[95]
+
+   The mean U.S. water tariff - excluding sewer tariffs - was $2.72 per
+   1,000 gallons ($0.72 per cubic meter) in 2000,^[96] with significant
+   variations between localities. Average residential water tariffs for a
+   monthly consumption of 15 cubic meters varied between $0.35 per cubic
+   meter in Chicago and $3.01 in Atlanta in 2007. The combined water and
+   sewer tariff was $0.64 in Chicago and $3.01 in Atlanta, with Atlanta
+   not charging separately for sewer services.^[97] Annual combined water
+   and sewer bills vary between $228 in Chicago and $1,476 in Atlanta in
+   2008.^[98] For purposes of comparison, the average water and sewer bill
+   in England and Wales in 2008 was equivalent to $466.^[99]
+
+   The average annual increase in typical residential water bills was
+   approximately 5.3 percent from 2001 through 2009, while the increase in
+   typical residential sewer bills was approximately 5.5 percent according
+   to data from the 50 Largest Cities Water and Wastewater Rate Survey by
+   Black & Veatch.^[100]
+
+Retiring workforce[edit]
+
+   The water community in the US is faced with a swiftly retiring
+   workforce and a tightening market place for new workers. In 2008,
+   approximately one third of executives and managers were expected to
+   retire in the following five years.^[101] Water and sanitation
+   utilities in the United States had 41,922 employees in 2002.^[102]
+
+Fluoridation[edit]
+
+   Water fluoridation, the controlled addition of moderate concentrations
+   of fluoride to a public water supply to reduce tooth decay, is used for
+   about two-thirds of the U.S. population on public water systems.^[103]
+   Almost all major public health and dental organizations support water
+   fluoridation, or consider it safe.^[104] Nevertheless it is contentious
+   for ethical, safety, and efficacy reasons.^[105]
+
+Responses to address issues[edit]
+
+Supply-side management[edit]
+
+   Historically the predominant response to increasing water demand in the
+   U.S. has been to tap into ever more distant sources of conventional
+   water supply, in particular rivers. Because of environmental concerns
+   and limitations in the availability of water resources, including
+   droughts that may be due to climate change, this approach now is in
+   many cases not feasible any more. Still, supply-side management is
+   often being pursued tapping into non-conventional water resources, in
+   particular seawater desalination in coastal areas with high population
+   growth. California alone had plans to build 21 desalination plants in
+   2006 with a total capacity of 450 million US gallons (1,700,000 m^3)
+   per day, which would represent a massive 70-fold increase over current
+   seawater desalination capacity in the state.^[106] In 2007 the largest
+   desalination plant in the United States is the one at Tampa Bay,
+   Florida, which began desalinating 25 million US gallons (95,000 m^3) of
+   water per day in December 2007.^[107]
+
+   In 2005 over 2,000 desalination plants with a capacity of more than
+   100m3/day had been installed or contracted in every state in the U.S.
+   with a total capacity of more than 6 million m3/day. Only 7% of that
+   capacity was for seawater desalination, while 51% used brackish water
+   and 26% used river water as water source.^[108] The contracted capacity
+   corresponds to 2.4% of total municipal and industrial water use in the
+   country in 2000.^[109] The actual share of desalinated water is lower,
+   because some of the contracted capacity was never built or never
+   operated, was closed down or is not operated at full capacity.^[108]
+
+Demand-side management[edit]
+
+   Demand-side management, including the reduction of leakage in the
+   distribution network and water conservation, are other options that are
+   being considered and, in some cases, also applied to address water
+   scarcity. For example, Seattle has reduced per capita water use from
+   152 US gallons (580 L) per day in 1990 to 97 US gallons (370 L) per day
+   in 2007 through a comprehensive water conservation program including
+   pricing policies, education, regulations and rebates for water-saving
+   appliances. Other cities such as Atlanta and Las Vegas have also
+   launched water conservation programs that are somewhat less
+   comprehensive than the one in Seattle concerning indoor water use.
+   However, Las Vegas has intentionally focused on curbing outdoor water
+   demand, which accounts for 70% of residential water use in the city,
+   through reductions in turf area and incentives for the use of rains
+   sensors, irrigation controllers and pool covers.^[110] At the federal
+   level, the Energy Policy Act of 1992 set standards for water-efficient
+   appliances, replacing the 3.5 US gallons (13 L) per flush (gpf) toilet
+   with a new 1.6 gpf/6 litres per flush maximum standard for all new
+   toilets. By 1994, federal law mandated that showerheads and faucets
+   sold in the U.S. release no more than 2.5 and 2.2 US gallons (8.3 L) of
+   water per minute respectively.^[111] Also in 1994 the AWWA established
+   a clearinghouse for water conservation, efficiency, and demand
+   management, called WaterWiser, to assist water conservation
+   professionals and the general public in using water more
+   efficiently.^[112] In 2006 the U.S. Environmental Protection Agency
+   launched the WaterSense program to encourage water efficiency beyond
+   the standards set by the Energy Policy Act through the use of a special
+   label on consumer products.^[113]^[114]
+
+   Distributional losses in the U.S. are typically 10-15% of total
+   withdrawals, although they can exceed 25% of total water use in older
+   systems.^[110] According to another source unaccounted-for water (UFW)
+   - which includes system losses, water used for firefighting and water
+   used in the treatment process - was estimated to be only 8% in systems
+   with more than 500,000 connections in 2000.^[115] In comparison, the
+   level of water losses is 7% in Germany, 19% in England and Wales, and
+   26% in France. Together with Germany water losses in the U.S. are thus
+   among the lowest in 16 industrial countries.^[116]
+
+   Low water tariffs and inappropriate tariff structures do not encourage
+   water conservation. For example, decreasing-block rates, under which
+   the unit rate decreases with consumption, offer hardly any incentive
+   for water conservation. In 2000 about 51% of water tariffs in the
+   U.S.were uniform (i.e. the unit tariff is independent of the level of
+   consumption), 12% were increasing-block tariffs (the unit rate
+   increases with consumption) and 19% were decreasing-block tariffs.^[96]
+   The use of decreasing-block tariffs declined sharply from 45% of all
+   tariff structures in 1992.^[70] Sewer rates are often flat rates that
+   are not linked to consumption, thus offering no incentive to conserve
+   water.^[110]
+
+Water reuse[edit]
+
+   Reuse of reclaimed water is an increasingly common response to water
+   scarcity in many parts of the United States. Reclaimed water is being
+   reused directly for various non-potable uses in the United States,
+   including urban landscape irrigation of parks, school yards, highway
+   medians and golf courses; fire protection; commercial uses such as
+   vehicle washing; industrial reuse such as cooling water, boiler water
+   and process water; environmental and recreational uses such as the
+   creation or restoration of wetlands; as well as agricultural
+   irrigation.^[117] In some cases, such as in Irvine Ranch Water District
+   in Orange County it is also used for flushing toilets.^[118] It was
+   estimated that in 2002 a total of 1.7 billion US gallons
+   (6,400,000 m^3) per day, or almost 3% of public water supply, were
+   being directly reused. California reused 0.6 and Florida 0.5 billion US
+   gallons (1,900,000 m^3) per day respectively. Twenty-five states had
+   regulations regarding the use of reclaimed water in 2002.^[117] Planned
+   direct reuse of reclaimed water was initiated in 1932 with the
+   construction of a reclaimed water facility at San Francisco's Golden
+   Gate Park. Reclaimed water is typically distributed with a color-coded
+   dual piping network that keeps reclaimed water pipes completely
+   separate from potable water pipes.^[119]
+
+Pollution control[edit]
+
+   Numerous efforts have been undertaken in the United States to control
+   the pollution of water resources and to make drinking water safe. The
+   most comprehensive federal regulations and standards for the water
+   treatment industry were implemented in the 1970s, in reaction to a huge
+   increase in environmental concerns in the country. In 1972, Congress
+   passed the Clean Water Act, with the unprecedented goal of eliminating
+   all water pollution by 1985 and authorized expenditures of $24.6
+   billion in research and construction grants.^[120] In 1974, Congress
+   passed the Safe Drinking Water Act, specifying a number of contaminants
+   that had to be closely monitored and reported to residents should they
+   exceed the maximum contaminant levels.^[121] Both Acts were
+   complemented by substantial federal grant funding to improve
+   infrastructure in the form of construction grants.
+
+   In 1987 Congress, through the Water Quality Act, passed an amendment of
+   the Clean Water Act, abolishing construction grants and replacing them
+   by a system of subsidized loans using the Clean Water State Revolving
+   Fund. The intention at the time was to completely phase out federal
+   funding after a few years. Funding for the CWSRF peaked in 1991 and
+   continued at high levels thereafter, despite the original
+   intentions.^[122] New challenges arose, such as the need to address
+   combined sewer overflows for which EPA issued a policy in 1994. In 1997
+   Congress established the Drinking Water State Revolving Fund, in order
+   to finance investments to improve compliance with more stringent
+   drinking water quality standards.
+
+   Today cities make significant investments in the control of combined
+   sewer overflows, including through the construction of storage
+   facilities in the sewerage system in order to allow for the subsequent
+   controlled release of sewage into treatment plants.
+
+Federal assistance[edit]
+
+   The United States Congress approves federal funding for water and
+   sanitation, including through State Revolving Funds.
+
+   One way to address the funding needs of utilities to respond to the
+   various challenges they face without increasing the burden of water
+   bills on users is federal financial assistance.
+
+   Centralized water and sanitation infrastructure is typically financed
+   through utilities’ own revenue or debt. Debt can be in the form of soft
+   loans from State Revolving Funds (SRF), credits from commercial Banks
+   or – in the case of large utilities - from bonds issued directly in the
+   capital market. In the case of water supply (i.e. excluding
+   sanitation), 42% of investments were financed by private sector
+   borrowing, 39% by current revenues, 13% by government loans including
+   the Drinking Water SRF, 5% by government grants and 1% from other
+   sources.^[5] Although federal funding for the main of the two SRFs has
+   declined in real terms by 70% between its peak in 1991 and 2006, SRFs
+   play an important role in financing water and sanitation
+   investments.^[122]^[123]^[124] There are two SRFs: The larger Clean
+   Water State Revolving Fund, created in 1987,^[125]^[126]^[127] and the
+   smaller Drinking Water State Revolving Fund, created in 1997.^[26] They
+   receive federal and state contributions and issue bonds. In turn, they
+   provide soft loans to utilities in their respective states, with
+   average interest rates at 2% for up to 20 years in the case of the
+   Clean Water State Revolving Fund. In addition to the SRFs, the United
+   States Department of Agriculture provides grants, loans and loan
+   guarantees for water supply and sanitation in small communities (those
+   with less than 10,000 inhabitants), together with technical assistance
+   and training.^[128]
+
+   The American Recovery and Reinvestment Act of February 17, 2009,
+   provides $4 billion for the Clean Water SRF, $2 billion for the
+   Drinking Water SRF and, among others, $126 million for water recycling
+   projects through the United States Bureau of Reclamation.^[129]
+
+   This exceeds previous levels of financing, since Congress approved only
+   US$1.5 billion of federal funding for State Revolving Funds in 2008.
+   This was much below the historical average of US$3 billion/year for the
+   Clean Water State Revolving Fund (1987–2006)^[126]^[130] and US$ 1.2
+   billion/year for the Drinking Water State Revolving Fund
+   (1997–2005).^[26] The share of federal funding for sanitation has
+   declined from almost 50% in the early 1980s to about 20% in the early
+   1990s.^[131]
+
+See also[edit]
+
+     * Bottled water in the United States
+     * Water pollution in the United States
+     * Environment of the United States
+
+References[edit]
+
+    1. ^ ^a ^b ^c ^d ^e ^f United States Geological Survey (2005).
+       "Estimated Use of Water in the United States in 2005: Domestic
+       Supply, p. 19". Retrieved 1-23-11.  Check date values in:
+       |accessdate= (help).
+    2. ^ ^a ^b U.S. Environmental Protection Agency. "Water on Tap: What
+       You Need to Know" (PDF). Retrieved 2009-02-28. , p. 11; quoting:
+       U.S. Environmental Protection Agency (April 2003). Investing in
+       America’s Water Infrastructure. Keynote Address by G. Tracy Mehan
+       III to the Schwab Capital Markets’ Global Water Conference.
+       Washington, DC. Retrieved 2009-03-22.
+    3. ^ ^a ^b United States Census Bureau. "Statistical Abstract of the
+       United States. State and Local Governments: Expenditures for Public
+       Works 1995–2005". Retrieved 2009-03-25. ^[dead link]
+    4. ^ ^a ^b Calculated from United States Census Bureau. "State and
+       Local Government Finances by Level of Government and by State:
+       2005-06". Retrieved 2009-03-25.
+    5. ^ ^a ^b ^c Environmental Protection Agency (December 2002).
+       "Community Water System Survey 2000, p. 18". Retrieved 2009-03-26.
+    6. ^ ^a ^b ^c ^d Environmental Protection Agency. "FACTOIDS: Drinking
+       Water and Ground Water Statistics for 2007". Archived from the
+       original on July 15, 2008. Retrieved 2010-09-19.
+    7. ^ Urban providers are defined as entities serving systems with more
+       than 10,000 inhabitants
+    8. ^ ^a ^b American Metropolitan Water Association (December 2007).
+       "Implications of Climate Change for Urban Water Utilities - Main
+       Report" (PDF). Retrieved 2009-02-26.
+    9. ^ ^a ^b National Academies' Water Information Center. "Drinking
+       Water Basics". Retrieved 2009-02-26.
+   10. ^ ^a ^b U.S. Environmental Protection Agency (2003). "Water on Tap:
+       What You Need to Know". Retrieved 2009-02-23. , p. 11
+   11. ^ ^a ^b U.S. Environmental Protection Agency (2002). "Drinking
+       Water from Household Wells". Retrieved 2010-09-19.
+   12. ^ ^a ^b United States Geological Survey (2005). "Estimated Use of
+       Water in the United States in 2000: Domestic Supply". Retrieved
+       3-04-09.  Check date values in: |accessdate= (help)
+   13. ^ Food & Water Watch (2007). "The Clean Water State Revolving
+       Fund". Retrieved 2009-03-04. ^[dead link]
+   14. ^ Food & Water Watch (2007). "Clear Waters". Retrieved 3-04-2009.
+       Check date values in: |accessdate= (help)
+   15. ^ Food & Water Watch (2007). "Annual Funding for Clean Water".
+       Retrieved 3-04-2009.  Check date values in: |accessdate= (help)
+   16. ^ Calculated based on a median household income of $42,409 in 2002,
+       as quoted by U.S. Census Bureau (2007). "Mean Income: 1975 to
+       2007". Retrieved 2009-02-28. ^[dead link]
+   17. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i Steven J. Burian, Stephan J. Nix,
+       Robert E. Pitt, and S. Rocky Durrans:Urban Wastewater Management in
+       the United States:Past, Present, and Future, in:Journal of Urban
+       Technology, 2000, Volume 7, Number 3, pages 33-62. Retrieved July
+       26, 2010.
+   18. ^ New York City Environmental Protection:History of New York City's
+       Water Supply System. Retrieved July 26, 2010.
+   19. ^ City of Chicago Water Department:Water History. Retrieved July
+       26, 2010.
+   20. ^ Massachusetts Water Resources Authority:Metropolitan Boston's
+       Water System History. Retrieved July 26, 2010.
+   21. ^ ^a ^b RandomHistory.com:Clean Water For All:A History of Drinking
+       Water Treatment. Retrieved July 26, 2010.
+   22. ^ Environmental Protection Agency:Response to Congress on Use of
+       Decentralized Wastewater^[dead link], 1997. Retrieved July 26,
+       2010.
+   23. ^ City of San Diego, Public Utilities, Wastewater:History and
+       Background. Retrieved July 26, 2010.
+   24. ^ Environmental Protection Agency:U.S. EPA Advances Wastewater
+       Treatment Waiver For San Diego, 6 December 1995. Retrieved July 26,
+       2010.
+   25. ^ Environmental Protection Agency (December 2002). "Community Water
+       System Survey 2000, p. 14" (PDF). Retrieved 2009-03-26.
+   26. ^ ^a ^b ^c ^d ^e ^f Environmental Protection Agency (May 1999).
+       "Drinking Water State Revolving Fund (DWSRF). Frequent Questions".
+       Retrieved 2009-03-25.
+   27. ^ World Health Organization; UNICEF. "Joint Monitoring Program".
+       Retrieved 2008-03-02.
+       World Health Organization; UNICEF (2006). "Joint Monitoring
+       Programme for Water Supply and Sanitation. Coverage Estimates
+       Improved Drinking Water.". Archived from the original on October 5,
+       2007. Retrieved 2008-03-07.
+       World Health Organization; UNICEF (2006). "Joint Monitoring
+       Programme for Water Supply and Sanitation. Coverage Estimates
+       Improved Drinking Sanitation.". Retrieved 03-07-09.  Check date
+       values in: |accessdate= (help)^[dead link]
+   28. ^ ^a ^b Environmental Protection Agency. "Combined Sewer Overflows:
+       Demographics". Retrieved 2009-01-30.
+   29. ^ Environmental Protection Agency: New York City
+       Watershed:Filtration Avoidance. Retrieved April 17, 2009.
+   30. ^ Committee to Review the New York City Watershed Management
+       Strategy, National Research Council (2000). Watershed Management
+       for Potable Water Supply: Assessing the New York City Strategy. The
+       National Academies Press. ISBN 0-309-06777-4.
+   31. ^ "2005 Drinking Water Supply and Quality Report". City of New York
+       Department of Environmental Protection. Archived from the original
+       on June 18, 2006. Retrieved 2010-09-19.
+   32. ^ San Francisco Public Utilities Commission:Water Sources & Water
+       Supply Planning. Retrieved April 16, 2009.
+   33. ^ Kehoe, Paula. "San Francisco's Water Supply". San Francisco
+       Public Utilities Commission. Retrieved 2009-02-23.
+   34. ^ Portland Water Bureau. "The Bull Run Watershed". Retrieved
+       2009-02-23.
+   35. ^ Denver Water (September 11, 2008). "Denver Water: An Overview".
+       Archived from the original on May 30, 2008. Retrieved 2009-02-23.
+   36. ^ "Lake Mead Water Could Dry Up by 2021". Environment News Service.
+       2008. Retrieved 2009-02-28.
+   37. ^ ABC News (April 5, 2007). "Water Wars: Quenching Las Vegas'
+       Thirst". Retrieved 2009-02-23.
+   38. ^ Los Angeles Department of Water and Power. "Los Angeles
+       Aqueduct". Retrieved 2009-02-23.
+   39. ^ Metropolitan Water District of Southern California. "California's
+       Colorado River Allocation". Retrieved 03-04-09.  Check date values
+       in: |accessdate= (help)
+   40. ^ City of San Diego Water Department. "Overview". Retrieved
+       2009-03-27.
+   41. ^ Metropolitan North Georgia Water Planning District. "Water Supply
+       Basics. Where Does Our Water Come from and How Do We Use It?".
+       Retrieved 2009-02-23.
+   42. ^ City of Chicago: Department of Water Management. "Water
+       Treatment". Retrieved 2009-02-23. ^[dead link]
+   43. ^ Philadelphia Water Department. "Urban Water Cycle". Retrieved
+       2009-03-28.
+   44. ^ District of Columbia Water and Sewer Authority. "Washington
+       Aqueduct". Retrieved 3-04-09.  Check date values in: |accessdate=
+       (help)
+   45. ^ Miami-Dade County. "Reclaimed Water". Retrieved 2009-02-23.
+   46. ^ The University of Memphis, Groundwater Institute. No date.
+       History of the Memphis Water. Retrieved 2-27-09.
+   47. ^ "History & Chronology". San Antonio Water System. Retrieved June
+       20, 2012.
+   48. ^ "About the Edwards Aquifer". San Antonio Water System. Retrieved
+       June 20, 2012.
+   49. ^ "Western Canyon Project". San Antonio Water System. Retrieved
+       June 20, 2012.
+   50. ^ City of Houston - Department of Public Works and Engineering -
+       Public Utilities Division. "Drinking Water Operations". Archived
+       from the original on June 4, 2008. Retrieved 2009-02-23.
+   51. ^ Environment Agency. "Household water use in England and Wales,
+       1992 to 2007". Retrieved 02-23-0.  Check date values in:
+       |accessdate= (help)^[dead link]
+   52. ^ Federal Statistical Office of Germany (2006, 20 January). "Water
+       use continues to decline slightly (in German)". Retrieved
+       2009-02-23.  Check date values in: |date= (help) The original
+       German quote is: "...ergibt sich daraus ein durchschnittlicher
+       Trinkwasserverbrauch von 126 Litern je Einwohner und Tag", which
+       translates as "...therefore the average drinking water consumption
+       is 126 liter per inhabitant and day". The calculation is based on
+       total water production by all utilities in 2004 divided by the
+       number of people served by the same utilities. The figure includes
+       small commercial water use ("Kleingewerbe").
+   53. ^ Profile of the German Water Industry 2008, p. 20
+   54. ^ ^a ^b Mayer, P.W.; DeOreo, W.B.; et al. (1999). "Residential End
+       Uses of Water". American Water Works Association Research
+       Foundation, Denver, CO. Retrieved 2009-02-24.  Cite uses deprecated
+       parameters (help); The study covered 1,188 households in 14 cities
+       over 3 years.
+   55. ^ ^a ^b ^c Environmental Protection Agency (August 2003). "Analysis
+       and Findings of The Gallup Organization's Drinking Water Customer
+       Satisfaction Survey". Retrieved 2009-03-25.
+   56. ^ ^a ^b Hobson, W.L.; Knochel, M.L.; Byington, C.L.; Young, P.C.;
+       Hoff, C.J.; Buchi, K.F. (2007). "Bottled, filtered, and tap water
+       use in Latino and non-Latino children". Archives of Pediatrics and
+       Adolescent Medicine 161 (5): 457–61.
+       doi:10.1001/archpedi.161.5.457. PMID 17485621.
+   57. ^ Public Drinking Water Systems: Facts and Figures
+       http://water.epa.gov/infrastructure/drinkingwater/pws/factoids.cfm
+   58. ^ The Environmental Protection Agency estimates the number of
+       beneficiaries of community water systems at 288 million in 2007,
+       source: Environmental Protection Agency. "FACTOIDS: Drinking Water
+       and Ground Water Statistics for 2007". Retrieved 2009-02-23. . The
+       United States Geological Survey estimates that "About 242 million
+       people depended on water from public suppliers" in 2000, source:
+       United States Geological Survey (2005). "Estimated Use of Water in
+       the United States in 2000: Public Suppl". Retrieved 3-04-09.  Check
+       date values in: |accessdate= (help). The EPA figures is more
+       recent, while the USGS data are more consistent, because they show
+       both the number of people connected to public systems and those
+       self-supplied, with both figures adding up to the total population
+       of the U.S.
+   59. ^ Environmental Protection Agency (2002). "Drinking Water from
+       Household Wells". Retrieved 2009-02-28.
+   60. ^ ^a ^b ^c ^d National Association of Water Companies. "Private
+       Water Service Providers: Quick Facts". Retrieved 2009-02-28. ,
+       based on Environmental Protection Agency. "Community water system
+       survey". Retrieved 2009-03-23.  and Congressional Budget Office
+       (November 2002). "Future Investment in Drinking Water and
+       Wastewater Infrastructure". Retrieved 2009-03-23.
+   61. ^ The 89% figures is calculated based on the 11% figure for the
+       population served by private utilities, given that there are three
+       types of ownership of assets: public, private and cooperative.
+   62. ^ ^a ^b National Rural Water Association (NRWA). "Official
+       website". Retrieved 2009-02-23.
+   63. ^ United States Department of Agriculture (2002). "Connecting Rural
+       America". Retrieved 2009-02-23.
+   64. ^ American Water:Corporate Information. Retrieved March 26, 2009.
+   65. ^ United Water:About us: Facts and figures. Retrieved March 26,
+       2009.
+   66. ^ City of Santa Clara. "Sewer Utility". Retrieved 3-06-08.  Check
+       date values in: |accessdate= (help)
+   67. ^ Metropolitan Water District of Southern California (2008). "MWD
+       at a glance". Retrieved 2009-03-27.
+   68. ^ Central Arizona Project. "About Us". Retrieved 2009-03-23.
+   69. ^ National Association of Regulatory Utility Commissioners. "About
+       NARUC". Retrieved 03-04-09.  Check date values in: |accessdate=
+       (help)
+   70. ^ ^a ^b Whittington, Dale; Boland, John (April 2001). "Reflections
+       on Water Pricing and Tariff Design" (ppt). Retrieved 2009-03-25.
+   71. ^ National Academies' Water Information Center. "Drinking Water
+       Basics". Retrieved 2009-03-23.
+   72. ^ American Water Works Association (March 2006). "AWWA's story".
+       Retrieved 03-04-09.  Check date values in: |accessdate= (help)
+   73. ^ Water Environment Federation. "Member associations". Retrieved
+       03-04-09.  Check date values in: |accessdate= (help)
+   74. ^ National Association of Water Companies. "About NAWC". Retrieved
+       2009-02-26.
+   75. ^ National Association of Clean Water Agencies. "About NACWA".
+       Retrieved 2009-02-23.  National Association of Clean Water
+       Agencies. Retrieved 02-23-2009.
+   76. ^ Association of Metropolitan Water Agencies (AMWA). "About AMWA".
+       Retrieved 2009-02-23.
+   77. ^ Water Reuse Association. "About the Water Reuse Association".
+       Retrieved 2009-03-23.
+   78. ^ Environmental Expert. "Water Quality Association". Retrieved
+       2009-03-23.
+   79. ^ National Rural Water Association (2008). "About NRWA". Retrieved
+       03-04-09.  Check date values in: |accessdate= (help)
+   80. ^ National Association of Clean Water Agencies. "Water & Wastewater
+       Leadership Center". Retrieved 03-04-09.  Check date values in:
+       |accessdate= (help)
+   81. ^ Alliance for Water Efficiency. "Welcome Letter from Chair of the
+       Board". Retrieved 2009-03-23.
+   82. ^ Environmental Protection Agency: WaterSense. "Water Supply and
+       Use in the United States". Retrieved 2009-02-26. ^[dead link]
+   83. ^ ^a ^b Environmental Protection Agency. "Report to Congress on
+       Impacts and Control of Combined Sewer Overflows and Sanitary Sewer
+       Overflows" (PDF). Retrieved 2009-02-23.
+   84. ^ ^a ^b ^c American Metropolitan Water Association (2007).
+       "Implications of Climate Change for Urban Water Utilities -
+       Highlights". Retrieved 2009-02-26.
+   85. ^ Virginia Department of Health (2007). "Cryptosporidiosis and
+       Drinking Water". Retrieved 2009-03-25.
+   86. ^ Environmental Protection Agency. "Consumer Confidence Reports
+       (CCR)". Retrieved 2009-03-25.
+   87. ^ Environmental Protection Agency. "Consumer Confidence
+       Reports:Where you live". Retrieved 2009-03-25.
+   88. ^ American Society of Civil Engineers (March 2005). "Infrastructure
+       Report Card: America's Crumbling Infrastructure Eroding Qaulity of
+       Life". Retrieved 2009-03-25.
+   89. ^ ^a ^b ^c Environmental Protection Agency (September 2002). "The
+       Clean Water and Drinking Water Infrastructure Gap Analysis.
+       Executive Summary". Archived from the original on May 23, 2008.
+       Retrieved 2009-03-25.
+   90. ^ ^a ^b Grabar, Henry (2013-09-13). "Why Is There So Little
+       Innovation in Water Infrastructure?". The Atlantic - Cities.
+       Retrieved 2013-09-19.
+   91. ^ Environmental Protection Agency (2005). "Drinking Water
+       Infrastructure Needs Survey and Assessment". Retrieved 2009-03-25.
+   92. ^ Environmental Protection Agency (2005). "Drinking Water
+       Infrastructure Needs Survey and Assessment Third Report to
+       Congress". Retrieved 2009-03-25. , p. 5
+   93. ^ Environmental Protection Agency (2005). "Clean Watersheds Needs
+       Survey (CWNS)". Retrieved 2009-03-25. , p. 4.
+   94. ^ RCAP - Rural Community Assistance Partnership:Still Living
+       Without the Basics in the 21st Century. Analyzing the Availability
+       of Water and Sanitation Services in the United States, no date.
+       Retrieved April 28, 2009.
+   95. ^ Water Infrastructure Network (2000). "Clean & Safe Water for the
+       21st Century". Retrieved 2009-03-25.
+   96. ^ ^a ^b Environmental Protection Agency (December 2002). "Community
+       Water System Survey 2000, p. 29". Retrieved 2009-03-26.
+   97. ^ Global Water Intelligence/OECD (2007). "GWI/OECD Water Tariff
+       Survey 2007" (XLS). Retrieved 2009-04-01.
+   98. ^ Miami-Dade Water and Sewer Department. "Rate Comparison".
+       Retrieved 2009-03-25.  Bills have been converted from monthly to
+       annual values.
+   99. ^ According to Water Services Regulation Authority (Ofwat) (June
+       2008). "Water industry facts and figures". Retrieved 2009-03-25. ,
+       the average household bill in 2008-09 for water and sewerage in
+       England and Wales was £330, corresponding to $466 at the exchange
+       rate of 1 Pound Sterling = US$1.4138, [1]
+   100. ^ Black & Veatch, 50 Largest Cities Water/Wastewater Rate Survey
+       2009-2010
+   101. ^ Gary Zimmerman, Executive Director of AWWA in International
+       Water Association (IWA). 2008 Yearbook. , p. 34.
+   102. ^ United States Census Bureau. "Water, sewage and other systems".
+       Retrieved 2009-03-25.
+   103. ^ Ripa LW (1993). "A half-century of community water fluoridation
+       in the United States: review and commentary" (PDF). Journal of
+       Public Health Dentistry 53 (1): 17–44.
+       doi:10.1111/j.1752-7325.1993.tb02666.x. PMID 8474047. Retrieved
+       2009-01-01.
+   104. ^ Armfield JM (2007). "When public action undermines public
+       health: a critical examination of antifluoridationist literature".
+       Aust New Zealand Health Policy 4 (1): 25.
+       doi:10.1186/1743-8462-4-25. PMC 2222595. PMID 18067684.
+   105. ^ See Opposition to water fluoridation
+   106. ^ Pacific Institute (June 2006). "California Needs to Move
+       Cautiously on Desalination. Economic, Environmental, and Social
+       Costs Still Outweigh Technological Gains". Retrieved 2009-03-25.
+   107. ^ The Tampa Tribune (2007-12-22). "Applause, At Last, For
+       Desalination Plant". Retrieved 2009-03-25.
+   108. ^ ^a ^b Gleick, Peter H.; Cooley, Heather; Katz, David; Lee,
+       Emily; Morrison, Jason (2006). The World's Water 2006–2007: The
+       Biennial Report on Freshwater Resources. Island Press. pp. 58–59,
+       368. ISBN 978-1-59726-106-7.
+   109. ^ United States Census Bureau. "Table 354. U.S. Water Withdrawals
+       Per Day by End Use: 1940 to 2000". Retrieved 2009-03-25. ^[dead
+       link] According to that source total municipal and industrial water
+       use in 2000 was 66 billion US gallons (250,000,000 m^3) per day.
+   110. ^ ^a ^b ^c Heather Cooley and Peter Gleick:Urban Water-Use
+       Efficiencies:Lessons from United States Citites, in: Peter H.
+       Gleick:The World's Water 2008–2009 - The Biennial Report of
+       Freshwater Resources, Island Press, 2009, ISBN 1-59726-504-7
+   111. ^ City of Los Angeles, Los Angeles Department of Water and
+       Power:[2]. Retrieved July 17, 2014.
+   112. ^ American Water Works Association: About the WaterWiser
+       Clearinghouse. Retrieved April 16, 2009.
+   113. ^ Environmental Protection Agency (2006). "National Efficiency
+       Standards and Specifications for Residential and Commercial
+       Water-Using Fixtures and Appliances". Retrieved 2009-04-04.
+   114. ^ Environmental Protection Agency (2006). "WaterSense". Retrieved
+       2009-03-25.
+   115. ^ Environmental Protection Agency (2002). "Community Water System
+       Survey 2000, p. 17". Retrieved 2009-03-25.
+   116. ^ Profile of the German Water Industry 2008, p. 40
+   117. ^ ^a ^b LeChevallier, Mark W., Ph.D. "Overview of Water Reuse
+       Technology: Pricing Considerations Related To Reclaimed Water"
+       (PPT). Retrieved 2009-03-25.
+   118. ^ Irvine Ranch Water District. "Water Reclamation". Archived from
+       the original on June 4, 2008. Retrieved 2009-03-25.
+   119. ^ The City of San Diego. Water Department. "Rules and Regulations
+       for Recycled Water". Retrieved 2009-03-25.
+   120. ^ Burian, Steven; Nix, Stephan J.; Pitt, Robert E.; Durrans, S.
+       Rocky (2000). "Urban Wastewater Management in the United
+       States:Past, Present, and Future". Journal of Urban Technology 7
+       (3): 33–62. doi:10.1080/713684134. Retrieved 2009-03-23.
+   121. ^ RandomHistory.com. "Clean Water For All. A History of Drinking
+       Water Treatment". Retrieved 2009-03-25.
+   122. ^ ^a ^b Food and Water Watch. "The Clean Water State Revolving
+       Fund". Retrieved 2009-03-25. ^[dead link]
+   123. ^ Food and Water Watch. "Clear Waters". Retrieved 2009-03-25.
+   124. ^ Food and Water Watch. "Annual Funding for Clean Water".
+       Retrieved 2009-03-25. ^[dead link]
+   125. ^ Environmental Protection Agency (May 2001). "Clean Water State
+       Revolving Fund 2001 progress report". Retrieved 2009-03-25. , p. 3;
+       14
+   126. ^ ^a ^b Environmental Protection Agency. "Clean Water State
+       Revolving Fund". Retrieved 2009-03-25.
+   127. ^ Environmental Protection Agency (May 1999). "The Clean Water
+       State Revolving Fund Program". Retrieved 2009-03-25.
+   128. ^ United States Department of Agriculture. "Water and
+       Environmental Programs. Home Page". Retrieved 2009-03-25.
+   129. ^ Water Reuse Association. "Stimulus Package Provides $126 Million
+       for Water Recycling Projects". Retrieved 2009-03-25.
+   130. ^ Environmental Protection Agency. "Clean Water State Revolving
+       Fund 2007 Annual Report". Retrieved 2009-03-25.
+   131. ^ Water Infrastructure Network (2000). "Clean & Safe Water for the
+       21st Century". Retrieved 2009-02-23. , p. 2-3
+
+External links[edit]
+
+     * Drinking Water page at the Environmental Protection Agency
+     * EPA Wastewater Permit Program - NPDES
+     * The National Academies' Water Information Center:Drinking Water
+       Basics
+     * Rural Water Supplies and Water-Quality, CDC
+     * 50 Largest Cities Water and Wastewater Rate Survey 2009-2010
+     * CDC Water Sources Page
+     * U.S. Water Supply and Distribution Factsheet by the University of
+       Michigan's * Center for Sustainable Systems
+     * ReNEWIt, Engineering Research Center for Re-inventing the Nation’s
+       Urban Water Infrastructure, Stanford University
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+         * v
+     * t
+     * e
+
+   Water supply and sanitation in North America
+   Sovereign states
+                      * Antigua and Barbuda
+                      * Bahamas
+                      * Barbados
+                      * Belize
+                      * Canada
+                      * Costa Rica
+                      * Cuba
+                      * Dominica
+                      * Dominican Republic
+                      * El Salvador
+                      * Grenada
+                      * Guatemala
+                      * Haiti
+                      * Honduras
+                      * Jamaica
+                      * Mexico
+                      * Nicaragua
+                      * Panama
+                      * Saint Kitts and Nevis
+                      * Saint Lucia
+                      * Saint Vincent and the Grenadines
+                      * Trinidad and Tobago
+                      * United States
+
+   Dependencies and
+   other territories
+                      * Anguilla
+                      * Aruba
+                      * Bermuda
+                      * Bonaire
+                      * British Virgin Islands
+                      * Cayman Islands
+                      * Curaçao
+                      * Greenland
+                      * Guadeloupe
+                      * Martinique
+                      * Montserrat
+                      * Puerto Rico
+                      * Saint Barthélemy
+                      * Saint Martin
+                      * Saint Pierre and Miquelon
+                      * Saba
+                      * Sint Eustatius
+                      * Sint Maarten
+                      * Turks and Caicos Islands
+                      * United States Virgin Islands
+
+   This is a good article. Click here for more information.
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Water_supply_and_sanitation_
+   in_the_United_States&oldid=618385330"
+   Categories:
+     * Water supply and sanitation in the United States
+
+   Hidden categories:
+     * CS1 errors: dates
+     * All articles with dead external links
+     * Articles with dead external links from September 2010
+     * Articles with dead external links from November 2010
+     * Pages containing cite templates with deprecated parameters
+     * Good articles
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Español
+     *
+
+   Edit links
+
+     * This page was last modified on 25 July 2014 at 07:38.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

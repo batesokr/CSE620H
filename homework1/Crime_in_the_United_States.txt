@@ -1,0 +1,1366 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Crime in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+                             United States
+                       Crime rates (2011 / 2013)
+        Crime type                         Rate^*
+   Homicide:             4.7 / 4.7
+   Forcible rape:        27.0 / 26.9
+   Robbery:              113.9 / 112.9
+   Aggravated assault:   241.5 / 242.3
+   Total Violent crime:  387.1 / 386.9
+   Burglary:             701.3 / 670.2
+   Larceny-theft:        1,974.1 / 1,959.3
+   Motor vehicle theft:  230.0 / 229.7
+   Total Property crime: 2,905.4 / 2,859.2
+   Notes
+   * Number of reported crimes per 100,000 population.
+   Population of the U.S. reported as 313,914,040 as of July 1, 2012.
+   Source: Crime in the United States by Volume and Rate per 100,000
+   Inhabitants, 1993–2012 (Table 1)
+
+   Crime in the United States has been present since colonization. Crime
+   rates have varied over time, with a sharp rise after World War II,
+   before peaking between the 1970s and early 1990s. Since the early
+   1990s, crime has declined in the United States,^[1] and current crime
+   rates are approximately the same as those of the 1960s.^[2]
+
+   Statistics on specific crimes are indexed in the annual Uniform Crime
+   Reports by the Federal Bureau of Investigation (FBI) and by annual
+   National Crime Victimization Surveys by the Bureau of Justice
+   Statistics.^[3] In addition to the primary Uniform Crime Report known
+   as Crime in the United States, the FBI publishes annual reports on the
+   status of law enforcement in the United States.^[2] The report's
+   definitions of specific crimes are considered standard by many American
+   law enforcement agencies.^[4] According to the FBI, index crime in the
+   United States includes violent crime and property crime.^[5] Violent
+   crime consists of four criminal offenses: murder and non-negligent
+   manslaughter, forcible rape, robbery, and aggravated assault; property
+   crime consists of burglary, larceny, motor vehicle theft, and
+   arson.^[5]
+
+Contents
+
+     * 1 Crime over time
+          + 1.1 Arrests
+     * 2 Characteristics of offenders
+     * 3 Crime victimology
+     * 4 Incarceration
+     * 5 International comparison
+          + 5.1 Homicide
+          + 5.2 Violent crime
+          + 5.3 Property crime
+          + 5.4 Physical abuse and neglect of children
+     * 6 Geography of crime
+          + 6.1 Regions
+          + 6.2 States
+          + 6.3 Metropolitan areas
+     * 7 Number and growth of criminal laws
+     * 8 See also
+     * 9 References
+     * 10 External links
+
+Crime over time[edit]
+
+   Property crime rates in the United States per 100,000 population
+   beginning in 1960. Source: Bureau of Justice Statistics.
+
+   In the long term, violent crime in the United States has been in
+   decline since colonial times.^[6] However, during the early 20th
+   century, crime rates in the United States were higher compared to parts
+   of Western Europe. For example, 198 homicides were recorded in the
+   American city of Chicago in 1916, a city of slightly over 2 million at
+   the time. This level of crime was not exceptional when compared to
+   other American cities such as New York, but was much higher relative to
+   European cities, such as London, which then had three times the
+   population but recorded only 45 homicides in the same year.^[7]
+
+   After World War II, crime rates increased in the United States, peaking
+   from the 1970s to the early 1990s. Violent crime nearly quadrupled
+   between 1960 and its peak in 1991. Property crime more than doubled
+   over the same period. Since the 1990s, however, crime in the United
+   States has declined steeply. Several theories have been proposed to
+   explain this decline:
+    1. The number of police officers increased considerably in the
+       1990s.^[8]
+    2. On September 16, 1994, President Clinton signed the Violent Crime
+       Control and Law Enforcement Act into law. Under the act, over $30
+       billion in federal aid was spent over a six year period to improve
+       state and local law enforcement, prisons and crime prevention
+       programs.^[9] Proponents of the law, including the President,
+       touted it as a lead contributor to the sharp drop in crime which
+       occurred throughout the 1990s,^[9] while critics have dismissed it
+       as an unprecedented federal boondoggle.^[9]
+    3. The prison population has been expanded since the mid-1970s.^[8]
+    4. Starting in the mid-1980s, the crack cocaine market grew rapidly
+       before declining again a decade later. Some authors have pointed
+       towards the link between violent crimes and crack use.^[8]
+    5. One hypothesis suggests a causal link between legalized abortion
+       and the drop in crime during the 1990s.^[10]
+    6. Changing demographics of an aging population has been cited for the
+       drop in overall crime.^[11]
+    7. Another hypothesis suggests reduced lead exposure as the cause;
+       Scholar Mark A.R. Kleiman writes: "Given the decrease in lead
+       exposure among children since the 1980s and the estimated effects
+       of lead on crime, reduced lead exposure could easily explain a very
+       large proportion—certainly more than half—of the crime decrease of
+       the 1994-2004 period. A careful statistical study relating local
+       changes in lead exposure to local crime rates estimates the
+       fraction of the crime decline due to lead reduction as greater than
+       90 percent.^[12]
+
+   CAPTION: Violent crime rates in the United States
+   (1960-2012)^[13]^[14]^[15]
+
+   Year Violent crime Murder and non-negligent
+                      manslaughter            Forcible rape Robbery Aggravated
+                                                                    assault
+   1960 160.9         5.1                     9.6           60.1    86.1
+   1961 158.1         4.8                     9.4           58.3    85.7
+   1962 162.3         4.6                     9.4           59.7    88.6
+   1963 168.2         4.6                     9.4           61.8    92.4
+   1964 190.6         4.9                     11.2          68.2    106.2
+   1965 200.2         5.1                     12.1          71.7    111.3
+   1966 220.0         5.6                     13.2          80.8    120.3
+   1967 253.2         6.2                     14.0          102.8   130.2
+   1968 298.4         6.9                     15.9          131.8   143.8
+   1969 328.7         7.3                     18.5          148.4   154.5
+   1970 363.5         7.9                     18.7          172.1   164.8
+   1971 396.0         8.6                     20.5          188.0   178.8
+   1972 401.0         9.0                     22.5          180.7   188.8
+   1973 417.4         9.4                     24.5          183.1   200.5
+   1974 461.1         9.8                     26.2          209.3   215.8
+   1975 487.8         9.6                     26.3          220.8   231.1
+   1976 467.8         8.7                     26.6          199.3   233.2
+   1977 475.9         8.8                     29.4          190.7   247.0
+   1978 497.8         9.0                     31.0          195.8   262.1
+   1979 548.9         9.8                     34.7          218.4   286.0
+   1980 596.6         10.2                    36.8          251.1   298.5
+   1981 594.3         9.8                     36.0          258.4   289.3
+   1982 570.8         9.1                     34.0          238.8   289.0
+   1983 537.7         8.3                     33.8          216.7   279.4
+   1984 539.9         7.9                     35.7          205.7   290.6
+   1985 556.6         8.0                     36.8          209.3   304.0
+   1986 620.1         8.6                     38.1          226.0   347.4
+   1987 612.5         8.3                     37.6          213.7   352.9
+   1988 640.6         8.5                     37.8          222.1   372.2
+   1989 666.9         8.7                     38.3          234.3   385.6
+   1990 729.6         9.4                     41.1          256.3   422.9
+   1991 758.2         9.8                     42.3          272.7   433.4
+   1992 757.7         9.3                     42.8          263.7   441.9
+   1993 747.1         9.5                     41.1          256.0   440.5
+   1994 713.6         9.0                     39.3          237.8   427.6
+   1995 684.5         8.2                     37.1          220.9   418.3
+   1996 636.6         7.4                     36.3          201.9   391.0
+   1997 611.0         6.8                     35.9          186.2   382.1
+   1998 567.6         6.3                     34.5          165.5   361.4
+   1999 523.0         5.7                     32.8          150.1   334.3
+   2000 506.5         5.5                     32.0          145.0   324.0
+   2001 504.5         5.6                     31.8          148.5   318.6
+   2002 494.4         5.6                     33.1          146.1   309.5
+   2003 475.8         5.7                     32.3          142.5   295.4
+   2004 463.2         5.5                     32.4          136.7   288.6
+   2005 469.0         5.6                     31.8          140.8   290.8
+   2006 473.6         5.8                     31.6          150.0   292.0
+   2007 471.8         5.7                     30.6          148.3   287.2
+   2008 458.6         5.4                     29.8          145.9   277.5
+   2009 431.9         5.0                     29.1          133.1   264.7
+   2010 404.5         4.8                     27.7          119.3   252.8
+   2011 387.1         4.7                     27.0          113.9   241.5
+   2012 386.9         4.7                     26.9          112.9   242.3
+
+   CAPTION: Property crime rates in the United States
+   (1960-2012)^[13]^[15]^[16]
+
+   Year Property crime Burglary Larceny Motor vehicle theft
+   1960 1,726.3
+   1961 1,747.9
+   1963 2,012
+   1965 2,249
+   1967 2,736
+   1969 3,351
+   1971 3,769
+   1973 3,737
+   1975 4,811
+   1977 4,602
+   1979 5,017
+   1981 5,264
+   1983 4,637
+   1985 4,650
+   1987 4,940
+   1989 5,078
+   1991 5,140
+   1992 4,903.7        1,168.4  3,103.6 631.6
+   1993 4,740.0        1,099.7  3,033.9 606.3
+   1994 4,660.2        1,042.1  3,026.9 591.3
+   1995 4,590.5        987.0    3,043.2 560.3
+   1996 4,451.0        945.0    2,980.3 525.7
+   1997 4,316.3        918.8    2,891.8 505.7
+   1998 4,052.5        863.2    2,729.5 459.9
+   1999 3,743.6        770.4    2,550.7 422.5
+   2000 3,618.3        728.8    2,477.3 412.2
+   2001 3,658.1        741.8    2,485.7 430.5
+   2002 3,630.6        747.0    2,450.7 432.9
+   2003 3,591.2        741.0    2,416.5 433.7
+   2004 3,514.1        730.3    2,362.3 421.5
+   2005 3,431.5        726.9    2,287.8 416.8
+   2006 3,346.6        733.1    2,213.2 400.2
+   2007 3,276.4        726.1    2,185.4 364.9
+   2008 3,214.6        733.0    2,166.1 315.4
+   2009 3,041.3        717.7    2,064.5 259.2
+   2010 2,945.9        701.0    2,005.8 239.1
+   2011 2,905.4        701.3    1,974.1 230.0
+   2012 2,859.2        670.2    1,959.3 229.7
+
+Arrests[edit]
+
+   Each state has a set of statutes enforceable within its own borders. A
+   state has no jurisdiction outside of its borders, even though still in
+   the United States. It must request extradition from the state in which
+   the suspect has fled. In 2014, there were 186,873 felony suspects
+   outside specific states jurisdiction against whom no extradition would
+   be sought. Philadelphia has about 20,000 of these since it is near a
+   border with four other states. The cost of extradition is estimated to
+   cost a few hundred dollars per case.^[17]
+
+Characteristics of offenders[edit]
+
+   Violent crime rates by gender 1973-2003
+   Further information: Race and crime in the United States
+
+   (Note: According to the legal systems of the United States, Hispanic
+   and/or Latin American persons are generally classified as white.) For
+   2012, law enforcement made approximately 12,200,000 arrests nationally,
+   down 200,000 from 2011.^[18]^[19] Arrested offenders in the United
+   States tend to be male,^[20]^[21] over age 18,^[22]^[23] and
+   white.^[24]^[25]
+
+   CAPTION: Arrested offenders by race (2012)^[24]
+
+   Year White Black American
+   Indian Asian or
+   Pacific Islander White (%) Black (%) American
+   Indian (%) Asian or
+   Pacific Islander (%)
+   2012 6,502,919 2,640,067 135,165 81,631 69.3 28.1 1.4 1.2
+
+   CAPTION: Arrested offenders by gender (2012)^[20]
+
+   Year   Male     Female   Male (%) Female (%)
+   2012 6,972,023 2,474,637 73.8     26.2
+
+   Characteristics of offenders vary from the average for specific types
+   of crimes and specific crimes. In terms of violent crime by gender, in
+   2011, 80.4% of arrested persons were male and 19.6% were female.^[21]
+   Males were 88.2% of those arrested for homicide, while females were
+   11.8%.^[21] Among those arrested for rape in 2011, males were 98.8% and
+   females were 1.2%.^[21] For property crime in 2011, 62.9% of arrested
+   persons were male and 37.1% were female.^[21]
+
+   For violent crime by race in 2011, 59.4% of those arrested were white,
+   38.3% were black, and 2.2% were of other races.^[25] For persons
+   arrested for homicide in 2011, 49.7% were black, 48% were white, and
+   2.3% were of other races.^[25] For persons arrested for rape in 2011,
+   65% were white, 32.9% were black, and 2.1% were of other races.^[25]
+   For property crime in 2011, 68.1% of arrested persons were white, 29.5%
+   were black, and 2.4% were of other races.^[25]
+
+   In 2011, law enforcement reported 6,222 bias-motivated incidents, known
+   as hate crimes, for which 5,731 offenders were identified.^[26] Of
+   these, 59% were white, 20.9% were black, 7.1% were of various races,
+   1.4% were Asian or Pacific Islanders, 0.8% were Native American, and
+   10.8% were of unknown race.^[26]
+
+   Reporting at the annual meeting of the American Sociological
+   Association (August 3, 2008), sociologists at Bowling Green State
+   University found that men who attend college are more likely to commit
+   property crimes during their college years than their
+   non-college-attending peers. The research draws from three waves of
+   data from the National Longitudinal Study of Adolescent Health and
+   examines education, crime levels, substance abuse and socializing among
+   adolescents and young adults.^[27] Also, according to Naci Mocan of the
+   University of Colorado and Erdal Tekin of Georgia State University, "We
+   find that unattractive individuals commit more crime in comparison to
+   average-looking ones, and very attractive individuals commit less crime
+   in comparison to those who are average-looking."^[28]
+
+Crime victimology[edit]
+
+   This graph shows the homicide victimization rate for whites and blacks,
+   according to the US Bureau of Justice Statistics.
+
+   In 2011, surveys indicated more than 5.8 million violent victimizations
+   and 17.1 million property victimizations took place in the United
+   States; according to the Bureau of Justice Statistics, each property
+   victimization corresponded to one household, while violent
+   victimizations is the number of victims of a violent crime.^[29]
+
+   Patterns are found within the victimology of crime in the United
+   States. Overall, males, people with lower incomes, those younger than
+   25, and non-whites were more likely to report being the victim of
+   crime.^[29] Income, gender, and age had the most dramatic effect on the
+   chances of a person being victimized by crime, while the characteristic
+   of race depended upon the crime being committed.^[29]
+
+   In terms of gender, males were more likely to become crime victims than
+   were females,^[30] with 79% percent of all murder victims being male.
+   Males were twice as likely to be carjacked as females.^[30] In terms of
+   income, households with a 2008 income of less than $15,000 were
+   significantly more likely to have their homes burgled.^[30]
+
+   Concerning age, those younger than twenty-five were more likely to fall
+   victim to crime, especially violent crime.^[31] The chances of being
+   victimized by violent crime decreased far more substantially with age
+   than the chances of becoming the victim of property crime.^[31] For
+   example, 3.03% of crimes committed against a young person were theft,
+   while 20% of crimes committed against an elderly person were
+   theft.^[31]
+
+   Bias motivation reports showed that of the 7,254 hate crimes reported
+   in 2011, 47.7% (3,465) were motivated by race, with 72% (2,494) of
+   race-motivated incidents being anti-black.^[26] In addition, 20.8%
+   (1,508) of hate crimes were motivated by sexual orientation, with 57.8%
+   (871) of orientation-motivated incidents being anti-male
+   homosexual.^[26] The third largest motivation factor for hate crime was
+   religion, representing 18.2% (1,318) incidents, with 62.2% (820) of
+   religion-motivated incidents being anti-Jewish.^[26]
+
+   As of 2007, violent crime against homeless people is
+   increasing.^[32]^[33] The rate of such documented crimes in 2005 was
+   30% higher than of those in 1999.^[34] 75% of all perpetrators are
+   under the age of 25. Studies and surveys indicate that homeless people
+   have a much higher criminal victimization rate than the non-homeless,
+   but that most incidents never get reported to authorities.^[citation
+   needed] In recent years, largely due to the efforts of the National
+   Coalition for the Homeless (NCH) and academic researchers the problem
+   of violence against the homeless has gained national attention. The NCH
+   called deliberate attacks against the homeless hate crimes in their
+   report Hate, Violence, and Death on Mainstreet USA (they retain the
+   definition of the American Congress).^[citation needed] The Center for
+   the Study of Hate & Extremism at California State University, San
+   Bernardino in conjunction with the NCH found that 155 homeless people
+   were killed by non-homeless people in "hate killings", while 76 people
+   were killed in all the other traditional hate crime homicide categories
+   such as race and religion, combined.^[33] The CSHE contends that
+   negative and degrading portrayals of the homeless contribute to a
+   climate where violence takes place.
+
+   The likelihood of falling victim to crime relates to both demographic
+   and geographic characteristics.^[1] Overall, men, minorities, the
+   young, and those in urban areas are more likely to be crime
+   victims.^[1] The likelihood of perpetrating crime also relates to
+   demography. Also, Human Rights Watch has reported that much of the rape
+   in prison is black against white: "Past studies have documented the
+   prevalence of black on white sexual aggression in prison. These
+   findings are further confirmed by Human Rights Watch's own research.
+   Overall, our correspondence and interviews with white, black, and
+   Hispanic inmates convince us that white inmates are disproportionately
+   targeted for abuse. Although many whites reported being raped by white
+   inmates, black on white abuse appears to be more common. To a much
+   lesser extent, non-Hispanic whites also reported being victimized by
+   Hispanic inmates."^[35] Critics such as Jared Taylor contend that the
+   media downplays such violence against whites.
+
+   In 2010, according to the UNODC, 67.5% of all homicides in the United
+   States were perpetrated using a firearm.^[36]
+
+Incarceration[edit]
+
+   Main article: Incarceration in the United States
+   A map of US states according to number of incarcerated individuals per
+   population of 100,000 in 2008.^[37]
+   As of 2001, the chances of going to prison in percentages for various
+   demographic groups
+
+   The United States has the highest incarceration rate in the world
+   (which includes pre-trial detainees and sentenced prisoners).^[38] As
+   of 2009, 2.3 million people were incarcerated in the United States,
+   including federal and state prisons and local jails, creating an
+   incarceration rate of 793 persons per 100,000 of national
+   population.^[38] During 2011, 1.6 million people were incarcerated
+   under the jurisdiction of federal and state authorities.^[39] At the
+   end of 2011, 492 persons per 100,000 U.S. residents were incarcerated
+   in federal and state prisons.^[39] Of the 1.6 million state and federal
+   prisoners, nearly 1.4 million people were under state jurisdiction,
+   while 215,000 were under federal jurisdiction.^[39] Demographically,
+   nearly 1.5 million prisoners were male, and 115,000 were female, while
+   581,000 prisoners were black, 516,000 were white, and 350,000 were
+   Hispanic.^[39]
+
+   Among the 1.35 million sentenced state prisoners in 2011, 725,000
+   people were incarcerated for violent crimes, 250,000 were incarcerated
+   for property crimes, 237,000 people were incarcerated for drug crimes,
+   and 150,000 were incarcerated for other offenses.^[39] Of the 200,000
+   sentenced federal prisoners in 2011, 95,000 were incarcerated for drug
+   crimes, 69,000 were incarcerated for public order offenses, 15,000 were
+   incarcerated for violent crimes, and 11,000 were incarcerated for
+   property crimes.^[39]
+
+International comparison[edit]
+
+   The manner in which America's crime rate compared to other countries of
+   similar wealth and development depends on the nature of the crime used
+   in the comparison.^[40] Overall crime statistic comparisons are
+   difficult to conduct, as the definition and categorization of crimes
+   varies across countries. Thus an agency in a foreign country may
+   include crimes in its annual reports which the United States omits, and
+   vice-versa.
+
+   Some countries such as Canada, however, have similar definitions of
+   what constitutes a violent crime, and nearly all countries had the same
+   definition of the characteristics that constitutes a
+   homicide.^[citation needed] Overall the total crime rate of the United
+   States is similar to that of other industrialized countries. Some types
+   of reported property crime in the U.S. survey as lower than in Germany
+   or Canada, yet the homicide rate in the United States is substantially
+   higher.
+
+Homicide[edit]
+
+   The US homicide rate, which has declined substantially since 1992 from
+   a rate per 100,000 persons of 9.8 to 4.8 in 2010, is still among the
+   highest in the industrialized world. There were 14,748 homicides in the
+   United States in 2010, including non-negligent manslaughter.^[41]
+   (666,160 murders from 1960 to 1996).^[42] In 2004, there were 5.5
+   homicides for every 100,000 persons, roughly three times as high as
+   Canada (1.9) and six times as high as Germany (0.9).^[43]^[44] A closer
+   look at The National Archive of Criminal Justice Data indicates that
+   per-capita homicide rates over the last 30 plus years on average, of
+   major cities, New Orleans' average annual per capita homicide rate of
+   52 murders per 100,000 people overall (1980–2012) is the highest of
+   U.S. cities with average annual homicide totals that were among the top
+   10 highest during the same period.
+   Country Ireland^[45] Germany^[46] Netherlands^[47] Norway^[47] United
+   Kingdom^[47] Canada^[48] France^[47] United States^[49] Russia^[50]
+   Venezuela^[51] El Salvador^[52] Honduras^[52]
+   Homicide rate (per hundred thousand) 1.3 0.9 1.0 0.5 1.0 1.56 1.6 4.8
+   13 48 65 78
+   Year 2010 2007 2007 2006 2012 2012 2004 2010 2010 2010 2010 2010
+
+   In the United States, the number of homicides where the victim and
+   offender relationship was undetermined has been increasing since 1999
+   but has not reached the levels experienced in the early 1990s. In 14%
+   of all murders, the victim and the offender were strangers. Spouses and
+   family members made up about 15% of all victims, about one-third of the
+   victims were acquaintances of the assailant, and the victim and
+   offender relationship was undetermined in over one-third of homicides.
+   Gun involvement in homicides were gang-related homicides which
+   increased after 1980, homicides that occurred during the commission of
+   a felony which increased from 55% in 1985 to 77% in 2005, homicides
+   resulting from arguments which declined to the lowest levels recorded
+   recently, and homicides resulting from other circumstances which
+   remained relatively constant. Because gang killing has become a normal
+   part of inner cities, many including police hold preconceptions about
+   the causes of death in inner cities. When a death is labeled
+   gang-related it lowers the chances that it will be investigated and
+   increases the chances that the perpetrator will remain at large. In
+   addition, victims of gang killings often determine the priority a case
+   will be given by police. Jenkins (1988) argues that many serial murder
+   cases remain unknown to police and that cases involving Black offenders
+   and victims are especially likely to escape official attention.^[53]
+
+Violent crime[edit]
+
+   See also: Violent crime in the United States and Gun violence in the
+   United States
+   The burglary rates of selected industrialized countries as published by
+   the US Bureau of Justice Statistics
+
+   The reported US violent crime rate includes murder, rape and sexual
+   assault, robbery, and assault,^[54] whereas the Canadian violent crime
+   rate includes all categories of assault, including Assault level 1
+   (i.e., assault not using a weapon and not resulting in serious bodily
+   harm).^[43]^[44] A Canadian government study concluded that direct
+   comparison of the 2 countries' violent crime totals or rates was
+   "inappropriate".^[55]
+
+   France and the U.S. do not count minor violence,^[citation needed] such
+   as punching or slapping, as assault, whereas Austria, Germany, and
+   Finland do count such occurrences.^[56]
+
+   Crime rates are necessarily altered by averaging neighborhood higher or
+   lower local rates over a larger population which includes the entire
+   city. Having small pockets of dense crime may lower a city's average
+   crime rate.
+
+   CAPTION: Violent crime rates
+
+   Country Murder and non-negligent
+   manslaughter (intentional homicide) Forcible rape Robbery Aggravated
+   assault
+   Austria 0.42 9 61 47
+   Germany 0.9 9 64 88
+   UK, England/Wales 2.6 64 157 -
+   UK, Scotland 2.66 20 60 117
+   USA 4.7 26.8 113 241
+
+Property crime[edit]
+
+   According to a 2004 study by the Bureau of Justice Statistics, looking
+   at the period from 1981 to 1999, the United States had a lower surveyed
+   residential burglary rate in 1998 than Scotland, England, Canada, the
+   Netherlands, and Australia. The other two countries included in the
+   study, Sweden and Switzerland, had only slightly lower burglary rates.
+   (Note: The rate of burglary in police records remained higher in the
+   U.S. than most other countries during the study period (see graph)).
+   For the first nine years of the study period the same surveys of the
+   public showed only Australia with rates higher than the U.S. The
+   authors noted various problems in doing the comparisons including
+   infrequent data points (The U.S. performed 5 surveys from 1995 to 1999
+   when its rate dipped below Canada's while Canada ran a single telephone
+   survey during that period for comparison).^[40]
+
+Physical abuse and neglect of children[edit]
+
+   [icon] This section requires expansion. (September 2014)
+
+   According to a 2001 report from UNICEF, the United States has the
+   highest rate of deaths from child abuse and neglect of any
+   industrialized nation, at 2.4 per 100,000 children; France has 1.4,
+   Japan 1, UK 0.9 and Germany 0.8. According to the US Department of
+   Health, the state of Texas has the highest death rate, at 4.05 per
+   100,000 children, New York has 2.46, Oregon 1.49 and New Hampshire
+   0.35. ^[57] A UNICEF report on child wellbeing stated that the United
+   States and the United Kingdom ranked lowest among industrial nations
+   with respect to the wellbeing of children.^[58]
+
+Geography of crime[edit]
+
+   Crime rates vary in the United States depending on the type of
+   community.^[59] Within metropolitan statistical areas, both violent and
+   property crime rates are higher than the national average; in cities
+   located outside metropolitan areas, violent crime was lower than the
+   national average, while property crime was higher.^[59] For rural
+   areas, both property and violent crime rates were lower than the
+   national average.^[59]
+
+Regions[edit]
+
+   For regional comparisons, the FBI divides the United States into four
+   regions: Northeast, Midwest, South, and West.^[60] For 2011, the region
+   with the lowest violent crime was the Midwest, with a rate of 349.9 per
+   100,000 residents, while the region with the highest violent crime rate
+   was the South, with a rate of 428.8 per 100,000.^[60] For 2011, the
+   region with the lowest property crime rate was the Northeast, with a
+   rate of 2,121.8 per 100,000 residents, while the region with the
+   highest property crime rate was the South, with a rate of 3,370.8 per
+   100,000.^[60]
+
+States[edit]
+
+   Map of violent crime per 100,000 people in the USA by state in 2004.
+     < 100
+     >100-200
+     >200-300
+     >300-400
+               >400-500
+               >500-600
+               >600-700
+               >700-800
+                         >800
+
+   Crime rates vary greatly among U.S. states.^[61] In 2011, the state
+   with the lowest violent crime rate was Maine, with a rate of 123.2 per
+   100,000 residents, while the state with the highest violent crime rate
+   was Tennessee, with a rate of 608.2 per 100,000.^[61] However, the
+   District of Columbia, the U.S. capital district, had a violent crime
+   rate of 1,202.1 per 100,000 in 2011.^[61] In 2011, the state with the
+   highest property crime rate was South Carolina, with a rate of 3,904.2
+   per 100,000, while the state with the lowest property crime rate was
+   South Dakota, with a rate of 1,817.7 per 100,000.^[61] However, Puerto
+   Rico, an unincorporated territory of the United States, had a property
+   crime rate of 1,395.2 per 100,000 in 2011.^[61]
+
+   A closer look at annual per capita homicide rates for each state from
+   FBI Uniform Crime Reports Bureau of Justice Statistics indicate that
+   Louisiana's per capita homicide rate has ranked 1st every single year
+   from 1989-2012, which is 24 consecutive years.
+
+Metropolitan areas[edit]
+
+   Further information: United States cities by crime rate
+
+   Crime in metropolitan statistical areas tends to be above the national
+   average; however, wide variance exists among and within metropolitan
+   areas.^[62] Some responding jurisdictions report very low crime rates,
+   while others have considerably higher rates; these variations are due
+   to many factors beyond population.^[62] FBI crime statistics
+   publications strongly caution against comparison rankings of cities,
+   counties, metropolitan statistical areas, and other reporting units
+   without considering factors other than simply population.^[62] For
+   2011, the metropolitan statistical area with the highest violent crime
+   rate was the Memphis metropolitan area, with a rate of 980.4 per
+   100,000 residents, while the metropolitan statistical area with the
+   lowest violent crime rate was Logan metropolitan area, with a rate of
+   47.7.^[63]^[64]
+
+   It is quite common for crime in American cities to be highly
+   concentrated in a few, often economically disadvantaged areas. For
+   example, San Mateo County, California had a population of approximately
+   707,000 and 17 homicides in 2001. Six of these 17 homicides took place
+   in poor East Palo Alto, which had a population of roughly 30,000. So,
+   while East Palo Alto accounted for a mere 4.2% of the population, about
+   one-third of the homicides took place there.^[65]
+
+   CAPTION: Crime in ten largest metropolitan areas (2011)^[63]^[64]
+
+   Metropolitan statistical area Violent crime rate Property crime rate
+   New York-Northern New Jersey-Long Island, NY-NJ-PA MSA 406.0 1744.1
+   Los Angeles-Long Beach-Santa Ana, CA MSA 405.4 2232.7
+   Chicago-Joliet-Naperville, IL-IN-WI MSA 2791.5
+   Dallas-Fort Worth-Arlington, TX MSA 358.4 3498.5
+   Houston-Sugar Land-Baytown, TX MSA 550.8 3576.9
+   Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA 532.3 2747.3
+   Washington-Arlington-Alexandria, DC-VA-MD-WV MSA 334.6 2386.0
+   Miami-Fort Lauderdale-Pompano Beach, FL MSA 596.7 4193.3
+   Atlanta-Sandy Springs-Marietta, GA MSA 400.9 3552.0
+   Boston-Cambridge-Quincy, MA-NH MSA 374.7 2109.0
+
+Number and growth of criminal laws[edit]
+
+   There are conflicting opinions on the number of federal
+   crimes,^[66]^[67] but many have argued that there has been explosive
+   growth and it has become overwhelming.^[68]^[69]^[70] In 1982, the U.S.
+   Justice Department could not come up with a number, but estimated 3,000
+   crimes in the United States Code.^[66]^[67]^[71] In 1998, the American
+   Bar Association (ABA) said that it was likely much higher than 3,000,
+   but didn't give a specific estimate.^[66]^[67] In 2008, the Heritage
+   Foundation published a report that put the number at a minimum of
+   4,450.^[67] When staff for a task force of the U.S. House Judiciary
+   Committee asked the Congressional Research Service (CRS) to update its
+   2008 calculation of criminal offenses in the United States Code in
+   2013, the CRS responded that they lack the manpower and resources to
+   accomplish the task.^[72]
+
+See also[edit]
+
+     * Gangs in the United States
+     * Incarceration in the United States
+     * National Crime Information Center Interstate Identification Index
+     * United States cities by crime rate
+
+References[edit]
+
+    1. ^ ^a ^b ^c "Criminal Victimization Survey". Bureau of Justice
+       Statistics. 2011. Retrieved 15 May 2013.
+    2. ^ ^a ^b "Uniform Crime Reports". FBI. Retrieved 15 May 2013.
+    3. ^ "Crime in the United States". FBI. 2011. Retrieved 15 May 2013.
+    4. ^ Charlie Savage (6 January 2012). "U.S. to Expand its Definition
+       of Rape in Statistics". New York Times. Retrieved 15 May 2013.
+    5. ^ ^a ^b "Uniform Crime Reports Data Tool". FBI. Retrieved 15 May
+       2013.
+    6. ^ Fischer, Claude. "A crime puzzle: Violent crime declines in
+       America". UC Regents. Retrieved 24 April 2012.
+    7. ^ Fosdick, Raymond (1920). American Police Systems. The Century Co.
+       p. 13. ISBN 0-87585-053-7.
+    8. ^ ^a ^b ^c Levitt, Steven D. (2004). Understanding Why Crime Fell
+       in the 1990s: Four Factors that Explain the Decline and Six that Do
+       Not 18 (1). pp. 163–190. Retrieved 2012-11-29.
+    9. ^ ^a ^b ^c
+       /Effect+of+the+Violent+Crime+Control+and+Law+Enforcement+Act+of+199
+       4 Violent Crime Control and Law Enforcement Act of 1994^[dead link]
+   10. ^ Donohue, John; Levitt, Steven (2000-03-01). "The Impact of
+       Legalized Abortion on Crime". Berkeley Program in Law & Economics,
+       Working Paper Series 2000 (2): 69. Retrieved 2014-03-15.
+   11. ^ Von Drehle, David (2010-02-22). "What's Behind America's Falling
+       Crime Rate". Time Magazine. Retrieved 8 January 2013.
+   12. ^ When Brute Force Fails: How to Have Less Crime and Less
+       Punishment, Princeton University Press 2009 page 133 citing Richard
+       Nevin, "How Lead Exposure Relates to Temoral Changes in IQ, Violent
+       Crime and Unwed Pregnancy," Environmental Research 83, 1 (2000):
+       1-22.
+   13. ^ ^a ^b "Crime in the US, 1960-2004, Bureau of Justice Statistics".
+       Retrieved 2006-09-29.
+   14. ^ "Crime in the United States by Volume and Rate per 100,000
+       Inhabitants, 1992-2012". Retrieved June 28, 2013.
+   15. ^ ^a ^b "Crime in the United States by Volume and Rate per 100,000
+       Inhabitants, 1993–2012". FBI.gov. Retrieved September 21, 2013.
+   16. ^ "Crime in the United States by Volume and Rate per 100,000
+       Inhabitants, 1992-2011". Retrieved January 25, 2013.
+   17. ^ Heath, Brad (March 13, 2014). "A license to commit crimes". USA
+       Today. pp. 1B, 4B. Retrieved March 13, 2014.
+   18. ^ "Crime in the United States, Persons Arrested". FBI. 2012.
+   19. ^ "Crime in the United States, Persons Arrested". FBI. 2011.
+   20. ^ ^a ^b "Crime in the United States, Arrests by Sex". FBI. 2012.
+   21. ^ ^a ^b ^c ^d ^e "Crime in the United States, Arrests by Sex". FBI.
+       2011.
+   22. ^ "Crime in the United States, Arrests by Age". FBI. 2012.
+   23. ^ "Crime in the United States, Arrests by Age". FBI. 2011.
+   24. ^ ^a ^b "Crime in the United States, Arrests by Race". FBI. 2012.
+   25. ^ ^a ^b ^c ^d ^e "Crime in the United States, Arrests by Race".
+       FBI. 2011.
+   26. ^ ^a ^b ^c ^d ^e "Hate Crime Statistics, Offenders". FBI. 2011.
+   27. ^ Male College Students More Likely than Less-Educated Peers to
+       Commit Property Crimes Newswise, Retrieved on August 3, 2008.
+   28. ^ Mocan and Tekin. "Ugly Criminals". National Bureau of Economic
+       Research. Retrieved 2012-12-24.
+   29. ^ ^a ^b ^c Bureau of Justice Statistics (October 2012). "Criminal
+       Victimization, 2011". U.S. Department of Justice. p. 1.
+   30. ^ ^a ^b ^c Bureau of Justice Statistics (September 2009). "Criminal
+       Victimization, 2008". U.S. Department of Justice.
+   31. ^ ^a ^b ^c Bureau of Justice Statistics. "Criminal Victimization,
+       2005". U.S. Department of Justice. Archived from the original on
+       2006-09-26.
+   32. ^ Lewan, Todd, "Unprovoked Beatings of Homeless Soaring",
+       Associated Press, April 8, 2007.
+   33. ^ ^a ^b National Coalition for the Homeless, Hate, "Violence, and
+       Death on Main Street USA: A report on Hate Crimes and Violence
+       Against People Experiencing Homelessness, 2006", February 2007.
+   34. ^ National Coalition for the Homeless: A Dream Denied.
+   35. ^ No Escape: Male Rape in U.S. Prisons, Human Rights Watch
+   36. ^ Homicides by firearms UNODC. Retrieved: 28 July 2012.
+   37. ^ Bureau of Justice Statistics (December 2009). "Prisoners in
+       2008". U.S. Department of Justice. Retrieved 2010-04-03.
+   38. ^ ^a ^b R. Walmsley (May 2011). "World Prison Population List".
+       International Centre for Prison Studies.
+   39. ^ ^a ^b ^c ^d ^e ^f Bureau of Justice Statistics (December 2012).
+       "Prisoners in 2011". U.S. Department of Justice.
+   40. ^ ^a ^b "National Crime Rates Compared". Retrieved 2006-09-29.
+   41. ^ "Crime in the United States 2010". Fbi.gov. 2001-09-11. Retrieved
+       2012-06-11.
+   42. ^ "Twentieth Century Atlas - Homicide". Users.erols.com. Retrieved
+       2012-06-11.
+   43. ^ ^a ^b "Crime in Canada, Canada Statistics". Retrieved
+       2006-09-27.
+   44. ^ ^a ^b "BKA, German federal crime statistics 2004 (German)" (PDF).
+       Retrieved 2006-09-27.
+   45. ^ "Garda Recorded Crime Statistics 2006-2010, published by CSO".
+       Retrieved 2012-05-08.
+   46. ^ "BKA, German federal crime statistics 2007 (German)" (PDF).
+       Retrieved 2009-01-17.
+   47. ^ ^a ^b ^c ^d
+       http://www.citizensreportuk.org/reports/murders-fatal-violence-uk.h
+       tml
+   48. ^ "Crimes, by type of violation, and by province and territory,
+       published by Statistics Canada". Retrieved 2013-01-15.
+   49. ^ "Crime in The United States 2010, FBI Statistics". Retrieved
+       2011-09-19.
+   50. ^ "Vital statistics by the Subjects of the Russian Federation".
+       Rosstat. Retrieved 2011-04-03.
+   51. ^ Juan Paullier BBC Mundo, Caracas (1970-01-01). "BBC Mundo -
+       Noticias - Venezuela revela su tasa de homicidios". Bbc.co.uk.
+       Retrieved 2012-06-11.
+   52. ^ ^a ^b "Homicidios en Centroamérica" (PDF) (in Spanish). La Prensa
+       Grafica de El Salvador. pp. 1, 3. Retrieved 2011-08-02.
+   53. ^ Jenkins, P. (1988). Myth and murder: the serial killer panic of
+       1983-1985, Criminal Justice Research Bulletin. 3(11) 1-7.
+   54. ^ "Violent Crime". United States Bureau of Justice Statistics.
+       Retrieved 2014-07-21.
+   55. ^ Feasibility Study on Crime Comparisons Between Canada and the
+       United States Maire Gannon, Canadian Centre for Justice Statistics,
+       Statistics Canada, Cat. no. 85F0035XIE, Accessed June 28, 2009
+   56. ^ European Sourcebook of Crime and Criminal Justice Statistics –
+       2010, fourth edition.
+   57. ^ BBC - America's child death shame, 17 October 2011
+   58. ^ Child Poverty in Respective: An Overview of Child Wellbeing in
+       Rich Countries. UNICEF: Innocenti Research Center, Report Card 7.
+   59. ^ ^a ^b ^c "Crime in the United States by Community Type". FBI.
+       2011.
+   60. ^ ^a ^b ^c "Crime in the United States by Region". FBI. 2011.
+   61. ^ ^a ^b ^c ^d ^e "Crime in the United States by State". FBI. 2011.
+   62. ^ ^a ^b ^c "Caution Against Ranking". FBI. 2011.
+   63. ^ ^a ^b "Crime in the United States by Metropolitan Statistical
+       Area". FBI. 2011.
+   64. ^ ^a ^b Data collection methodology for Chicago for forcible rape
+       did not align with FBI standards so its metropolitan statistical
+       area violent crime rate was not reported.
+   65. ^ "Crime in San Mateo County in 2001, US Bureau of Justice
+       Statistics". Retrieved 2006-09-27.
+   66. ^ ^a ^b ^c Fields, Gary; Emshwiller, John R. (23 July 2011). "Many
+       Failed Efforts to Count Nation's Federal Criminal Laws". The Wall
+       Street Journal.
+   67. ^ ^a ^b ^c ^d Baker, John S. (16 June 2008), Revisiting the
+       Explosive Growth of Federal Crimes, The Heritage Foundation
+   68. ^ Fields, Gary; Emshwiller, John R. (23 July 2011). "As Criminal
+       Laws Proliferate, More Are Ensnared". The Wall Street Journal.
+   69. ^ Neil, Martha (14 June 2013). "ABA leader calls for streamlining
+       of ‘overwhelming’ and ‘often ineffective’ federal criminal law".
+       ABA Journal.
+   70. ^ Savage, David G. (1 January 1999). "Rehnquist Urges Shorter List
+       of Federal Crimes". Los Angeles Times.
+   71. ^ Weiss, Debra Cassens (25 July 2011). "Federal Laws Multiply: Jail
+       Time for Misappropriating Smokey Bear Image?". ABA Journal.
+   72. ^ Ruger, Todd (14 June 2013), "Way Too Many Criminal Laws, Lawyers
+       Tell Congress", Blog of Legal Times (ALM)
+
+External links[edit]
+
+   Wikimedia Commons has media related to Crime in the United States.
+     * The FBI's Ten Most Wanted Fugitives
+     * Surviving Crime
+     * 15 Most Wanted by U.S. Marshals
+     * DEA Fugitives, Major International Fugitives
+     * Metropolitan Police Department: Most Wanted
+     * New York State's 100 Most Wanted Fugitives
+     * All Most Wanted - official website of the Los Angeles Police
+       Department
+     * Nationmaster - Worldwide statistics
+     * Open data on US violent crime
+     * - Top 10 cities in USA with lowest recorded crime rates
+
+
+     * v
+     * t
+     * e
+
+   United States Life in the United States
+     * Affluence
+     * Crime
+     * Culture
+     * Economic issues
+     * Education (attainment)
+     * Family structure
+     * Health care
+     * Health insurance
+     * Holidays
+     * Income (Household
+     * Personal)
+     * Income inequality
+     * Homelessness
+     * Homeownership
+     * Human rights
+     * Labor unions
+     * Languages
+     * Middle class
+     * Passenger vehicle transport
+     * Political ideologies
+     * Poverty
+     * Race
+     * Religion
+     * Social class
+     * Society
+     * Sports
+     * Standard of living
+     * Wealth
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+     * v
+     * t
+     * e
+
+   Crime in the Americas
+     * North America
+     * South America
+
+   Sovereign states
+     * Antigua and Barbuda
+     * Argentina
+     * Bahamas
+     * Barbados
+     * Belize
+     * Bolivia
+     * Brazil
+     * Canada
+     * Chile
+     * Colombia
+     * Costa Rica
+     * Cuba
+     * Dominica
+     * Dominican Republic
+     * Ecuador
+     * El Salvador
+     * Grenada
+     * Guatemala
+     * Guyana
+     * Haiti
+     * Honduras
+     * Jamaica
+     * Mexico
+     * Nicaragua
+     * Panama
+     * Paraguay
+     * Peru
+     * Saint Kitts and Nevis
+     * Saint Lucia
+     * Saint Vincent and the Grenadines
+     * Suriname
+     * Trinidad and Tobago
+     * United States
+     * Uruguay
+     * Venezuela
+
+   Americas (orthographic projection).svg
+   Dependencies and
+   other territories
+     * Anguilla
+     * Aruba
+     * Bermuda
+     * Bonaire
+     * British Virgin Islands
+     * Cayman Islands
+     * Curaçao
+     * Falkland Islands
+     * French Guiana
+     * Greenland
+     * Guadeloupe
+     * Martinique
+     * Montserrat
+     * Navassa Island
+     * Puerto Rico
+     * Saint Barthélemy
+     * Saint Martin
+     * Saint Pierre and Miquelon
+     * Saba
+     * Sint Eustatius
+     * Sint Maarten
+     * South Georgia and the South Sandwich Islands
+     * Turks and Caicos Islands
+     * US Virgin Islands
+
+
+         * v
+     * t
+     * e
+
+   Crime in the United States by state
+        States
+                      * Alabama
+                      * Alaska
+                      * Arizona
+                      * Arkansas
+                      * California
+                      * Colorado
+                      * Connecticut
+                      * Delaware
+                      * Florida
+                      * Georgia
+                      * Hawaii
+                      * Idaho
+                      * Illinois
+                      * Indiana
+                      * Iowa
+                      * Kansas
+                      * Kentucky
+                      * Louisiana
+                      * Maine
+                      * Maryland
+                      * Massachusetts
+                      * Michigan
+                      * Minnesota
+                      * Mississippi
+                      * Missouri
+                      * Montana
+                      * Nebraska
+                      * Nevada
+                      * New Hampshire
+                      * New Jersey
+                      * New Mexico
+                      * New York
+                      * North Carolina
+                      * North Dakota
+                      * Ohio
+                      * Oklahoma
+                      * Oregon
+                      * Pennsylvania
+                      * Rhode Island
+                      * South Carolina
+                      * South Dakota
+                      * Tennessee
+                      * Texas
+                      * Utah
+                      * Vermont
+                      * Virginia
+                      * Washington
+                      * West Virginia
+                      * Wisconsin
+                      * Wyoming
+
+   Federal district
+                    Washington, D.C.
+    Insular areas
+                      * American Samoa
+                      * Guam
+                      * Northern Mariana Islands
+                      * Puerto Rico
+                      * U.S. Virgin Islands
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Crime_in_the_United_States&o
+   ldid=625342855"
+   Categories:
+     * Crime in the United States
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from August 2014
+     * All articles with unsourced statements
+     * Articles with unsourced statements from March 2012
+     * Articles with unsourced statements from August 2013
+     * Articles to be expanded from September 2014
+     * All articles to be expanded
+     * Commons category template with no category set
+     * Commons category with page title same as on Wikidata
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 13 September 2014 at 07:40.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,195 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States v. Darby Lumber Co.
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Not to be confused with United States v. Kirby Lumber Co..
+   United States v. Darby
+   Seal of the United States Supreme Court.svg
+   Supreme Court of the United States
+   Argued December 19–20, 1940
+   Decided February 3, 1941
+   Full case name United States v. Darby
+   Citations 312 U.S. 100 (more)
+   61 S. Ct. 451; 85 L. Ed. 609; 1941 U.S. LEXIS 1222; 3 Lab. Cas. (CCH)
+   P51,108; 132 A.L.R. 1430
+   Prior history Appeal from the District Court of the United States for
+   the Southern District of Georgia. Appeal, under the Criminal Appeals
+   Act, from a judgment quashing an indictment
+   Holding
+   The Fair Labor Standards Act was a constitutional exercise of
+   Congressional power under the Commerce Clause.
+   Court membership
+   Chief Justice
+   Charles E. Hughes
+   Associate Justices
+   James C. McReynolds
+   Harlan F. Stone · Owen J. Roberts
+   Hugo Black · Stanley F. Reed
+   Felix Frankfurter · William O. Douglas
+   Frank Murphy
+   Case opinions
+   Majority Stone, joined by unanimous
+   Laws applied
+   U.S. Const., art. I, sec. 8; Fair Labor Standards Act
+   This case overturned a previous ruling
+   Hammer v. Dagenhart
+
+   United States v. Darby Lumber Co., 312 U.S. 100 (1941)^[1], was a case
+   in which the United States Supreme Court upheld the Fair Labor
+   Standards Act of 1938, holding that the U.S. Congress had the power
+   under the Commerce Clause to regulate employment conditions. The
+   unanimous decision of the Court in this case overturned Hammer v.
+   Dagenhart 247 U.S. 251 (1918), limited the application of Carter v.
+   Carter Coal Company 298 U.S. 238 (1936), and confirmed the underlying
+   legality of minimum wages held in West Coast Hotel Co. v. Parrish 300
+   U.S. 379 (1937).
+
+Contents
+
+     * 1 The issue
+     * 2 The decision
+     * 3 Further reading
+     * 4 External links
+
+The issue[edit]
+
+   The issue was whether Congress had overstepped its constitutional
+   authority in creating the Fair Labor Standards Act. An American lumber
+   company in Georgia that did not meet these standards was charged with
+   violating the law, but had won an appeal, where the appellate judge
+   found that the federal government is barred by the 10th Amendment from
+   interfering in matters that are strictly local, that is, within state
+   boundaries. The Act also required the keeping of records to verify
+   compliance; the appellee argued that this violated his 5th Amendment
+   right protecting him from self-incrimination.
+
+The decision[edit]
+
+   The Court reversed the appellate court decision. It affirmed the
+   constitutional power of Congress to regulate interstate commerce, which
+   power "can neither be enlarged nor diminished by the exercise or
+   non-exercise of state power." FindLaw. The Court held that the purpose
+   of the Act was to prevent states from using substandard labor practices
+   to their own economic advantage through interstate commerce. In the
+   Dagenhart case, the Court had made the distinction between
+   manufacturing and interstate commerce, so that a business could argue
+   it was engaging in the former, but had not intended the latter.
+   Twenty-two years later, the Court found that earlier argument facile,
+   explaining that Congress was well aware that businesses produce their
+   goods without thought to where they will go; product is pulled and
+   shipped to meet the orders of the day. The Court also found that the
+   requirement of record keeping was entirely appropriate as a matter of
+   enforcing the Act.
+
+   There were no dissenting opinions in this case.
+
+Further reading[edit]
+
+     * Richter, Irving (1943), "Four Years of the Fair Labor Standards Act
+       of 1938: Some Problems of Enforcement", Journal of Political
+       Economy 51 (2): 95–111, doi:10.1086/256010 .
+
+External links[edit]
+
+   Works related to United States v. Darby at Wikisource
+     * ^ Text of United States v. Darby, 312 U.S. 100 (1941) is available
+       from:  Findlaw  Justia
+
+     * Case Brief for United States v. Darby at Lawnix.com
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_v._Darby_Lumbe
+   r_Co.&oldid=615625130"
+   Categories:
+     * 1941 in United States case law
+     * United States Supreme Court cases
+     * United States Commerce Clause case law
+     * United States Supreme Court decisions that overrule a prior Supreme
+       Court decision
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 4 July 2014 at 21:57.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

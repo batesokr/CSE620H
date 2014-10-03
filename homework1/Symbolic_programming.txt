@@ -1,0 +1,130 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Symbolic programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   In computing, symbolic programming is computer programming in which the
+   program can manipulate formulas and program components as data.^[1]
+
+   Through symbolic programming, complex processes can be developed that
+   build other more intricate processes by combining smaller units of
+   logic or functionality. Programs can thus effectively modify
+   themselves, and appear to "learn", making them suited for applications
+   such as artificial intelligence, expert systems, natural language
+   processing and computer games.
+
+   Languages that support the symbolic programming paradigm include LISP
+   and Prolog.^[2]
+
+References[edit]
+
+    1. ^ Michael A. Covington (2010-08-23). "CSCI/ARTI 4540/6540: First
+       Lecture on Symbolic Programming and LISP" (PDF). University of
+       Georgia. Retrieved 2013-11-20.
+    2. ^ "Symbolic programming". Business Glossary. allbusiness.com.
+       Retrieved 2013-11-20.
+
+   Stub icon This programming language–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Symbolic_programming&oldid=6
+   03029624"
+   Categories:
+     * Programming paradigms
+     * Programming language topic stubs
+
+   Hidden categories:
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Polski
+     *
+
+   Edit links
+
+     * This page was last modified on 6 April 2014 at 17:19.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

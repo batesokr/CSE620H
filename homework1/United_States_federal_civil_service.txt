@@ -1,0 +1,482 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States federal civil service
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Remarks by FDR in 1944 at Union Station, thanking government workers
+   for helping win the war
+
+   In the United States, the federal civil service was established in
+   1871. The Federal Civil Service is defined as "all appointive positions
+   in the executive, judicial, and legislative branches of the Government
+   of the United States, except positions in the uniformed services." (5
+   U.S.C. § 2101).^[1] In the early 19th century, positions in the federal
+   government were held at the pleasure of the president—a person could be
+   fired at any time. The spoils system meant that jobs were used to
+   support the American political parties, though this was gradually
+   changed by the Pendleton Civil Service Reform Act of 1883 and
+   subsequent laws. By 1909, almost two-thirds of the U.S. federal
+   workforce was appointed based on merit, that is, qualifications
+   measured by tests. Certain senior civil service positions, including
+   some heads of diplomatic missions and executive agencies are filled by
+   political appointees. Under the Hatch Act of 1939, civil servants are
+   not allowed to engage in political activities while performing their
+   duties.^[2]
+
+   According to the Office of Personnel Management (OPM), as of December
+   2011, there were approximately 2.79 million civil servants (civilian,
+   i.e. non-uniformed) employed by the US Government.^[3]^[4]^[5] (This
+   includes executive, legislative and judicial branches of government.
+   This also includes more than 600,000 United States Postal workers.)
+
+   The U.S. civil service includes the Competitive service and the
+   Excepted service. The majority of civil service appointments in the
+   U.S. are made under the Competitive Service, but certain categories in
+   the Diplomatic Service, the FBI, and other National Security positions
+   are made under the Excepted Service. (U.S. Code Title V)
+
+   U.S. state and local government entities often have competitive civil
+   service systems that are modeled on the national system, in varying
+   degrees.
+
+Contents
+
+     * 1 Federal agencies
+     * 2 Pay systems
+     * 3 Employment by Agency
+     * 4 US Civil Service Commission
+     * 5 Civil Service Reform Act of 1978
+     * 6 Civil servants in literature
+     * 7 See also
+     * 8 References
+     * 9 External links
+
+Federal agencies[edit]
+
+   Main article: List of United States federal agencies
+
+   Employees in the civil services work under one of the independent
+   agencies or one of the 15 executive departments.
+
+   In addition to departments, there are a number of staff organizations
+   grouped into the Executive Office of the President. These include the
+   White House staff, the National Security Council, the Office of
+   Management and Budget, the Council of Economic Advisers, the Office of
+   the U.S. Trade Representative, the Office of National Drug Control
+   Policy and the Office of Science and Technology Policy.
+
+   There are also independent agencies such as the United States Postal
+   Service, the National Aeronautics and Space Administration (NASA), the
+   Central Intelligence Agency (CIA), the Environmental Protection Agency
+   (EPA), and the United States Agency for International Development
+   (USAID). In addition, there are government-owned corporations such as
+   the Federal Deposit Insurance Corporation (FDIC) and the National
+   Railroad Passenger Corporation.^[6]
+
+   As of January 2009, the Federal Government, excluding the Postal
+   Service and soldiers, employed about 2.0 million civilian workers. The
+   Federal Government is the nation’s single largest employer. Although
+   most federal agencies are based in the Washington, D.C. region, only
+   about 16% (or about 288,000) of the federal government workforce is
+   employed in this region.^[7]
+
+   There were 456 federal agencies in 2009.^[8]
+
+Pay systems[edit]
+
+   Main articles: General Schedule, Federal Wage System, Senior Executive
+   Service
+
+   The pay system of the United States government civil service has
+   evolved into a complex set of pay systems that include principally the
+   General Schedule (GS) for white-collar employees, Federal Wage System
+   (FWS) for blue-collar employees, Senior Executive System (SES) for
+   Executive-level employees, Foreign Service Schedule (FS) for members of
+   the Foreign Service and more than twelve alternate pay systems that are
+   referred to as alternate or experimental pay systems such as the first
+   experimental system China Lake Demonstration Project. The current
+   system began as the classification act of 1923 and was refined into law
+   with the Classification Act of 1949. These acts that provide the
+   foundation of the current system have been amended through executive
+   orders and through published amendments in the Federal Register that
+   sets for approved changes in the regulatory structure of the federal
+   pay system. The common goal among all pay systems is to achieve the
+   goal of paying equitable salaries to all involved workers regardless of
+   system, group or classification. This is referred to as pay equity or
+   (“equal pay for equal work”). Select careers in high demand may be
+   subject to a special rate table,^[9] which can pay above the standard
+   GS tables. These careers include certain engineering disciplines and
+   patent examiners.^[10]^[11]
+
+   The General Schedule (GS) includes white collar workers at levels 1
+   through 15, most professional, technical, administrative, and clerical
+   positions in the federal civil service. The Federal Wage System or Wage
+   Grade (WG) schedule includes most federal blue-collar workers. As of
+   September 2004^[update], 71% of federal civilian employees were paid
+   under the GS; the remaining 29% were paid under other systems such as
+   the Federal Wage System for federal blue-collar civilian employees, the
+   Senior Executive Service/Senior Level and the Executive Schedule for
+   high-ranking federal employees, and the pay schedules for the United
+   States Postal Service and the Foreign Service. In addition, some
+   federal agencies—such as the United States Securities and Exchange
+   Commission, the Federal Reserve System, and the Federal Deposit
+   Insurance Corporation—have their own unique pay schedules.
+
+   All federal employees in the GS system receive a base pay that is
+   adjusted for locality. Locality pay varies, but is at least 10% of base
+   salary in all parts of the United States. The following salary ranges
+   represent the lowest and highest possible amounts a person can earn,
+   without earning over-time pay or receiving a merit-based bonus. Actual
+   salary ranges differ (for instance a GS-9, step 1 in rural Arkansas may
+   start at $46,625 versus $55,015 in San Jose, California), but all
+   salaries lie within the parameters of the following ranges (effective
+   January, 2012):^[12]
+   Pay grade GS-1 GS-2 GS-3 GS-4 GS-5 GS-6 GS-7 GS-8 GS-9 GS-10 GS-11
+   GS-12 GS-13 GS-14 GS-15
+   Lowest step (1) $ 17,803 $ 20,017 $ 21,840 $ 24,518 $ 27,531 $ 30,577 $
+   33,979 $ 37,631 $ 41,563 $ 45,771 $ 50,287 $ 60,274 $ 71,674 $ 84,697 $
+   99,628
+   Highest step (10) $ 22,269 $ 25,191 $ 28,392 $ 31,871 $ 35,657 $ 39,748
+   $ 44,176 $ 48,917 $ 54,028 $ 59,505 $ 65,371 $ 78,355 $93,175 $110,104
+   $129,517
+
+          Source: U.S. Office of Personnel Management, 2012.^[13]
+
+   Nineteen percent of federal employees earned salaries of $100,000 or
+   more in 2009. The average federal worker's pay was $71,208 compared
+   with $40,331 in the private sector, although under Office of Management
+   and Budget Circular A-76, most menial or lower paying jobs have been
+   outsourced to private contractors.^[14] In 2010, there were 82,034
+   workers, 3.9% of the federal workforce, making more than $150,000
+   annually, compared to 7,240 in 2005.^[15] GS salaries are capped by law
+   so that they do not exceed the salary for Executive Schedule IV
+   positions.^[16] The increase in civil servants making more than
+   $150,000 resulted mainly from an increase in Executive Schedule salary
+   approved during the Administration of George W. Bush, which raised the
+   salary cap for senior GS employees slightly above the $150,000
+   threshold.^[17]
+
+   Basic pay rates for Senior Executive Service (i.e. non-Presidentially
+   appointed civil servants above GS-15) will range from $119,554 to
+   $179,700 in 2012.
+
+Employment by Agency[edit]
+
+   CAPTION: Federal Government executive branch civilian employment,
+   except U.S. Postal Service, January 2007^[18]
+   (Employment in thousands)
+
+   United
+   States DC area United
+   States DC area
+   Combined Total 1,774 284
+   Executive departments 1,593 234 Independent agencies 179 48
+   Defense, total 623 65 Social Security Administration 62 2
+   Army 223 19 NASA 18 4
+   Navy 168 24 Environmental Protection Agency 18 5
+   Air Force 152 6 Tennessee Valley Authority 12 0
+   Other defense 80 16 General Services Administration 12 4
+   Veterans Affairs 239 7 Small Business Administration 6 1
+   Homeland Security 149 20 Office of Personnel Management 5 2
+   Treasury 109 14 Other independent agencies 45 30
+   Justice 105 23
+   Agriculture 92 11 Executive departments (cont.)
+   Interior 66 7
+   Health/Human Services (HHS) 60 28 Energy 15 5
+   Transportation 53 9 State 14 12
+   Commerce 39 21 Housing/Urban Dev (HUD) 10 3
+   Labor 16 6 Education 4 3
+
+          SOURCE: U.S. Office of Personnel Management
+
+US Civil Service Commission[edit]
+
+   Main article: United States Office of Personnel Management
+
+   Public support in the United States for civil service reform
+   strengthened following the assassination of President James
+   Garfield.^[19] The United States Civil Service Commission was created
+   by the Pendleton Civil Service Reform Act, which was passed into law on
+   January 16, 1883. The commission was created to administer the civil
+   service of the United States federal government. The law required
+   federal government employees to be selected through competitive exams
+   and basis of merit;^[19] it also prevented elected officials and
+   political appointees from firing civil servants, removing civil
+   servants from the influences of political patronage and partisan
+   behavior.^[19]^[20] However, the law did not apply to state and
+   municipal governments.
+
+   Effective January 1, 1978, the commission was renamed the Office of
+   Personnel Management under the provisions of Reorganization Plan No. 2
+   of 1978 (43 F.R. 36037, 92 Stat. 3783) and the Civil Service Reform Act
+   of 1978.
+
+   The United States Civil service exams have since been abolished for
+   many positions, since statistics show that they do not accurately allow
+   hiring of minorities according to the affirmative action
+   guidelines.^[21]
+
+Civil Service Reform Act of 1978[edit]
+
+   Main article: Civil Service Reform Act of 1978
+
+   This act abolished the United States Civil Service Commission and
+   created the U.S. Office of Personnel Management (OPM), the Federal
+   Labor Relations Authority (FLRA) and the U.S. Merit Systems Protection
+   Board (MSPB). OPM primarily provides management guidance to the various
+   agencies of the executive branch and issues regulations that control
+   federal human resources. FLRA oversees the rights of federal employees
+   to form collective bargaining units (unions) and to engage in
+   collective bargaining with agencies. MSPB conducts studies of the
+   federal civil service and mainly hears the appeals of federal employees
+   who are disciplined or otherwise separated from their positions. This
+   act was an effort to replace incompetent officials. ^[22]
+
+   ^[23]
+
+Civil servants in literature[edit]
+
+   [icon] This section requires expansion. (September 2010)
+     * Mumms, Hardee (1977). Federal Triangle. New York: Dutton.
+       ISBN 978-0-525-10425-4.  Humorous novel of 1970s federal employees
+       in Washington, DC ^[24]
+     * Philipson, Morris H (1983). Secret understandings: A novel. New
+       York: Simon & Schuster. ISBN 978-0-671-46619-0.  Novel about the
+       wife of a federal judge
+     * Bromell, Henry (2001). Little America: A Novel. New York: Alfred A.
+       Knopf. ISBN 978-0-525-10425-4.  A State Department employee's son
+       reconstructs a childhood in a fictional Middle Eastern country
+     * Costello, Mark (2002). Big If. New York: W.W. Norton & Co.
+       ISBN 978-0-393-05116-2.  A novel of life in the Secret Service
+     * Keeley, Edmund (1985). A Wilderness Called Peace. New York: Simon
+       and Schuster. ISBN 978-0-671-47416-4.  A novel of a diplomat's son
+       in Cambodia
+     * Bushell, Agnes (1997). The enumerator. London: Serpent's Tail.
+       ISBN 978-1-85242-554-8.  A novel about a public health contractor
+       in San Francisco
+     * White, Stewart Edward (1910, e-book, reprints). The Rules of the
+       Game. New York: Doubleday. ISBN 978-1-4432-2300-3.  Check date
+       values in: |date= (help) A novel of the Forest Service (NYT review)
+
+See also[edit]
+
+     * List of United States federal agencies
+     * Category:Civil service in the United States
+     * Curtis Douglas vs. Veterans Administration
+
+References[edit]
+
+    1. ^ "The Federal Civil Service". DOI University, National Business
+       Center, U.S. Department of the Interior. Revised 11/10/98.
+       Retrieved 2009-08-31.  Check date values in: |date= (help)
+    2. ^ "Political Activity (Hatch Act)". Osc.gov. Retrieved 2011-05-25.
+    3. ^ "Total Government Employment Since 1962". Opm.gov. Retrieved
+       2013-02-05.
+    4. ^ O'Keefe, Ed. "Federal Eye - How many federal workers are there?".
+       Voices.washingtonpost.com. Retrieved 2013-02-05.
+    5. ^ "December 2011". Opm.gov. 2012-01-01. Retrieved 2013-02-05.
+    6. ^ "Circular NO. A–11 PT. 7 Planning, Budgeting, Acquisition, and
+       Management of Capital Assets" (PDF). OMB Circular No. A–11 (2008).
+       Executive Office of the President Office of Management and Budget.
+       June 2008. Retrieved 2008-07-28.
+    7. ^ "Federal Government, Excluding the Postal Service". US Department
+       of Labor, Bureau of Labor Statistics. 2008-03-12. Retrieved
+       2008-07-28. , Section: Employment. Note: Because data on employment
+       in certain agencies cannot be released to the public for national
+       security reasons, this total does not include employment for the
+       Central Intelligence Agency, National Security Agency, Defense
+       Intelligence Agency, and National Imagery and Mapping Agency.
+    8. ^
+       http://www.centerforsmallgovernment.com/small-government-news/agenc
+       ies-of-the-federal-government
+    9. ^ http://apps.opm.gov/SpecialRates/index.aspx
+   10. ^ http://nasajobs.nasa.gov/benefits/pay.htm
+   11. ^
+       http://gogovernment.org/government_101/pay_and_the_general_schedule
+       .php
+   12. ^ "Office of Personnel Management, Salary Tables, 2012". Retrieved
+       2014-06-13.
+   13. ^ Office of Personnel Management. (2012). Salary Table No. 2012-GS.
+       Retrieved from the OPM:
+       http://archive.opm.gov/oca/12tables/indexGS.asp
+   14. ^ Cauchon, Dennis (11 December 2009). "Richest of federal workers
+       get richer". Melbourne, Florida: Florida Today. pp. 1A.
+   15. ^ Cauchon, Dennis (10 November 2010). "More fed workers' pay tops
+       $150K". Melbourne, Florida: Florida Today. pp. 4A.
+   16. ^ "Congressional Research Service Report for Congress: The
+       Executive Schedule IV Pay Cap on General Schedule Compensation"
+       (PDF). Retrieved 2011-12-22.
+   17. ^ "January 2009 Pay Adjustments". United States Office of Personnel
+       Management. 18 December 2008. Retrieved 2011-12-22.
+   18. ^ "Federal Government". Bls.gov. Retrieved 2011-05-25.
+   19. ^ ^a ^b ^c Digital History, Steven Mintz. "Digital History".
+       Digitalhistory.uh.edu. Retrieved 2011-05-25.
+   20. ^ Creating America: A History of the United States, Rand McNally, p
+       238 (2003).
+   21. ^ E. Chemerinsky, "Making Sense of the Affirmative Action Debate",
+       (1996)
+   22. ^ Ingraham, Patricia W.; Donald P. Moynihan (2000). The Future of
+       Merit. p. 103.
+   23. ^ Roberge, Ellen (2011). SNAFU, A Hysterical Memoir About Why the
+       Government Doesn't Work. Orlando, FL: Createspace/BureauRat
+       Publishing. p. 119. ISBN 978-0615610290.
+   24. ^ "The Press: Soap Operas Come to Print". TIME. August 8, 1977.
+       Retrieved February 27, 2010.
+
+External links[edit]
+
+   Wikisource has the text of the 1921 Collier's Encyclopedia article
+   Civil Service.
+     * Career Guide to Industries Federal Government, Excluding the Postal
+       Service (Bureau of Labor Statistics)—Statistics and details on
+       Federal civil service
+
+
+        * v
+     * t
+     * e
+
+   Civil service in the executive branch of Government
+      Concepts
+                    * Public sector
+                    * Government agency
+                    * Bureaucracy
+                    * Bureaucrat
+                    * Technocrat
+                    * Diplomat
+                    * Public administration
+                    * Public policy
+                    * Public services
+
+   Civil services
+                    * Australia
+                    * Bangladesh
+                    * Brazil
+                    * Canada
+                    * China
+                    * European Union
+                    * France
+                    * Germany
+                    * Hong Kong
+                    * India
+                    * Ireland
+                    * Italy
+                    * Japan
+                    * Malaysia
+                    * New Zealand
+                    * Nigeria
+                    * Northern Ireland
+                    * Pakistan
+                    * Singapore
+                    * Sri Lanka
+                    * United Kingdom
+                    * United States
+
+     Categories
+                    * National civil service commissions
+                    * Government occupations
+                    * Civil service by country
+
+     * See also: Civil service reform in developing countries
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_federal_civil_
+   service&oldid=625583948"
+   Categories:
+     * Civil service in the United States
+     * Civil services
+
+   Hidden categories:
+     * CS1 errors: dates
+     * Articles containing potentially dated statements from 2004
+     * All articles containing potentially dated statements
+     * Articles to be expanded from September 2010
+     * All articles to be expanded
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Français
+     *
+
+   Edit links
+
+     * This page was last modified on 14 September 2014 at 22:55.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

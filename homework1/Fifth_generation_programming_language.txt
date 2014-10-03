@@ -1,0 +1,182 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Fifth-generation programming language
+
+   From Wikipedia, the free encyclopedia
+     (Redirected from Fifth generation programming language)
+   Jump to: navigation, search
+   Unbalanced scales.svg
+   A major contributor to this article appears to have a close connection
+   with its subject. It may require cleanup to comply with Wikipedia's
+   content policies, particularly neutral point of view. Please discuss
+   further on the talk page. (May 2009)
+
+   A fifth generation programming language (abbreviated as 5GL) is a
+   programming language based on solving problems using constraints given
+   to the program, rather than using an algorithm written by a programmer.
+   Most constraint-based and logic programming languages and some
+   declarative languages are fifth-generation languages.
+
+   While fourth-generation programming languages are designed to build
+   specific programs, fifth-generation languages are designed to make the
+   computer solve a given problem without the programmer. This way, the
+   programmer only needs to worry about what problems need to be solved
+   and what conditions need to be met, without worrying about how to
+   implement a routine or algorithm to solve them. Fifth-generation
+   languages are used mainly in artificial intelligence research. Prolog,
+   OPS5, and Mercury are examples of fifth-generation languages.^[citation
+   needed]
+
+   These types of languages were also built upon Lisp, many originating on
+   the Lisp machine, such as ICAD. Then, there are many frame languages,
+   such as KL-ONE.^[citation needed]
+
+   In the 1980s, fifth-generation languages were considered to be the wave
+   of the future, and some predicted that they would replace all other
+   languages for system development, with the exception of low-level
+   languages.^[citation needed] Most notably, from 1982 to 1993
+   Japan^[1]^[2] put much research and money into their fifth generation
+   computer systems project, hoping to design a massive computer network
+   of machines using these tools.
+
+   However, as larger programs were built, the flaws of the approach
+   became more apparent. It turns out that, given a set of constraints
+   defining a particular problem, deriving an efficient algorithm to solve
+   it is a very difficult problem in itself. This crucial step cannot yet
+   be automated and still requires the insight of a human
+   programmer.^[citation needed]
+
+Common misconception[edit]
+
+   Vendors have been known on occasion to advertise their languages as
+   5GL.^[3] Most of the time they actually sell 4GLs with a higher level
+   of automation and knowledge base. Since the 5GL awareness has dropped
+   because the hype of the 1980s quickly faded away and the projects were
+   eventually all dropped; this has opened doors to the vendors to re-use
+   the term in marketing their new tools, without causing much controversy
+   among the current generations of programmers.^[citation needed]
+
+References[edit]
+
+    1. ^ Richard Grigonis. "FIFTH-GENERATION COMPUTERS". Retrieved
+       2008-03-05.
+    2. ^ ALP. "Association for Logic Programming (ALP)". Retrieved
+       2008-03-05.
+    3. ^ What makes a 5GL?
+
+
+     * v
+     * t
+     * e
+
+   Programming language generations
+     * Generations Overview
+          + 1GL
+          + 2GL
+          + 3GL
+          + 4GL
+          + 5GL
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Fifth-generation_programming
+   _language&oldid=625281028"
+   Categories:
+     * Programming language classification
+
+   Hidden categories:
+     * Wikipedia articles with possible conflicts of interest from May
+       2009
+     * All articles with unsourced statements
+     * Articles with unsourced statements from September 2010
+     * Articles with unsourced statements from July 2009
+     * Articles with unsourced statements from August 2014
+     * Articles with unsourced statements from October 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Français
+     * Polski
+     * Українська
+     *
+
+   Edit links
+
+     * This page was last modified on 12 September 2014 at 19:46.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

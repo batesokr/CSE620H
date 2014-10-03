@@ -1,0 +1,803 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Federalism in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   The United States is composed of fifty self-governing states and
+   several territories.
+
+   Federalism in the United States is the evolving relationship between
+   U.S. state governments and the federal government of the United States.
+   Since the founding of the country, and particularly with the end of the
+   American Civil War, power shifted away from the states and towards the
+   national government. The progression of federalism includes Dual
+   federalism, state centered federalism and new federalism.
+
+Contents
+
+     * 1 Federalism in the 1700's
+          + 1.1 Federalist Party
+     * 2 Federalism under the Marshall Court
+     * 3 Dual Federalism
+     * 4 Between Dual Federalism and the New Deal
+          + 4.1 National government domestic policies
+          + 4.2 State government policies
+          + 4.3 Local government policies
+     * 5 Cooperative federalism
+     * 6 New Federalism
+     * 7 See also
+     * 8 Further reading and references
+     * 9 Notes
+
+Federalism in the 1700's[edit]
+
+   Federalism was a political system arising out of discontent with the
+   Articles of Confederation which gave little practical authority to the
+   federal government. For example, the Articles allowed the Continental
+   Congress the power to sign treaties or declare war, but it was
+   essentially powerless to do so because all major decisions required a
+   unanimous vote.^[1]
+
+   The movement was greatly strengthened by the reaction to Shays'
+   Rebellion of 1786–1787, which was an armed uprising of yeoman farmers
+   in western Massachusetts. The rebellion was fueled by a poor economy
+   that was created, in part, by the inability of the federal government
+   to deal effectively with the debt from the American Revolution.
+   Moreover, the federal government had proven incapable of raising an
+   army to quell the rebellion, so that Massachusetts had been forced to
+   raise its own.
+
+   In 1787, fifty-five delegates met at a Constitutional convention in
+   Philadelphia and generated ideas of a bicameral legislature (United
+   States Congress), balanced representation of small and large states
+   (Great Compromise), and checks and balances. James Madison stated in a
+   long pre-convention memorandum to delegates that because "one could
+   hardly expect the state legislatures to take enlightened views on
+   national affairs", stronger central government was necessary.^[2] This
+   convention almost immediately dropped its original mandate and instead
+   set about constructing a new Constitution of the United States. Once
+   the convention concluded and released the Constitution for public
+   consumption, the Federalist movement became focused on getting the
+   Constitution ratified.
+
+   The most forceful defense of the new Constitution was The Federalist
+   Papers, a compilation of 85 anonymous essays published in New York City
+   to convince the people of the state to vote for ratification. These
+   articles, written by Alexander Hamilton and James Madison, with some
+   contributed by John Jay, examined the benefits of the new, proposed
+   Constitution, and analyzed the political theory and function behind the
+   various articles of the Constitution. The Federalist Papers remains one
+   of the most important documents in American political science.
+
+   Those opposed to the new Constitution became known as the
+   "Anti-Federalists". They generally were local rather than cosmopolitan
+   in perspective, oriented to plantations and farms rather than commerce
+   or finance, and wanted strong state governments and a weak national
+   government. The Anti-Federalist critique soon centered on the absence
+   of a Bill of Rights, which Federalists promised to provide.
+
+   Because George Washington lent his prestige to the Constitution and
+   because of the ingenuity and organizational skills of its proponents,
+   the Constitution was ratified by all the states. The outgoing Congress
+   under the Articles of Confederation scheduled elections for the new
+   government, and set March 4, 1789 as the date that the new government
+   would take power. In 1789, Congress submitted twelve articles of
+   amendment to the states. Ten of these articles, written by Madison,
+   achieved passage on December 15, 1791 and became the Bill of Rights.
+   The Tenth Amendment set the guidelines for federalism in the United
+   States.
+
+Federalist Party[edit]
+
+   Main article: Federalist Party (United States)
+
+   As soon as the first Federalist movement dissipated, a second one
+   sprang up to take its place. This one was based on the policies of
+   Alexander Hamilton and his allies for a stronger national government, a
+   loose construction of the Constitution, and a mercantile (rather than
+   agricultural) economy. As time progressed, the factions which adhered
+   to these policies organized themselves into the nation's first
+   political party, the Federalist Party, and the movement's focus and
+   fortunes began to track those of the party it spawned.
+
+   While the Federalist movement of the 1780s and the Federalist Party
+   were distinct entities, they were related in more than just a common
+   name. The Democratic-Republican Party, the opposition to the Federalist
+   Party, emphasized the fear that a strong national government was a
+   threat to the liberties of the people. They stressed that the national
+   debt created by the new government would bankrupt the country, and that
+   federal bondholders were paid from taxes paid by honest farmers and
+   workingmen. These themes resonated with the Anti-Federalists, the
+   opposition to the Federalist movement of the 1780s. As Norman Risjord
+   has documented for Virginia, of the supporters of the Constitution in
+   1788, 69% joined the Federalist party, while nearly all (94%) of the
+   opponents joined the Republicans. 71% of Thomas Jefferson's supporters
+   in Virginia were former anti-federalists who continued to fear
+   centralized government, while only 29% had been proponents of the
+   Constitution a few years before. In short, nearly all of the opponents
+   of the Federalist movement became opponents of the Federalist Party.
+
+   The movement reached its zenith with the election of an overtly
+   Federalist President, John Adams. However, with the defeat of Adams in
+   the election of 1800 and the death of Hamilton, the Federalist Party
+   began a long decline from which it never recovered. What finally
+   finished off the Federalist party was the Hartford Convention of 1814,
+   in which five New England states gathered to discuss several
+   constitutional amendments necessary to protect New England's interests
+   in regards to the blockade of their ports by the British during the War
+   of 1812. The threat of secession was also proposed during these secret
+   meetings. Three delegates were sent to Washington, DC to negotiate New
+   England's terms only to discover the signing of the Treaty of Ghent,
+   ending the war with the British. The Federalists were then seen by many
+   as traitors to the union.^[3]
+
+Federalism under the Marshall Court[edit]
+
+   See also: John Marshall
+
+   The United States Supreme Court under Chief Justice John Marshall
+   played an important role in defining the power of the federal and state
+   governments during the early 19th century. As the U.S. Constitution
+   does not specifically define many dividing lines between the layers of
+   government, the Supreme Court settled the issue in New York. The
+   question was answered particularly in the cases, McCulloch v. Maryland
+   and Gibbons v. Ogden, which broadly expanded the power of the national
+   government.
+
+Dual Federalism[edit]
+
+   Main article: Dual federalism
+
+   Despite Chief Justice Marshall's strong push for the federal
+   government, the court of his successor, Roger B. Taney (1835–1863),
+   decided cases that favored equally strong national and state
+   governments. The basic philosophy during this time was that the U.S.
+   Government ought to be limited to its enumerated powers and that all
+   others belonged to the states. Both the sixteenth and the seventeenth
+   amendment bolstered the power of the national government, and divided
+   state and federal power.
+
+Between Dual Federalism and the New Deal[edit]
+
+   Following the Taney court and the rise of Dual federalism, the division
+   of labor between federal, state, and local governments was relatively
+   unchanged for over a century. Political scientist Theodore J. Lowi
+   summarized the system in place during those years in The End of the
+   Republican Era^[4]
+
+   Nevertheless, the modern federal apparatus owes its origins to changes
+   that occurred during the period between 1861 and 1933. While banks had
+   long been incorporated and regulated by the states, the National Bank
+   Acts of 1863 and 1864 saw Congress establish a network of national
+   banks that had their reserve requirements set by officials in
+   Washington. During World War I, a system of federal banks devoted to
+   aiding farmers was established, and a network of federal banks designed
+   to promote home ownership came into existence in the last year of
+   Herbert Hoover's administration. Congress used its power over
+   interstate commerce to regulate the rates of interstate (and eventually
+   intrastate) railroads and even regulated their stock issues and labor
+   relations, going so far as to enact a law regulating pay rates for
+   railroad workers on the eve of World War I. During the 1920s, Congress
+   enacted laws bestowing collective bargaining rights on employees of
+   interstate railroads and some observers dared to predict it would
+   eventually bestow collective bargaining rights on persons working in
+   all industries. Congress also used the commerce power to enact morals
+   legislation, such as the Mann Act of 1907 barring the transfer of women
+   across state lines for immoral purposes, even as the commerce power
+   remained limited to interstate transportation—it did not extend to what
+   were viewed as intrastate activities such as manufacturing and mining.
+
+   As early as 1913, there was talk of regulating stock exchanges, and the
+   Capital Issues Committee formed to control access to credit during
+   World War I recommended federal regulation of all stock issues and
+   exchanges shortly before it ceased operating in 1921. With the Morrill
+   Land-Grant Acts Congress used land sale revenues to make grants to the
+   states for colleges during the Civil War on the theory that land sale
+   revenues could be devoted to subjects beyond those listed in Article I,
+   Section 8 of the Constitution. On several occasions during the 1880s,
+   one house of Congress or the other passed bills providing land sale
+   revenues to the states for the purpose of aiding primary schools.
+   During the first years of twentieth century, the endeavors funded with
+   federal grants multiplied, and Congress began using general revenues to
+   fund them—thus utilizing the general welfare clause's broad spending
+   power, even though it had been discredited for almost a century
+   (Hamilton's view that a broad spending power could be derived from the
+   clause had been all but abandoned by 1840).
+
+   During Herbert Hoover's administration, grants went to the states for
+   the purpose of funding poor relief. The Supreme Court began applying
+   the Bill of Rights to the states during the 1920s even though the
+   Fourteenth Amendment had not been represented as subjecting the states
+   to its provisions during the debates that preceded ratification of it.
+   The 1920s also saw Washington expand its role in domestic law
+   enforcement. Disaster relief for areas affected by floods or crop
+   failures dated from 1874, and these appropriations began to multiply
+   during the administration of Woodrow Wilson (1913-1921). By 1933, the
+   precedents necessary for the federal government to exercise broad
+   regulatory power over all economic activity and spend for any purpose
+   it saw fit were almost all in place. Virtually all that remained was
+   for the will to be mustered in Congress and for the Supreme Court to
+   acquiesce.^[5]
+
+National government domestic policies[edit]
+
+     * Internal improvements
+     * Subsidies (mainly to shipping)
+     * Tariffs
+     * Disposal of public lands
+     * Immigration law
+     * Centralized National Defense
+     * Foreign policy
+     * Copyrights
+     * Patents
+     * Currency
+
+State government policies[edit]
+
+     * Property law
+     * Education
+     * Estate and inheritance law
+     * Commerce laws of ownership and exchange
+     * Banking and credit laws
+     * Labour law and professional licensure
+     * Insurance laws
+     * Family laws
+     * Morals laws
+     * Public health and quarantine laws
+     * Public works laws, including eminent domain
+     * Building codes
+     * Corporations law
+     * Land use laws
+     * Water and mineral resource laws
+     * Judiciary and criminal procedure laws
+     * Electoral laws, including parties
+     * Civil service laws
+
+Local government policies[edit]
+
+     * Variances (adaptation of state law to local conditions)
+     * Public works
+     * Contracts for public works
+     * Licensing of public accommodations
+     * Assessable improvements
+     * Basic public services
+
+   Lowi notes^[6] that this division of labor was changed dramatically
+   with the advent of the New Deal, and three Supreme Court cases that
+   validated the shift in power:
+     * National Labor Relations Board v. Jones & Laughlin Steel
+       Corporation,
+     * Helvering v. Davis, and
+     * Steward Machine Company v. Davis.
+
+Cooperative federalism[edit]
+
+   Main article: Cooperative federalism
+
+   The Great Depression marked an abrupt end to Dual Federalism and a
+   dramatic shift to a strong national government. President Franklin D.
+   Roosevelt's New Deal policies reached into the lives of U.S. citizens
+   like no other federal measure had. As the Supreme Court had rejected
+   nearly all of Roosevelt's economic proposals, in 1936 the president
+   proposed appointing a new Supreme Court justice for each sitting one
+   aged 70 or older. The expansion of the Court along with a
+   Democrat-controlled Congress would tilt Court rulings in favor of
+   Roosevelt's policies.^[7] Lowi notes three Supreme Court cases that
+   validated the shift in power:^[8]
+     * National Labor Relations Board v. Jones & Laughlin Steel
+       Corporation,
+     * Helvering v. Davis, and
+     * Steward Machine Company v. Davis.
+
+   The national government was forced to cooperate with all levels of
+   government to implement the New Deal policies; local government earned
+   an equal standing with the other layers, as the federal government
+   relied on political machines at a city level to bypass state
+   legislatures. The formerly distinct division of responsibilities
+   between state and national government had been described as a "layer
+   cake," but, with the lines of duty blurred, cooperative federalism was
+   likened to a "marble cake" or a "picket fence." In cooperative
+   federalism, federal funds are distributed through grants in aid or
+   categorical grants which gave the federal government more control over
+   the use of the money.
+
+New Federalism[edit]
+
+   Main article: New Federalism
+
+   Another movement calling itself "New Federalism" appeared in the late
+   20th century and early 21st century. New Federalism, which is
+   characterized by a gradual return of power to the states, was initiated
+   by President Ronald Reagan (1981–1989) with his "devolution revolution"
+   in the early 1980s and lasted until 2001. Previously, the federal
+   government had granted money to the states categorically, limiting the
+   states to use this funding for specific programs. Reagan's
+   administration, however, introduced a practice of giving block grants,
+   freeing state governments to spend the money at their own discretion.
+
+   New Federalism is sometimes called "states' rights", although its
+   proponents usually eschew the latter term because of its associations
+   with Jim Crow and segregation. Unlike the states' rights movement of
+   the mid-20th century which centered around the civil rights movement,
+   the modern federalist movement is concerned far more with expansive
+   interpretations of the Commerce Clause, as in the areas of medical
+   marijuana (Gonzales v. Raich), partial birth abortion (Gonzales v.
+   Carhart), gun possession (United States v. Lopez), federal police
+   powers (United States v. Morrison, which struck down portions of the
+   Violence Against Women Act), or agriculture (Wickard v. Filburn).
+
+See also[edit]
+
+     * Anti-Federalists
+     * Federalism
+     * Laboratories of democracy
+     * Seventeenth Amendment to the United States Constitution
+     * Tenth Amendment to the United States Constitution
+     * Category:United States federalism case law
+
+Further reading and references[edit]
+
+     * Gerston, Larry N. (2007), American Federalism: A Concise
+       Introduction, Armonk, New York, United States: M.E. Sharp,
+       ISBN 0-7656-1671-8
+     * LaCroix, Alison L. (2010), The Ideological Origins of American
+       Federalism, Cambridge, Massachusetts, United States: Harvard
+       University Press, ISBN 0-674-04886-5
+     * Lowi, Theodore (1995), The End of the Republican Era, Norman,
+       Oklahoma, United States: University of Oklahoma,
+       ISBN 0-8061-2887-9
+     * Taylor, Jeff (2013), Politics on a Human Scale: The American
+       Tradition of Decentralism, Lanham, Maryland, United States:
+       Lexington Books, ISBN 978-0-7391-8674-9
+     * U.S. Constitution
+     * Zavodnyik, Peter (2011), The Rise of the Federal Colossus: The
+       Growth of Federal Power from Lincoln to F.D.R., Santa Barbara,
+       California, United States: ABC-CLIO
+
+Notes[edit]
+
+    1. ^ Gerston 2007, pp. 24–25
+    2. ^ Gerston 2007, p. 26
+    3. ^ War of 1812 Sparknotes.com
+    4. ^ Lowi, T. The End of the Republican Era (ISBN 0-8061-2887-9),
+       University of Oklahoma Press, 1995-2006. p. 6.
+    5. ^ Zavodnyik, Peter (2011). The Rise of the Federal Colossus: The
+       Growth of Federal Power from Lincoln to F.D.R.. Santa Barbara, CA:
+       ABC-CLIO. pp. 21–30, 186–193, 213–219, 291–293, 313–327, 363–364,
+       380–393, 416–419. ISBN 978-0-313-39293-1.
+    6. ^ Lowi, T. The End of the Republican Era, p. 17
+    7. ^ Gerston 2007, p. 57
+    8. ^ Lowi 1995, p. 17
+
+
+                 * v
+     * t
+     * e
+
+   Federalism in North America
+   Sovereign states
+                      * Antigua and Barbuda
+                      * Bahamas
+                      * Barbados
+                      * Belize
+                      * Canada
+                      * Costa Rica
+                      * Cuba
+                      * Dominica
+                      * Dominican Republic
+                      * El Salvador
+                      * Grenada
+                      * Guatemala
+                      * Haiti
+                      * Honduras
+                      * Jamaica
+                      * Mexico
+                      * Nicaragua
+                      * Panama
+                      * Saint Kitts and Nevis
+                      * Saint Lucia
+                      * Saint Vincent and the Grenadines
+                      * Trinidad and Tobago
+                      * United States
+
+   Dependencies and
+   other territories
+                      * Anguilla
+                      * Aruba
+                      * Bermuda
+                      * Bonaire
+                      * British Virgin Islands
+                      * Cayman Islands
+                      * Curaçao
+                      * Greenland
+                      * Guadeloupe
+                      * Martinique
+                      * Montserrat
+                      * Puerto Rico
+                      * Saint Barthélemy
+                      * Saint Martin
+                      * Saint Pierre and Miquelon
+                      * Saba
+                      * Sint Eustatius
+                      * Sint Maarten
+                      * Turks and Caicos Islands
+                      * United States Virgin Islands
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Federalism_in_the_United_Sta
+   tes&oldid=623775728"
+   Categories:
+     * Federalism in the United States
+     * Federalism by country
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     *
+
+   Edit links
+
+     * This page was last modified on 1 September 2014 at 22:50.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

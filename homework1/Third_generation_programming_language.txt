@@ -1,0 +1,186 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Third-generation programming language
+
+   From Wikipedia, the free encyclopedia
+     (Redirected from Third generation programming language)
+   Jump to: navigation, search
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (August 2008)
+
+   A third-generation programming language (3GL) is a generational way to
+   categorize high-level computer programming languages.^[1] Where
+   assembly languages, categorized as second generation programming
+   languages, are machine-dependent, 3GLs are much more machine
+   independent and more programmer-friendly. This includes features like
+   improved support for aggregate data types, and expressing concepts in a
+   way that favors the programmer, not the computer. A third generation
+   language improves over a second generation language by having the
+   computer take care of non-essential details. 3GLs feature more
+   abstraction that previous generations of languages, and thus can be
+   considered higher level languages than their first and second
+   generation counterparts.
+
+   First introduced in the late 1950s, Fortran, ALGOL, and COBOL are early
+   examples of this sort of language.
+
+   Most popular general-purpose languages today, such as C, C++, C#, Java,
+   BASIC and Pascal, are also third-generation languages, although C++,
+   Java and C# follow a completely different path as they are
+   object-oriented in nature. Third generation focused on structure and
+   had no meaning for the object oriented concepts.
+
+   Most 3GLs support structured programming.
+
+   A programming language such as C, FORTRAN, or Pascal enables a
+   programmer to write programs that are more or less independent from a
+   particular type of computer. Such languages are considered high-level
+   because they are closer to human languages and further from machine
+   languages. In contrast, assembly languages are considered low-level
+   because they are very close to machine languages.
+
+   The main advantage of high-level languages over low-level languages is
+   that they are easier to read, write, and maintain. Ultimately, programs
+   written in a high-level language must be translated into machine
+   language by a compiler or interpreter.
+
+   The first high-level programming languages were designed in the 1950s.
+   Examples of early high level languages are ALGOL, COBOL, and FORTRAN.
+   These programs could run on different machines so they were
+   machine-independent. As new, more abstract languages have been
+   developed, however, the concept of high and low level languages have
+   become rather relative. Many of the early "high level" languages are
+   now considered relatively low level in comparison to languages such as
+   Python, Ruby, and CommonLisp.
+
+See also[edit]
+
+     * Domain-specific programming language
+     * Fourth-generation programming language
+
+
+     * v
+     * t
+     * e
+
+   Programming language generations
+     * Generations Overview
+          + 1GL
+          + 2GL
+          + 3GL
+          + 4GL
+          + 5GL
+
+   Stub icon This programming language–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+    1. ^ "Computer Hope, Generation languages"
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Third-generation_programming
+   _language&oldid=625729127"
+   Categories:
+     * Programming language classification
+     * Programming language topic stubs
+
+   Hidden categories:
+     * Articles needing additional references from August 2008
+     * All articles needing additional references
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Български
+     * Español
+     * فارسی
+     * 한국어
+     * Polski
+     * Português
+     *
+
+   Edit links
+
+     * This page was last modified on 15 September 2014 at 22:20.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

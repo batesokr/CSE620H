@@ -1,0 +1,582 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Esoteric programming language
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (February 2011)
+
+   An esoteric programming language (sometimes shortened to esolang) is a
+   programming language designed to test the boundaries of computer
+   programming language design, as a proof of concept, as software art, or
+   as a joke. The use of esoteric distinguishes these languages from
+   programming languages that working developers use to write software.
+   Usually, an esolang's creators do not intend the language to be used
+   for mainstream programming, although some esoteric features, such as
+   visuospatial syntax,^[1] have inspired practical applications in the
+   arts. Such languages are often popular among hackers and hobbyists.
+
+   Usability is rarely a goal for esoteric programming language
+   designers—often it is quite the opposite. Their usual aim is to remove
+   or replace conventional language features while still maintaining a
+   language that is Turing-complete, or even one for which the
+   computational class is unknown.
+
+Contents
+
+     * 1 History
+     * 2 Esoteric programming terms
+          + 2.1 Turing tarpit
+          + 2.2 Stateful encoding
+          + 2.3 Language paradigm
+          + 2.4 Funges
+          + 2.5 Nondeterministic language
+     * 3 Examples
+          + 3.1 Ante
+          + 3.2 ArnoldC
+          + 3.3 Befunge
+          + 3.4 Binary lambda calculus
+          + 3.5 Brainfuck
+          + 3.6 Chef
+          + 3.7 FALSE
+          + 3.8 GolfScript
+          + 3.9 INTERCAL
+          + 3.10 LOLCODE
+          + 3.11 Malbolge
+          + 3.12 One instruction set computer
+          + 3.13 Ook!
+          + 3.14 Piet
+          + 3.15 Shakespeare
+          + 3.16 Whitespace
+     * 4 Esolangs as art
+     * 5 In fiction
+          + 5.1 ~ATH
+     * 6 References
+     * 7 External links
+
+History[edit]
+
+   The earliest, and still the canonical example of an esoteric language
+   was INTERCAL,^[citation needed] designed in 1972 by Don Woods and James
+   M. Lyon, with the stated intention of being unlike any other
+   programming language the authors were familiar with.^[2]^[3] It
+   parodies elements of established programming languages of the day, such
+   as Fortran, COBOL, and assembly language.
+
+   For many years INTERCAL was represented only by paper copies of the
+   INTERCAL manual. The language's revival in 1990 as an implementation in
+   C under Unix stimulated a wave of interest in the intentional design of
+   esoteric computer languages.
+
+   In 1993, Wouter van Oortmerssen created FALSE, a small stack-oriented
+   programming language, with syntax designed to make the code inherently
+   obfuscated, confusing, and unreadable. It also has a compiler of only
+   1024 bytes. This inspired Urban Müller to create an even smaller
+   language, the now-famous brainfuck, which consists of only eight
+   recognized characters. Along with Chris Pressey's Befunge (like FALSE,
+   but with a two-dimensional instruction pointer), brainfuck is now one
+   of the most well-supported esoteric programming languages. These are
+   canonical examples of minimal Turing tarpits and needlessly obfuscated
+   language features. Brainfuck is related to the P′′ family of Turing
+   machines.
+
+Esoteric programming terms[edit]
+
+Turing tarpit[edit]
+
+   Main article: Turing tarpit
+
+   A Turing tarpit is a Turing-complete programming language whose number
+   of commands, operators, or equivalent objects is very small.
+
+Stateful encoding[edit]
+
+   A method of encoding programs, such that each substring of the encoding
+   is an instruction to both:
+    1. Locate the next instruction in a list, and
+    2. Apply it to transform the current program state.
+
+   A single instruction always includes two sequential phases: choosing an
+   operation, and executing it. The list of operations may either be
+   static – as in reMorse or THRAT - or dynamic - as in reMorse4ever.
+
+   Here is an example based on reMorse or THRAT:
+Select Next Operation in list
+Perform Operation
+
+Language paradigm[edit]
+
+   The paradigm of a language can fall into a number of categories, and
+   these categories are used to get a general understanding of the way
+   that a specific language operates. These include imperative languages
+   such as brainfuck, in which instructions describe how to change data;
+   functional languages such as Unlambda, in which data and code are more
+   or less interchangeable and execution is the repeated application of
+   functions to the results of other functions; and rewriting languages
+   such as Thue, in which transformation functions are applied to an
+   initial state.
+
+Funges[edit]
+
+   A funge is an esoteric programming language which models its programs
+   as metric spaces with coordinate systems (often, but not necessarily,
+   Cartesian) and which execute instructions located at points in their
+   program space by moving an instruction pointer (a position vector which
+   indicates the currently executing instruction) through that space.
+   Different instructions determine the direction in which the instruction
+   pointer moves, and consequently, the sequence of instructions that is
+   executed.
+
+   The current official standard for the behaviour of these programming
+   languages is the Funge-98 specification. This specification is a
+   generalisation of the semantics of the Befunge programming language,
+   which has a two-dimensional toroidal topology. Languages which adhere
+   closely to this standard, such as Unefunge (one-dimensional) and
+   Trefunge (three-dimensional), are sometimes called funges, while more
+   "distant relatives" which differ in significant respects, such as
+   Wierd, are referred to as fungeoids.
+
+Nondeterministic language[edit]
+
+   For a deterministic language, if one is given the current state of a
+   program, the next state can always be predicted. This is not true for a
+   nondeterministic language. Most languages are deterministic, but some
+   languages, such as Befunge, supply a built-in randomization
+   instruction. Moreover, languages such as Java2k have only randomized
+   instructions. Thus, getting even trivial programs to have a reliable
+   output is often a monumental task.
+
+   Nondeterministic languages can be used to explore large search spaces,
+   such as grammars, where exhaustive search is impractical. Random text
+   generators such as the Dada Engine and rmutt are examples of this kind
+   of nondeterminstic language.
+
+   More esoterically, nondeterministic algorithms have been employed in
+   the theoretical investigation of hypercomputation.
+
+Examples[edit]
+
+   Below are some characteristic examples of esoteric programming
+   languages:
+
+Ante[edit]
+
+   Ante is an esoteric programming language using only numbers and card
+   faces as its syntax.^[4] A compacted "Hello World" example is as
+   follows:
+9♦8♥J♦A♦2♣3♥7♠J♦A♦7♦J♦J♦A♦3♦J♦5♥6♦4♥J♥A♥6♠6♠J♥A♦8♦J♦A♦8♠J♦A♦3♦J♦A♦6♠J♦A♦8♠J♦A♥3
+♦2♠J♥A♥2♣6♠J♥
+
+ArnoldC[edit]
+
+   ArnoldC is an imperative programming language where the basic keywords
+   are replaced with quotes from different Arnold Schwarzenegger movies.
+   "hello world" looks like this:
+IT'S SHOWTIME
+TALK TO THE HAND "hello world"
+YOU HAVE BEEN TERMINATED
+
+Befunge[edit]
+
+   Befunge and its like allow the instruction pointer to roam in multiple
+   dimensions through the code. For example the following program displays
+   "Hello World" by pushing the characters in reverse order onto the
+   stack, then printing the characters in a loop which circulates
+   clockwise through the instructions [>], [:], [v], [_], [,], and [^].
+"dlroW olleH">:v
+             ^,_@
+
+Binary lambda calculus[edit]
+
+   Binary lambda calculus is designed from an algorithmic information
+   theory perspective to allow for the densest possible code with the most
+   minimal means, featuring a 29 byte self interpreter, a 21 byte prime
+   number sieve, and a 112 byte Brainfuck interpreter.
+
+Brainfuck[edit]
+
+   Brainfuck is designed for extreme minimalism and leads to obfuscated
+   code, with programs containing only eight distinct characters. The
+   following program outputs "Hello World!":
+++++++++++[>+++++++>++++++++++>+++<<<-]>++.>+.+++++++
+ ..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.
+
+Chef[edit]
+
+   Chef by David Morgan-Mar is a stack-oriented programming language
+   designed to make programs look like cooking recipes.^[5] Programs
+   consist of a title, a list of variables and their data values and a
+   list of stack manipulation instructions.^[6] A joking design principle
+   states that "program recipes should not only generate valid output, but
+   be easy to prepare and delicious", and Morgan-Mar notes that an example
+   Hello World program with "101 eggs" and "111 cups oil" would produce "a
+   lot of food for one person."^[6]^[7]
+
+FALSE[edit]
+
+   FALSE is a stack-based language with single-character commands and
+   variables. For example, 3 + 1 can be calculated by evaluating (λ x → x
+   + 1)(3):
+3[1+]!
+
+GolfScript[edit]
+
+   Programs in GolfScript consist of lists of items, each of which is
+   pushed onto the stack as it is encountered with the exception of
+   variables which have code blocks as their value, in which case the code
+   is executed.
+
+INTERCAL[edit]
+
+   INTERCAL, short for "Compiler Language With No Pronounceable Acronym",
+   was created in 1972 as a parody to satirize aspects of the various
+   programming languages at the time.^[3]
+
+LOLCODE[edit]
+
+   LOLCODE is designed to resemble the speech of lolcats. The following is
+   the "hello world" example:
+HAI
+CAN HAS STDIO?
+VISIBLE "HAI WORLD!"
+KTHXBYE
+
+Malbolge[edit]
+
+   Malbolge (the 8th circle of Hell) was designed to be the most difficult
+   and esoteric programming language.
+
+One instruction set computer[edit]
+
+   A one instruction set computer is a machine which supports only one
+   operation.
+
+Ook![edit]
+
+   Ook! is a programming language designed to be understood by Orang
+   Utans. It is derived from Brainfuck with a reduced syntax.
+
+   The "Hello World" example in Ook!:
+Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook.
+ Ook! Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook?
+ Ook! Ook! Ook? Ook! Ook? Ook. Ook. Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook.
+ Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
+ Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
+ Ook? Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+ Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
+ Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook!
+ Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook. Ook! Ook.
+
+Piet[edit]
+
+   Piet program that prints 'Piet'
+   A "Hello World" program in Piet
+   Wikimedia Commons has media related to Piet (programming language).
+
+   Piet is a language designed by David Morgan-Mar, whose programs are
+   bitmaps that look like abstract art.^[8] The compilation is guided by a
+   "pointer" that moves around the image, from one continuous coloured
+   region to the next. Procedures are carried through when the pointer
+   exits a region.
+
+   There are 20 colours for which behaviour is specified: 18 "colourful"
+   colours, which are ordered by a 6-step hue cycle and a 3-step
+   brightness cycle; and black and white which are not ordered. When
+   exiting a "colourful" colour and entering another one, the performed
+   procedure is determined by the number of steps of change in hue and
+   brightness. Black cannot be entered; when the pointer tries to enter a
+   black region, the rules of choosing the next block are changed instead.
+   If all possible rules are tried, the program terminates. Regions
+   outside the borders of the image are also treated as black. White does
+   not perform operations, but allows the pointer to "pass through". The
+   behaviour of colours other than the 20 specified is left to the
+   compiler or interpreter.
+
+   Variables are stored in memory as signed integers in a single stack.
+   Most specified procedures deal with operations on that stack, others
+   with input/output and with the rules by which the compilation pointer
+   moves.
+
+   Piet was named after the Dutch painter Piet Mondrian.^[9] The
+   originally intended name, Mondrian, was already taken.
+
+Shakespeare[edit]
+
+   Shakespeare is designed to make programs look like Shakespearean plays.
+   e.g. the following statement declares a point in the program which can
+   be reached via a GOTO-type statement: Act I: Hamlet's insults and
+   flattery..
+
+Whitespace[edit]
+
+   Whitespace uses only whitespace characters (space, tab, and return),
+   ignoring all other characters. This is the reverse of many traditional
+   languages, which do not distinguish between different whitespace
+   characters, treating tab and space the same. It also allows Whitespace
+   programs to be hidden in the source code of programs in languages like
+   C.
+
+Esolangs as art[edit]
+
+   Esolangs have begun to be interpreted as art or created with that point
+   of view in mind. Geoff Cox writes that esolangs "shift attention from
+   command and control toward cultural expression and refusal”,^[10]
+   seeing esolangs as similar to code art and code poetry, such as Mez
+   Breeze's mezangelle. Daniel Temkin describes brainfuck as "refusing to
+   ease the boundary between human expression and assembly code and
+   thereby taking us on a ludicrous journey of logic,"^[11] exposing the
+   inherent conflict between human thinking and computer logic. He
+   connects programming within an esolang to performing an event score
+   such as those of the Fluxus movement, where playing out the rules of
+   the logic in code makes the point of view of the language clear.^[12]
+
+In fiction[edit]
+
+~ATH[edit]
+
+   A fictional programming language called ~ATH (pronounced "till death")
+   appears in the webcomic Homestuck. The language consists entirely of
+   loops of effectively interminable construction. The EXECUTE command is
+   the only part of the language that can be used to execute anything,
+   however, it can only be placed at the end of a loop, thereby delaying
+   the execution for extremely long spans of time or, in some cases,
+   forever. The loops can only be terminated by tying their ends to the
+   "death" of a number of concepts importable from the language's library
+   (for instance, if a loop's end is tied to the universe, it will end
+   when the universe ceases to exist).
+
+   Unfortunately, any concept with a short lifespan such as a rapidly
+   decaying particle is absent from the library, rendering ~ATH programs
+   insufferably long and useless unless one exploits the code's loopholes,
+   in which case it proves to be brutally efficient.
+
+   Apparently, ~ATH has reality-altering powers, as programs coded in it
+   were used twice to explode the user's computer, once to put a curse on
+   the user, everyone he ever met and (proactively) everyone he'll ever
+   meet, and once to summon the time-travelling demon Lord English into
+   the universe. The ~ATH language is seemingly color-sensitive (in the
+   aforementioned curse program, black, red and blue text was used), but
+   even more peculiar is the fact that the Lord English virus used a GIF
+   animation as a subprogram. How this works is yet to be explained.
+
+References[edit]
+
+    1. ^ McLean, A., Griffiths, D., Collins, N., and Wiggins, G. (2010).
+       "Visualisation of Live Code". In Electronic Visualisation and the
+       Arts, London: 2010.
+    2. ^ Eric S. Raymond (1996). The New Hacker's Dictionary. MIT Press.
+       p. 258. ISBN 978-0-262-68092-9.
+    3. ^ ^a ^b Woods, Donald R.; Lyon, James M. (1973), The INTERCAL
+       Programming Language Reference Manual, Muppetlabs.com, archived
+       from the original on 2009-04-24, retrieved 2009-04-24
+    4. ^ https://github.com/michaeldv/ante
+    5. ^ Cozens, Simon (2005). Advanced Perl programming. O'Reilly Media.
+       p. 269. ISBN 978-0-596-00456-9. "A final Acme curiosity, and one of
+       my favourites, is Acme: :Chef, an implementation of David
+       Morgan-Mar's Chef programming language. In Chef, programs are
+       expressed in the form of recipes: ..."
+    6. ^ ^a ^b Morgan-Mar, David (2011-03-24). "Chef". DM's Esoteric
+       Programming Languages. Self-published. Retrieved 2014-06-28.
+    7. ^ Morgan-Mar, David (2014-06-28). "Chef Sample Program: Hello World
+       Souffle". DM's Esoteric Programming Languages. Self-published.
+       Retrieved 2014-06-28.
+    8. ^ Morgan-Mar, David (25 January 2008). "Piet programming language".
+       Retrieved 18 May 2013.
+    9. ^ Geoff Cox (2013). Speaking Code: Coding as Aesthetic and
+       Political Expression. MIT Press. p. 6. ISBN 978-0-262-01836-4.
+   10. ^ Cox, Geoff (2013). Speaking Code. Cambridge: MIT Press. p. 5.
+   11. ^ Temkin, Daniel (15 Jan 2014). "Glitch && Human/Computer
+       Interaction". NOOART: The Journal of Objectless Art (1).
+   12. ^ Temkin, Daniel. "brainfuck". Media-N Journal (Spring 2013).
+       |accessdate= requires |url= (help)
+
+External links[edit]
+
+     * Obfuscated Programming Languages at DMOZ
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Esoteric_programming_languag
+   e&oldid=622449669"
+   Categories:
+     * Esoteric programming languages
+     * Programming language classification
+
+   Hidden categories:
+     * Pages using citations with accessdate and no URL
+     * Articles needing additional references from February 2011
+     * All articles needing additional references
+     * All articles with unsourced statements
+     * Articles with unsourced statements from June 2014
+     * Commons category with local link same as on Wikidata
+     * Articles with DMOZ links
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * Íslenska
+     * Italiano
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Română
+     * Русиньскый
+     * Русский
+     * Suomi
+     * ไทย
+     * Українська
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 23 August 2014 at 09:47.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

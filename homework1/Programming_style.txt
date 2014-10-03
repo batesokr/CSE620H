@@ -1,0 +1,426 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Programming style
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article is written like a personal reflection or opinion essay
+   that states the Wikipedia editor's particular feelings about a topic,
+   rather than the opinions of experts. Please help improve it by
+   rewriting it in an encyclopedic style. (October 2008)
+
+   Programming style is a set of rules or guidelines used when writing the
+   source code for a computer program. It is often claimed that following
+   a particular programming style will help programmers to read and
+   understand source code conforming to the style, and help to avoid
+   introducing errors.
+
+   A classic work on the subject was The Elements of Programming Style,
+   written in the 1970s, and illustrated with examples from the Fortran
+   and PL/I languages prevalent at the time.
+
+   The programming style used in a particular program may be derived from
+   the coding conventions of a company or other computing organization, as
+   well as the preferences of the author of the code. Programming styles
+   are often designed for a specific programming language (or language
+   family): style considered good in C source code may not be appropriate
+   for BASIC source code, and so on. However, some rules are commonly
+   applied to many languages.
+
+Contents
+
+     * 1 Elements of good style
+     * 2 Code appearance
+          + 2.1 Indentation
+               o 2.1.1 ModuLiq
+               o 2.1.2 Lua
+               o 2.1.3 Python
+               o 2.1.4 Haskell
+          + 2.2 Vertical alignment
+          + 2.3 Spaces
+          + 2.4 Tabs
+     * 3 See also
+     * 4 External links
+
+Elements of good style[edit]
+
+   Good style is a subjective matter, and is difficult to define. However,
+   there are several elements common to a large number of programming
+   styles. The issues usually considered as part of programming style
+   include the layout of the source code, including indentation; the use
+   of white space around operators and keywords; the capitalization or
+   otherwise of keywords and variable names; the style and spelling of
+   user-defined identifiers, such as function, procedure and variable
+   names; and the use and style of comments.
+
+Code appearance[edit]
+
+   Programming styles commonly deal with the visual appearance of source
+   code, with the goal of requiring less human cognitive effort to extract
+   information about the program. Software has long been available that
+   formats source code automatically, leaving coders to concentrate on
+   naming, logic, and higher techniques. As a practical point, using a
+   computer to format source code saves time, and it is possible to then
+   enforce company-wide standards without debates.
+
+Indentation[edit]
+
+   Main article: Indent style
+
+   Indent styles assist in identifying control flow and blocks of code. In
+   some programming languages indentation is used to delimit logical
+   blocks of code; correct indentation in these cases is more than a
+   matter of style. In other languages indentation and white space do not
+   affect function, although logical and consistent indentation makes code
+   more readable. Compare:
+if (hours < 24 && minutes < 60 && seconds < 60) {
+    return true;
+} else {
+    return false;
+}
+
+   or
+if (hours < 24 && minutes < 60 && seconds < 60)
+{
+    return true;
+}
+else
+{
+    return false;
+}
+
+   with something like
+if  ( hours   < 24
+   && minutes < 60
+   && seconds < 60
+)
+{return    true
+;}         else
+{return   false
+;}
+
+   The first two examples are probably much easier to read because they
+   are indented in an established way (a "hanging paragraph" style). This
+   indentation style is especially useful when dealing with multiple
+   nested constructs.
+
+ModuLiq[edit]
+
+   The ModuLiq Zero Indent Style groups with carriage returns rather than
+   indents. Compare all of the above to:
+if (hours < 24 && minutes < 60 && seconds < 60)
+return true;
+
+else
+return false;
+
+Lua[edit]
+
+   Lua does not use the traditional curly braces or parenthesis. if/else
+   statements only require your expression be followed by then, and
+   closing your if/else statement with end.
+if hours < 24 and minutes < 60 and seconds < 60 then
+    return true
+else
+    return false
+end
+
+   Indentation is optional.
+
+Python[edit]
+
+   Python uses indentation to indicate control structures, so correct
+   indentation is required. By doing this, the need for bracketing with
+   curly braces (i.e. { and }) is eliminated. On the other hand copying
+   and pasting Python code can lead to problems, because the indentation
+   level of the pasted code may not be the same as the indentation level
+   of the current line. Such reformatting can be tedious to do by hand,
+   but some text editors and IDEs have features to do it automatically.
+   There are also problems when Python code being rendered unusable when
+   posted on a forum or web page that removes white space, though this
+   problem can be avoided where it is possible to enclose code in white
+   space-preserving tags such as "<pre> ... </pre>" (for HTML), "[code]"
+   ... "[/code]" (for bbcode), etc.
+if (hours < 24 and minutes < 60 and seconds < 60):
+    return True
+else:
+    return False
+
+   Notice that Python does not use curly braces, but a regular colon (e.g.
+   else:).
+
+Haskell[edit]
+
+   Haskell similarly has the off-side rule which lets indentation define
+   blocks. However, unlike Python, Haskell uses whitespace in this fashion
+   simply as a form of syntactic sugar—explicit curly braces and
+   semicolons can be (and occasionally are) used instead.
+
+Vertical alignment[edit]
+
+   It is often helpful to align similar elements vertically, to make
+   typo-generated bugs more obvious. Compare:
+$search = array('a', 'b', 'c', 'd', 'e');
+$replacement = array('foo', 'bar', 'baz', 'quux');
+
+// Another example:
+
+$value = 0;
+$anothervalue = 1;
+$yetanothervalue = 2;
+
+   with:
+$search      = array('a',   'b',   'c',   'd',   'e');
+$replacement = array('foo', 'bar', 'baz', 'quux');
+
+// Another example:
+
+$value           = 0;
+$anothervalue    = 1;
+$yetanothervalue = 2;
+
+   The latter example makes two things intuitively clear that were not
+   clear in the former:
+     * the search and replace terms are related and match up: they are not
+       discrete variables;
+     * there is one more search term than there are replacement terms. If
+       this is a bug, it is now more likely to be spotted.
+
+   However, note that there are many arguments against vertical alignment:
+     * Inter-line false dependencies; tabular formatting creates
+       dependencies across lines. For example, if an identifier with a
+       long name is added to a tabular layout, the column width may have
+       to be increased to accommodate it. This forces a bigger change to
+       the source code than necessary, and the essential change may be
+       lost in the noise. This is detrimental to Revision control where
+       inspecting differences between versions is essential.
+
+     * Brittleness; if a programmer does not neatly format the table when
+       making a change, maybe legitimately with the previous point in
+       mind, the result becomes a mess that deteriorates with further such
+       changes. Simple refactoring operations, such as search-and-replace,
+       may also break the formatting.
+
+     * Resistance to change; tabular formatting requires more effort to
+       maintain. This may put off a programmer from making a beneficial
+       change, such as adding, correcting or improving the name of an
+       identifier, because it will mess up the formatting.
+
+     * Reliance on mono-spaced font; tabular formatting assumes that the
+       editor uses a fixed-width font. Many modern code editors support
+       proportional fonts, and the programmer may prefer to use a
+       proportional font for readability.
+
+     * Tool dependence; some of the effort of maintaining alignment can be
+       alleviated by tools (e.g. a source code editor that supports
+       elastic tabstops), although that creates a reliance on such tools.
+
+   For example, if a simple refactoring operation is performed on the code
+   above, renaming variables "$replacement" to "$r" and "$anothervalue" to
+   "$a", the resulting code will look like this:
+$search      = array('a',   'b',   'c',   'd',   'e');
+$r = array('foo', 'bar', 'baz', 'quux');
+
+// Another example:
+
+$value           = 0;
+$a    = 1;
+$yetanothervalue = 2;
+
+   The original sequential formatting will still look fine after such
+   change:
+$search = array('a', 'b', 'c', 'd', 'e');
+$r = array('foo', 'bar', 'baz', 'quux');
+
+// Another example:
+
+$value = 0;
+$a = 1;
+$yetanothervalue = 2;
+
+Spaces[edit]
+
+   In those situations where some white space is required the grammars of
+   most free-format languages are unconcerned with the amount that
+   appears. Style related to white space is commonly used to enhance
+   readability. There are currently no known hard facts (conclusions from
+   studies) about which of the whitespace styles have the best
+   readability.
+
+   For instance, compare the following syntactically equivalent examples
+   of C code:
+int i;
+for(i=0;i<10;++i){
+    printf("%d",i*i+i);
+}
+
+   versus
+int i;
+for (i=0; i<10; ++i) {
+    printf("%d", i*i+i);
+}
+
+   versus
+int i;
+for (i = 0; i < 10; ++i) {
+    printf("%d", i * i + i);
+}
+
+   versus
+int i;
+for( i = 0; i < 10; ++i ) {
+    printf( "%d", i * i + i );
+}
+
+Tabs[edit]
+
+   The use of tabs to create white space presents particular issues when
+   not enough care is taken because the location of the tabulation point
+   can be different depending on the tools being used and even the
+   preferences of the user.
+
+   As an example, one programmer prefers tab stops of four and has his
+   toolset configured this way, and uses these to format his code.
+int     ix;     // Index to scan array
+long    sum;    // Accumulator for sum
+
+   Another programmer prefers tab stops of eight, and his toolset is
+   configured this way. When he examines his code, he may well find it
+   difficult to read.
+int             ix;             // Index to scan array
+long    sum;    // Accumulator for sum
+
+   One widely used solution to this issue may involve forbidding the use
+   of tabs for alignment or rules on how tab stops must be set. Note that
+   tabs work fine provided they are used consistently, restricted to
+   logical indentation, and not used for alignment:
+class MyClass {
+        int foobar(int qux,     // first parameter
+                   int quux);   // second parameter
+        int foobar2(int qux,    // first parameter
+                    int quux,   // second parameter
+                    int quuux); // third parameter
+};
+
+See also[edit]
+
+     * Coding conventions
+     * Indent style
+     * MISRA C
+     * Naming convention (programming)
+
+External links[edit]
+
+     * Source Code Formatters at DMOZ
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Programming_style&oldid=6188
+   26921"
+   Categories:
+     * Source code
+
+   Hidden categories:
+     * Wikipedia articles needing style editing from October 2008
+     * All articles needing style editing
+     * Articles with DMOZ links
+     * Articles with example C code
+     * Articles with example PHP code
+     * Articles with example pseudocode
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Čeština
+     * Deutsch
+     * Español
+     * 한국어
+     * Lietuvių
+     * Nederlands
+     * 日本語
+     * Polski
+     * Русский
+     * Українська
+     * Tiếng Việt
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 28 July 2014 at 14:58.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

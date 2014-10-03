@@ -1,0 +1,285 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Orthogonality (programming)
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article includes a list of references, but its sources remain
+   unclear because it has insufficient inline citations. Please help to
+   improve this article by introducing more precise citations. (August
+   2012)
+
+   In computer programming, orthogonality in a programming language means
+   that a relatively small set of primitive constructs can be combined in
+   a relatively small number of ways to build the control and data
+   structures of the language. The term is most-frequently used regarding
+   assembly instruction sets, as orthogonal instruction set.
+
+Contents
+
+     * 1 Concept
+     * 2 Further reading
+     * 3 External links
+     * 4 References
+
+Concept[edit]
+
+   Orthogonality is an important concept, addressing how a relatively
+   small number of components can be combined in a relatively small number
+   of ways to get the desired results. It is associated with simplicity;
+   the more orthogonal the design, the fewer exceptions. This makes it
+   easier to learn, read and write programs in a programming language.^[1]
+   The meaning of an orthogonal feature is independent of context; the key
+   parameters are symmetry and consistency (for example, a pointer is an
+   orthogonal concept).
+
+   An example from IBM Mainframe and VAX highlights this concept. An IBM
+   mainframe has two different instructions for adding the contents of a
+   register to a memory cell (or another register). These statements are
+   shown below:
+
+          A Reg1, memory_cell
+          AR Reg1, Reg2
+
+   In the first case, the contents of Reg1 are added to the contents of a
+   memory cell; the result is stored in Reg1. In the second case, the
+   contents of Reg1 are added to the contents of another register (Reg2)
+   and the result is stored in Reg1.
+
+   In contrast to the above set of statements, VAX has only one statement
+   for addition:
+
+   ADDL operand1, operand2
+
+   In this case the two operands (operand1 and operand2) can be registers,
+   memory cells, or a combination of both; the instruction adds the
+   contents of operand1 to the contents of operand2, storing the result in
+   operand1.
+
+   VAX’s instruction for addition is more orthogonal than the instructions
+   provided by IBM; hence, it is easier for the programmer to remember
+   (and use) than the one provided by IBM.
+
+   The design of C language may be examined from the perspective of
+   orthogonality. The C language is somewhat inconsistent in its treatment
+   of concepts and language structure, making it difficult for the user to
+   learn (and use) the language. Examples of exceptions follow:
+     * Structures (but not arrays) may be returned from a function.
+     * An array can be returned if it is inside a structure.
+     * A member of a structure can be any data type (except void), or the
+       structure of the same type.
+     * An array element can be any data type (except void).
+     * Everything is passed by value (except arrays).
+     * Void can be used as a type in a structure, but a variable of this
+       type cannot be declared in a function.
+
+Further reading[edit]
+
+     * The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt
+       and David Thomas. Addison-Wesley. 2000. ISBN 978-0-201-61622-4.
+
+External links[edit]
+
+     * "The Art of Unix Programming", chapter about Orthogonality –
+       Orthogonality concept well-explained
+
+
+                    * v
+     * t
+     * e
+
+   Software engineering
+       Fields
+                    * Computer programming
+                    * Software requirements
+                    * Software deployment
+                    * Software design
+                    * Software maintenance
+                    * Software testing
+                    * Systems analysis
+                    * Formal methods
+
+      Concepts
+                    * Data modeling
+                    * Enterprise architecture
+                    * Functional specification
+                    * Modeling language
+                    * Orthogonality
+                    * Programming paradigm
+                    * Software
+                    * Software architecture
+                    * Software development methodology
+                    * Software development process
+                    * Software quality
+                    * Software quality assurance
+                    * Software archaeology
+                    * Structured analysis
+
+    Orientations
+                    * Agile
+                    * Aspect-oriented
+                    * Object orientation
+                    * Ontology
+                    * Service orientation
+                    * SDLC
+
+       Models
+
+                  Developmental
+                                 * Agile
+                                 * EUP
+                                 * Executable UML
+                                 * Incremental model
+                                 * Iterative model
+                                 * Prototype model
+                                 * RAD
+                                 * UP
+
+                      Other
+                                 * SPICE
+                                 * CMMI
+                                 * Data model
+                                 * ER model
+                                 * Function model
+                                 * Information model
+                                 * Metamodeling
+                                 * Object model
+                                 * Systems model
+                                 * View model
+
+                    Languages
+                                 * IDEF
+                                 * UML
+                                 * SysML
+
+      Software
+   engineers
+                    * Kent Beck
+                    * Grady Booch
+                    * Fred Brooks
+                    * Barry Boehm
+                    * Ward Cunningham
+                    * Tom DeMarco
+                    * Martin Fowler
+                    * C. A. R. Hoare
+                    * Watts Humphrey
+                    * Michael A. Jackson
+                    * Ivar Jacobson
+                    * Stephen J. Mellor
+                    * Bertrand Meyer
+                    * David Parnas
+                    * Winston W. Royce
+                    * James Rumbaugh
+                    * Niklaus Wirth
+                    * Edward Yourdon
+                    * Victor Basili
+                    * Craig Larman
+
+   Related fields
+                    * Computer science
+                    * Computer engineering
+                    * Project management
+                    * Systems engineering
+
+     * Category Category
+     * Commons
+
+References[edit]
+
+    1. ^ Sebesta, Robert (2012). Concepts of Programming Languages 10th
+       Ed. Pearson Higher Ed. pp. 9–12, 73. ISBN 9780131395312.
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Orthogonality_(programming)&
+   oldid=603260064"
+   Categories:
+     * Programming language topics
+
+   Hidden categories:
+     * Articles lacking in-text citations from August 2012
+     * All articles lacking in-text citations
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 8 April 2014 at 05:24.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

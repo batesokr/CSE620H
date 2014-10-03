@@ -1,0 +1,970 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States district court
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article is about district courts of the U.S. federal judicial
+   system. For district courts of various U.S. states' judicial systems,
+   see Courts of the United States#Courts by state of the United States.
+   See also: List of United States district and territorial courts
+   Map of the boundaries of the United States Courts of Appeals and United
+   States District Courts
+                   United States
+   Great Seal of the United States (obverse).svg
+   This article is part of a series on the
+   politics and government of
+   the United States
+   Federal government
+     * Constitution
+     * Law
+     * Taxation
+
+   Legislature
+     * Congress
+          + House
+               o Speaker
+               o Party leaders
+               o Congressional districts
+          + Senate
+               o President pro tempore
+               o Party leaders
+
+   Executive
+     * President
+     * Vice President
+     * Cabinet
+     * Federal agencies
+
+   Judiciary
+     * Supreme Court
+     * Courts of Appeals
+     * District Courts
+     * Other tribunals
+
+   Elections
+     * Presidential elections
+     * Midterm elections
+     * Off-year elections
+
+   Political parties
+     * Democratic
+     * Republican
+     * Third parties
+
+   Federalism
+     * State government
+          + Governors
+          + Legislatures (List)
+          + State courts
+     * Local government
+
+     * Other countries
+     * Atlas
+
+   Portal icon Politics portal
+     * v
+     * t
+     * e
+
+   The United States district courts are the general trial courts of the
+   United States federal court system. Both civil and criminal cases are
+   filed in the district court, which is a court of law, equity, and
+   admiralty. There is a United States bankruptcy court associated with
+   each United States district court. Each federal judicial district has
+   at least one courthouse, and many districts have more than one. The
+   formal name of a district court is "the United States District Court
+   for" the name of the district—for example, the United States District
+   Court for the Eastern District of Missouri.
+
+   In contrast to the Supreme Court, which was established by Article III
+   of the Constitution, the district courts were established by
+   Congress.^[note 1] There is no constitutional requirement that district
+   courts exist at all. Indeed, after the ratification of the
+   Constitution, some opponents of a strong federal judiciary urged that
+   the federal court system be limited to the Supreme Court, which would
+   hear appeals from state courts. This view did not prevail, however, and
+   the first Congress created the district court system that is still in
+   place today.
+
+   There is at least one judicial district for each state, the District of
+   Columbia, and Puerto Rico. District courts in three insular areas—the
+   United States Virgin Islands, Guam, and the Northern Mariana
+   Islands—exercise the same jurisdiction as Article III U.S. district
+   courts.^[1]^[2]^[3] Despite their name, these courts are technically
+   not "District Courts of the United States". Judges on these Article IV
+   territorial courts do not enjoy the protections of Article Three of the
+   Constitution, and serve terms of ten years rather than for life.
+
+   There are 89 districts in the 50 states, with a total of 94 districts
+   including territories.^[4]
+
+Contents
+
+     * 1 Other federal trial courts
+     * 2 United States district judges
+     * 3 Jurisdiction
+     * 4 Attorneys
+     * 5 Appeals
+     * 6 Busiest district courts
+     * 7 Extinct district courts
+          + 7.1 Subdivided district courts
+          + 7.2 Other abolished district courts
+     * 8 See also
+     * 9 Notes
+          + 9.1 Footnotes
+          + 9.2 Citations
+     * 10 External links
+
+Other federal trial courts[edit]
+
+   There are other federal trial courts that have nationwide jurisdiction
+   over certain types of cases, but the district court also has concurrent
+   jurisdiction over many of those cases, and the district court is the
+   only one with jurisdiction over civilian criminal cases. The United
+   States Court of International Trade addresses cases involving
+   international trade and customs issues. The United States Court of
+   Federal Claims has exclusive jurisdiction over most claims for money
+   damages against the United States, including disputes over federal
+   contracts, unlawful takings of private property by the federal
+   government, and suits for injury on federal property or by a federal
+   employee. The United States Tax Court has jurisdiction over contested
+   pre-assessment determinations of taxes.
+
+United States district judges[edit]
+
+   A judge of a United States district court is officially titled a
+   “United States District Judge”. Other federal judges, including circuit
+   judges and Supreme Court Justices, can also sit in a district court
+   upon assignment by the chief judge of the circuit or by the Chief
+   Justice of the United States. The number of judges in each district
+   court (and the structure of the judicial system generally) is set by
+   Congress in the United States Code. The President appoints the federal
+   judges for terms of good behavior (subject to the advice and consent of
+   the Senate), so the nominees often share at least some of his
+   convictions. In states represented by a senator of the president's
+   party, the senator (or the more senior of them if both senators are of
+   the president's party) has substantial input into the nominating
+   process, and through a tradition known as senatorial courtesy can
+   exercise an unofficial veto over a nominee unacceptable to the senator.
+
+   With the exception of the territorial courts (Guam, the Northern
+   Mariana Islands, and the Virgin Islands), federal district judges are
+   Article III judges appointed for life, and can be removed involuntarily
+   only when they violate the standard of "good behavior". The sole method
+   of involuntary removal of a judge is through impeachment by the United
+   States House of Representatives followed by a trial in the United
+   States Senate and a conviction by a two-thirds vote. Otherwise, a
+   judge, even if convicted of a felony criminal offense by a jury, is
+   entitled to hold office until retirement or death. In the history of
+   the United States, only twelve judges have been impeached by the House,
+   and only seven have been removed following conviction in the Senate.
+   (For a table that includes the twelve impeached judges, see Impeachment
+   in the United States.)
+
+   A judge who has reached the age of 65 (or has become disabled) may
+   retire or elect to go on senior status and keep working. Such senior
+   judges are not counted in the quota of active judges for the district
+   and do only whatever work they are assigned by the chief judge of the
+   district, but they keep their offices (called "chambers") and staff,
+   and many of them work full-time. A federal judge is addressed in
+   writing as "The Honorable John/Jane Doe" or "Hon. John/Jane Doe" and in
+   speech as "Judge" or "Judge Doe" or, when presiding in court, "Your
+   Honor".
+
+   District judges usually concentrate on managing their court's overall
+   caseload, supervising trials, and writing opinions in response to
+   important motions like the motion for summary judgment. Since the
+   1960s, routine tasks like resolving discovery disputes can, in the
+   district judge's discretion, be referred to magistrate judges.
+   Magistrate judges can also be requested to prepare reports and
+   recommendations on contested matters for the district judge's
+   consideration or, with the consent of all parties, to assume complete
+   jurisdiction over a case including conducting the trial.
+
+   Federal magistrate judges are appointed by each district court pursuant
+   to statute. They are appointed for an eight-year term and may be
+   reappointed for additional eight-year terms. A magistrate judge may be
+   removed "for incompetency, misconduct, neglect of duty, or physical or
+   mental disability".^[5] A magistrate judgeship may be a stepping stone
+   to a district judgeship nomination.
+
+   As of 2010, there were 678 authorized district court judgeships.^[6] A
+   study put forth by Brennan Center for Justice at New York University of
+   Law found that under the Obama administration and especially in the
+   year 2009 there have been a “uniquely high” number of vacancies in
+   Federal Court, averaging 60 or more from the years 2009 to 2013. The
+   Obama administration has blamed Senate Republicans for opposing (and
+   therefore, not confirming) presidential nominations, while the
+   Republicans say Obama has been slow to nominate. ^[7]
+
+Jurisdiction[edit]
+
+             Civil procedure
+   in the United States
+     * Federal Rules of Civil Procedure
+     * Doctrines of civil procedure
+     * Jurisdiction
+     * Venue
+     * Pleadings and motions
+     * Pleadings
+          + Service of process
+          + Complaint
+          + Answer
+          + Counterclaim
+          + Crossclaim
+     * Pre-trial procedure
+          + Discovery
+          + Interrogatories
+          + Depositions
+          + Request for admissions
+          + Request for production
+     * Resolution without trial
+          + Default judgment
+          + Summary judgment
+          + Voluntary dismissal
+          + Involuntary dismissal
+          + Settlement
+     * Trial
+          + Parties
+          + Jury
+          + Burden of proof
+          + Judgment
+     * Appeal
+          + Mandamus
+          + Certiorari
+
+     * v
+     * t
+     * e
+
+   Unlike some state courts, the power of federal courts to hear cases and
+   controversies is strictly limited. Federal courts may not decide every
+   case that happens to come before them. In order for a district court to
+   entertain a lawsuit, Congress must first grant the court subject matter
+   jurisdiction over the type of dispute in question. Though Congress may
+   theoretically extend the federal courts' subject matter jurisdiction to
+   the outer limits described in Article III of the Constitution, it has
+   always chosen to give the courts a somewhat narrower power.
+
+   The district courts exercise original jurisdiction over—that is, they
+   are empowered to conduct trials in—the following types of cases:
+     * Civil actions arising under the Constitution, laws, and treaties of
+       the United States;^[8]
+     * Certain civil actions between citizens of different states;^[9]
+     * Civil actions within the admiralty or maritime jurisdiction of the
+       United States;^[10]
+     * Criminal prosecutions brought by the United States;^[11]
+     * Civil actions in which the United States is a party;^[12] and
+     * Many other types of cases and controversies^[13]
+
+   For most of these cases, the jurisdiction of the federal district
+   courts is concurrent with that of the state courts. In other words, a
+   plaintiff can choose to bring these cases in either a federal district
+   court or a state court. Congress has established a procedure whereby a
+   party, typically the defendant, can "remove" a case from state court to
+   federal court, provided that the federal court also has original
+   jurisdiction over the matter. For certain matters, such as patent and
+   copyright infringement disputes and prosecutions for federal crimes,
+   the jurisdiction of the district courts is exclusive of that of the
+   state courts.^[note 2]
+
+   In addition to their original jurisdiction, the district courts have
+   appellate jurisdiction over a very limited class of judgments, orders,
+   and decrees.^[14]
+
+Attorneys[edit]
+
+   In order to represent a party in a case in a district court, a person
+   must be an attorney at law and generally must be admitted to the bar of
+   that particular court. The United States usually does not have a
+   separate bar examination for federal practice (except with respect to
+   patent practice before the United States Patent and Trademark Office).
+   Admission to the bar of a district court is generally granted as a
+   matter of course to any attorney who is admitted to practice law in the
+   state where the district court sits.^[note 3] Many district courts also
+   allow an attorney who has been admitted and remains an active member in
+   good standing of any state, territory or the District of Columbia bar
+   to become a member.^[15] The attorney submits his application with a
+   fee and takes the oath of admission. Local practice varies as to
+   whether the oath is given in writing or in open court before a judge of
+   the district.
+
+   Several district courts require attorneys seeking admission to their
+   bars to take an additional bar examination on federal law, including
+   the following: the Southern District of Ohio,^[16] the Northern
+   District of Florida,^[17] and the District of Puerto Rico.^[18]
+
+Appeals[edit]
+
+   Generally, a final ruling by a district court in either a civil or a
+   criminal case can be appealed to the United States court of appeals in
+   the federal judicial circuit in which the district court is located,
+   except that some district court rulings involving patents and certain
+   other specialized matters must be appealed instead to the United States
+   Court of Appeals for the Federal Circuit, and in a very few cases the
+   appeal may be taken directly to the United States Supreme Court.
+
+Busiest district courts[edit]
+
+   Eastern District of New York
+
+   The Central District of California is the largest federal district by
+   population; it includes all five counties that make up the Greater Los
+   Angeles Area. By contrast, New York City and the surrounding
+   metropolitan area are divided between the Southern District of New York
+   (which includes Manhattan and The Bronx) and the Eastern District of
+   New York (which includes Brooklyn, Queens, and Staten Island). New York
+   suburbs in Connecticut and New Jersey are covered by the District of
+   Connecticut and District of New Jersey, respectively.
+
+   The Southern District of New York and the Central District of
+   California are the largest federal districts by number of judges, with
+   28 and 27, respectively.^[19]
+
+   In 2007, the busiest district courts in terms of criminal federal
+   felony filings were the District of New Mexico, Western District of
+   Texas, Southern District of Texas, and the District of Arizona. These
+   four districts all share the border with Mexico.^[20] A crackdown on
+   illegal immigration resulted in 75 percent of the criminal cases filed
+   in the 94 district courts in 2007 being filed in these four districts
+   and the other district that borders Mexico, the Southern District of
+   California.^[21]
+
+Extinct district courts[edit]
+
+Subdivided district courts[edit]
+
+   Main article: Former United States district courts
+
+   Most extinct district courts have disappeared by being divided into
+   smaller districts. The following courts were subdivided out of
+   existence: Alabama, Arkansas, California, Florida, Georgia, Illinois,
+   Indiana, Iowa, Kentucky, Louisiana, Michigan, Mississippi, Missouri,
+   New York, North Carolina, Ohio, Pennsylvania, Tennessee, Texas,
+   Virginia, Washington, West Virginia, Wisconsin.
+
+Other abolished district courts[edit]
+
+   On rare occasions, an extinct district court was extinguished by
+   merging it with other district courts. In every case except one, this
+   has restored a district court that had been subdivided:
+     * Between 1794 and 1797, the United States District Court for the
+       District of North Carolina was divided into the United States
+       District Courts for the Districts of Edenton, New Bern, and
+       Wilmington.
+     * Between 1801 and 1802, the United States District Court for the
+       District of New Jersey was divided into the United States District
+       Courts for the Districts of East Jersey and West Jersey.
+     * When California was admitted as a state in 1850, it was initially
+       divided into two districts, the Northern and the Southern.^[22] The
+       Southern District of California was abolished on July 27, 1866, and
+       the State made to constitute one district, the statute providing
+       that the Judge of the Northern District exercise the powers of the
+       United States District Court for the District of California, and
+       that all records of the Southern District Court be delivered to the
+       Clerk of the Northern District Court.^[22] Twenty years later, on
+       August 5, 1886, Congress re-created the Southern District of
+       California.^[22]
+     * Between 1911 and 1961, the United States District Court for the
+       District of South Carolina was divided into the United States
+       District Courts for the Eastern and Western District of South
+       Carolina.
+     * The United States District Court for the Eastern District of
+       Illinois was eliminated and a new United States District Court for
+       the Central District of Illinois was created in its place on
+       October 2, 1978.
+
+   There are a few additional extinct district courts that fall into
+   neither of the above two patterns.
+     * From 1801 to 1802, the District of Columbia and pieces of Maryland
+       and Virginia formed the United States District Court for the
+       District of Potomac, which was the first United States district
+       court to cross state lines. During the same period, the United
+       States District Court for the District of Norfolk was carved out of
+       another piece of Virginia. The United States District Courts for
+       the Districts of Maryland and Virginia remained during this brief
+       period.
+     * From 1801 to 1802, and again from 1802 to 1872, the state of North
+       Carolina was subdivided into the United States District Courts for
+       the Districts of Albemarle, Cape Fear, and Pamptico. These courts
+       were extinguished when the state was reorganized into the United
+       States District Courts for the Eastern and Western Districts of
+       North Carolina.
+     * The United States District Court for the District of Orleans was
+       renamed the United States District Court for the District of
+       Louisiana when the Territory of Orleans became the State of
+       Louisiana.
+     * The United States District Court for the Canal Zone was abolished,
+       effective March 31, 1982, as part of the process of returning the
+       Canal Zone to Panama. Cases then pending in the Canal Zone court
+       were transferred to the United States District Court for the
+       Eastern District of Louisiana in New Orleans.
+     * Between 1906 and 1943, there existed a United States Court for
+       China that functioned as a district court with jurisdiction over
+       American citizens in China.
+
+See also[edit]
+
+     * Courts of the United States
+     * Federal tribunals in the United States
+
+Notes[edit]
+
+Footnotes[edit]
+
+    1. ^ Article III of the Constitution provides that the "judicial power
+       of the United States, shall be vested in . . . such inferior courts
+       as the Congress may from time to time ordain and establish."
+    2. ^ In some situations, federal law provides both for the exclusive
+       jurisdiction of federal courts and for the immunity of the
+       defendant from the power of those courts. One example of this is
+       patent-infringement claims against a state government: only the
+       federal courts may hear patent cases, but the states have sovereign
+       immunity from such suits under the Eleventh Amendment. Although a
+       state may choose to waive its immunity in such a case and allow it
+       to proceed to trial, if it does not do so, the plaintiff has no
+       recourse. This doctrine was reaffirmed by the Supreme Court of the
+       United States in Florida Prepaid Postsecondary Education Expense
+       Board v. College Savings Bank, 527 U.S. 627 (1999).
+    3. ^ Nearly all district courts have a Local Rule 11.1 or 83.1 that
+       describes the appropriate state judicial institution which admits
+       attorneys to practice (either the state bar association or an
+       office or committee of the state supreme court).
+
+Citations[edit]
+
+    1. ^ United States District Courts
+    2. ^ United States District Court for the Northern Mariana Islands
+    3. ^ 48 U.S.C. § 1424 (District Court of Guam; local courts;
+       jurisdiction)
+    4. ^ U. S. Courts | Frequently Asked Questions
+    5. ^ 28 U.S.C. § 631
+    6. ^ Federal Judgeships, United States Courts.
+    7. ^
+       http://www.jdjournal.com/2013/07/08/study-exposes-obamas-federal-di
+       strict-vacancies-as-uniquely-high/ June, Daniel "Study Exposes
+       Obama’s Federal District Vacancies as 'Uniquely High'"
+    8. ^ 28 U.S.C. § 1331
+    9. ^ 28 U.S.C. § 1332
+   10. ^ 28 U.S.C. § 1333
+   11. ^ 18 U.S.C. § 3231
+   12. ^ 28 U.S.C. § 1345 (United States as plaintiff); 28 U.S.C. § 1346
+       (United States as defendant)
+   13. ^ Title 28, United States Code, Chapter 85.
+   14. ^ See, e.g., 28 U.S.C. § 158(a)(1) (U.S. district courts are
+       authorized to hear appeals from final judgments, orders, and
+       decrees of U.S. bankruptcy judges).
+   15. ^ Okray, John (2010). U.S. Federal Courts: Attorney Admission
+       Requirements. Fort Worth, TX: Lawyerup Press
+   16. ^ Local Rule 83.3, Local Rules of the Southern District of Ohio.
+   17. ^ Local Rule 11.1, Local Rules of the Northern District of Florida,
+   18. ^ Local Rule 83.1, Local Rules of the District of Puerto Rico.
+   19. ^ 28 U.S.C. § 133
+   20. ^ Border Crackdown Jams US Federal Courts (May 7, 2007).
+   21. ^ Goldman, Russell (July 23, 2008). "What's Clogging the Courts?
+       Ask America's Busiest Judge". ABC News.
+   22. ^ ^a ^b ^c Willoughby Rodman, History of the Bench and Bar of
+       Southern California (1909), p. 46.
+
+External links[edit]
+
+     * United States District Courts Official Website
+     * United States District Courts by State
+     * Federal Court Concepts, Georgia Tech
+     * Links to researching court records and also National Archives:
+       Records of District Courts of the United States (Record Group 21)
+       1685-1993.
+     * Territorial Courts at Federal Judicial Center
+     * United States District Courts at Federal Judicial Center
+     * United States District Court Civil Case Filings
+
+
+                   * v
+   * t
+   * e
+
+ United States district and territorial courts
+ List of United States district and territorial courts
+ US Court of Appeals and District Court map.svg
+  District Courts
+                      * Alabama (N, M, S)
+                      * Alaska
+                      * Arizona
+                      * Arkansas (E, W)
+                      * California (C, E, N, S)
+                      * Colorado
+                      * Connecticut
+                      * Delaware
+                      * District of Columbia
+                      * Florida (N, M, S)
+                      * Georgia (N, M, S)
+                      * Hawaii
+                      * Idaho
+                      * Illinois (N, C, S)
+                      * Indiana (N, S)
+                      * Iowa (N, S)
+                      * Kansas
+                      * Kentucky (E, W)
+                      * Louisiana (E, M, W)
+                      * Maine
+                      * Maryland
+                      * Massachusetts
+                      * Michigan (E, W)
+                      * Minnesota
+                      * Mississippi (N, S)
+                      * Missouri (E, W)
+                      * Montana
+                      * Nebraska
+                      * Nevada
+                      * New Hampshire
+                      * New Jersey
+                      * New Mexico
+                      * New York (E, N, S, W)
+                      * North Carolina (E, M, W)
+                      * North Dakota
+                      * Ohio (N, S)
+                      * Oklahoma (E, N, W)
+                      * Oregon
+                      * Pennsylvania (E, M, W)
+                      * Puerto Rico
+                      * Rhode Island
+                      * South Carolina
+                      * South Dakota
+                      * Tennessee (E, M, W)
+                      * Texas (E, N, S, W)
+                      * Utah
+                      * Vermont
+                      * Virginia (E, W)
+                      * Washington (E, W)
+                      * West Virginia (N, S)
+                      * Wisconsin (E, W)
+                      * Wyoming
+
+ Territorial courts
+                      * Guam
+                      * Northern Mariana Islands
+                      * Virgin Islands
+
+   Extinct courts
+                      * Former United States district courts
+                      * United States District Court for the District of Orleans
+                      * District of Potomac
+                      * Eastern District of Illinois
+                      * District of the Canal Zone
+                      * District of China
+
+
+                             * v
+     * t
+     * e
+
+   Law of the United States
+   Constitutional law
+                        * Federalism
+                        * Separation of powers
+                        * Civil rights
+
+                                                           Scales of justice
+     Courts of the
+   United States
+
+                      Federal courts
+                                      * Supreme (SCOTUS)
+                                      * Appeals
+                                      * District (list)
+                                      * Bankruptcy
+                                      * Claims
+                                      * International Trade
+                                      * Tax
+
+                       State courts
+                                      * State supreme
+
+       Education
+                        * Law school
+                        * Law School Admission Test
+                        * Admission to the bar
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_district_court
+   &oldid=612383239"
+   Categories:
+     * United States district courts
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Català
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 10 June 2014 at 17:34.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

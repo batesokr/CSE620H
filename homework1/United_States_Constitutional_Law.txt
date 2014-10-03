@@ -1,0 +1,1111 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States constitutional law
+
+   From Wikipedia, the free encyclopedia
+     (Redirected from United States Constitutional Law)
+   Jump to: navigation, search
+   This article possibly contains original research. Please improve it by
+   verifying the claims made and adding inline citations. Statements
+   consisting only of original research should be removed. (April 2014)
+         Constitutional Law
+   of the United States
+   Scale of justice 2.svg
+              Overview
+     * Articles
+     * Amendments
+
+     * History
+     * Judicial review
+
+             Principles
+     * Separation of powers
+     * Individual rights
+     * Rule of law
+     * Federalism
+     * Republicanism
+
+        Government structure
+     * Legislative branch
+     * Executive branch
+
+     * Judicial branch
+     * State government
+
+          Individual rights
+     * Freedom of religion
+     * Freedom of speech
+     * Freedom of the press
+     * Right to keep and bear arms
+     * Freedom of assembly
+     * Right to petition
+     * Freedom of association
+     * Right to trial by jury
+     * Criminal procedural rights
+     * Right to privacy
+     * Freedom from slavery
+     * Due process
+     * Equal protection
+     * Citizenship
+     * Voting rights
+
+               Theory
+     * Living Constitution
+     * Originalism
+     * Purposive
+     * Textualism
+     * Strict constructionism
+
+     * v
+     * t
+     * e
+
+   United States constitutional law is the body of law governing the
+   interpretation and implementation of the United States
+   Constitution.^[1]
+
+Contents
+
+     * 1 Interpreting the Constitution and the authority of the Supreme
+       Court
+          + 1.1 Introduction
+          + 1.2 The power of judicial review
+          + 1.3 Scope and effect
+          + 1.4 Prudential limits—the principles of justiciability
+          + 1.5 Differing views on the role of the Court
+     * 2 History
+          + 2.1 The Founding
+          + 2.2 From the Founding to the Civil War
+          + 2.3 Reconstruction
+          + 2.4 From Reconstruction to the New Deal
+          + 2.5 From the New Deal to the Roberts Court
+     * 3 The question of federalism
+          + 3.1 Powers granted by the Constitution to the federal
+            government
+               o 3.1.1 The federal commerce power
+               o 3.1.2 The spending power
+               o 3.1.3 The war, treaty, and foreign affairs powers
+               o 3.1.4 Other federal powers
+          + 3.2 Powers reserved by the states
+               o 3.2.1 Suits against states: effect of the 11th Amendment
+          + 3.3 Intergovernmental Immunities and Interstate Relations
+     * 4 Limiting the power of the three branches—the system of "checks
+       and balances"
+          + 4.1 Boundaries of power: Congress versus the executive
+               o 4.1.1 Lawmaking authority
+               o 4.1.2 The presidential veto power
+               o 4.1.3 Foreign affairs and war powers
+               o 4.1.4 Appointment and removal of executive personnel
+               o 4.1.5 The special prosecutor
+          + 4.2 The judicial branch
+          + 4.3 Legislative and executive immunity
+     * 5 The due process clause (Fifth and Fourteenth Amendments)
+     * 6 The equal protection clause (Fourteenth Amendment)
+     * 7 The privileges and immunities clauses (Article IV and Fourteenth
+       Amendment)
+          + 7.1 Article IV
+          + 7.2 The Fourteenth Amendment
+     * 8 The Takings Clause
+     * 9 The contracts clause
+     * 10 The ex post facto clause
+     * 11 The prohibition on bills of attainder
+     * 12 Freedom of expression
+     * 13 Freedom of religion
+     * 14 Federal enforcement of civil rights
+     * 15 Sources
+     * 16 See also
+
+Interpreting the Constitution and the authority of the Supreme Court[edit]
+
+Introduction[edit]
+
+   United States constitutional law defines the scope and application of
+   the terms of the Constitution. It covers areas of law such as the
+   relationship between the federal government and state governments, the
+   rights of individuals, and other fundamental aspects of the application
+   of government authority in the United States. It is a field of law that
+   is broad and complex. Some constitutional scholars maintain that the
+   authors of the Constitution intended that it be vague and subject to
+   interpretation so that it could be adapted to the needs of a changing
+   society. Others maintain that the provisions of the Constitution should
+   be strictly construed and their provisions applied in a very literal
+   manner.^[2]
+
+The power of judicial review[edit]
+
+   Early in its history, in Marbury v. Madison, 5 U.S. 137 (1803) and
+   Fletcher v. Peck, 10 U.S. 87 (1810), the Supreme Court of the United
+   States declared that the judicial power granted to it by Article III of
+   the United States Constitution included the power of judicial review,
+   to consider challenges to the constitutionality of a State or Federal
+   law. According to this jurisprudence, when the Court measures a law
+   against the Constitution and finds the law wanting, the Court is
+   empowered and indeed obligated to strike down that law. In this role,
+   for example, the Court has struck down state laws for failing to
+   conform to the Contract Clause (see, e.g., Dartmouth College v.
+   Woodward) or the Equal Protection Clause (see, e.g., Brown v. Board of
+   Education), and it has invalidated federal laws for failing to arise
+   under the Commerce Clause of the Constitution (see, e.g., United States
+   v. Lopez).
+
+Scope and effect[edit]
+
+   The Supreme Court's interpretations of constitutional law are binding
+   on the legislative and executive branches of the federal government, on
+   the lower courts in the federal system, and on all state courts. This
+   system of binding interpretations or precedents evolved from the common
+   law system (called "stare decisis"), where courts are bound by their
+   own prior decisions and by the decisions of higher courts. While
+   neither English common law courts nor continental civil law courts
+   generally had the power to declare legislation unconstitutional (only
+   the power to change law), the United States Supreme Court has long been
+   understood to have the power to declare federal or state legislation
+   unconstitutional.
+
+Prudential limits—the principles of justiciability[edit]
+
+   Before deciding a constitutional question, the Supreme Court may
+   consider whether the court can avoid the constitutional question by
+   basing its decision on a non-constitutional issue at dispute. For
+   example, if a federal statute is on shaky constitutional footing but
+   has been applied to the challenging party in a manner that does not
+   implicate the basis for the constitutional claim, the Supreme Court
+   will not decide whether the statute might be unconstitutional if it
+   were applied differently. Or, when reviewing a decision of a state's
+   highest court, the Court may avoid the constitutional question if the
+   state court's decision is based on an independent and adequate
+   state-law grounds.
+
+   Federal courts consider other doctrines before allowing a lawsuit to go
+   forward:
+     * Actual dispute - the lawsuit concerns a "case or controversy" under
+       the meaning of Article III, Section 2 of the U.S. Constitution
+     * Standing - the party bringing the suit must have (1) a
+       particularized and concrete injury, (2) a causal connection between
+       the complained-of conduct and that injury, and (3) a likelihood
+       that a favorable court decision will redress the injury
+     * Ripeness - a party will lack standing where her case raises
+       abstract, hypothetical or conjectural questions.
+     * Mootness - a party is seeking redress over a case that no longer
+       has a basis for dispute, though there are limited exceptions
+     * Political question - the issues raised in the suit are unreviewable
+       because the Constitution relegates it to another branch of
+       government.
+
+   Consistent with these doctrines, the Court considers itself prohibited
+   from issuing advisory opinions where there is no actual case or
+   controversy before them.(See Muskrat v. United States, 219 U.S. 346
+   (1911)). These doctrines, because they apply to all federal cases
+   whether of constitutional dimension or not, are discussed separately in
+   the article on federal jurisdiction.
+
+Differing views on the role of the Court[edit]
+
+   There are a number of ways that commentators and Justices of the
+   Supreme Court have defined the Court's role, and its jurisprudential
+   method:
+     * Current Associate Justices Antonin Scalia and Clarence Thomas are
+       originalists^[citation needed]; originalism is a family of similar
+       theories that hold that the Constitution has a fixed meaning from
+       an authority contemporaneous with the ratification (although
+       opinion as to what that authority is varies; see discussion at
+       originalism), and that it should be construed in light of that
+       authority. Unless there is a historic and/or extremely pressing
+       reason to interpret the Constitution differently, originalists vote
+       as they think the Constitution as it was written in the late 18th
+       Century would dictate.
+     * Associate Justice Felix Frankfurter was a leading proponent of
+       so-called judicial restraint,^[citation needed] in that he believed
+       that the Supreme Court should not make law (which, by invalidating
+       or significantly altering the meaning of Congressional bills,
+       Frankfurter felt they were), and so believers in this idea often
+       vote not to grant cases the writ of certiorari. Associate Justice
+       Stephen Breyer generally advocates a quasi-purposivist
+       approach,^[citation needed] focusing on what the law was supposed
+       to achieve rather than what it actually says, and measuring the
+       possible outcomes of voting one way or another.
+     * Other Justices have taken a more instrumentalist approach (see
+       judicial activism), believing it is the role of the Supreme Court
+       to reflect societal changes. They often see the Constitution as a
+       living, changing and adaptable document; thus their ruling will be
+       in stark contrast to originalists. Compare, for example, the
+       differing opinions of Justices Scalia and Ruth Bader Ginsburg, who
+       is a more instrumentalist justice.^[citation needed]
+     * Finally, there are some Justices who do not have a clear judicial
+       philosophy, and so decide cases purely on each one's individual
+       merits.
+
+   Debate continues over which, if any, of these interpretive strategies
+   is "better". Complicating the analysis is the lack of direct
+   correspondence between the various interpretive strategies and
+   contemporary notions of "conservatism" or "liberalism". For example,
+   originalism is often associated with conservatism, but Justice Scalia's
+   opinions in 2004 about the detention of persons at Guantanamo Bay were
+   probably the most libertarian, because he did not believe that the
+   framers of the Constitution had granted Executive powers for the
+   purpose of preventing judicial and legislative notice.
+
+History[edit]
+
+   Main article: History of the United States Constitution
+
+The Founding[edit]
+
+   Benjamin Franklin and other prominent political actors of the day had a
+   great hand in shaping the constitutionalism so many of us enjoy today.
+   Their philosophy roughly equates to the forming of an institutional
+   framework which would allow for the development of the opportunities
+   presented by the New World, with the important ethical caveat that no
+   man ought gain at the expense of another. (Franklin has written
+   numerous pieces on this subject as may be seen in any decent collection
+   of his works. His views do differ somewhat, however, from other
+   theorists such as Madison, for example. Consider the political premises
+   urged in Federalist 10, for instance, and contrast with the
+   presentation of the ideal citizen type in Franklin's Autobiography. But
+   these differences are, in the final analysis, inconsiderable.)
+
+   Among other, lesser known, signers of the Declaration of Independence,
+   is James Wilson, founder of the University of Pennsylvania law school
+   and Supreme Court Justice. In his inaugural law lectures, Wilson offers
+   to his contemporaries an interesting exposition of the constitutional
+   principles brought to life by the sacrifices of many great Americans.
+   In citing ancient models of virtue (Roman matrons, First Lecture, first
+   chapter) Wilson, perhaps unintentionally, approximates himself
+   theoretically to his fellow Pennsylvanian, Franklin, and makes clear
+   that as far as the Founders were concerned, there was no substantial
+   difference between virtues, ancient and modern.
+
+   The lectures that follow present a rigorous treatment of the
+   differences and important similarities between the English and the
+   American constitutions. This question was important to eighteenth
+   century citizens. But it may be that further study of this view will
+   allow us to understand better the intent of the Framers. Furthermore,
+   it would seem, it may prove to be of interest to young American legal
+   scholars, many of whom are now required to take courses in comparative
+   law.
+
+   What contemporary students do seem to have in common, however, with the
+   theorists of the American Founding, is articulated by Wilson in the
+   course of a discussion of some general principles of law and obligation
+   (Second chapter). He writes: "Order, proportion, and fitness pervade
+   the universe. Around us, we see; within us, feel; above us, we admire a
+   rule, from which a deviation cannot, or should not, or will not be
+   made." This, no doubt, refers to the rule of law, which was then and
+   there in the United States forming as the organizing principle of the
+   judiciary.
+
+   It is hard for us today to understand the great change that took place
+   as the early Justices of the Supreme Court set the tone and thus the
+   course of their adjudicatory process, a process much envied and
+   emulated throughout the world today. Wilson shows us what respect this
+   change deserves. After cautioning his audience to proceed with due
+   care, he notes the difficulty of exact definitions of laws. Those
+   familiar with the inner workings of high American courts, as evidenced
+   by their public opinions, know well that spirit, derived from
+   experience, does more to further the ends of justice than dead, though
+   righteously inclined, logic. "Influenced by these admonitory truths, I
+   hesitate, at present, to give a definition of law." (Second chapter.)
+   Wilson, a man widely read and well accustomed to the rigors of
+   philosophy, shows a gentleness here which many partisans can admire.
+
+   He then proceeds, boldly, to state the fundamental issue: "If the
+   prince, who makes laws for a people, is superior, in the terms of the
+   definition, to the people, who are to obey; how comes he to be vested
+   with the superiority over them?" We take for granted today the many
+   sacrifices made across the centuries in order to answer this great
+   question. One suspects he was not simply writing for his contemporary
+   Americans, nor indeed simply for Americans, when he goes on to write:
+   "Despotism, by an artful use of 'superiority' in politicks; and
+   scepticism, by an artful use of 'ideas' in metaphysics, have
+   endeavoured - and their endeavours have frequently been attended with
+   too much success - to destroy all true liberty and sound philosophy. By
+   their baneful effects, the science of man and the science of government
+   have been poisoned to their very fountains." Having made the necessary
+   attempt at clearing the theoretical grounds for construction ("We now
+   see, how necessary it is to lay the foundations of knowledge deep and
+   solid."), Wilson leads his students through a tour of near recent
+   thinkers (Locke, Blackstone, etc.). Hesitant though he may be, he pulls
+   no punches when attacking the enemies of right, whether they be
+   politicians, philosophers, or what-you-will, and towards the end of the
+   chapter suggests that the American principle or principles are
+   intimately connected to not only the law of nature but also to the
+   general law of nations. "The immediate objects of our attention are,
+   the law of nature, the law of nations, and the municipal law of the
+   United States, and of the several states which compose the Union."
+   (Second chapter.)
+
+   The third chapter discusses a topic not much in fashion in law schools
+   today, the law of nature. Understandable, many students will skim this
+   section; but perhaps equally understandably they do themselves a
+   disservice if their hope is to deepen their knowledge of the Original
+   Intent of the Framers. The Constitution took shape in an environment in
+   which discussion of natural law occupied a position of high, if not the
+   highest, importance. At the least, a sober assessment of the strengths
+   and weaknesses of American constitutionalism requires a minor degree of
+   familiarity with the issues Wilson lays out in this chapter.
+
+   The fourth chapter is entitled "Of the Law of nations," situating the
+   United States within the broader context. The fifth deals with
+   municipal law, in a sense perhaps different from how we understand the
+   term today. The sixth deals with man as an individual, a topic of great
+   interest to many liberal legal scholars and activists. The seventh, "Of
+   Man, as a member of society," is readily seen as an extension of the
+   preceding chapter into the tension we generally take for granted today.
+   The eighth, "Of man, as a member of a confederation," was likely of
+   great interest to knowing political players of the day, but of
+   relatively little interest in post-Civil War America. But this is more
+   than amply made up by the succeeding chapter, "Of man, as a member of
+   the great commonwealth of nations," the title of which suggests the
+   Adam Smith book of 1776. "Of government," is the tenth; and "Comparison
+   of the constitution of the United States, with that of Great Britain,"
+   closes out the first volume.
+   [icon] This section requires expansion. (January 2007)
+
+From the Founding to the Civil War[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+Reconstruction[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+   Passage of the 13th, 14th, and 15th Amendments.
+
+From Reconstruction to the New Deal[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+From the New Deal to the Roberts Court[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The question of federalism[edit]
+
+   In essence, the Constitution is a compromise between two extremes
+   feared by the framers: the development of a British-like monarchy on
+   one end of the spectrum, and the ineffectiveness of an overly
+   decentralized government on the other. The balance reached was the
+   model of federalism; a binary structure of management composed of
+   divided powers between the governments of each of the states and a
+   centralized federal government.
+
+   Supporters of federalism believed that a division of power between
+   federal and state governments would decrease the likelihood of tyranny,
+   which on a federal level would be much more concerning than its
+   occurrence locally. The framers felt the states were in the best
+   position to restrict such movements.^[3] Another frequently raised
+   value of federalism is the notion that since the states are much closer
+   to the people, they can be more responsive to and effective in
+   resolving the localized concerns of the public.^[4] Accordingly, the
+   Constitution explicitly enumerates the powers given to the federal
+   government and bestows the remaining discretion to the states.
+
+   In order to create a cohesive government, the framers felt certain
+   powers must have belonged to a centralized authority. Conducting
+   foreign affairs, for example, would be severely curtailed if not
+   embarked upon in a nationally uniform manner. Similarly, a standardized
+   currency was of prime importance for a robust and capable economy. As a
+   result, the powers to raise armies, create treaties, and to regulate
+   commerce with foreign nations and among the states, among others, were
+   given to the federal government.
+
+Powers granted by the Constitution to the federal government[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+The federal commerce power[edit]
+
+   Congress is authorized to "regulate commerce with foreign nations, and
+   among the several states, and with the Indian tribes" under Article I,
+   Section 8, Clause 3 of the Constitution.
+
+   Important early cases include United States v. E.C. Knight Co. (1895)
+   which held that the federal Sherman Act could not be applied to
+   manufacture of sugar because "commerce succeeds to manufacture, and is
+   not a part of it." Essentially, the Court cabined commerce as a phase
+   of business distinct from other aspects of production.
+
+   In the Shreveport Rate Cases (1914), the Court permitted congressional
+   regulation of railroad lines because Congress was regulating the
+   "channels of commerce" and although the regulation was on intrastate
+   rail lines, the effect of the intrastate lines was direct so as to
+   concern interstate commerce. In Schecter Poultry, the Court invalidated
+   a federal statute seeking to enforce labor conditions at a
+   slaughterhouse for chickens; the Court held the relationship between
+   labor conditions and chickens was too indirect - that chickens come to
+   rest upon arrival at the slaughterhouse (thereby ending the stream of
+   commerce), so whatever happened in the slaughterhouse was not
+   Congress's business.
+
+   In these early cases, the Court approached problems formalistically -
+   from cabining commerce to a specific zone to a direct/indirect test.
+   This continued in the cow case, Stafford v. Wallace, where the court
+   articulated a "Stream of Commerce" test; essentially, Stream of
+   Commerce conceptualizes commerce as a flow mostly concerned with the
+   transportation and packaging of goods and not including acquisition of
+   raw materials at the front end and retail of those goods at the tail
+   end.
+
+   However, with the Great Depression, there was political pressure for
+   increased federal government intervention and the Court increasingly
+   deferred to Congress. A seminal case was NLRB v. Jones and Laughlin
+   where the Court adopted a realist approach and reasoned that interstate
+   commerce is an elastic conception which required the Court to think of
+   problems not as falling on either side of a dichotomy but in a more
+   nuanced fashion.
+
+   Expansion of Congress's commerce clause power continued with Wickard in
+   1942 involving a farmer's refusal to comply with a federal quota.
+   Wickard articulated the aggregation principle: that effects of the
+   entire class matter rather than composites of the class, so even if the
+   single farmer did not substantially affect interstate commerce, all
+   farmers - the class to which he belonged - do - they compete with the
+   national market.
+
+   With recent cases like Lopez and Morrison, there has been a return to
+   formalism - i.e. legal tests created by the Court to determine if
+   Congress has overstepped its bounds. In both those cases, the federal
+   statutes were invalidated. But in Gonzalez v. Raich (post Lopez and
+   Morrison), principles of Wickard were resurrected, leaving the future
+   of commerce clause doctrine uncertain.
+
+The spending power[edit]
+
+   Clause 1 of Article I, § 8 grants Congress the power to tax and spend
+   "to provide for the common defense and general welfare of the United
+   States," subject to the qualification that all taxes and duties be
+   uniform across the country.
+
+The war, treaty, and foreign affairs powers[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+Other federal powers[edit]
+
+   Other federal powers specifically enumerated by Section 8 of Article I
+   of the United States Constitution (and generally considered exclusive
+   to the federal government) are:
+     * to coin money, and to regulate its value;
+
+     * to establish laws governing bankruptcy;
+
+     * to establish post offices (although Congress may allow for the
+       establishment of non-governmental mail services by private
+       entities);
+
+     * to control the issuance of copyrights and patents (although
+       copyrights and patents may also be enforced in state courts);
+
+     * to govern the District of Columbia and all other federal
+       properties;
+
+     * to control naturalization (and, implicitly, the immigration) of
+       aliens;
+
+     * to enforce "by appropriate legislation" the Thirteenth, Fourteenth,
+       and Fifteenth Amendments to the United States Constitution (a
+       function of the Constitution's Necessary and Proper clause);
+
+     * to propose, by a two-thirds vote, constitutional amendments for
+       ratification by three-fourths of the states pursuant to the terms
+       of Article V.
+
+Powers reserved by the states[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+   Although, for all practical purposes (as proved by the fact of the U.S.
+   Civil War), the federal government does not actually govern by the
+   "consent of the states," some of the more important powers reserved by
+   the states to themselves in the Constitution are:
+     * the power, by "application of two-thirds of the legislatures of the
+       several states," to require Congress to convene a constitutional
+       convention for the purpose of proposing amendments to or revising
+       the terms of the Constitution (see Article V).
+
+Suits against states: effect of the 11th Amendment[edit]
+
+   The Eleventh Amendment to the United States Constitution defines the
+   scope of when and in what circumstances a state may be taken to federal
+   court. Taken literally, the Amendment prohibits a citizen from suing a
+   state in federal court through the sovereign immunity doctrine.
+   However, the Court has articulated three exceptions: 1) Particular
+   state officials may be sued, 2) States can waive immunity or consent to
+   suit, and 3) Congress may authorize suits against a state through the
+   abrogation doctrine. However, concerning this latter exception, the
+   Supreme Court has held in Seminole Tribe v. Florida that Congress may
+   not, outside of the Fourteenth Amendment, authorize federal lawsuits
+   against states in abrogation of the Eleventh Amendment's guarantee of
+   sovereign state immunity.
+
+Intergovernmental Immunities and Interstate Relations[edit]
+
+   Main article: intergovernmental immunity
+
+   The United States government, its agencies and instrumentalities, are
+   immune from state regulation that interferes with federal activities,
+   functions, and programs. State laws and regulations cannot
+   substantially interfere with an authorized federal program, except for
+   minor or indirect regulation, such as state taxation of federal
+   employees.
+   [icon] This section requires expansion. (January 2007)
+
+Limiting the power of the three branches—the system of "checks and
+balances"[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+Boundaries of power: Congress versus the executive[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+   Many powers of Congress and of the President are specifically
+   enumerated by the Constitution.
+
+   Enumerated powers of Congress
+
+   Article I, Section 8 of the Constitution enumerates many explicit
+   powers of Congress. See Enumerated powers.
+
+   Enumerated powers of the President
+
+   Several important powers are enumerated to the President under Article
+   II, Section 2. These include:
+     * Commander-in-chief of the armed forces;
+     * Power to pardon offenses against the United States;
+     * Power to make treaties (with consent of the Senate); and the
+     * Power to appoint judges, ambassadors, and other officers of the
+       United States (often requiring Senate consent);
+
+Lawmaking authority[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The presidential veto power[edit]
+
+   The Presentment Clause (Article I, Section 7, cl. 2-3) grants the
+   president the power to veto Congressional legislation and Congress the
+   power to override a presidential veto with a supermajority. Under the
+   clause, once a bill has been passed in identical form by both houses of
+   Congress, it must be sent ("presented") to the president for action
+   before it can become federal law. At that point, the Constitution
+   provides the president with three options and 10 days to act.
+
+   First, the president can sign the bill into law. Second, the president
+   can veto the legislation by sending the bill back to Congress unsigned
+   and with a written statement of his objections. Third, the president
+   can choose not to act at all on the bill (i.e., simply decline to sign
+   it), which can have one of two effects, depending on the circumstances.
+   If Congress is in session, the bill automatically becomes law, without
+   the president's signature, after 10 days. If, however, Congress
+   adjourned during that 10 day period, the bill fails to become law in a
+   procedural device known as the "pocket veto".
+
+   Congress may override a presidential veto by a two-thirds majority vote
+   in each house, in which case the bill becomes law.
+
+   The president approves or rejects a bill in its entirety; he is not
+   permitted to veto specific provisions. In 1996, Congress passed, and
+   President Bill Clinton signed, the Line Item Veto Act of 1996, which
+   gave the president the power to veto individual items of budgeted
+   expenditures in appropriations bills. The Supreme Court subsequently
+   declared the line-item veto unconstitutional as a violation of the
+   Presentment Clause in Clinton v. City of New York, 524 U.S. 417 (1998).
+   The Court construed the Constitution's silence on the subject of such
+   unilateral presidential action as equivalent to "an express
+   prohibition," agreeing with historical material that supported the
+   conclusion that statutes may only be enacted "in accord with a single,
+   finely wrought and exhaustively considered, procedure",^[5] and that a
+   bill must be approved or rejected by the president in its entirety. The
+   Court reasoned that a line-item veto "would authorize the President to
+   create a different law--one whose text was not voted on by either House
+   of Congress or presented to the President for signature," and therefore
+   violates the federal legislative procedure prescribed in Article I,
+   Section 7.
+
+Foreign affairs and war powers[edit]
+
+   The president has power as commander in chief to control the army.
+   Article I grants congress the power to declare war and raise and
+   support the army and the navy. However, Article II grants the president
+   the power as commander-in-chief. The Supreme Court rarely addresses the
+   issue of the president's use of troops in a war-like situation.
+   Challenges to the president's use of troops in a foreign country are
+   likely to be dismissed on political question grounds. The Supreme Court
+   does not review political questions like who to go to war with or how
+   to handle rebellions since that is the power of the Federal Executive
+   and Legislative branches.
+
+   Prisoners of War must be afforded the due process of having the ability
+   to have their writs of Habeas Corpus heard.
+
+   Finally, the War Powers Resolution states that the president as
+   commander in chief may introduce the United States Armed Forces into
+   hostilities or situations where hostilities appear imminent "only
+   pursuant to 1. a declaration of war, 2. specific statutory
+   authorization or 3. a national emergency created by attack upon the
+   United States, its territories or possessions, or its armed forces." It
+   requires that the president consult with Congress, where possible,
+   before introducing troops into hostilities and that the president
+   report to Congress within 48 hours after troops are introduced into
+   hostilities or in situations which risk imminent involvement in
+   hostilities. Unless congress has declared war or granted an extension,
+   the president must withdraw troops within 60 days. The president can
+   automatically get a 30 day extension by certifying to congress that
+   there is an unavoidable military necessity respecting the safety of the
+   armed forces.
+
+Appointment and removal of executive personnel[edit]
+
+   Article II, Section 2 grants the President the power, with the "advice
+   and consent of the Senate," to appoint "ambassadors,... judges of the
+   Supreme Court, and all other officers of the United States, whose
+   appointments are not otherwise provided for" in the Constitution. This
+   includes members of the cabinet, top-level agency officials, Article
+   III judges, US Attorneys, and the Chairman of the Joint Chiefs, among
+   many other positions. Under the modern interpretation of "advice and
+   consent," a presidential appointment must be confirmed by majority vote
+   in the Senate in order to take effect. Thus, in practice, the President
+   holds the power to nominate, while the Senate holds the power to
+   confirm.
+
+   Article II, Section 2 gives Congress the discretion to vest the
+   appointment of "inferior officers" in either the President alone, the
+   heads of departments, or the lower federal courts. Congress may not
+   appropriate this role for itself, and Senate confirmation is not
+   required for these positions.
+
+   The President has the authority to remove most high-level executive
+   officers at will. Congress, however, may place limitations on the
+   removal of certain executive appointees serving in positions where
+   independence from the presidency is considered desirable, such as
+   stipulating that removal may only be for cause.
+
+The special prosecutor[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The judicial branch[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+Legislative and executive immunity[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+   Legislative Immunity
+
+   Members of the Senate and of the House of Representatives have absolute
+   immunity for all statements made on the floor of Congress (Art. I Sec.
+   6).
+
+   Executive Immunity
+
+   As a general rule, sitting presidents enjoy immunity from civil suit
+   for damages arising from actions taken while in office. This rule was
+   significantly curtailed by the Supreme Court's decision in Clinton v.
+   Jones, which held that sitting Presidents could in fact be sued for
+   actions undertaken before taking office or for actions which are
+   unrelated to the presidential office.
+
+The due process clause (Fifth and Fourteenth Amendments)[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The equal protection clause (Fourteenth Amendment)[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The privileges and immunities clauses (Article IV and Fourteenth
+Amendment)[edit]
+
+   [icon] This section requires expansion. (January 2007)
+
+Article IV[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The Fourteenth Amendment[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The Takings Clause[edit]
+
+   Generally speaking, the Fifth Amendment prevents the government from
+   taking private property "for public use without just compensation."
+   This prohibition on takings is applicable to the 50 states through the
+   Fourteenth Amendment. A governmental taking includes not only physical
+   appropriations of property but also government action that
+   significantly reduces property or impairs its use.
+
+   A government "taking" must be distinguished from a government
+   "regulation." With a taking, the government must fairly compensate the
+   property owner when the property is taken for public use. If the
+   government regulates property, it does not have to pay any
+   compensation. A "taking" will be found if there is an actual
+   appropriation or destruction of a person's property or a permanent
+   physical invasion by the government or by authorization of law. The
+   courts may also find a taking where a governmental regulation denies a
+   landowner of all economic use unless principles of nuisance or property
+   law that existed when the owner acquired the land make the use
+   prohibitable.
+   [icon] This section requires expansion. (January 2007)
+
+The contracts clause[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The ex post facto clause[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+The prohibition on bills of attainder[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+Freedom of expression[edit]
+
+   [icon] This section requires expansion. (January 2007)
+   Main article: Freedom of speech in the United States
+
+Freedom of religion[edit]
+
+   Main article: Freedom of Religion in the United States
+   [icon] This section requires expansion. (January 2007)
+
+Federal enforcement of civil rights[edit]
+
+   Wiki letter w.svg This section is empty. You can help by adding to it.
+                     (January 2007)
+
+Sources[edit]
+
+    1. ^ Cornell University - Constitutional law
+    2. ^ Introduction to the Study of Constitutional Law
+    3. ^ Andrzej Rapczynski, From Sovereignty to Process: The
+       Jurisprudence of Federalism After Garcia, 1985 Sup. Ct. Rev. 380
+    4. ^ Id. at 391
+    5. ^ From INS v. Chadha, 462 U.S. 919 (1983).
+
+See also[edit]
+
+     * Lists of United States Supreme Court cases
+     * United States Supreme Court
+     * The Imperial Presidency
+     * United States Constitution
+
+   Website
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+
+                             * v
+     * t
+     * e
+
+   Law of the United States
+   Constitutional law
+                        * Federalism
+                        * Separation of powers
+                        * Civil rights
+
+                                                           Scales of justice
+     Courts of the
+   United States
+
+                      Federal courts
+                                      * Supreme (SCOTUS)
+                                      * Appeals
+                                      * District (list)
+                                      * Bankruptcy
+                                      * Claims
+                                      * International Trade
+                                      * Tax
+
+                       State courts
+                                      * State supreme
+
+       Education
+                        * Law school
+                        * Law School Admission Test
+                        * Admission to the bar
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_constitutional
+   _law&oldid=623183623"
+   Categories:
+     * United States constitutional law
+
+   Hidden categories:
+     * Articles that may contain original research from April 2014
+     * All articles that may contain original research
+     * All articles with unsourced statements
+     * Articles with unsourced statements from June 2010
+     * Articles to be expanded from January 2007
+     * All articles to be expanded
+     * Articles with empty sections from January 2007
+     * All articles with empty sections
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 28 August 2014 at 14:47.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

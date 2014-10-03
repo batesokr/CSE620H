@@ -1,0 +1,50 @@
+#include <vector>
+#include <iostream>
+
+long vector_test()
+{
+    std::vector<unsigned short> vec(10240);
+    const size_t MaxIndex = vec.size();
+    unsigned short* const otherHash = &vec[0];
+    for(size_t index = 0; (index < MaxIndex); index++)
+      {
+        otherHash[index] = (unsigned short) (index % 10);
+    }
+    long sum = 0;
+    for(size_t index = 0; (index < MaxIndex); index++) {
+        sum += otherHash[index];   
+    }
+    return sum;
+}
+
+long array_test()
+{
+    unsigned short *otherHash = new unsigned short[10240];
+    const size_t MaxIndex = 10240;
+    for(size_t index = 0;(index < MaxIndex);index++) {
+        otherHash[index] = (unsigned short) (index % 10);
+    }
+    long sum = 0;
+    for(size_t index = 0; (index < MaxIndex); index++) {
+        sum += otherHash[index];
+    }
+    delete [] otherHash;
+    return sum;
+}
+
+int
+main() {
+    std::vector<int> testVec;
+    testVec.reserve(0);
+    long total = 0;
+    for(int testCount = 0; (testCount < 10000); testCount++) {
+        total += vector_test();
+    }
+    std::cout << "Total from vector test = " << total << std::endl;
+    /* long total = 0;
+    for(int testCount = 0; (testCount < 10000); testCount++) {
+        total += array_test();
+    }
+    std::cout << "Total from array test = " << total << std::endl; */
+    return 0;
+}

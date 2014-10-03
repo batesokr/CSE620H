@@ -1,0 +1,2018 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Energy policy of the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Hoover dam
+
+   The energy policy of the United States is determined by federal, state
+   and local entities in the United States, which address issues of energy
+   production, distribution, and consumption, such as building codes and
+   gas mileage standards. Energy policy may include legislation,
+   international treaties, subsidies and incentives to investment,
+   guidelines for energy conservation, taxation and other public policy
+   techniques.
+
+   Several mandates have been proposed over the years, such as gasoline
+   will never exceed $1.00/gallon (Nixon), and the United States will
+   never again import as much oil as it did in 1977 (Carter),^[1] but no
+   comprehensive long-term energy policy has been proposed, although there
+   has been concern over this failure.^[2] Three Energy Policy Acts have
+   been passed, in 1992, 2005, and 2007,^[3] which include many provisions
+   for conservation, such as the Energy Star program, and energy
+   development, with grants and tax incentives for both renewable energy
+   and non-renewable energy.
+
+   There is also criticism that federal energy policies since the 1973 oil
+   crisis have been dominated by crisis-mentality thinking, promoting
+   expensive quick fixes and single-shot solutions that ignore market and
+   technology realities. Instead of providing stable rules that support
+   basic research while leaving plenty of scope for American
+   entrepreneurship and innovation, congresses and presidential
+   administrations have repeatedly backed policies which promise solutions
+   that are politically expedient, but whose prospects are doubtful,
+   without adequate consideration of the dollar costs, environmental
+   costs, or national security costs of their actions.^[4]^[5]
+
+   State-specific energy-efficiency incentive programs also play a
+   significant role in the overall energy policy of the United States.^[6]
+   The United States refused to endorse the Kyoto Protocol, preferring to
+   let the market drive CO[2] reductions to mitigate global warming, which
+   will require CO[2] emission taxation. The administration of Barack
+   Obama has proposed an aggressive energy policy reform, including the
+   need for a reduction of CO[2] emissions, with a cap and trade program,
+   which could help encourage more clean renewable, sustainable energy
+   development.^[7] Thanks to new technologies such as fracking, the
+   United States has in 2014 resumed its former role as the top oil
+   producer in the world.^[8]
+
+Contents
+
+     * 1 History
+     * 2 Energy independence?
+          + 2.1 Petroleum
+          + 2.2 Natural gas
+          + 2.3 Coal
+          + 2.4 Electricity
+     * 3 Energy consumption
+     * 4 Sources
+          + 4.1 Petroleum
+          + 4.2 Coal
+          + 4.3 Natural gas
+          + 4.4 Nuclear power
+          + 4.5 Renewable energy
+               o 4.5.1 Biofuels
+     * 5 Energy efficiency
+     * 6 Energy budget, initiatives and incentives
+          + 6.1 Budget
+          + 6.2 Public investment
+          + 6.3 Tax incentives
+          + 6.4 Loan guarantees
+          + 6.5 Renewable portfolio standard
+          + 6.6 Biofuel subsidies
+          + 6.7 Consumer subsidies
+          + 6.8 Other subsidies
+     * 7 Greenhouse gas emissions
+     * 8 Distribution
+     * 9 Statistics
+          + 9.1 Electricity
+               o 9.1.1 Electricity Production by Source^[149]
+               o 9.1.2 Electricity Consumption by Sector^[149]
+          + 9.2 Oil
+          + 9.3 Carbon Dioxide emissions
+     * 10 Public opinion
+     * 11 General legislative policy, legislation and plans
+     * 12 See also
+     * 13 References
+     * 14 Further reading
+     * 15 External links
+
+History[edit]
+
+   See also: History of the petroleum industry in the United States and
+   History of coal mining in the United States
+   Jonah Sperm Whale Oil, an old label
+
+   In the Colonial era the energy policy of the United States was for free
+   use of standing timber for heating and industry. In the 19th century,
+   new emphasis was placed on access to coal and its use for transport,
+   heating and industry. Whales were rendered into lamp oil.^[9] Later,
+   coal gas was fractionated for use as lighting and town gas. Natural gas
+   was first used in America for lighting in 1816.,^[10] it has grown in
+   importance for use in homes, industry, and power plants, but natural
+   gas production reached its U.S. peak in 1973,^[11] and the price has
+   risen significantly since then.
+
+   Coal provided the bulk of the US energy needs well into the 20th
+   century. Most urban homes had a coal bin and a coal fired furnace. Over
+   the years these were replaced with oil furnaces, not because of it
+   being cheaper but because it was easier and safer.^[12] Coal remains
+   far cheaper than oil. The biggest use of oil has come from the
+   development of the automobile.
+   US oil reserves increased until 1970, and then began to decline.
+
+   Oil became increasingly important to the United States, and, from the
+   early 1940s, the US government and oil industry entered into a mutually
+   beneficial collaboration to control global oil resources.^[13] By 1950,
+   oil consumption exceeded that of coal.^[14]^[15] The abundance of oil
+   in California, Texas, Oklahoma, as well as in Canada and Mexico,
+   coupled with its low cost, ease of transportation, high energy density,
+   and use in internal combustion engines, lead to its increasing use.
+   Following World War II, oil heating boilers took over from coal burners
+   along the Eastern Seaboard; diesel locomotives took over from
+   coal-fired steam engines under dieselisation; oil-fired electricity
+   plants were built; petroleum-burning buses replaced electric streetcars
+   in a GM driven conspiracy, for which they were found guilty, and
+   citizens bought gasoline powered cars. Interstate Highways helped make
+   cars the major means of personal transportation.^[16] As oil imports
+   increased, US foreign policy was inexorably drawn into Middle East
+   politics, supporting oil-producing Saudi Arabia and patrolling the sea
+   lanes of the Persian Gulf.^[17]
+   Grand Coulee Dam
+
+   Hydroelectricity was the basis of Nikola Tesla's introduction of the
+   U.S. electricity grid, starting at Niagara Falls, NY in 1883.^[18]
+   Electricity generated by major dams like the Jensen Dam, TVA Project,
+   Grand Coulee Dam and Hoover Dam still produce some of the lowest-priced
+   ($0.08/kWh), clean electricity in America. Rural electrification strung
+   power lines to many more areas.^[9]^[19]
+
+   Utilities have their rates set to earn a revenue stream that provides
+   them with a constant 10% – 13% rate of return based on operating costs.
+   Increases or decreases of the operating costs of electricity production
+   are passed directly through to the consumers.^[20]^[unreliable source?]
+
+   The federal government provided substantially larger subsidies to
+   fossil fuels than to renewables in the 2002–2008 period. Subsidies to
+   fossil fuels totaled approximately $72 billion over the study period,
+   representing a direct cost to taxpayers. Subsidies for renewable fuels,
+   totaled $29 billion over the same period.^[21]
+
+   In some cases, the U.S. has used its energy policy as a means to pursue
+   other international goals. Richard Heinberg, a professor from Santa
+   Rosa, California argues that a declassified CIA document shows that the
+   U.S. used oil prices as leverage against the economy of the Soviet
+   Union. Specifically, he argues that the U.S. intentionally worked with
+   Saudi Arabia during the Reagan administration to keep oil prices low,
+   thus decreasing the purchasing power of the Soviet Union's petroleum
+   export industry. When combined with other U.S. efforts to drain Soviet
+   resources, this was eventually a major cause in the dissolution of the
+   Soviet Union.^[22]
+
+Energy independence?[edit]
+
+   See also: 1973 oil crisis and U.S. Energy Independence
+   Trend of net energy imports into the United States (US Energy
+   Information Administration)
+   United States oil production peaked in 1970 and began to decline. In
+   2005 imports peaked at 60% of consumption.
+
+   The United States receives approximately 84% of its energy from fossil
+   fuels.^[23] This energy is used for transport, industry, and domestic
+   use. The remaining portion comes primarily from Hydro and Nuclear
+   stations.^[24] Americans constitute less than 5% of the world's
+   population, but consumes 26% of the world's energy^[25] to produce 26%
+   of the world's industrial output. They account for about 25% of the
+   world's petroleum consumption, while producing only 6% of the world's
+   annual petroleum supply.^[26]
+
+   Almost all of Canada’s energy exports go to the United States, making
+   it the largest foreign source of U.S. energy imports. Canada is the top
+   source of U.S. imports of oil, gas. and electricity.^[27]
+
+Petroleum[edit]
+
+   In 2012, the US produced 60% of the petroleum it used, the remainder
+   being imported. The largest sources of imported oil were Canada, Saudi
+   Arabia, Mexico, Venezuela, and Russia. Oil imports into the US peaked
+   in 2005, when imports supplied 60% of US consumption; they have
+   declined since, due both to increased domestic oil production, and
+   reduced consumption.^[28]
+
+   The 1973 oil embargo highlighted the vulnerability of the United States
+   to oil supply disruptions when it depends on imports from nations that
+   are either politically unstable or opposed to US interests. Perceived
+   remedies include measures to reduce demand for petroleum (such as
+   conservation or alternative fuels), increase the supply of petroleum
+   (by increasing domestic production, or maintaining petroleum reserves),
+   or enhance the reliability of foreign imports (through foreign
+   policy).^[29] The Federal Department of Energy was started to direct
+   the various approaches.^[30]
+
+   Conservation. A National Maximum Speed Limit of 55 mph (88 km/h) was
+   imposed to help reduce consumption, and Corporate Average Fuel Economy
+   (aka CAFE) standards were enacted to downsize automobile
+   categories.^[31] Year-round Daylight Saving Time was imposed, the
+   United States Strategic Petroleum Reserve was created and the National
+   Energy Act of 1978 was introduced. Alternate forms of energy and
+   diversified oil supply resulted.^[32]
+
+   Re-design of cities, telecommuting, mass transit, higher housing
+   density and walking could also reduce automobile fuel consumption.^[33]
+   Carpooling, flexcars, Smart cars, and shorter commutes could all reduce
+   fuel use.^[34]^[35]
+
+   Increasing supply. The United States Strategic Petroleum Reserve was
+   created to augment supply in case of a national emergency.^[32]
+
+   Alternative fuels. Two-thirds of U.S. oil consumption is in the
+   transportation sector.^[36] The US – an important export country for
+   food stocks – converted approximately 18% of its grain output to
+   ethanol in 2008. Across the US, 25% of the whole corn crop went to
+   ethanol in 2007.^[37] The percentage of corn going to biofuel is
+   expected to go up.^[38] In 2006, U.S. Senators introduced the BioFuels
+   Security Act.^[39]
+
+   The proposal has been made for a hydrogen economy, in which cars and
+   factories would be powered by hydrogen fuel cells. However, energy
+   would have to be used to produce the hydrogen, and hydrogen cars have
+   been called one of the least efficient, most expensive ways to reduce
+   greenhouse gases.^[40]^[41] Other plans include making society carbon
+   neutral and using renewable energy, including solar, wind, and methane
+   sources.
+
+   It has been suggested that automobiles could be powered by the
+   following forms of energy: 60% by grid electricity, 20% by biofuels,
+   and 20% by direct solar. Re-design of cities, telecommuting, mass
+   transit, higher housing density and walking could also reduce
+   automobile fuel consumption.^[33]
+
+   Enhance reliability of foreign sources One purpose of American foreign
+   policy, especially in the Middle East, is commonly seen as securing the
+   continued flow of petroleum exports from the region.
+
+   The proposed Keystone XL pipeline from Canada is widely perceived as a
+   way to enhance the security of US petroleum supply.^[42]
+
+Natural gas[edit]
+
+   The United States is a net importer of natural gas, most of it by
+   pipeline from Canada, with a smaller amount of LNG from other sources.
+   Net gas imports into the US peaked in 2007, when the country imported
+   16.4 percent of the natural gas it consumed, and was the world's
+   largest net importer of natural gas.^[43] By 2013, despite growing use
+   of natural gas in the US, net imports had fallen to 5.0 percent of
+   consumption.^[44]
+
+Coal[edit]
+
+   The United States mines more coal than it uses, and is an exporter of
+   coal.^[45]
+
+Electricity[edit]
+
+   The United States is a net importer of electricity from Canada, and a
+   net exporter to Mexico. Overall, in 2012 the US had net electricity
+   imports of 47 thousand gigawatt-hours, which was less than 1.2% of the
+   electrical power generated within the US.^[46]
+
+   Nuclear power in the United States depends largely on imported uranium.
+   In 2011, US uranium mining provided 8 percent of the uranium
+   concentrate loaded into nuclear reactors.^[47] The remainder was
+   imported. Principal sources of imported uranium were Russia, Canada,
+   Australia, Kazakhstan, and Namibia.^[48]
+
+Energy consumption[edit]
+
+   US energy consumption by primary consuming sector
+
+   Buildings and their construction consume more energy than
+   transportation or industrial applications, and because buildings are
+   responsible for the largest portion of greenhouse emissions, they have
+   the largest impact on man-made climate change. The AIA has proposed
+   making buildings carbon neutral by 2030, meaning that the construction
+   and operation of buildings will not require fossil fuel energy or emit
+   greenhouse gases, and having the U.S. reduce CO[2] emissions to 40 to
+   60% below 1990 levels by 2050.^[49]
+
+   Energy consumption can vary widely from state to state in the U.S. In
+   2012 for example, there was a large gap in electricity consumption by
+   state between the top three states - Louisiana (1254 kWh/mo.),
+   Tennessee (1217 kWh/mo.) and Mississippi (1193 kWh/mo.) - and the
+   bottom three states - Maine (531 kWh/mo.), Hawaii (544 kWh/mo.) and
+   Vermont (565 kWh/mo.).^[50]
+
+   When President Carter created the U.S. Department of Energy in 1977,
+   one of their first successful projects was the Weatherization
+   Assistance Program.^[51] During the last 30 years, this program has
+   provided services to more than 5.5 million low-income families. On
+   average, low-cost weatherization reduces heating bills by 31% and
+   overall energy bills by $358 per year at current prices. Increased
+   energy efficiency and weatherization spending has a high return on
+   investment.^[52]
+
+   The “Energy Independence and Security Act of 2007” has a significant
+   impact on U.S. Energy Policy. It includes funding to help improve
+   building codes, and will make it illegal to sell incandescent light
+   bulbs, as they are less efficient than fluorescents and LEDs.^[3]
+
+   Technologies such as passive solar building design and zero energy
+   buildings (ZEB) have demonstrated significant new-construction energy
+   bill reductions. The “Energy Independence and Security Act of 2007”
+   includes funding to increase the popularity of ZEBs, photovoltaics, and
+   even a new solar air conditioning program. Many energy-saving measures
+   can be added to existing buildings as retrofits, but others are only
+   cost-effective in new construction, which is why building code
+   improvements are being encouraged. The solution requires both improved
+   incentives for energy conservation, and new energy sources.
+
+   The Energy Independence and Security Act of 2007 increases average gas
+   mileage to 35 mpg by 2020. The current administration and 2007
+   legislation are encouraging the near-term use of plug-in electric cars,
+   and hydrogen cars by 2020. Toyota has suggested that their
+   third-generation 2009 Prius^[53] may cost much less than the current
+   model.^[54] Larger advanced-technology batteries have been suggested to
+   make it plug-in rechargeable. Photovoltaics are an option being
+   discussed to extend its daytime electric driving range. Improving solar
+   cell efficiency factors will continue to make this a progressively
+   more-cost-effective option.
+
+Sources[edit]
+
+   US energy consumption by primary source
+
+   About 86% of all types of energy used in the United States is derived
+   from fossil fuels. In 2007, the largest source of the country's energy
+   came from petroleum (40%), followed by natural gas (24%) and coal
+   (23%). The remaining 15% was supplied by nuclear power, hydroelectric
+   dams, and miscellaneous renewable sources.^[55] Amory Lovins says that
+   the sharp and steady cost reductions in solar power has been a
+   "stunning market success". He says that solar, wind and cheap natural
+   gas have significantly reduced the prospects of coal and nuclear power
+   plants around the world. John Rowe, chair of Exelon (the largest
+   nuclear power producer in the US), has said that the nuclear
+   renaissance is dead.^[56]
+
+Petroleum[edit]
+
+   U.S. Imports of Crude Oil and Petroleum Products (Thousand Barrels),
+   1981–2010.
+
+   The US consumes, in 2006, 20.8 million barrels (3,310,000 m^3) of
+   petroleum a day,^[57] of which 9 million barrels (1,400,000 m^3) is
+   motor gasoline. Transportation has the highest consumption rates,
+   accounting for approximately 68.9% of the oil used in the United States
+   in 2006,^[58] and 55% of oil use worldwide as documented in the Hirsch
+   report. With approximately 5% of the world's population, the United
+   States is responsible for approximately 25% of annual global oil
+   consumption and according to 2008 estimates has a per-person daily
+   consumption rate more than double that of the European Union.^[59]^[60]
+   Automobiles are the single largest consumer of oil,^[61] consuming 40%,
+   and are also the source of 20% of the nation's greenhouse gas
+   emissions.^[62]
+   An offshore oil platform
+
+   The USA has about 22 billion barrels (3.5×10^9 m^3) reserves while
+   consuming about 7.6 billion barrels (1.21×10^9 m^3) per year.^[57] This
+   has created pressure for additional drilling. European gasoline prices
+   were artificially raised to $4 per gallon through taxation long before
+   they reached $4/gallon in the U.S., leading to better fuel
+   economy.^[63]^[64]
+
+   Problems associated with oil supply include volatile oil prices,
+   increasing world and domestic petroleum product demand, dependence on
+   unstable imported foreign oil, falling domestic production (peak oil),
+   and declining infrastructure, like the Alaska pipeline and oil
+   refineries.
+
+   American dependence on imports grew from 10% in 1970 to 65% by the end
+   of 2004.^[65] The Energy Information Administration projects that U.S.
+   oil imports will remain flat and consumption will grow, so net imports
+   will decline to 54% of U.S. oil consumption by 2030.^[66]
+
+   The subject of continued exploration for offshore drilling in the
+   United States is a perennial debate, one which was heavily influenced
+   in 2010 by the BP Macondo oil spill in the Gulf of Mexico.
+
+Coal[edit]
+
+   Main article: Coal power in the United States
+   US coal regions
+
+   America is self-sufficient in coal.^[67] Indeed, it has several hundred
+   years' supply of it.^[68]^[69] The United States trend in coal use has
+   been rising from 1950 through 2007, when coal production and
+   consumption more than doubled.^[70] The population of the US has almost
+   doubled in this time period as well, while the per capita energy use
+   has been declining since 1978.^[71]^[72]
+
+   Most electricity (52% in 2000) in the country is generated from
+   coal-fired power plants:^[9] in 2006, more than 90% of coal consumed
+   was used to generate electricity. In 1950, about 19% percent of the
+   coal consumed was for electricity generation.^[73]
+   Coal in transit in Ohio
+
+   In terms of the production of energy from domestic sources, from 1885
+   through 1951, coal was the leading source of energy in the United
+   States. Crude oil and natural gas then vied for that role until 1982.
+   Coal regained the position of the top domestic resource that year and
+   again in 1984, and has retained it since.^[74] The US burns 1 billion
+   tons of coal every year.
+
+   Concern for climate change has led to a call for a moratorium on all
+   coal consumption, unless carbon capture is utilized. Coal is the
+   largest potential source of CO[2] emissions.^[75]^[76]^[77]
+
+   Integrated Gasification Combined Cycle (IGCC) is the cleanest currently
+   operational coal-fired electricity generation technology. FutureGen is
+   an experimental U.S. research project to investigate the possibility of
+   sequestering IGCC CO[2] emissions underground.
+
+Natural gas[edit]
+
+   See also: Shale gas in the United States
+
+   Natural gas production and consumption quadrupled between 1950 and 1970
+   to 20×10[DEL: ^ :DEL] ^12 cu ft (570 km^3), but declined steadily to
+   stabilize in 1986. Since then, the United States imports a rising share
+   of its gas. In 2008 consumption of natural gas stood at 23.2×10[DEL: ^
+   :DEL] ^12 cu ft (660 km^3), while domestic production was at
+   20.6×10[DEL: ^ :DEL] ^12 cu ft (580 km^3). Approximately 3.0×10[DEL: ^
+   :DEL] ^12 cu ft (85 km^3) were imported, mainly by pipelines from
+   Canada, which accounted for 90% of foreign supplies, while the
+   remainder is delivered by liquefied natural gas (LNG) tankers carrying
+   gas from five different countries.^[78]
+
+   The largest gas producing states in 2007 were Texas (30%), Wyoming
+   (10%), Oklahoma (9%) and New Mexico (8%), while 14% of the country's
+   production came from the federal offshore lands in the Gulf of
+   Mexico.^[78] Recent development in hydraulic fracturing and horizontal
+   drilling have increased interest for shale gas across the United States
+   in recent years. Leading fields are the Barnett Shale in Texas and the
+   Antrim Shale in Michigan. Natural gas reserves in the United States
+   were 35% higher in 2008 than two years earlier largely due to shale gas
+   discoveries.^[79]
+
+Nuclear power[edit]
+
+   Main article: Nuclear power in the United States
+
+   The United States is the world's largest supplier of commercial nuclear
+   power. As of 2010, the demand for nuclear power is softening in
+   America, and some companies have withdrawn their applications for
+   licenses to build.^[80]^[81] Ground has been broken on two new nuclear
+   plants with a total of four reactors. The only reactor currently under
+   construction in America, at Watts Bar, Tennessee, was begun in 1973 and
+   may be completed in 2012. Of the 104 reactors now operating in the
+   U.S., ground was broken on all of them in 1974 or earlier.^[80]^[81] In
+   September 2010, Matthew Wald from the New York Times reported that "the
+   nuclear renaissance is looking small and slow at the moment".^[82]
+
+   In August 2011, the head of America's largest nuclear utility said that
+   this was not the time to build new nuclear plants, not because of
+   political opposition or the threat of cost overruns, but because of the
+   low price of natural gas. John Rowe, head of Exelon, said “Shale [gas]
+   is good for the country, bad for new nuclear development".^[83]
+
+   Following the 2011 Japanese nuclear accidents, the U.S. Nuclear
+   Regulatory Commission has announced it will launch a comprehensive
+   safety review of the 104 nuclear power reactors across the United
+   States, at the request of President Obama. The Obama administration
+   "continues to support the expansion of nuclear power in the United
+   States, despite the crisis in Japan".^[84] Following the Japanese
+   nuclear emergency, public support for building nuclear power plants in
+   the U.S. dropped to 43%, slightly lower than it was immediately after
+   the Three Mile Island accident in 1979, according to a CBS News
+   poll.^[85]
+
+   In his 2012 state-of-the-union address, Barack Obama said that America
+   needs “an all-out, all-of-the-above strategy that develops every
+   available source of American energy.” President Obama boasted about a
+   Michigan wind turbine factory, America's healthy supplies of natural
+   gas and widespread oil exploration. He urged Congress to pass tax
+   incentives for energy efficiency, clean energy, and an end to
+   oil-company subsidies, but made no mention of nuclear power.^[83]
+
+   In 2013, four aging reactors in the USA were permanently closed before
+   their licenses expired because of high maintenance and repair costs at
+   a time when natural gas prices have fallen: San Onofre 2 and 3 in
+   California, Crystal River 3 in Florida, and Kewaunee in
+   Wisconsin.^[86]^[87] The state of Vermont is trying to close Vermont
+   Yankee, in Vernon. New York State is seeking to close Indian Point in
+   Buchanan, 30 miles from New York City.^[87] Loss of nuclear generating
+   capacity is expected to be offset by the five new nuclear reactors
+   currently under construction, with a proposed combined capacity of more
+   than 5,000 MW.^[88]
+
+Renewable energy[edit]
+
+   Main article: Renewable energy in the United States
+   Part of the 354 MW SEGS solar complex in northern San Bernardino
+   County, California.
+   The Shepherds Flat Wind Farm is an 845 megawatt (MW) wind farm in the
+   U.S. state of Oregon.
+   The Copper Mountain Solar Facility is a 150 MW solar photovoltaic power
+   plant in Boulder City, Nevada.
+
+   Renewable energy in the United States accounted for 13.2 percent of the
+   domestically produced electricity in 2012.^[89] Renewable energy
+   reached a major milestone in the first quarter of 2011, when it
+   contributed 11.7 percent of total U.S. energy production (2.245
+   quadrillion BTUs of energy), surpassing energy production from nuclear
+   power (2.125 quadrillion BTUs).^[90] 2011 was the first year since 1997
+   that renewables exceeded nuclear in US total energy production.^[91]
+
+   Hydroelectric power is currently the largest producer of renewable
+   power in the U.S. It produced around 6.2% of the nation's total
+   electricity in 2010 which was 60.2% of the total renewable power in the
+   U.S.^[26] The United States is the fourth largest producer of
+   hydroelectricity in the world after China, Canada and Brazil. The Grand
+   Coulee Dam is the 5th largest hydroelectric power station in the world.
+
+   U.S. wind power installed capacity now exceeds 60,000 MW and supplies
+   3% of the nation's electricity.^[92]^[93] Texas is firmly established
+   as the leader in wind power development, followed by Iowa and
+   California.^[94] Since the U.S. pioneered the technology with Solar
+   One, several solar thermal power stations have also been built. The
+   largest of these solar thermal power stations is the SEGS group of
+   plants in the Mojave Desert with a total generating capacity of 354 MW,
+   making the system the largest solar plant of any kind in the
+   world.^[95] The largest photovoltaic power plant in North America is
+   the over 200 MW Agua Caliente Solar Project in Yuma County, Arizona.
+   The Geysers in Northern California is the largest complex of geothermal
+   energy production in the world.
+
+   With 2,957 MW of installed geothermal capacity, the United States
+   remains the world leader with 30% of the online capacity total. As of
+   early 2009, 120 new projects are underway.^[96] When developed, these
+   projects could potentially supply up to 3,979 MW of power, meeting the
+   needs of about 4 million homes. At this rate of development, geothermal
+   production in the United States could exceed 15,000 MW by 2025.^[97]
+
+   The development of renewable energy and energy efficiency marks "a new
+   era of energy exploration" in the United States, according to President
+   Barack Obama.^[98] In a joint address to the Congress on February 24,
+   2009, President Obama called for doubling renewable energy within the
+   next three years.^[99] In his 2012 State of the Union address,
+   President Barack Obama restated his commitment to renewable energy and
+   mentioned the long-standing Interior Department commitment to permit
+   10,000 MW of renewable energy projects on public land in 2012.^[100]
+
+   President Barack Obama's American Recovery and Reinvestment Act of 2009
+   included more than $70 billion in direct spending and tax credits for
+   clean energy and associated transportation programs. This
+   policy-stimulus combination represents the largest federal commitment
+   in U.S. history for renewable energy, advanced transportation, and
+   energy conservation initiatives. As a result of these new initiatives,
+   many more utilities are expected to strengthen their clean energy
+   programs.^[101] In February 2011, the U.S. Department of Energy
+   launched its SunShot Initiative, a collaborative national effort to cut
+   the total cost of photovoltaic solar energy systems by 75% by
+   2020.^[102] Reaching this goal would make unsubsidized solar energy
+   cost-competitive with other forms of electricity.^[103]
+
+Biofuels[edit]
+
+   Main articles: Biofuel in the United States, Food vs. fuel and
+   Sustainable biofuel
+
+   In recent years there has been an increased interest in biofuels –
+   bioethanol and biodiesel – derived from common agricultural staples or
+   waste. Increased domestic production of these fuels could reduce US
+   expenditure on foreign oil and improve energy security if methods of
+   producing and transporting the fuels do not involve heavy inputs of
+   fossil fuels, as current agriculture does.
+
+   Most cars on the road today in the U.S. can run on blends of up to 10%
+   ethanol, and motor vehicle manufacturers already produce vehicles
+   designed to run on much higher ethanol blends. Portland, Oregon,
+   recently became the first city in the United States to require all
+   gasoline sold within city limits to contain at least 10% ethanol.^[104]
+   Ford, Daimler AG, and GM are among the automobile companies that sell
+   “flexible-fuel” cars, trucks, and minivans that can use gasoline and
+   ethanol blends ranging from pure gasoline up to 85% ethanol (E85). By
+   mid-2006, there were approximately 6 million E85-compatible vehicles on
+   U.S. roads.^[105]
+
+   The Renewable Fuels Association counts 113 U.S. ethanol distilleries in
+   operation and another 78 under construction, with capacity to produce
+   11.8 billion gallons within the next few years. The Energy Information
+   Administration (EIA) predicts in its Annual Energy Outlook 2007 that
+   ethanol consumption will reach 11.2 billion US gallons (42,000,000 m^3)
+   by 2012, outstripping the 7.5 billion US gallons (28,000,000 m^3)
+   required in the Renewable Fuel Standard that was enacted as part of the
+   Energy Policy Act of 2005.^[106]
+
+   Expanding ethanol fuel (and biodiesel) industries provide jobs in plant
+   construction, operations, and maintenance, mostly in rural communities.
+   According to the Renewable Fuels Association, the ethanol industry
+   created almost 154,000 U.S. jobs in 2005 alone, boosting household
+   income by $5.7 billion. It also contributed about $3.5 billion in tax
+   revenues at the local, state, and federal levels.^[105]
+
+   In recent years, there has been criticism about the production of
+   ethanol fuel from food crops.^[107]^[108]^[109] However, second
+   generation biofuels are now being produced from a much broader range of
+   feedstocks including the cellulose in dedicated energy crops (perennial
+   grasses such as switchgrass and Miscanthus giganteus), forestry
+   materials, the co-products from food production, and domestic vegetable
+   waste.^[110] Produced responsibly they are sustainable energy sources
+   that need not divert any land from growing food, nor damage the
+   environment.^[111]^[112]
+
+Energy efficiency[edit]
+
+   Main article: Efficient energy use
+   A spiral-type integrated compact fluorescent lamp, which has been
+   popular among North American consumers since its introduction in the
+   mid 1990s.^[113]
+   The Tesla Roadster, first delivered in 2008, uses Li-Ion batteries to
+   achieve 220 miles per charge, while also capable of going 0-60 in under
+   4 seconds.
+
+   There are many different types of energy efficiency innovations and
+   these include: efficient water heaters; improved refrigerators and
+   freezers; advanced building control technologies and advances in
+   heating, ventilation, and cooling (HVAC); smart windows that adapt to
+   maintain a comfortable interior environment; a steady stream of new
+   building codes to reduce needless energy use, and compact fluorescent
+   lights. Improvements in buildings alone, where over sixty-percent of
+   all energy is used, save tens of billions of dollars per year.^[114]
+
+   Several states, including California, New York, Rhode Island, and
+   Wisconsin, have consistently deployed energy efficiency innovations.
+   Their state planners officials, citizens, and industry leaders, have
+   found these to be very cost-effective, often providing greater service
+   at lower personal and social cost than simply adding more fossil-fuel
+   based supply technologies. This is the case for several reasons. Energy
+   efficient technologies often represent upgrades in service through
+   superior performance (e.g. higher quality lighting, heating and cooling
+   with greater controls, or improved reliability of service through
+   greater ability of utilities to respond to time of peak demand). So
+   these innovations can provide a better, less expensive, service.^[114]
+
+   A wide range of energy efficient technologies have ancillary benefits
+   of improved quality of life, such as advanced windows that not only
+   save on heating and cooling expenses, but also make the work-place or
+   home more comfortable. Another example is more efficient vehicles,
+   which not only save immediately on fuel purchases, but also emit less
+   pollutants, improving health and saving on medical costs to the
+   individual and to society.^[114]
+
+   In 1994, Amory Lovins developed the design concept of the Hypercar.
+   This vehicle would have ultra-light construction with an aerodynamic
+   body using advanced composite materials, low-drag design, and hybrid
+   drive.^[115] Designers of the Hypercar claim that it would achieve a
+   three- to fivefold improvement in fuel economy, equal or better
+   performance, safety, amenity, and affordability, compared with today's
+   cars.^[116] Lovins says the commercialisation of the Hypercar began in
+   2014, with the production of the all-carbon electric BMW i-3 family and
+   the 313 miles per gallon Volkswagen XL1.^[117]
+
+Energy budget, initiatives and incentives[edit]
+
+   Main article: List of United States Energy Acts
+
+   An incentive resulting from US energy policy is a factor that provides
+   motive for a specific course of action regarding the use of energy. In
+   the U.S. most energy policy incentives take the form of financial
+   incentives. Examples of these include tax breaks, tax reductions, tax
+   exemptions, rebates, loans and specific funding. Throughout US history
+   there have been many incentives created through U.S. energy policy.
+   Most recently the Energy Policy Act of 2005, Energy Independence and
+   Security Act of 2007, and Emergency Economic Stabilization Act of 2008,
+   each promote various energy efficiency improvements and encourage
+   development of specific energy sources. U.S. Energy policy incentives
+   can serve as a strategic manner to develop certain industries that plan
+   to reduce America’s dependence on foreign petroleum products and create
+   jobs and industries that boost the national economy. The ability to do
+   this depends upon which industries and products the government chooses
+   to subsidize.
+
+Budget[edit]
+
+   Further information: USDOE
+
+   The 2012 budget that President Obama submitted to Congress calls for a
+   70 percent increase over the 2011 allocation for federal research and
+   development activities related to renewable energy. The Office of
+   Science in the Department of Energy would receive $2.0 billion for
+   basic energy sciences to discover new ways to produce, store and use
+   energy. Included in that amount are allocations of $457 million for
+   solar energy; $341 million for biofuels and biomass R&D, including a
+   new reverse auction to promote advanced biofuels; and more than
+   doubling investment in geothermal energy to $102 million. The budget
+   includes funding to accelerate the deployment of new models of energy
+   research pioneered in the last several years, including $550 million
+   for the Advanced Research Projects Agency–Energy, a program that
+   supports breakthrough ideas.^[118]
+
+Public investment[edit]
+
+   Public investment can enable the development of infrastructure projects
+   through the use of public funds, grants, loans or other financing
+   options. These funds provide a means for allocating the capital
+   necessary for the development of renewable energy technologies.
+
+Tax incentives[edit]
+
+   Federal tax incentives can be designed to accelerate market adoption,
+   create jobs, encourage investment in a public good (reduced pollution)
+   or encourage investment in renewable technology research and
+   development. The Production Tax Credit (PTC) reduces the federal income
+   taxes of qualified tax-paying owners of renewable energy projects based
+   on the electrical output (measured in kWh) of grid-connected renewable
+   energy facilities. The Investment Tax Credit (ITC) reduces federal
+   income taxes for qualified tax-paying owners based on dollars of
+   capital investment in renewable energy projects. The Advanced Energy
+   Manufacturing Tax Credit (MTC) awards tax credits to new, expanded, or
+   re-equipped domestic manufacturing facilities that support clean energy
+   development.^[119]
+
+Loan guarantees[edit]
+
+   The Department of Energy’s Loan Guarantee Program, established by the
+   Energy Policy Act of 2005 and enhanced by the American Recovery and
+   Reinvestment Act of 2009, attempts to pave the way for investor support
+   of clean energy projects by providing a guarantee of financing up to
+   80% of the project cost. The program is scheduled to end on September
+   30, 2011, unless Congress passes further legislation.^[120]
+
+Renewable portfolio standard[edit]
+
+   A Renewable Portfolio Standard (RPS) is a mandate that requires
+   electricity providers to supply to their customers a minimum amount of
+   power from renewable sources, usually as a percentage of total energy
+   use. As of June 2010, such standards have been enacted in 31 U.S.
+   states and the District of Columbia.^[121] For example, Governor Jerry
+   Brown signed legislation requiring California's utilities to get 33
+   percent of their electricity from renewable energy sources by the end
+   of 2020.^[122] Congress has considered a national RPS since 1997: the
+   Senate has passed legislation three times, and the House once.^[123] As
+   of April 2011, both houses have not acted in unison to pass
+   legislation.
+
+Biofuel subsidies[edit]
+
+   See also: Food vs. fuel and Energy subsidies
+
+   In the United States biofuel subsidies have been justified on the
+   following grounds: energy independence, reduction in greenhouse gas
+   emissions, improvements in rural development related to biofuel plants
+   and farm income support. Several economists from Iowa State University
+   found “ there is no evidence to disprove that the primary objective of
+   biofuel policy is to support farm income.”^[124]
+
+Consumer subsidies[edit]
+
+   Consumers who purchase hybrid vehicles are eligible for a tax credit
+   that depends upon the type of vehicle and the difference in fuel
+   economy in comparison to vehicles of similar weights. These credits
+   range from several hundred dollars to a few thousand dollars.^[125]
+   Homeowners can receive a tax credit up to $500 for energy efficient
+   products like insulation, windows, doors, as well as heating and
+   cooling equipment. Homeowners who install solar electric systems can
+   receive a 30% tax credit and homeowners who install small wind systems
+   can receive a tax credit up to $4000. Geothermal heat pumps also
+   qualify for tax credits up to $2,000.^[126]
+
+Other subsidies[edit]
+
+   Recent energy policy incentives have provided, among other things,
+   billions of dollars in tax reductions for nuclear power, fossil fuel
+   production, clean coal technologies,renewable electricity production,
+   and conservation and efficiency improvements.^[127]
+
+Greenhouse gas emissions[edit]
+
+   See also: Greenhouse gas emissions by the United States and Kyoto
+   Protocol
+   CO[2] emission per capita per year per country
+
+   Although exceeded by China,^[128] the United States has historically
+   been the world's largest producer of greenhouse gases.^[129] Some
+   states, however, are much more prolific polluters than others. The
+   state of Texas produces approximately 1.5 trillion pounds of carbon
+   dioxide yearly, more than every nation in the world except five (and
+   the United States): China, Russia, Japan, India, and Germany.^[130]
+
+   Despite signing the Kyoto Protocol, the United States has neither
+   ratified nor withdrawn from it. In the absence of ratification it
+   remains non-binding on the US.
+
+   The Obama Administration has promised to take specific action towards
+   mitigation of climate change. In addition, at state and local levels,
+   there are currently a number of initiatives. As of March 11, 2007,
+   mayors of 418 US cities in 50 states have endorsed the Kyoto protocol,
+   after Mayor Greg Nickels of Seattle started a nationwide effort to get
+   cities to agree to the protocol.^[131] As of January 18, 2007, eight
+   Northeastern US states are involved in the Regional Greenhouse Gas
+   Initiative (RGGI),^[132] a state level emissions capping and trading
+   program.
+
+   On August 31, 2006, the California Legislature reached an agreement
+   with Governor Arnold Schwarzenegger to reduce the state's
+   greenhouse-gas emissions, which rank at 12th-largest carbon emitter in
+   the world,^[133] by 25 percent by the year 2020. This resulted in the
+   Global Warming Solutions Act which effectively puts California in line
+   with the Kyoto limitations, but at a date later than the 2008–2012
+   Kyoto commitment period.
+
+   In the non-binding 'Washington Declaration' agreed on February 16,
+   2007, the United States, together with Presidents or Prime Ministers
+   from Canada, France, Germany, Italy, Japan, Russia, United Kingdom,
+   Brazil, China, India, Mexico and South Africa agreed in principle on
+   the outline of a successor to the Kyoto Protocol. They envisage a
+   global cap-and-trade system that would apply to both industrialized
+   nations and developing countries, and hoped that this would be in place
+   by 2009.^[134]^[135]
+
+   Chemistry Professor Nathan Lewis at Caltech estimates that to keep
+   atmospheric carbon levels below 750 ppm, a level at which serious
+   climate change would occur, by the year 2050, the United States would
+   need to generate twice as much energy from renewable sources as is
+   generated by all power sources combined today.^[136] However, current
+   research indicates that even carbon dioxide concentrations in excess of
+   450 ppm would result in irreversible global climate change.^[137]
+
+   The book, Carbon-Free and Nuclear-Free, A Roadmap for U.S. Energy
+   Policy,^[138] by Arjun Makhijani, argues that in order to meet goals of
+   limiting global warming to 2 °C, the world will need to reduce CO[2]
+   emissions by 85% and the U.S. will need to reduce emissions by 95%,
+   which can be extended to within a few percent plus or minus of carbon
+   free with little additional change.^[139] The book calls for phasing
+   out use of oil, natural gas, and coal which does not use carbon
+   sequestration by the year 2050.^[140] Effective delivered energy is
+   projected to increase from about 75 Quadrillion Btu in 2005 to about
+   125 Quadrillion in 2050,^[141] but due to efficiency increases, the
+   actual energy input is projected to increase from about 99 Quadrillion
+   Btu in 2005 to about 103 Quadrillion in 2010 and then to decrease to
+   about 77 Quadrillion in 2050.^[142] Petroleum use is projected to
+   increase until 2010 and then linearly decrease to zero by 2050. The
+   roadmap calls for nuclear power to decrease to zero at the same time,
+   with the reduction also beginning in 2010.^[143]
+
+   In his book Hell and High Water, author Joseph Romm calls for the rapid
+   deployment of existing technologies to decrease carbon emissions. In a
+   follow-up article in Nature.com in June 2008, he argues that "If we are
+   to have confidence in our ability to stabilize carbon dioxide levels
+   below 450 p.p.m. emissions must average less than [5 billion metric
+   tons of carbon] per year over the century. This means accelerating the
+   deployment of the 11 wedges so they begin to take effect in 2015 and
+   are completely operational in much less time than originally modelled
+   by Socolow and Pacala."^[144]
+
+   In 2012, the National Renewable Energy Laboratory assessed the
+   technical potential for renewable electricity for each of the 50
+   states, and concluded that each state has technical potential for
+   renewable electricity, mostly from solar power and wind power, greater
+   than its current electricity consumption. The report cautions: "Note
+   that as a technical potential, rather than economic or market
+   potential, these estimates do not consider availability of transmission
+   infrastructure, costs, reliability or time-of-dispatch, current or
+   future electricity loads, or relevant policies."^[145]
+
+Distribution[edit]
+
+   Main articles: Electricity distribution and V2G
+
+   Long distance electric power transmission results in energy loss,
+   through electrical resistance, heat generation, electromagnetic
+   induction and less-than-perfect electrical insulation.^[146] In 1995,
+   these losses were estimated at 7.2%.^[147] Energy generation and
+   distribution can be more efficient the closer it is to the point of
+   use, if conducted in a high-efficiency generator, such as a CHP. In the
+   generation and delivery of electrical power, system losses along the
+   delivery chain are pronounced. Of five units of energy going into most
+   large power plants, only about one unit of energy is delivered to the
+   consumer in a usable form.^[148] A similar situation exists in gas
+   transport, where compressor stations along pipelines use energy to keep
+   the gas moving, or where gas liquefaction/cooling/regasification in the
+   liquiefied natural gas supply chain uses a substantial amount of
+   energy, even though the scale of the loss is not as pronounced as it is
+   in electricity.
+
+   Distributed generation is a means of reducing total and transmission
+   losses.
+
+Statistics[edit]
+
+Electricity[edit]
+
+   US Energy Use: Quad BTU. (1 Quad/s=1 trillion MW; 1 Quad/year = 33.5
+   Gigawatts)
+
+Electricity Production by Source^[149][edit]
+
+        Source       2012 Production (TWh) Percentage of Total
+   Coal              1,709                 41.5%
+   Petroleum         30                    0.7%
+   Natural Gas       1,066                 25.8%
+   Nuclear           813                   19.7%
+   Renewable Sources 486                   11.8%
+   Other             21                    0.5%
+   Total             4,120                 100%
+
+Electricity Consumption by Sector^[149][edit]
+
+       Sector     2012 Consumption (TWh) Percentage of Total
+   Residential    1,413                  36.5%
+   Commercial     1,323                  34.2%
+   Industrial     986                    25.5%
+   Transportation 7                      0.2%
+   Direct Use     138                    3.6%
+   Total          3,867                  100%
+
+Oil[edit]
+
+     * production: 9.688-million-barrels-per-day (1,540,300 m^3/d) (2010
+       est.)
+     * consumption: 19.15-million-barrels-per-day (3,045,000 m^3/d) (2010
+       est.)^[150]
+
+   Heat Engines are only 20% efficient at converting raw energy (oil) into
+   work.^[151]^[152] Electric transmission (production to consumer) loses
+   over 23% of the energy due to generation, transmission, and
+   distribution^[153]
+
+Carbon Dioxide emissions[edit]
+
+   Atmospheric Carbon Dioxide versus Time
+
+   The EPA has the authority to regulate greenhouse gas emissions, under
+   the Clean Air Act, and is one of the agency's seven priorities.^[154]
+   US carbon dioxide emissions (millions of metric tons of CO[2])^[155]
+   Year CO[2]   Change from 1990
+   1990 5,100.5 0.00%
+   2005 6,107.6 19.75%
+   2006 6,019.0 18.01%
+   2007 6,118.6 19.96%
+   2008 5,924.3 16.15%
+   2009 5,500.5 7.84%
+   2010 5,706.4 11.88%
+
+Public opinion[edit]
+
+   The US results from the 1st Annual World Environment Review, published
+   on June 5, 2007 revealed that:^[156]
+     * 74% are concerned about climate change.
+     * 80% think their Government should do more to tackle global warming.
+     * 84% think that the US is too dependent on fossil fuels.
+     * 72% think that the US is too reliant on foreign oil.
+     * 79% think that the US Government should do more to increase the
+       number of hybrid cars that are sold.
+     * 67% think that the US Government should allow more off shore
+       drilling.
+
+   The public is also quite clear on its priorities when it comes to
+   promoting energy conservation versus increasing the supply of oil,
+   coal, and natural gas. When asked which of these should be the higher
+   priority, the public chooses energy conservation by a very wide 68
+   percent-to-21 percent margin.^[157] The public also predominantly
+   believes that the need to cut down on energy consumption and protect
+   the environment means increased energy efficiency should be mandated
+   for certain products. Ninety-two percent of Americans now support such
+   requirements.^[158]
+
+   However, when energy policy and climate change are compared to other
+   issues, they are rated extremely low in terms of importance. A Pew
+   Research Center poll on public priorities for 2011 found that global
+   warming ranked last of twenty-two possible policy priorities. The same
+   survey in 2012 found similar results.^[159]
+
+   The Gallup organization found that from 2009 through the latest poll in
+   March 2013, public opinion has been nearly evenly split on whether to
+   give priority to the environment or to developing energy sources such
+   as oil, gas, and coal. This represents a shift from poll results from
+   2001 through 2008, when clear pluralities of Americans wanted
+   environmental concerns to take priority over developing fossil fuel
+   resources. However, public opinion still heavily favors an emphasis on
+   wind and solar energy (59 percent) over fossil fuels (31
+   percent).^[160]
+
+General legislative policy, legislation and plans[edit]
+
+   The current head of the U.S. Department of Energy under the Obama
+   administration is Dr. Ernest Moniz, who succeeded Dr. Steven Chu in May
+   2013.
+
+   As of September 2012: "The mission of the Energy Department is to
+   ensure America’s security and prosperity by addressing its energy,
+   environmental and nuclear challenges through transformative science and
+   technology solutions." – DOE website^[161]
+     * Catalyze the timely, material, and efficient transformation of the
+       nation’s energy system and secure U.S. leadership in clean energy
+       technologies.
+     * Maintain a vibrant U.S. effort in science and engineering as a
+       cornerstone of our economic prosperity with clear leadership in
+       strategic areas.
+     * Enhance nuclear security through defense, nonproliferation, and
+       environmental efforts.
+     * Establish an operational and adaptable framework that combines the
+       best wisdom of all Department stakeholders to maximize mission
+       success.
+
+   In December 2009, the United States Patent and Trademark Office
+   announced the Green Patent Pilot Program.^[162] The program was
+   initiated to accelerate the examination of patent applications relating
+   to certain green technologies, including the energy sector.^[163] The
+   pilot program was initially designed to accommodate 3,000 applications
+   related to certain green technology categories, and the program was
+   originally set to expire on December 8, 2010. In May, 2010, the USPTO
+   announced that it would expand the pilot program.^[164]
+
+See also[edit]
+
+   Portal icon Politics portal
+   Portal icon Energy portal
+   Portal icon United States portal
+     * United States Hydrogen Policy
+     * 2000s energy crisis
+     * Carbon tax
+     * Carter Doctrine
+     * Climate change policy of the United States
+     * Economics of new nuclear power plants
+     * Electricity sector of the United States
+     * Emissions trading
+     * Energy and American Society: Thirteen Myths
+     * Energy in the United States
+     * Energy law
+     * Energy policy of the Obama administration
+     * Energy policy of the Soviet Union
+     * List of U.S. states by electricity production from renewable
+       sources
+     * United States House Select Committee on Energy Independence and
+       Global Warming
+     * United States Secretary of Energy
+     * World energy consumption
+
+References[edit]
+
+    1. ^ Jimmy Carter. "Crisis of Confidence Speech 1979".
+       Cartercenter.org. Retrieved 2012-03-30.
+    2. ^ "CRS Report for Congress". Digital.library.unt.edu. Retrieved
+       2012-03-30.
+    3. ^ ^a ^b "Energy Independence and Security Act of 2007 (Enrolled as
+       Agreed to or Passed by Both House and Senate)". Retrieved
+       2008-01-18.
+    4. ^ Grossman, Peter (2013). U.S. Energy Policy and the Pursuit of
+       Failure. Cambridge University Press. p. 416. ISBN 978-1107005174.
+    5. ^ Hamilton, Michael S. 2013. Energy Policy Analysis: A Conceptual
+       Framework. Armonk, NY: M.E. Sharpe, Inc.
+    6. ^ "Database of State Incentives for Renewables & Efficiency".
+       Dsireusa.org. Retrieved 2012-03-30.
+    7. ^ Daly, Herman E. (2006). "Sustainable Development – Definitions,
+       Principles, Policies". The Future of Sustainability. Springer.
+       p. 257. ISBN 978-1-4020-4734-3.
+    8. ^ Smith, Grant (4 July 2014). "U.S. is now world's biggest oil
+       producer". www.chicagotribune.com (Bloomberg News). Retrieved 4
+       July 2014.
+    9. ^ ^a ^b ^c "Energy in the United States: 1635–2000 – Electricity".
+       United States Department of Energy. Retrieved 2007-07-04.
+   10. ^ http://lsa.colorado.edu/summarystreet/texts/naturalgas.htm
+   11. ^ [1]^[dead link]
+   12. ^ Vivian, John. "Wood and Coal Stove Advisory".
+       Motherearthnews.com. Retrieved 2012-03-30.
+   13. ^ Painter, David S. (1986). Oil and the American Century: The
+       Political Economy of US Foreign Oil Policy, 1941–1954.
+       Baltimore, MD: Johns Hopkins University Press.
+       ISBN 978-0-801-82693-1.
+   14. ^ "Petroleum Timeline". United States Department of Energy.
+       Retrieved 2007-07-04.
+   15. ^ "Energy in the United States: 1635–2000 – Coal". United States
+       Department of Energy. Retrieved 2007-07-04.
+   16. ^ "Energy in the United States: 1635–2000 – Total Energy". United
+       States Department of Energy. Retrieved 2007-07-04.
+   17. ^ "Energy in the United States: 1635–2000 – Petroleum". United
+       States Department of Energy. Retrieved 2007-07-04.
+   18. ^ "Niagara Falls History of Power". Niagarafrontier.com. Retrieved
+       2012-03-30.
+   19. ^ "Energy in the United States: 1635–2000 – Renewable". United
+       States Department of Energy. Retrieved 2007-07-04.
+   20. ^ "Energy – It Just Doesn't Add Up | Renewable Energy News
+       Article". Renewableenergyworld.com. Retrieved 2012-03-30.
+   21. ^ Estimating U.S. Government Subsidies to Energy Sources:
+       2002–2008, Environmental Law Institute
+   22. ^ Erwin, Jerry (2006-10-09). "The Challenges Facing the
+       Intelligence Community Regarding Global Oil Depletion". Portland
+       Peak Oil. Retrieved 2009-04-29. ^[dead link]
+   23. ^ "Greenhouse Gases, Climate Change, and Energy". United States
+       Department of Energy. 2004-04-02. Retrieved 2007-07-04.
+   24. ^ "ENERGY INFOCARD – United States". United States Department of
+       Energy. October 2006. Retrieved 2007-07-04. ^[dead link]
+   25. ^ "SEI: Energy Consumption". Solarenergy.org. Retrieved
+       2012-03-30.
+   26. ^ ^a ^b "EIA – Petroleum Basic Data". Eia.doe.gov. Retrieved
+       2012-03-30.
+   27. ^ See Energy Information Administration, "Canada" (2009 report)
+   28. ^ How dependent are we on foreign oil? 10 May 2013.
+   29. ^ Jeffrey P. Bialos, "Oil imports and natiional security", Univ. of
+       Pennsylvania Journal of International Business Law, 1989, v.11 n.2
+       p.235-300.
+   30. ^ "25th Anniversary of the 1973 Oil Embargo". United States
+       Department of Energy. 1998-03-09. Retrieved 2007-07-04.
+   31. ^ "Performance Profiles of Major Energy Producers 1993" (PDF).
+       United States Department of Energy. Retrieved 2007-07-04. "See page
+       48."
+   32. ^ ^a ^b "Petroleum Chronology of events 1970–2000". United States
+       Department of Energy. May 2002. Retrieved 2007-07-04.
+   33. ^ ^a ^b Higher gasoline price seen trimming down Americans,
+       Reuters, 11 September 07 accessed 2 October 2007
+   34. ^ Carpool^[dead link]
+   35. ^ 8th Annual Emerging Transportation Plenary^[dead link]
+   36. ^ After the Oil Runs Out, washingtonpost.com
+   37. ^ Kathleen Kingsbury (2007-11-16). "After the Oil Crisis, a Food
+       Crisis?". Time Magazine. Retrieved 2008-04-28.
+   38. ^ "Global warming rage lets global hunger grow". London: Telegraph.
+       2011-05-31. Retrieved 2012-03-30.
+   39. ^ Baltimore, Chris. "New U.S. Congress looks to boost alternate
+       fuels,"^[dead link] The Boston Globe, January 5, 2007. Retrieved on
+       August 23, 2007
+   40. ^ "Hydrogen Economy Fact Sheet". The White House. 2003-06-25.
+       Retrieved 2007-07-04.
+   41. ^ Robert S. Boyd, McClatchy Newspapers. "Hydrogen cars may be a
+       long time coming". Mcclatchydc.com. Retrieved 2012-03-30.
+   42. ^ Bloomberg, National poll, 11 Dec. 2013.
+   43. ^ US EIA, Natural gas year-in-review 2008, 2009.
+   44. ^ US EIA, International Energy Statistics, accessed 10 Aug. 2014.
+   45. ^ US EIA, Coal overview
+   46. ^ US Energy Information Administration, Imports and exports of
+       electricity, and Electricity: summary statistics for the United
+       States, accessed 21 Dec. 2013.
+   47. ^ US EIA, Uranium and nuclear fuel statistics Energy Annual 2011
+   48. ^ US EIA, Energy daily, 11 July 2011.
+   49. ^ "Architects and Climate Change". Aia.org. 2011-12-13. Retrieved
+       2012-03-30.
+   50. ^ "Electricity Rates and Usage in the United States". Electricity
+       Local. Retrieved 2014-05-12.
+   51. ^ "Weatherization Assistance Program". Eere.energy.gov. 2012-01-30.
+       Retrieved 2012-03-30.
+   52. ^ "Communities of the Future" (PDF). Retrieved 2012-03-30.
+   53. ^ "2009 Toyota Prius: Spy Report". Popularmechanics.com.
+       2007-02-07. Retrieved 2012-03-30.
+   54. ^ Stahl, Andreas. "Ultra-Green: Radical 100-MPG Toyota Prius in the
+       Works for 2009". Edmunds.com. Retrieved 2012-03-30. ^[dead link]
+   55. ^ US Dept. of Energy, U.S. Primary Energy Consumption by Source and
+       Sector, 2007
+   56. ^ Amory Lovins (March–April 2012). "A Farewell to Fossil Fuels".
+       Foreign Affairs.
+   57. ^ ^a ^b "Basic Petroleum Statistics". Energy Information
+       Administration. June 2006. Retrieved 2007-07-04.
+   58. ^ "Domestic Demand for Refined Petroleum Products by Sector". U.S.
+       Bureau of Transportation Statistics. Retrieved 2007-12-20.
+   59. ^ "CIA – The World Factbook – European Union". Cia.gov. Retrieved
+       2009-04-26.
+   60. ^ "CIA – The World Factbook – United States". Cia.gov. Retrieved
+       2009-04-26.
+   61. ^ The Road to Recovery Begins in Detroit^[dead link] accessed 2
+       October 2007 Archived September 30, 2007 at the Wayback
+       Machine^[dead link]
+   62. ^ Advanced Technology Vehicles: The Road Ahead accessed 2 October
+       2007 Archived September 26, 2007 at the Wayback Machine
+   63. ^ "Gasoline Tops $5 A Gallon In Gorda". Theksbwchannel.com.
+       Retrieved 2012-03-30.
+   64. ^ "Fuel Prices Increase Nationwide as California Braces for
+       $4/Gallon Gas in ‘08". Awmanet.org. Retrieved 2012-03-30.
+   65. ^ Tertzakian, Peter (2005-11-15). "The U.S. Senate's Oil Spill".
+       Forbes.com. Retrieved 2012-03-30.
+   66. ^ "How Dependent Is the United States on Foreign Oil? –
+       eia.doe.gov". Tonto.eia.doe.gov. 2008-08-22. Retrieved 2009-04-26.
+   67. ^ Bonskowski, Richard F. (2001-03-27). "Energy Information
+       Administration Statistics and Projections for U.S. Coal Supply and
+       Demand: U.S. Coal, Domestic and International Issues" (PDF). US
+       Department of Energy. Retrieved 2007-07-07.
+   68. ^ Benson, Sally M. "Carbon Dioxide Capture and Storage in Deep
+       Geologic Formations" (PDF). Pew Center on Global Climate Change and
+       the National Commission on Energy Policy. Retrieved 2007-07-07.
+   69. ^ "Coal – A Fossil Fuel". US Department of Energy. February 2007.
+       Retrieved 2007-07-22.
+   70. ^ Table 7.1 Coal Overview, Selected Years, 1949–2006, p. 203.
+       Annual Energy Review 2006 United States Energy Information
+       Administration, United States Department of Energy. (Caution: PDF
+       is 10 megabytes) See: Table of Contents
+   71. ^ "U.S. population hits 300 million mark". MSNBC. Retrieved
+       2012-03-30.
+   72. ^ "U.S. Per Capita Use of Energy". Eia.doe.gov. Retrieved
+       2012-03-30.
+   73. ^ Table 7.3 Coal Consumption by Sector, Selected Years, 1949–2006
+       (p. 207) and Figure 7.3 Coal Consumption by Sector (p. 206) Annual
+       Energy Review 2006 United States Energy Information Administration,
+       United States Department of Energy. (Caution: PDF is 10 megabytes)
+       See: Table of Contents
+   74. ^ Energy in the United States: 1635–2000 United States Energy
+       Information Administration, United States Department of Energy.
+   75. ^ "Human-Related Sources and Sinks of Carbon Dioxide". Epa.gov.
+       2006-06-28. Retrieved 2012-03-30.
+   76. ^ Rachel Barron (2007-10-15). "New Policy Could Put CO2
+       Underground". Greentechmedia.com. Retrieved 2012-03-30.
+   77. ^ The great coal hole^[dead link]
+   78. ^ ^a ^b Energy Information Administration. "Natural Gas Explained :
+       Where Our Natural Gas Comes From". Retrieved 2009-12-17.
+   79. ^ Mouawad, Jad (17 June 2009). "Estimate places natural gas
+       reserves 35% higher". The New York Times. Retrieved 2009-10-25.
+   80. ^ ^a ^b Matthew L. Wald (December 7, 2010). "Nuclear ‘Renaissance’
+       Is Short on Largess". The New York Times.
+   81. ^ ^a ^b "Team France in disarray: Unhappy attempts to revive a
+       national industry". The Economist. December 2, 2010.
+   82. ^ Matthew L. Wald. (September 23, 2010). "Aid Sought for Nuclear
+       Plants". Green (The New York Times).
+   83. ^ ^a ^b "America’s nuclear industry struggles to get off the
+       floor". The Economist. Feb 18, 2012.
+   84. ^ JulieAnn McKellogg (March 18, 2011). "US Nuclear Renaissance
+       Further Crippled by Japan Crisis". Voice of America.
+   85. ^ Michael Cooper (March 22, 2011). "Nuclear Power Loses Support in
+       New Poll". The New York Times.
+   86. ^ Mark Cooper (18 June 2013). "Nuclear aging: Not so graceful".
+       Bulletin of the Atomic Scientists.
+   87. ^ ^a ^b Matthew Wald (June 14, 2013). "Nuclear Plants, Old and
+       Uncompetitive, Are Closing Earlier Than Expected". New York Times.
+   88. ^ US Energy Information Administration, Lower power prices and high
+       repair costs drive nuclear retirements 2 July 2013.
+   89. ^ US Energy Information Administration, Electric Power Monthly,
+       January 2013.
+   90. ^ Ron Pernick and Clint Wilder (2012). "Clean Tech Nation". p. 5.
+   91. ^ US Energy Information Administration, Total Energy.
+   92. ^ "Q3 Report: Rebounding U.S. Wind Industry Stays Ahead of Sluggish
+       2010". Renewable Energy World. 26 October 2011.
+   93. ^ "US wind power capacity up in '09, but jobs stalled". Reuters.
+       2010-01-26.
+   94. ^ American Wind Energy Association, Annual U.S. wind power rankings
+       track industry's rapid growth
+   95. ^ SEGS I, II, III, IV, V, VI, VII, VIII & IX
+   96. ^ REN21 (2009). Renewables Global Status Report: 2009 Update p. 12.
+   97. ^ "Update: The State of U.S. Geothermal Production and
+       Development". Renewableenergyworld.com. Retrieved 2012-03-30.
+   98. ^ President Obama Touts Clean Energy on Earth Day
+   99. ^ Remarks of President Barack Obama -- Address to Joint Session of
+       Congress
+   100. ^ Lindsay Morris (25 January 2012). "Obama: Sticking to "Promise
+       of Clean Energy"". Renewable Energy World.
+   101. ^ Clean Edge (2009). Clean Energy Trends 2009 pp. 1-4.
+   102. ^ DOE's SunShot Program Aims to Reach Competitive Solar By 2020.
+       Fast Company, Feb. 4, 2011.
+   103. ^ "SunShot Initiative About page, Accessed Jan. 20, 2012".
+       .eere.energy.gov. 2011-11-16. Retrieved 2012-03-30.
+   104. ^ Introduction: The Clean Tech Opportunity^[dead link] p. 3.
+   105. ^ ^a ^b Worldwatch Institute and Center for American Progress
+       (2006). American energy: The renewable path to energy security
+   106. ^ "Industrial Biotechnology Is Revolutionizing the Production of
+       Ethanol Transportation Fuel". Bio.org. Retrieved 2012-03-30.
+   107. ^ "Crime Against Humanity".
+   108. ^ "Financial Times: OECD Warns Against Biofuels Subsidies".
+   109. ^ "Global Science Forum Conference on Scientific Challenges for
+       Energy Research: Energy At The Crossroads" (PDF).
+   110. ^ "Hydrogen injection could boost biofuel production".
+       Environment.newscientist.com. Retrieved 2012-03-30.
+   111. ^ Oxburgh, Ron. Fuelling hope for the future, Courier Mail, 15
+       August 2007.
+   112. ^ Sustainable biofuels: prospects and challenges p. 2.
+   113. ^ "Philips Tornado Asian Compact Fluorescent". Philips. Retrieved
+       2007-12-24.
+   114. ^ ^a ^b ^c "Opportunities for Greenhouse Gas Emissions Reductions"
+       (PDF). Retrieved 2012-03-30.
+   115. ^ Hypercars, hydrogen, and the automotive transition International
+       Journal of Vehicle Design, Vol. 35, Nos. 1/2, 2004.
+   116. ^ Diesendorf, Mark (2007). Greenhouse Solutions with Sustainable
+       Energy, UNSW Press, pp. 191–192.
+   117. ^ John Vidal (18 February 2014). "Amory Lovins: energy visionary
+       sees renewables revolution in full swing". The Guardian.
+   118. ^ Budget of the United States Government, Fiscal Year 2012,
+       Department of Energy U.S. Office of Management and Budget, 2011.
+       Retrieved 2011-04-12.
+   119. ^ The Bottom Line on Renewable Energy Tax Credits. World Resources
+       Institute
+   120. ^ U.S. Renewable Energy Quarterly Report, October 2010 American
+       Council On Renewable Energy
+   121. ^ U.S. Renewable Energy Quarterly Report American Council on
+       Renewable Energy, October 2010. Retrieved 2011-04-12.
+   122. ^ David R. Baker (April 12, 2011). "Brown signs law requiring 33%
+       renewable energy". San Francisco Chronicle.
+   123. ^ Comparative Analysis of Three Proposed Federal Renewable
+       Electricity Standards National Renewable Energy Laboratory,
+       NREL/TP-6A2-45877, May 2009.
+   124. ^ Rubin, Ofir D. et al. 2008. Implied Objectives of U.S. Biofuel
+       Subsidies. Iowa State University.
+   125. ^ "Summary of the Credit for Qualified Hybrid Vehicles". Irs.gov.
+       Retrieved 2012-03-30.
+   126. ^ "Consumer Energy Tax Incentives". Energy.gov. 2011-06-30.
+       Retrieved 2012-03-30.
+   127. ^ Energy Policy Act of 2005
+   128. ^ China now no. 1 in CO
+       2 emissions; USA in second position^[dead link]Netherlands
+       Environmental Assessment Agency retrieved June 20, 2007
+   129. ^ Raupach, M.R. et al. (2007) "Global and regional drivers of
+       accelerating CO[2] emissions." Proc. Nat. Acad. Sci. 104(24):
+       10288–93.
+   130. ^ Borenstein, Seth (04-06-2007). "Blame Coal: Texas Leads in
+       Overall Emissions". USA Today. Retrieved 2007-06-06.  Check date
+       values in: |date= (help)
+   131. ^ "US Climate Protection Agreement Home Page". Archived from the
+       original on 2006-09-30. Retrieved 2006-11-07.
+   132. ^ "Regional Greenhouse Gas Initiative". Retrieved 2006-11-07.
+   133. ^ Wintour, Patrick (2006-08-01). "Blair signs climate pact with
+       Schwarzenegger". London: The Guardian. Retrieved 2007-07-07.
+   134. ^ "Politicians sign new climate pact". BBC News. 2007-02-16.
+       Retrieved 2012-03-30.
+   135. ^ "Guardian Unlimited: Global leaders reach climate change
+       agreement". London: Environment.guardian.co.uk. 2007-02-16.
+       Retrieved 2012-03-30.
+   136. ^ Energy Notes
+   137. ^ Post a Comment. "U.S. Stabilization Wedges: Scientific
+       American". Sciam.com. Retrieved 2012-03-30.
+   138. ^ Makhijani, Arjun Carbon-Free and Nuclear-Free, A Roadmap for
+       U.S. Energy Policy 2007 ISBN 978-1-57143-173-8
+   139. ^ Makhijani pg. 3
+   140. ^ Makhijani Fig. 5-5, 5-8
+   141. ^ Makhijani Fig. 5-7
+   142. ^ Makhijani Fig. 5-8
+   143. ^ Makhijani Fig. 5-5
+   144. ^ Romm, Joseph. "Cleaning up on carbon", June 19, 2008
+   145. ^ "Renewable Energy Technical Potential". National Renewable
+       Energy Laboratory. Retrieved 2012-09-01. , p.2.
+   146. ^ "Transmission and distribution technologies" (PDF). Retrieved
+       2008-01-18.
+   147. ^ "Technology Options for the Near and Long Term" (PDF). U.S.
+       Climate Change Technology Program. August 2005. Retrieved
+       2008-10-05.
+   148. ^ "Electric System Losses to Inefficiency" (PDF). Retrieved
+       2012-03-30.
+   149. ^ ^a ^b "Total Energy – Data – U.S. Energy Information
+       Administration (EIA)". Eia.doe.gov. Retrieved 2013-04-14.
+   150. ^ "CIA – The World Factbook". CIA.gov. Retrieved 2012-09-01.
+   151. ^ "Improving IC Engine Efficiency". Courses.washington.edu.
+       Retrieved 2012-03-30.
+   152. ^ "Carnot Cycle". Hyperphysics.phy-astr.gsu.edu. Retrieved
+       2012-03-30.
+   153. ^ Preston, John L. (October 1994). "Comparability of Supply- and
+       Consumption-Derived Estimates of Manufacturing Energy Consumption"
+       (PDF). US Department of Energy. "Table 7: Total energy: 29,568.0
+       trillion Btu, Loss: 7,014.1 trillion Btu"
+   154. ^ Seven Priorities for EPA’s Future
+   155. ^ "U.S. Greenhouse Gas Inventory Report". U.S. EPA. April 2012.
+       Retrieved 2012-09-01.
+   156. ^ First Annual World Environment Review Poll Reveals Countries
+       Want Governments to Take Strong Action on Climate Change, Global
+       Market Insite, published 2007-06-05, accessed 2007-05-09
+   157. ^ Teixeira, Ruy (2007-06-14). "Public Opinion Snapshot: Public
+       Wants Action on Energy and the Environment". Center for American
+       Progress. Retrieved 2012-03-30.
+   158. ^ Public Opinion Snapshot: Public Wants Action on Energy and the
+       Environment, Center for American Progress, published 2007-06-15,
+   159. ^ "Public Priorities: Deficit Rising, Terrorism Slipping." Pew
+       Research Center for the People and the Press RSS. N.p., n.d. Web.
+       19 Jan. 2013.
+   160. ^ Jeffrey M. Jones, Americans Still Divided on Energy-Environment
+       Trade-Off, Gallup.
+   161. ^ "Mission". Whitehouse.gov. 2012-09-01. Retrieved 2012-09-01.
+   162. ^ "USPTO Expands Green Technology Pilot Program to More
+       Inventions". United States Patent and Trademark Office. 2010-05-21.
+       Retrieved 2012-07-12.
+   163. ^ "Emerging Energy and Intellectual Property – The Often
+       Unappreciated Risks and Hurdles of Government Regulations and
+       Standard Setting Organizations". The National Law Review. Husch
+       Blackwell. 2012-05-22. Retrieved 2012-07-10.
+   164. ^ "USPTO Extends Deadline to Participate in Green Technology Pilot
+       Program by One Year". United States Patent and Trademark Office.
+       2010-11-10. Retrieved 2012-07-12.
+
+Further reading[edit]
+
+     * Michaels, Robert J. (2008). "Electricity and Its Regulation". In
+       David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd
+       ed.). Indianapolis: Library of Economics and Liberty.
+       ISBN 978-0865976658. OCLC 237794267.
+     * Oil and Natural Gas Industry Tax Issues in the FY2014 Budget
+       Proposal Congressional Research Service
+
+External links[edit]
+
+     * U.S. Department of energy
+     * Energy Information Administration
+          + Official Energy Statistics from the U.S. Government
+          + Residential Electricity Prices
+     * USDA energy
+     * United States Energy Association (USEA)
+     * U.S. energy stats
+     * ISEA – Database of U.S. International Energy Agreements
+     * Retail sales of electricity and associated revenue by end-use
+       sectors through June 2007 (Energy Information Administration)
+     * International Energy Agency 2007 Review of US Energy Policies
+     * Fight Climate Change Fast, changing our energy system.
+     * Set America Free Coalition
+
+
+                     * v
+     * t
+     * e
+
+   Public policy of the United States
+     * Agricultural
+     * Arctic
+     * Climate change (G. W. Bush)
+     * Domestic (Reagan, G. W. Bush)
+     * Drug
+     * Economic (G. W. Bush, Obama)
+     * Energy (Obama)
+     * Environmental
+     * Fiscal
+     * Foreign (History, Criticism, Reagan, Clinton, G. W. Bush, Obama)
+     * Gun control (Clinton)
+     * Low-level radioactive waste
+     * Monetary
+     * Nuclear energy
+     * Science
+     * Social (Obama)
+     * Space (G. W. Bush, Obama)
+     * Stem cell
+     * Telecommunications
+     * Trade
+
+
+                    * v
+     * t
+     * e
+
+   Energy in the United States
+     Politics and law
+                          * Energy Lobby
+                          * Energy policy
+                          * Energy Policy Act (1992)
+                          * 2005)
+                          * Energy subsidies
+                          * Offshore drilling debate
+                          * Renewable portfolio standard
+                          * Secretary of Energy
+                          * New Energy for America
+                          * Energy law of the United States
+                          * North American energy independence
+
+     Energy by state
+                          * Arkansas
+                          * California
+                          * Hawaii
+                          * Ohio
+                          * Oregon
+                          * Vermont
+
+         Sources
+
+                           Material
+                                         * Biofuel
+                                         * Coal
+                                         * Geothermal
+                                         * Hydroelectric
+                                         * Nuclear
+                                         * Petroleum
+                                         * Renewable
+
+                        Solar by state
+                                         * Alabama
+                                         * Alaska
+                                         * Arizona
+                                         * Arkansas
+                                         * California
+                                         * Colorado
+                                         * Connecticut
+                                         * Delaware
+                                         * Florida
+                                         * Georgia
+                                         * Hawaii
+                                         * Idaho
+                                         * Illinois
+                                         * Indiana
+                                         * Iowa
+                                         * Kansas
+                                         * Kentucky
+                                         * Louisiana
+                                         * Maine
+                                         * Maryland
+                                         * Massachusetts
+                                         * Michigan
+                                         * Minnesota
+                                         * Mississippi
+                                         * Missouri
+                                         * Montana
+                                         * Nebraska
+                                         * Nevada
+                                         * New Hampshire
+                                         * New Jersey
+                                         * New Mexico
+                                         * New York
+                                         * North Carolina
+                                         * North Dakota
+                                         * Ohio
+                                         * Oklahoma
+                                         * Oregon
+                                         * Pennsylvania
+                                         * Rhode Island
+                                         * South Carolina
+                                         * South Dakota
+                                         * Tennessee
+                                         * Texas
+                                         * Utah
+                                         * Vermont
+                                         * Virginia
+                                         * Washington
+                                         * D.C.
+                                         * West Virginia
+                                         * Wisconsin
+                                         * Wyoming
+
+                        Wind by state
+                                         * Alaska
+                                         * Arizona
+                                         * California
+                                         * Colorado
+                                         * Connecticut
+                                         * Delaware
+                                         * Hawaii
+                                         * Idaho
+                                         * Illinois
+                                         * Indiana
+                                         * Iowa
+                                         * Kansas
+                                         * Maine
+                                         * Massachusetts
+                                         * Michigan
+                                         * Minnesota
+                                         * Montana
+                                         * Nevada
+                                         * New Hampshire
+                                         * New Jersey
+                                         * New Mexico
+                                         * New York
+                                         * North Dakota
+                                         * Oklahoma
+                                         * Ohio
+                                         * Oregon
+                                         * Pennsylvania
+                                         * South Dakota
+                                         * Texas
+                                         * Vermont
+                                         * Washington
+                                         * Wyoming
+
+   Environmental issues
+                          * Greenhouse gas emissions
+                          * State CO[2] emissions
+                          * Emission standards
+                          * CAFE standards
+
+      Organizations
+                          * ACORE
+                          * AA
+                          * API
+                          * ASES
+                          * AWEA
+                          * BTEC
+                          * DOE (EIA
+                          * EERE
+                          * NREL
+                          * OE)
+                          * EBI
+                          * EESI
+                          * EPRI
+                          * PFI
+                          * PIA
+                          * RMI
+                          * TVA
+                          * USGS
+
+     * Energy portal
+     * Sustainable development portal
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+                * v
+     * t
+     * e
+
+   Energy policy of North America
+   Sovereign states
+                      * Antigua and Barbuda
+                      * Bahamas
+                      * Barbados
+                      * Belize
+                      * Canada
+                      * Costa Rica
+                      * Cuba
+                      * Dominica
+                      * Dominican Republic
+                      * El Salvador
+                      * Grenada
+                      * Guatemala
+                      * Haiti
+                      * Honduras
+                      * Jamaica
+                      * Mexico
+                      * Nicaragua
+                      * Panama
+                      * Saint Kitts and Nevis
+                      * Saint Lucia
+                      * Saint Vincent and the Grenadines
+                      * Trinidad and Tobago
+                      * United States
+
+   Dependencies and
+   other territories
+                      * Anguilla
+                      * Aruba
+                      * Bermuda
+                      * Bonaire
+                      * British Virgin Islands
+                      * Cayman Islands
+                      * Curaçao
+                      * Greenland
+                      * Guadeloupe
+                      * Martinique
+                      * Montserrat
+                      * Puerto Rico
+                      * Saint Barthélemy
+                      * Saint Martin
+                      * Saint Pierre and Miquelon
+                      * Saba
+                      * Sint Eustatius
+                      * Sint Maarten
+                      * Turks and Caicos Islands
+                      * United States Virgin Islands
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Energy_policy_of_the_United_
+   States&oldid=622577105"
+   Categories:
+     * Energy in the United States
+     * Energy policy by country
+     * Energy policy in the United States
+     * United States federal energy legislation
+     * United States federal policy
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from March 2012
+     * Articles with dead external links from October 2010
+     * CS1 errors: dates
+     * All articles lacking reliable references
+     * Articles lacking reliable references from November 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Suomi
+     * ไทย
+     *
+
+   Edit links
+
+     * This page was last modified on 24 August 2014 at 08:47.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

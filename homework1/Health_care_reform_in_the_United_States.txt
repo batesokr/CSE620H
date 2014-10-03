@@ -1,0 +1,1253 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Health care reform in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Recentism.svg
+   This article or section may be slanted towards recent events. Please
+   try to keep recent events in historical perspective. (March 2013)
+                 Health care reform in the United States
+     * Health care in the United States
+     * Debate over reform
+     * History
+
+                               Legislation
+
+   Preceding
+
+     * Social Security Amendments of 1965
+     * Emergency Medical Treatment and Active Labor Act (1986)
+     * Health Insurance Portability and Accountability Act (1996)
+     * Medicare Prescription Drug, Improvement, and Modernization Act
+       (2003)
+     * Patient Safety and Quality Improvement Act (2005)
+
+   Superseded
+
+     * Affordable Health Care for America Act (House bill - H.R. 3962)
+     * America's Affordable Health Choices Act of 2009 (H.R. 3200)
+     * America's Healthy Future Act (Baucus bill - S. 1796)
+     * Healthy Americans Act (Wyden-Bennett Bill - S. 391)
+
+   Proposed
+
+     * United States National Health Care Act (2009, H.R. 676)
+     * Health Security Act (1993, H.R. 3600)
+
+   Latest enacted
+
+     * Patient Protection and Affordable Care Act (Senate bill - H.R.
+       3590)
+     * Health Care and Education Reconciliation Act of 2010 (H.R. 4872)
+
+                                 Reforms
+     * Recent legislative proposals
+     * Public opinion
+     * Reform advocacy groups
+     * Rationing
+     * Insurance coverage
+
+                                 Systems
+     * Free-market health care
+     * Health insurance exchange
+     * National health insurance
+     * Publicly-funded health care
+     * Single-payer health care
+          + Canadian vs. American health care systems
+     * Two-tier health care
+     * Universal health care
+
+                        Third-party payment models
+     * All-payer rate setting
+     * Capitation
+     * Fee-for-service
+     * Global payment
+
+     * v
+     * t
+     * e
+
+   Main article: Health care in the United States
+
+   Health care reform in the United States has a long history. Reforms
+   have often been proposed but have rarely been accomplished. In 2010,
+   landmark reform was passed through two federal statutes enacted in
+   2010: the Patient Protection and Affordable Care Act (PPACA), signed
+   March 23, 2010,^[1]^[2] and the Health Care and Education
+   Reconciliation Act of 2010 (H.R. 4872), which amended the PPACA and
+   became law on March 30, 2010.^[3]^[4]
+
+   Future reforms and ideas continue to be proposed, with notable
+   arguments including a single-payer system and a reduction in
+   fee-for-service medical care.^[5] The PPACA includes a new agency, the
+   Center for Medicare and Medicaid Innovation, which is intended to
+   research reform ideas through pilot projects.
+
+Contents
+
+     * 1 History of national reform efforts
+     * 2 Motivation
+          + 2.1 Insurance cost and availability
+          + 2.2 Waste and fraud
+          + 2.3 Quality of care
+     * 3 Public opinion
+     * 4 Uninsured rate
+     * 5 Patient Protection and Affordable Care Act
+     * 6 Alternatives and research directions
+          + 6.1 Single-payer health care
+          + 6.2 Public option
+          + 6.3 Balancing doctor supply and demand
+          + 6.4 Bundled payments
+     * 7 See also
+     * 8 References
+     * 9 Further reading
+          + 9.1 Books
+          + 9.2 Articles
+     * 10 External links
+
+History of national reform efforts[edit]
+
+   Main article: History of health care reform in the United States
+
+   Here is a summary of reform achievements at the national level in the
+   United States. For failed efforts, State based efforts, native tribes
+   services and more details generally, see the main article History of
+   health care reform in the United States.
+     * 1965 President Lyndon Johnson enacted legislation that introduced
+       Medicare, covering both hospital and general medical insurance for
+       senior citizens paid for by a Federal employment tax over the
+       working life of the retiree, and Medicaid permitted the Federal
+       government to partially fund a program for the poor, with the
+       program managed and co-financed by the individual states.^[6]^[7]
+     * 1985 The Consolidated Omnibus Budget Reconciliation Act of 1985
+       (COBRA) amended the Employee Retirement Income Security Act of 1974
+       (ERISA) to give some employees the ability to continue health
+       insurance coverage after leaving employment.^[8]
+     * 1996 The Health Insurance Portability and Accountability Act
+       (HIPAA) not only protects health insurance coverage for workers and
+       their families when they change or lose their jobs, it also made
+       health insurance companies cover pre-existing conditions. If such
+       condition had been diagnosed before purchasing insurance, insurance
+       companies are required to cover it after patient has one year of
+       continuous coverage. If such condition was already covered on their
+       current policy, new insurance policies due to changing jobs, etc...
+       have to cover the condition immediately.^[9]
+     * 1997 The State Children's Health Insurance Program, or SCHIP, was
+       established by the federal government in 1997 to provide health
+       insurance to children in families at or below 200 percent of the
+       federal poverty line.^[10]
+     * 2010 The Patient Protection and Affordable Care Act, also known as
+       Obamacare, was enacted, providing for the phased introduction over
+       four years of a comprehensive system of mandated health insurance
+       with reforms designed to eliminate "some of the worst practices of
+       the insurance companies"—pre-existing condition screening and
+       premium loadings, policy cancellations on technicalities when
+       illness seems imminent, annual and lifetime coverage caps. It also
+       sets a minimum ratio of direct health care spending to premium
+       income, and creates price competition bolstered by the creation of
+       three standard insurance coverage levels to enable like-for-like
+       comparisons by consumers, and a web-based health insurance exchange
+       where consumers can compare prices and purchase plans. The system
+       preserves private insurance and private health care providers and
+       provides more subsidies to enable the poor to buy insurance.
+
+Motivation[edit]
+
+   Main article: Health care reform debate in the United States
+   Medicare and Medicaid Spending as % GDP (data from the CBO)
+
+   International comparisons of healthcare have found that the United
+   States spends more per-capita than other similarly-developed nations
+   but falls below similar countries in various health metrics, suggesting
+   inefficiency and waste. In addition, the United States has significant
+   underinsurance and significant impending unfunded liabilities from its
+   aging demographic and its social insurance programs Medicare and
+   Medicaid (Medicaid provides free long-term care to the elderly poor).
+   The fiscal and human impact of these issues have motivated reform
+   proposals.
+   Health spending per capita, in US$ PPP-adjusted, compared amongst
+   various first world nations.
+
+   According to 2009 World Bank statistics, the U.S. had the highest
+   healthcare costs relative to the size of the economy (GDP) in the
+   world, even though estimated 50.2 million citizens (approximately 15.6%
+   of the September 2011 estimated population of 312 million) lacked
+   insurance.^[11] In March 2010, billionaire Warren Buffett commented
+   that the high costs paid by U.S. companies for their employees’ health
+   care put them at a competitive disadvantage.^[12]
+   Life expectancy compared to healthcare spending from 1970 to 2008, in
+   the US and the next 19 most wealthy countries by total GDP.^[13]
+
+   Further, an estimated 77 million Baby Boomers are reaching retirement
+   age, which combined with significant annual increases in healthcare
+   costs per person will place enormous budgetary strain on U.S. state and
+   federal governments, particularly through Medicare and Medicaid
+   spending (Medicaid provides long-term care for the elderly poor).^[14]
+   Maintaining the long-term fiscal health of the U.S. federal government
+   is significantly dependent on healthcare costs being controlled.^[15]
+
+Insurance cost and availability[edit]
+
+   In addition, the number of employers who offer health insurance has
+   declined and costs for employer-paid health insurance are rising: from
+   2001 to 2007, premiums for family coverage increased 78%, while wages
+   rose 19% and prices rose 17%, according to the Kaiser Family
+   Foundation.^[16] Even for those who are employed, the private insurance
+   in the US varies greatly in its coverage; one study by the Commonwealth
+   Fund published in Health Affairs estimated that 16 million U.S. adults
+   were underinsured in 2003. The underinsured were significantly more
+   likely than those with adequate insurance to forgo health care, report
+   financial stress because of medical bills, and experience coverage gaps
+   for such items as prescription drugs. The study found that
+   underinsurance disproportionately affects those with lower incomes —
+   73% of the underinsured in the study population had annual incomes
+   below 200% of the federal poverty level.^[17] However, a study
+   published by the Kaiser Family Foundation in 2008 found that the
+   typical large employer preferred provider organization (PPO) plan in
+   2007 was more generous than either Medicare or the Federal Employees
+   Health Benefits Program Standard Option.^[18] One indicator of the
+   consequences of Americans' inconsistent health care coverage is a study
+   in Health Affairs that concluded that half of personal bankruptcys
+   involved medical bills,^[19] although other sources dispute this.^[20]
+
+   There are health losses from insufficient health insurance. A 2009
+   Harvard study published in the American Journal of Public Health found
+   more than 44,800 excess deaths annually in the United States due to
+   Americans lacking health insurance.^[21]^[22] More broadly, estimates
+   of the total number of people in the United States, whether insured or
+   uninsured, who die because of lack of medical care were estimated in a
+   1997 analysis to be nearly 100,000 per year.^[23] A study of the
+   effects of the Massachusetts universal health care law (which took
+   effect in 2006) found a 3% drop in mortality among people 20–64 years
+   old - 1 death per 830 people with insurance. Other studies, just as
+   those examining the randomized distribution of Medicaid insurance to
+   low-income people in Oregon in 2008, found no change in death
+   rate.^[24]
+
+Waste and fraud[edit]
+
+   In December 2011 the outgoing Administrator of the Centers for Medicare
+   & Medicaid Services, Dr. Donald Berwick, asserted that 20% to 30% of
+   health care spending is waste. He listed five causes for the waste: (1)
+   overtreatment of patients, (2) the failure to coordinate care, (3) the
+   administrative complexity of the health care system, (4) burdensome
+   rules and (5) fraud.^[25]
+
+   An estimated 3%–10% of all health-care expenditures in the U.S. are
+   fraudulent. In 2011, Medicare and Medicaid made $65 billion in improper
+   payments (including both error and fraud). Government efforts to reduce
+   fraud include $4.2 billion in fraudulent payments recovered by the
+   Department of Justice and the FBI in 2012, longer jail sentences
+   specified by the Affordable Care Act, and Senior Medicare
+   Patrols—volunteers trained to identify and report fraud.^[26]
+
+   In 2007, the Department of Justice and Health and Human Services formed
+   the Medicare Fraud Strike Force to combat fraud through data analysis
+   and increased community policing. As of May, 2013, the Strike Force has
+   charged more than 1,500 people for false billings of more than $5
+   billion. Medicare fraud often takes the form of kickbacks and
+   money-laundering. Fraud schemes often take the form of billing for
+   medically unnecessary services or services not rendered.^[27]
+
+Quality of care[edit]
+
+   There is significant debate regarding the quality of the U.S.
+   healthcare system relative to those of other countries. Physicians for
+   a National Health Program, a political advocacy group, has claimed that
+   a free market solution to health care provides a lower quality of care,
+   with higher mortality rates, than publicly funded systems.^[28] The
+   quality of health maintenance organizations and managed care have also
+   been criticized by this same group.^[29]
+
+   According to a 2000 study of the World Health Organization, publicly
+   funded systems of industrial nations spend less on health care, both as
+   a percentage of their GDP and per capita, and enjoy superior
+   population-based health care outcomes.^[30] However, conservative
+   commentator David Gratzer and the Cato Institute, a libertarian think
+   tank, have both criticized the WHO's comparison method for being
+   biased; the WHO study marked down countries for having private or
+   fee-paying health treatment and rated countries by comparison to their
+   expected health care performance, rather than objectively comparing
+   quality of care.^[31]^[32]
+
+   Some medical researchers say that patient satisfaction surveys are a
+   poor way to evaluate medical care. Researchers at the RAND Corporation
+   and the Department of Veterans Affairs asked 236 elderly patients in
+   two different managed care plans to rate their care, then examined care
+   in medical records, as reported in Annals of Internal Medicine. There
+   was no correlation. "Patient ratings of health care are easy to obtain
+   and report, but do not accurately measure the technical quality of
+   medical care," said John T. Chang, UCLA, lead author.^[33]^[34]^[35]
+
+Public opinion[edit]
+
+   Public opinion polls have shown a majority of the public supports
+   various levels of government involvement in health care in the United
+   States,^[36] with stated preferences depending on how the question is
+   asked.^[37] Polls from Harvard University in 1988,^[38] the Los Angeles
+   Times in 1990,^[39] and the Wall Street Journal in 1991^[40] all showed
+   strong support for a health care system compared to the system in
+   Canada. More recently, however, polling support has declined for that
+   sort of health care system,^[36]^[37] with a 2007 Yahoo/AP poll showing
+   a majority of respondents considered themselves supporters of
+   "single-payer health care,"^[41] a majority in favor of a number of
+   reforms according to a joint poll with the Los Angeles Times and
+   Bloomberg,^[42] and a plurality of respondents in a 2009 poll for Time
+   Magazine showed support for "a national single-payer plan similar to
+   Medicare for all."^[43] Polls by Rasmussen Reports in 2011^[44] and
+   2012^[45] showed pluralities opposed to single-payer health care. Many
+   other polls show support for various levels of government involvement
+   in health care, including polls from New York Times/CBS News^[46]^[47]
+   and Washington Post/ABC News,^[48] showing favorability for a form of
+   national health insurance. The Kaiser Family Foundation^[49] showed a
+   majority in favor of a form of national health insurance, often
+   compared to Medicare, and a Quinnipiac poll in three states in 2008
+   found majority support for the government ensuring "that everyone in
+   the United States has adequate health-care" among likely Democratic
+   primary voters.^[50]
+
+   A 2001 article in the public health journal Health Affairs studied
+   fifty years of American public opinion of various health care plans and
+   concluded that, while there appears to be general support of a
+   "national health care plan," poll respondents "remain satisfied with
+   their current medical arrangements, do not trust the federal government
+   to do what is right, and do not favor a single-payer type of national
+   health plan."^[36] Politifact rated a statement by Michael Moore
+   "false" when he stated that "[t]he majority actually want single-payer
+   health care." According to Politifact, responses on these polls largely
+   depend on the wording. For example, people respond more favorably when
+   they are asked if they want a system "like Medicare".^[37]
+
+Uninsured rate[edit]
+
+   In June 2014, Gallup–Healthways Well–Being conducted a survey and found
+   that the uninsured rate is going down. 13.4 percent of U.S. adults are
+   uninsured in 2014. This is a decrease from the percentage at 17.1
+   percent in January 2014 and translates to roughly 10 million to 11
+   million individuals receiving coverage. The survey also looked at the
+   major demographic groups and found each is making progress towards
+   getting health insurance. However, Hispanics, who have the highest
+   uninsured rate of any racial or ethnic group, are lagging in their
+   progress. Under the new health care reform, Latinos were expected to be
+   major beneficiaries of the new health care law. Gallup found that the
+   biggest drop in the uninsured rate (2.8 percentage points) was among
+   households making less than $36,000 a year.^[51]^[52]^[53]
+
+Patient Protection and Affordable Care Act[edit]
+
+   Main articles: Patient Protection and Affordable Care Act and Health
+   Care and Education Reconciliation Act of 2010
+
+   After campaigning on the promise of health care reform, President Obama
+   gave a speech in March 2010 at a rally in Pennsylvania explaining the
+   necessity of health insurance reform and calling on Congress to hold a
+   final up or down vote on reform.^[54] The result of his efforts was the
+   Patient Protection and Affordable Care Act. Because Obama's party did
+   not have a filibuster-proof majority in the Senate, the law was amended
+   by the Health Care and Education Reconciliation Act of 2010 using the
+   reconciliation process in which debate in the Senate is limited and the
+   filibuster is therefore not permitted.
+
+   The legislation remains controversial,^[55]^[56]^[57] with some states
+   challenging it in federal court^[58] and opposition from some
+   voters.^[59] In June 2012, in a 5–4 decision, the U.S. Supreme Court
+   found major portions of the law to be constitutional.^[60] However, the
+   law continues to face legal challenges. The latest attempt at reversing
+   the Affordable Care Act occurred during the Government Shutdown on Oct
+   1, 2013. Government officials that oppose the ACA tried to make
+   approval of a bill to reopen the government contingent on the demise of
+   the ACA. This attempt met with failure and the government reopened on
+   November 16, 2013.^[61]
+   Uninsured Americans, with the numbers shown here from 1987 to 2008, are
+   a major driver for reform efforts
+
+   As a result of the law, insurance companies can no longer charge
+   members based on gender, burdening men with the health care costs of
+   women. A study by the National Institutes of Health reported that the
+   lifetime per capita expenditure at birth, using year 2000 dollars,
+   showed a large difference between health care costs of females
+   ($361,192) and males ($268,679). A large portion of this cost
+   difference is in the shorter lifespan of men, but even after adjustment
+   for age (assume men live as long as women), there still is a 20%
+   difference in lifetime health care expenditures.^[62]
+
+   The act's provisions become effective over time. The most significant
+   changes, particularly affecting the availability and terms of insurance
+   become effective January 1, 2014. These include an expansion of
+   Medicaid (at the option of each state) to those without dependent
+   children and subsidized healthcare exchanges. Changes which occur
+   earlier include allowing dependents to remain on their plan until 26,
+   limitations on rescission (dropping insureds when they get sick),
+   removal of lifetime coverage limits, mandates that insurers fully cover
+   certain preventative services, high-risk pools for uninsureds, tax
+   credits for businesses to provide insurance to employees, an insurance
+   company rate review program, and minimum medical loss ratios.^[3]
+
+   The law creates the Patient-Centered Outcomes Research Institute to
+   study comparative effectiveness research funded by a fee on insurers
+   per covered life (starting at $1, increasing to $2 and thereafter
+   adjusted according to an index^[63]). It also allowed the FDA to
+   approve generic biologic drugs and specifically allows for 12 years of
+   exclusive use for newly developed biologic drugs.
+
+   In addition, the law explores some programs intended to increase
+   incentives to provide quality and collaborative care, such as
+   accountable care organizations. The Center for Medicare and Medicaid
+   Innovation was created to fund pilot programs which may reduce
+   costs;^[64] the experiments cover nearly every idea healthcare experts
+   advocate, except malpractice/tort reform.^[65] The law also requires
+   for reduced Medicare reimbursements for hospitals with excess
+   readmissions and eventually ties physician Medicare reimbursements to
+   quality of care metrics.
+
+   The law is also designed to complement the 2009 HITECH Act which
+   encourages the "meaningful use" of electronic health records; for
+   example, the law directs the government to make use of these records
+   for analyzing healthcare provider quality.^[66]
+
+Alternatives and research directions[edit]
+
+   There are alternatives to the exchange-based market system which was
+   enacted by the Patient Protection and Affordable Care Act which have
+   been proposed in the past and continue to be proposed, such as a
+   single-payer system and allowing health insurance to be regulated at
+   the federal level.
+
+   In addition, the Patient Protection and Affordable Health Care Act of
+   2010 contained provisions which allows the Centers for Medicare and
+   Medicaid Services (CMS) to undertake pilot projects which, if they are
+   successful could be implemented in future.
+
+Single-payer health care[edit]
+
+   See also: Single-payer_health_care § United_States
+
+   A number of proposals have been made for a universal single-payer
+   healthcare system in the United States, most recently the United States
+   National Health Care Act, (popularly known as H.R. 676 or "Medicare for
+   All") but none have achieved more political support than 20%
+   congressional co-sponsorship. Advocates argue that preventative health
+   care expenditures can save several hundreds of billions of dollars per
+   year because publicly funded universal health care would benefit
+   employers and consumers, that employers would benefit from a bigger
+   pool of potential customers and that employers would likely pay less,
+   and would be spared administrative costs of health care benefits. It is
+   also argued that inequities between employers would be
+   reduced.^[67]^[68]^[69] Also, for example, cancer patients are more
+   likely to be diagnosed at Stage I where curative treatment is typically
+   a few outpatient visits, instead of at Stage III or later in an
+   emergency room where treatment can involve years of hospitalization and
+   is often terminal.^[70]^[71] Others have estimated a long-term savings
+   amounting to 40% of all national health expenditures due to
+   preventative health care,^[72] although estimates from the
+   Congressional Budget Office and The New England Journal of Medicine
+   have found that preventative care is more expensive.^[73]
+
+   Any national system would be paid for in part through taxes replacing
+   insurance premiums, but advocates also believe savings would be
+   realized through preventative care and the elimination of insurance
+   company overhead and hospital billing costs.^[74] An analysis of a
+   single-payer bill by Physicians for a National Health Program estimated
+   the immediate savings at $350 billion per year.^[75] The Commonwealth
+   Fund believes that, if the United States adopted a universal health
+   care system, the mortality rate would improve and the country would
+   save approximately $570 billion a year.^[76]
+
+   Recent enactments of single-payer systems within individual states,
+   such as in Vermont in 2011, may serve as living models supporting
+   federal single-payer coverage.^[77]
+
+Public option[edit]
+
+   Main article: Public health insurance option
+
+   In January 2013, Representative Jan Schakowsky and 44 other U.S. House
+   of Representatives Democrats introduced H.R. 261, the "Public Option
+   Deficit Reduction Act" which would amend the 2010 Affordable Care Act
+   to create a public option. The bill would set up a government-run
+   health insurance plan with premiums 5% to 7% percent lower than private
+   insurance. The Congressional Budget Office estimated it would reduce
+   the United States public debt by $104 billion over 10 years.^[78]
+
+Balancing doctor supply and demand[edit]
+
+   The Medicare Graduate Medical Education program regulates the supply of
+   medical doctors in the U.S.^[79] By adjusting the reimbursement rates
+   to establish more income equality among the medical professions, the
+   effective cost of medical care can be lowered.
+
+Bundled payments[edit]
+
+   A key project is one that could radically change the way the medical
+   profession is paid for services under Medicare and Medicaid. The
+   current system, which is also the prime system used by medical insurers
+   is known as fee-for-service because the medical practitioner is paid
+   only for the performance of medical procedures which, it is argued
+   means that doctors have a financial incentive to do more tests (which
+   generates more income) which may not be in the patients' best long term
+   interest. The current system encourages medical interventions such as
+   surgeries and prescribed medicines (all of which carry some risk for
+   the patient but increase revenues for the medical care industry) and
+   does not reward other activities such as encouraging behavioral changes
+   such as modifying dietary habits and quitting smoking, or follow-ups
+   regarding prescribed regimes which could have better outcomes for the
+   patient at a lower cost. The current fee-for-service system also
+   rewards bad hospitals for bad service. Some^[who?] have noted that the
+   best hospitals have fewer re-admission rates than others, which
+   benefits patients, but some of the worst hospitals have high
+   re-admission rates which is bad for patients but is perversely rewarded
+   under the fee-for-service system.
+
+   Projects at CMS are examining the possibility of rewarding health care
+   providers through a process known as "bundled payments"^[80] by which
+   local doctors and hospitals in an area would be paid not on a fee for
+   service basis but on a capitation system linked to outcomes. The areas
+   with the best outcomes would get more. This system, it is argued, makes
+   medical practitioners much more concerned to focus on activities that
+   deliver real health benefits at a lower cost to the system by removing
+   the perversities inherent in the fee-for-service system.
+
+   Though aimed as a model for health care funded by CMS, if the project
+   is successful it is thought that the model could be followed by the
+   commercial health insurance industry also.
+
+See also[edit]
+
+   Portal icon United States portal
+   Portal icon Health and fitness portal
+   Portal icon Politics portal
+Book icon
+            * Book: Health care reform in the United States and related articles
+
+     * Patient Protection and Affordable Care Act
+     * McCarran–Ferguson Act, United States federal law that exempts
+       health insurance companies from the federal anti-trust legislation
+       that applies to most businesses.
+     * Health care in the United States
+     * Health care reform
+     * Health care system
+     * Health care system: Cross-country comparisons – tabular comparisons
+       of the U.S., Canada, and other countries not shown above.
+     * Health economics
+     * Health insurance exchange
+     * Health policy
+     * List of healthcare reform advocacy groups in the United States
+     * Medicare Sustainable Growth Rate
+     * National health insurance
+     * Uninsured in the United States
+
+References[edit]
+
+    1. ^ Stolberg, Sheryl Gay; Pear, Robert (March 24, 2010). "Obama signs
+       health care overhaul bill, with a flourish". The New York Times.
+       p. A19. Retrieved March 23, 2010.
+    2. ^ Pear, Robert; Herszenhorn, David M. (March 22, 2010). "Obama
+       hails vote on health care as answering 'the call of history'". The
+       New York Times. p. A1. Retrieved March 22, 2010. "With the
+       219-to-212 vote, the House gave final approval to legislation
+       passed by the Senate on Christmas Eve."
+    3. ^ ^a ^b Smith, Donna; Alexander, David; Beech, Eric (March 19,
+       2010). "Factbox-U.S. healthcare bill would provide immediate
+       benefits". Reuters. Retrieved March 24, 2010.
+    4. ^ "Timeline: when healthcare reform will affect you". CNN. March
+       26, 2010. Retrieved March 24, 2010.
+    5. ^ Rosenthal, Elisabeth (December 21, 2013). "News Analysis - Health
+       Care's Road to Ruin". New York Times. Retrieved December 22, 2013.
+    6. ^ "Brief history of the Medicare program". San Antonio, Tex.: New
+       Tech Media. 2010. Retrieved August 31, 2010.
+    7. ^ Ball, Robert M. (October 24, 1961). "The role of social insurance
+       in preventing economic dependency (address at the Second National
+       Conference on the Churches and Social Welfare, Cleveland, Ohio)".
+       Washington, D.C.: U.S. Social Security Administration. Retrieved
+       August 31, 2010.
+          + Robert M. Ball, the then Deputy Director of the Bureau of
+            Old-Age and Survivors Insurance in the Social Security
+            Administration had defined the major obstacle to financing
+            health insurance for the elderly several years earlier: the
+            high cost of care for the aged and the generally low incomes
+            of retired people. Because retired older people use much more
+            medical care than younger, employed people, an insurance
+            premium related to the risk for older people needed to be
+            high, but if the high premium had to be paid after retirement,
+            when incomes are low, it was an almost impossible burden for
+            the average person. The only feasible approach, he said, was
+            to finance health insurance in the same way as cash benefits
+            for retirement, by contributions paid while at work, when the
+            payments are least burdensome, with the protection furnished
+            in retirement without further payment.
+    8. ^ "An employee's guide to health benefits under COBRA – The
+       Consolidated Omnibus Budget Reconciliation Act of 1986".
+       Washington, D.C.: Employee Benefits Security Administration, U.S.
+       Department of Labor. 2010. Retrieved November 8, 2009.
+    9. ^
+       http://www.gpo.gov/fdsys/pkg/PLAW-104publ191/html/PLAW-104publ191.h
+       tm
+   10. ^ "What is SCHIP?". Washington, D.C.: National Center for Public
+       Policy Research. 2007. Retrieved September 1, 2010.
+   11. ^ WHO (May 2009). "World Health Statistics 2009". World Health
+       Organization. Retrieved August 2, 2009.
+   12. ^ Funk, Josh (March 1, 2010). "Buffett says economy recovering but
+       at slow rate". San Francisco Chronicle (SFGate.com). Retrieved
+       April 3, 2010.
+   13. ^ Kenworthy, Lane (July 10, 2011). "America's inefficient
+       health-care system: another look". Consider the Evidence (blog).
+       Retrieved September 11, 2012.
+   14. ^ "coming_gen_storm_e.indd" (PDF). The Economist. Retrieved January
+       12, 2012.
+   15. ^ "Charlie Rose-Peter Orszag Interview Transcript". November 3,
+       2009. Retrieved January 12, 2012.
+   16. ^ "Health Insurance Premiums Rise 6.1% In 2007, Less Rapidly Than
+       In Recent Years But Still Faster Than Wages And Inflation" (Press
+       release). Kaiser Family Foundation. September 11, 2007. Retrieved
+       September 13, 2007.
+   17. ^ Schoen, C.; Cathy Schoen, M.S., Michelle M. Doty, PhD, Sara R.
+       Collins, PhD, and Alyssa L. Holmgren (June 14, 2005). "Insured But
+       Not Protected: How Many Adults Are Underinsured?". Health Affairs
+       Web Exclusive. Suppl Web Exclusives: W5–289–W5–302.
+       doi:10.1377/hlthaff.w5.289. PMID 15956055. Retrieved August 11,
+       2007.  Cite uses deprecated parameters (help)
+   18. ^ Dale Yamamoto, Tricia Neuman and Michelle Kitchman Strollo, How
+       Does the Benefit Value of Medicare Compare to the Benefit Value of
+       Typical Large Employer Plans?, Kaiser Family Foundation, September
+       2008
+   19. ^ Himmelstein DU, Warren E, Thorne D, Woolhandler S (2005).
+       "Illness and injury as contributors to bankruptcy". Health Aff
+       (Millwood). Suppl Web Exclusives: W5–63–W5–73.
+       doi:10.1377/hlthaff.w5.63. PMID 15689369.
+   20. ^ Todd Zywicki, "An Economic Analysis of the Consumer Bankruptcy
+       Crisis", 99 NWU L. Rev. 1463 (2005)
+   21. ^ "American Journal of Public Health | December 2009, Vol 99,
+       No.12" (PDF).
+   22. ^ "State-by-state breakout of excess deaths from lack of insurance"
+       (PDF).
+   23. ^ A 1997 study carried out by Professors David Himmelstein and
+       Steffie Woolhandler (New England Journal of Medicine 336, no. 11
+       1997) "concluded that almost 100,000 people died in the United
+       States each year because of lack of needed care—three times the
+       number of people who died of AIDs." The Inhuman State of U.S.
+       Health Care, Monthly Review, Vicente Navarro, September 2003.
+       Retrieved September 10, 2009
+   24. ^ "Study calls wide Mass. coverage a lifesaver". Boston Globe.
+       2014-05-05.
+   25. ^ Pear, Robert (December 3, 2011). "Health Official Takes Parting
+       Shot at ‘Waste’". New York Times. Retrieved December 20, 2011.
+   26. ^ Phipps, Jennie L. (February 21, 2013). "How big is Medicare
+       fraud?". Retirement Blog. Bankrate. Retrieved November 28, 2013.
+   27. ^ "Medicare Fraud Strike Force Charges 89 Individuals for
+       Approximately $223 Million in False Billing". U.S. Department of
+       Justice. May 14, 2013. Retrieved November 28, 2013.
+   28. ^ For-Profit Hospitals Cost More and Have Higher Death Rates,
+       Physicians for a National Health Program
+   29. ^ For-Profit HMOs Provide Worse Quality Care, Physicians for a
+       National Health Program
+   30. ^ "Prelims i-ixx/E" (PDF). Retrieved January 12, 2012.
+   31. ^ David Gratzer, Why Is not Government Health Care The Answer?,
+       Free Market Cure, July 16, 2007
+   32. ^ Glen Whitman, "WHO’s Fooling Who? The World Health Organization’s
+       Problematic Ranking of Health Care Systems," Cato Institute,
+       February 28, 2008
+   33. ^ Capital: In health care, consumer theory falls flat David Wessel,
+       Wall Street Journal, September 7, 2006.
+   34. ^ "Rand study finds patients' ratings of their medical care do not
+       reflect the technical quality of their care" (Press release). RAND
+       Corporation. May 1, 2006. Retrieved August 27, 2007.
+   35. ^ Chang JT, Hays RD, Shekelle PG, et al. (May 2006). "Patients'
+       global ratings of their health care are not associated with the
+       technical quality of their care". Ann. Intern. Med. 144 (9):
+       665–72. doi:10.7326/0003-4819-144-9-200605020-00010.
+       PMID 16670136.
+   36. ^ ^a ^b ^c Health Affairs, Volume 20, No. 2. "Americans' Views on
+       Health Policy: A Fifty-Year Historical Perspective." March/April
+       2001.
+       http://content.healthaffairs.org/content/20/2/33.full.pdf+html
+   37. ^ ^a ^b ^c "Michael Moore claims a majority favor a single-payer
+       health care system". PolitiFact. Retrieved November 20, 2011.
+   38. ^ Harvard/Harris poll: Robert J. Blendon et al., “Views on health
+       care: Public opinion in three nations,” Health Affairs, Spring
+       1989;8(1) 149–57.
+   39. ^ Los Angeles Times poll: “Health Care in the United States,” Poll
+       no. 212, Storrs, Conn.: Administered by the Roper Center for Public
+       Opinion Research, March 1990
+   40. ^ Wall Street Journal-NBC poll: Michael McQueen, “Voters, sick of
+       the current health –care systems, want federal government to
+       prescribe remedy,” Wall Street Journal, June 28, 1991
+   41. ^ AP/Yahoo poll: Administered by Knowledge Networks, December 2007:
+       http://surveys.ap.org/data/KnowledgeNetworks/AP-Yahoo_2007-08_panel
+       02.pdf
+   42. ^ Los Angeles Times/Bloomberg: President Bush, Health Care, The
+       Economy. October 25, 2007.
+   43. ^ TIME MAGAZINE/ABT SRBI – July 27–28, 2009 Survey:
+       http://www.srbi.com/TimePoll4794_Final_%20Report.pdf
+   44. ^ Rasmussen Reports: Rasmussen Reports. January 1, 2010. Retrieved
+       November 20, 2011.
+   45. ^ Rasmussen Reports: Rasmussen Reports. Retrieved December 30,
+       2012.
+   46. ^ Sack, Kevin (June 20, 2009). "In Poll, Wide Support for
+       Government-Run Health". The New York Times. Retrieved January 12,
+       2012.
+   47. ^ CBS News http://www.cbsnews.com/htdocs/pdf/SunMo_poll_0209.pdf
+       |url= missing title (help).
+   48. ^ "Here's an initial summary of headlines from our health care
+       poll, followed by the full trended results" (PDF). Retrieved
+       January 12, 2012.
+   49. ^ "Kaiser Health Tracking Poll: July 2009 – Topline" (PDF).
+       Retrieved January 12, 2012.
+   50. ^ Quinnipiac University – Office of Public Affairs (April 2, 2008).
+       "Question 9: "Do you think it's the government's responsibility to
+       make sure that everyone in the United States has adequate
+       health-care, or don't you think so?"". Quinnipiac.edu. Retrieved
+       January 12, 2012.
+   51. ^ ALONSO-ZALDIVAR, RICARDO (10 March 2014). "SURVEY: UNINSURED RATE
+       DROPS; HEALTH LAW CITED". The Associated Press. Retrieved 10 March
+       2014.
+   52. ^ Easley, Jason (10 March 2014). "Republicans Darkest Fears
+       Realized: ACA Causes Number of Uninsured to Drop Across All Ages".
+       Politicus USA. Retrieved 10 March 2014.
+   53. ^ Howell, Tom (10 March 2014). "Rate of uninsured Americans is
+       dropping: Gallup". Washington Times. Retrieved 10 March 2014.
+   54. ^ President's speech prior to passage of the legislation
+   55. ^ NewsHour Extra: Democrats Push Through Historic, Controversial
+       Health Care Legislation | March 23, 2010 | PBS
+   56. ^ One Year Later, Health-Care Reform Still Controversial | Some
+       lawmakers still pushing to nullify federal policy | Unda' the
+       Rotunda | Boise Weekly
+   57. ^
+       http://www.npr.org/blogs/thetwo-way/2013/05/16/184611542/house-repu
+       blicans-vote-again-to-defund-obamacare
+   58. ^ Florida's lawsuit over health care law swells to 26 states –
+       Tampa Bay Times
+   59. ^ RealClearPolitics – Election Other – Obama and Democrats' Health
+       Care Plan
+   60. ^ Liptak, Adam (June 28, 2012). "Supreme Court Lets Health Law
+       Largely Stand, in Victory for Obama". The New York Times. Retrieved
+       June 29, 2012.
+   61. ^ "Obama signs bill to end partial shutdown, avert debt default -
+       CNN.com". CNN. October 17, 2013.
+   62. ^ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1361028/table/tbl2
+   63. ^ Primer on PPACA's New Fees and Taxes. Cigna.
+   64. ^ Kuraitis V. (2010). Pilots, Demonstrations & Innovation in the
+       PPACA Healthcare Reform Legislation. e-CareManagement.com.
+   65. ^ Gawande A (December 2009). "Testing, Testing". The New Yorker.
+       Retrieved March 22, 2010.
+   66. ^ PPACA Emphasizes Use of Health Information Technology. Foley &
+       Lardner LLP.
+   67. ^ Institute of Medicine, Committee on the Consequences of
+       Uninsurance; Board on Health Care Services (2003). Hidden Costs,
+       Value Lost: Uninsurance in America. Washington, DC: The National
+       Academies Press.
+   68. ^ Lincoln, Taylor (April 8, 2014). "Severing the Tie That Binds:
+       Why a Publicly Funded, Universal Health Care System Would Be a Boon
+       to U.S. Businesses". Public Citizen. Retrieved 20 May 2014.
+   69. ^ Ungar, Rick (April 6, 2012). "A Dose Of Socialism Could Save Our
+       States - State Sponsored, Single Payer Healthcare Would Bring In
+       Business & Jobs". Forbes. Retrieved 20 May 2014.
+   70. ^ Hogg, W.; Baskerville, N.; Lemelin, J. (2005). "Cost savings
+       associated with improving appropriate and reducing inappropriate
+       preventive care: Cost-consequences analysis". BMC Health Services
+       Research 5: 20. doi:10.1186/1472-6963-5-20. PMC 1079830.
+       PMID 15755330.
+   71. ^ Kao-Ping Chua; Flávio Casoy (June 16, 2007). "Single Payer 101".
+       American Medical Student Association. Retrieved 20 May 2014.
+   72. ^ Hogg, W.; Baskerville, N; Lemelin, J (2005). "Cost savings
+       associated with improving appropriate and reducing inappropriate
+       preventive care: cost-consequences analysis". BMC Health Services
+       Research 5 (1): 20. doi:10.1186/1472-6963-5-20. PMC 1079830.
+       PMID 15755330.
+   73. ^ PolitiFact: Barack Obama says preventive care 'saves money'.
+       February 10, 2012.
+   74. ^ Krugman, Paul (June 13, 2005). "One Nation, Uninsured". The New
+       York Times. Retrieved December 4, 2011.
+   75. ^ Physicians for a National Health Program (2008) "Single Payer
+       System Cost?" PNHP.org
+   76. ^ Friedman, Gerald. "Funding a National Single-Payer System
+       "Medicare for All" Would save Billions, and Could Be
+       Redistributive.". Dollars & Sense.  Missing or empty |url= (help);
+       |accessdate= requires |url= (help)
+   77. ^ "State-Based Single-Payer Health Care — A Solution for the United
+       States?" New England Journal of Medicine 364;13:1188-90, March 31,
+       2011
+   78. ^ "House Dems push again for creation of government-run health
+       insurance option" The Hill, January 16, 2013
+   79. ^ "Graduate Medical Education Funding Is Not Helping Solve Primary
+       Care, Rural Provider Shortages, Study Finds". Robert Wood Johnson
+       Foundation. June 19, 2013.
+   80. ^ The Medicare Bundled Payment Pilot Program: Participation
+       Considerations
+
+Further reading[edit]
+
+Books[edit]
+
+     * Christensen, Clayton Hwang MD, Jason, Grossman MD, Jerome, The
+       Innovator's Prescription, McGraw Hill, 2009. ISBN 978-0-07-159208-6
+     * Terry L. Leap, Phantom Billing, Fake Prescriptions, and the High
+       Cost of Medicine: Health Care Fraud and What to do about It
+       (Cornell University Press, 2011).
+     * Mahar, Maggie, Money-Driven Medicine: The Real Reason Health Care
+       Costs So Much, HarperCollins, 2006. ISBN 978-0-06-076533-0
+     * Starr, Paul, The Social Transformation of American Medicine, Basic
+       Books, 1982. ISBN 0-465-07934-2
+     * Reid, T.R. (2009). The Healing of America: A Global Quest for
+       Better, Cheaper and Fairer Health Care. Penguin Books.
+       ISBN 978-1-59420-234-6.  |accessdate= requires |url= (help)
+
+Articles[edit]
+
+     * Morrisey, Michael A. (2008). "Health Care". In David R. Henderson
+       (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis:
+       Library of Economics and Liberty. ISBN 978-0865976658.
+       OCLC 237794267.
+
+External links[edit]
+
+     * Health care reform in the United States at DMOZ
+
+
+                   * v
+     * t
+     * e
+
+   Health in North America
+   Sovereign states
+                      * Antigua and Barbuda
+                      * Bahamas
+                      * Barbados
+                      * Belize
+                      * Canada
+                      * Costa Rica
+                      * Cuba
+                      * Dominica
+                      * Dominican Republic
+                      * El Salvador
+                      * Grenada
+                      * Guatemala
+                      * Haiti
+                      * Honduras
+                      * Jamaica
+                      * Mexico
+                      * Nicaragua
+                      * Panama
+                      * Saint Kitts and Nevis
+                      * Saint Lucia
+                      * Saint Vincent and the Grenadines
+                      * Trinidad and Tobago
+                      * United States
+
+   Dependencies and
+   other territories
+                      * Anguilla
+                      * Aruba
+                      * Bermuda
+                      * Bonaire
+                      * British Virgin Islands
+                      * Cayman Islands
+                      * Curaçao
+                      * Greenland
+                      * Guadeloupe
+                      * Martinique
+                      * Montserrat
+                      * Puerto Rico
+                      * Saint Barthélemy
+                      * Saint Martin
+                      * Saint Pierre and Miquelon
+                      * Saba
+                      * Sint Eustatius
+                      * Sint Maarten
+                      * Turks and Caicos Islands
+                      * United States Virgin Islands
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Health_care_reform_in_the_Un
+   ited_States&oldid=620391398"
+   Categories:
+     * Healthcare reform in the United States
+     * Health policy in the United States
+
+   Hidden categories:
+     * Pages containing cite templates with deprecated parameters
+     * Pages with citations having bare URLs
+     * Pages using web citations with no URL
+     * Pages using citations with accessdate and no URL
+     * Use mdy dates from June 2013
+     * Articles slanted towards recent events from March 2013
+     * All articles with specifically marked weasel-worded phrases
+     * Articles with specifically marked weasel-worded phrases from
+       September 2010
+     * Articles with DMOZ links
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * 한국어
+     * Bahasa Indonesia
+     * Íslenska
+     * עברית
+     * Norsk bokmål
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 8 August 2014 at 16:16.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

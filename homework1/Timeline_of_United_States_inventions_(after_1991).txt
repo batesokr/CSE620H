@@ -1,0 +1,950 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Timeline of United States inventions (after 1991)
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   To view U.S. inventions from other historical time periods, please see
+   Timeline of United States inventions (before 1890), and Timeline of
+   United States inventions (1890–1945), and Timeline of United States
+   inventions (1946–1991).
+   Dean Kamen (b. 1951) demonstrating his iBOT invention to President Bill
+   Clinton in the Oval Office.
+
+                                                      Aldrin Apollo 11.jpg
+
+                                            Science and technology
+                                                      in the United States
+                                        African-American contributions
+                                                  Discoveries
+                                          NASA spin-off technologies
+                                         Native American contributions
+                                     Puerto Rican scientists and inventors
+                                     Technological and industrial history
+                                                        Inventions by date
+                                                 (before 1890)
+                                                  (1890–1945)
+                                                  (1946–1991)
+                                                 (after 1991)
+
+   A timeline of United States inventions (after 1991) encompasses the
+   ingenuity and innovative advancements of the United States within a
+   historical context, dating from the Contemporary era to the present
+   day, which have been achieved by inventors who are either native-born
+   or naturalized citizens of the United States. Copyright protection
+   secures a person's right to his or her first-to-invent claim of the
+   original invention in question, highlighted in Article I, Section 8,
+   Clause 8 of the United States Constitution which gives the following
+   enumerated power to the United States Congress:
+   “ To promote the Progress of Science and useful Arts, by securing for
+     limited Times to Authors and Inventors the exclusive Right to their
+     respective Writings and Discoveries.                                 ”
+
+   In 1641, the first patent in North America was issued to Samuel Winslow
+   by the General Court of Massachusetts for a new method of making
+   salt.^[1]^[2]^[3] On April 10, 1790, President George Washington signed
+   the Patent Act of 1790 (1 Stat. 109) into law which proclaimed that
+   patents were to be authorized for "any useful art, manufacture, engine,
+   machine, or device, or any improvement therein not before known or
+   used."^[4] On July 31, 1790, Samuel Hopkins of Pittsford, Vermont
+   became the first person in the United States to file and to be granted
+   a patent for an improved method of "Making Pot and Pearl Ashes."^[5]
+   The Patent Act of 1836 (Ch. 357, 5 Stat. 117) further clarified United
+   States patent law to the extent of establishing a patent office where
+   patent applications are filed, processed, and granted, contingent upon
+   the language and scope of the claimant's invention, for a patent term
+   of 14 years with an extension of up to an additional 7 years.^[4]
+   However, the Uruguay Round Agreements Act of 1994 (URAA) changed the
+   patent term in the United States to a total of 20 years, effective for
+   patent applications filed on or after June 8, 1995, thus bringing
+   United States patent law further into conformity with international
+   patent law.^[6] The modern-day provisions of the law applied to
+   inventions are laid out in Title 35 of the United States Code (Ch. 950,
+   sec. 1, 66 Stat. 792).
+
+   From 1836 to 2011, the United States Patent and Trademark Office
+   (USPTO) has granted a total of 7,861,317 patents^[7] relating to
+   several well-known inventions appearing throughout the timeline below.
+
+Contents
+
+     * 1 Contemporary era (1992–present)
+          + 1.1 Post–Cold War and the mid-to-late 1990s (1992–1999)
+          + 1.2 2000s decade
+     * 2 See also
+     * 3 Footnotes
+     * 4 Further reading
+     * 5 External links
+
+Contemporary era (1992–present)[edit]
+
+Post–Cold War and the mid-to-late 1990s (1992–1999)[edit]
+
+   1992 Spinner (wheel)
+     * A spinner is a type of hubcap that spins independently inside of a
+       wheel itself when the vehicle is in motion, and continues to spin
+       once the vehicle has come to a stop. Being an attachment to the
+       car's wheel, spinners operate by using one or more roller bearings
+       to isolate the spinner from the wheel, allowing it to turn while
+       the wheel is at rest. The invention of the spinner is credited to
+       James J.D. Gragg of Tulsa, Oklahoma who filed a patent on October
+       28, 1992 and was issued U.S. patent #5,290,094 on March 4,
+       1994.^[8]
+
+   1994 CMOS image sensor
+   Early prototype of a CMOS image sensor
+
+   A CMOS image sensor (complimentary metal-oxide semiconductor) is an
+   image sensor consisting of an integrated circuit containing an array of
+   pixel sensors, each pixel containing a photodetector and an active
+   amplifier. Starting at the same point, they have to convert light into
+   electrons by using the CMOS process. CMOS image sensors can be found in
+   digital SLR cameras, embedded web-cams, video cameras, automotive
+   safety systems, swallowable pill cameras, toys and video games, and
+   wireless video-security networks. The CMOS image sensor was invented by
+   renowned American physicist and engineer Eric Fossum while working at
+   NASA's Jet Propulsion Laboratory in Pasadena, California.^[9] On
+   January 28, 1994, Fossum filed U.S. patent #5,471,515, which was issued
+   to him on November 28, 1995.^[10]
+
+   1994 DNA computing
+
+   DNA computing is a form of computing which uses DNA, biochemistry and
+   molecular biology, instead of the traditional silicon-based computer
+   technologies. DNA computing, or, more generally, molecular computing,
+   is a fast developing interdisciplinary area. Research and development
+   in this area concerns theory, experiments and applications of DNA
+   computing. DNA computing is fundamentally similar to parallel computing
+   in that it takes advantage of the many different molecules of DNA to
+   try many different possibilities at once. This field was initially
+   invented by Leonard Adleman of the University of Southern California in
+   1994. Adleman demonstrated a proof-of-concept use of DNA as a form of
+   computation which solved the seven-point Hamiltonian path problem.^[11]
+
+   1994 Segway PT
+   A top-down view of a Segway PT
+
+   The Segway PT is a two-wheeled, self-balancing, zero-emission, electric
+   vehicle used for "personal transport". Segways have had success in
+   niche markets such as transportation for police departments, military
+   bases, warehouses, corporate campuses or industrial sites, as well as
+   tourism. The earliest patent resembling the modern Segway PT, U.S.
+   patent #6,357,544, was filed on May 27, 1994 and issued to Dean Kamen
+   on December 30, 1997.^[12] However, it wasn't until 2001 when Kamen
+   finally introduced his invention to the public.^[13]
+
+   1994 Quantum cascade laser
+
+   A quantum cascade laser is a sliver of semiconductor material about the
+   size of a tick. Inside, electrons are constrained within layers of
+   gallium and aluminum compounds, called quantum wells are nanometers
+   thick, much smaller than the thickness of a hair. Electrons jump from
+   one energy level to another, rather than moving smoothly between levels
+   and tunnel from one layer to the next going "through" rather than
+   "over" energy barriers separating the wells. When the electrons jump,
+   they emit photons of light. The quantum cascade laser was co-invented
+   by Alfred Y. Cho, Claire F. Gmachl, Federico Capasso, Deborah Sivco,
+   Albert Hutchinson, and Alessandro Tredicucci at Bell Laboratories in
+   1994.^[14] On April 4, 1994, the Bell Labs team filed U.S. patent
+   #5,457,709 that was issued on October 10, 1995.^[15]
+
+   1995 Bose–Einstein condensate
+     * A Bose–Einstein condensate (BEC) is a state of matter of bosons
+       confined in an external potential and cooled to temperatures very
+       near to absolute zero (0 K, −273.15 °C, or −459.67 °F). It was
+       first conceptualized by Satyendra Nath Bose and Albert Einstein in
+       1924–25 and was produced in 1995 by Wolfgang Ketterle at MIT and
+       Eric Cornell and Carl Wieman at the University of Colorado at
+       Boulder National Institute of Standards and Technology
+       Laboratory.^[16]
+
+   1995 Screenless hammer mill
+     * The screenless hammer mill, like regular hammer mills, is used to
+       pound grain. The screenless hammer mill uses air flow to separate
+       small particles from larger ones, rather than a screen, and is thus
+       more reliable which results in much more energy efficiency. The
+       screenless hammer mill was invented in 1995 by MIT professor and
+       engineer Amy B. Smith.^[17]
+
+   1995 Xtracycle
+     * An Xtracycle is a load-carrying bicycle. An Xtracycle may be
+       constructed by modifying an existing bicycle with an extension
+       called a Free Radical or by custom-building an extended-tail
+       bicycle frame. While in the country of Nicaragua on a research
+       grant, an American named Ross Evans began talking with workers,
+       commuters, farmers, and engineers about their transportation needs
+       and carrying large loads up to 200 pounds on their bicycles. Hence
+       in 1995, Ross Evans conceived the idea and built the first
+       Xtracycle. With his friend Kipchoge Spencer, Evans founded
+       Xtracycle International. He graduated from Stanford University and
+       has since introduced the Xtracycle in communities around the world
+       in developing and poor nations such as Ghana, Senegal, and South
+       Africa that rely on cheap and efficient modes of
+       transportation.^[18]
+
+   1995 Scroll wheel
+     * A scroll wheel, or mouse wheel, is a hard plastic or rubbery disc
+       on a computer mouse that is used for scrolling up or down on a web
+       page. It is perpendicular to the mouse surface and is normally
+       located between the left and right mouse buttons. The scroll wheel
+       was invented at Microsoft by Eric Michelman in 1995.^[19] On
+       December 16, 1998, Michelman filed the earliest patent for a scroll
+       wheel, U.S. patent #6,940,488, which was later issued to him on
+       September 6, 2005.^[20]
+
+   1995 JavaScript
+     * JavaScript is a scripting language widely used for client-side web
+       development. It was the originating dialect of the ECMAScript
+       standard. It is a dynamic, weakly typed, prototype-based language
+       with first-class functions. JavaScript was influenced by many
+       languages and was designed to look like Java, but be easier for
+       non-programmers to work with. In 1995, JavaScript was invented by
+       Brendan Eich under the name Mocha, which was later renamed to
+       LiveScript, and finally to JavaScript.^[21]
+
+   1996 Adobe Flash
+     * Adobe Flash is a multimedia platform created by Macromedia and
+       currently developed and distributed by Adobe Systems. Since its
+       introduction in 1996, Flash has become a popular method for adding
+       animation and interactivity to web pages. The program Flash was
+       invented in 1996 by Jonathan Gay while in college and extended it
+       while working for Silicon Beach Software and its successors.^[22]
+
+   1996 Bait car
+     * A bait car is a vehicle used by a law enforcement agency to capture
+       car thieves. The vehicles are specially modified with features
+       including GPS tracking and hidden cameras that record audio, video,
+       time and date, which can all be remotely monitored by police. A
+       remote-controlled immobilizer is installed in the vehicle that
+       allows police to disable the engine and lock the doors. The concept
+       and technology was invented by Jason Cecchettini in 1996.
+
+   1997 Virtual reality therapy
+     * Virtual Reality Immersion Therapy or VRIT is a method using
+       specially encoded virtual environments and computers to evaluate
+       and treat anxiety disorders such as acrophobia or PTSD. Conceived
+       in the early 1990s by Dr. Ralph Lamson, VRIT was clinically proven
+       and the key patent 6,425,764 was filed in 1997 for this major
+       contribution to treatment of medical conditions involving sensory
+       induced disorders by recreating such sensations in a controlled
+       manner in an immersive virtual environment with feedback to achieve
+       mastery over the causative sensations.^[23]
+
+   1998 HVLS fan
+     * An HVLS fan, which is an acronym for High-Volume-Low-Speed, is a
+       type of rotational mechanical fan that moves large amounts of
+       circulating air. In addition, HVLS fans have been found to be more
+       beneficial than traditional HVAC fans as they are more cost
+       effective as well as having a stronger cooling effect while helping
+       to maintain a constant temperature and humidity. Using 10 overhead
+       airfoil blades in a barn, the HVLS fan was invented in 1998 by
+       Walter Boyd who was challenged to find a better means to reduce the
+       heat stress of dairy cattle which in turn, would increase milk
+       production.^[24]
+
+   1999 Torino scale
+     * The Torino Scale, invented by Richard P. Binzel in 1999, is a
+       method for categorizing the impact hazard associated with
+       near-Earth objects (NEOs) such as asteroids and comets. It was
+       intended as a tool for astronomers and the public to assess the
+       seriousness of collision predictions, by combining probability
+       statistics and known kinetic damage potentials into a single threat
+       value.^[25]
+
+   1999 Phase-change incubator
+     * The phase-change incubator is a low-cost, low-maintenance incubator
+       to help test for microorganisms in water supplies. It uses small
+       balls containing a chemical compound that, when heated and then
+       kept insulated, will stay at 37 °C (approx. 99 °F) for 24 hours.
+       The phase-change incubator was invented in 1999 by MIT professor
+       and engineer Amy B. Smith.^[26]
+
+   1999 Bowtie cotter pin
+     * A bowtie cotter pin is a formed wire fastener that resembles an
+       R-clip, except it positively locks when installed. The bowtie
+       cotter pin was first patented in 1999 by Rue S. Leitzke and Roman
+       J. Baus. U.S. patent #6,135,693 was filed on March 23, 1999 and
+       issued to Leitzke and Baus on October 24, 2000.^[27]^[28]
+
+   1999 iBOT
+     * The iBOT is a stable and mobile powered wheelchair that balances on
+       two of a total of six wheels. The iBOT is capable of stair climbing
+       as well as the user having the ability to make eye-contact with a
+       standing individual. The iBOT was invented by Dean Kamen in
+       1999.^[29] Kamen filed U.S. patent #6311794 on October 27, 1999 and
+       later being issued on November 6, 2001.^[30]
+
+2000s decade[edit]
+
+   2002 SERF
+     * A spin-exchange relaxation-free (SERF) magnetometer achieves very
+       high magnetic field sensitivity by monitoring a high density vapor
+       of alkali metal atoms precessing in a near-zero magnetic field.
+       SERF magnetometers are among the most sensitive magnetic field
+       sensors and in some cases exceed the performance of SQUID detectors
+       of equivalent size. The SERF magnetometer was invented by Michael
+       V. Romalis at Princeton University in 2002.^[31]
+
+   2003 Doggles
+   A military dog wearing Doggles while being hoisted by a helicopter in
+   Afghanistan
+
+   Doggles are sunglasses for dogs in the form of tinted goggles designed
+   to fit the shape of a dog's head. While marketed as a fashion item,
+   several practical and medical uses have been reported, and prescription
+   lenses for dogs with restricted eyesight are available. Doggles were
+   co-invented by Kenneth and Veronica Di Lullo.^[32] They filed U.S.
+   patent #6,863,032 for their "Animal Eyewear" on January 23, 2003 which
+   was subsequently issued on March 8, 2005.^[33]
+
+   2003 Fermionic condensate
+
+   A fermionic condensate is a superfluid phase formed by fermionic
+   particles at low temperatures. The first atomic fermionic condensate
+   was invented by Deborah S. Jin in 2003.^[34]
+
+   2003 Slingshot (water vapor distillation system)
+
+   Slingshot is a portable water purification device powered by a stirling
+   engine running on a combustible fuel source. The size of a dorm fridge,
+   the Slingshot is claimed to be capable of turning any water source such
+   as urine, saltwater, and arsenic into drinking water. Dean Kamen
+   invented the Slingshot.^[35] Kamen filed U.S. patent # 7,340,879 on
+   November 13, 2003 for the device which was issued on March 11,
+   2008.^[36]
+
+   2007 Nanowire battery
+
+   A nanowire battery is a lithium-ion battery consisting of a stainless
+   steel anode covered in silicon nanowires. Silicon, which stores ten
+   times more lithium than graphite, allows a far greater energy density
+   on a steel anode, thus reducing the mass of the battery. The high
+   surface area further allows for fast charging and discharging. The
+   practicality of nanowire batteries is reasoned that a laptop computer
+   that runs on a regular lithium-ion battery for two hours could
+   potentially operate up to 20 hours using a nanowire battery without
+   recharging, which would be a considerable advantage for many people
+   resulting in energy conservation and cost savings. The nanowire battery
+   was co-invented in 2007 by Chinese-American Dr. Yi Cui, an assistant
+   professor of materials science and engineering along with his
+   colleagues at Stanford University.^[37]^[38]
+
+   2008 Bionic contact lens A bionic contact lens is a digital contact
+   lens worn directly on the human eye which in the future, scientists
+   believe could one day serve as a useful virtual platform for activities
+   such as surfing the World Wide Web, superimposing images on real-world
+   objects, playing video games for entertainment, and for monitoring
+   patients' medical conditions. The bionic contact lens is a form of
+   nanotechnology and microfabrication constructed of light emitting
+   diodes, an antenna, and electronic circuit wiring.^[39] The bionic
+   contact lens is the 2008 creation of Iranian-American Babak Parviz, an
+   electrical engineer at the University of Washington (UW) in
+   Seattle.^[40]^[41]
+
+   2008 Trongs
+
+   Trongs are gripping and lifting tools which are made up of three limbs,
+   or finger-channels, each with teeth on the end of them. They are
+   generally made of polypropylene and are dishwasher safe. Trongs are
+   designed for eating finger food such as buffalo wings and barbecue ribs
+   so that the user doesn't get his or her fingers messy. They are used in
+   pairs so that the user has one for each hand. Trongs were co-invented
+   in 2007 by two New Yorkers, Eric Zimmermann and Dan Ferrara Jr.^[42]
+   Zimmermann and Ferrara filed U.S. patent #12,682,890 on August 8, 2008
+   which was issued on February 24, 2011.^[43]
+
+See also[edit]
+
+   Portal icon United States portal
+   Portal icon Technology portal
+
+   Timelines of United States inventions
+     * Timeline of United States inventions (before 1890)
+     * Timeline of United States inventions (1890–1945)
+     * Timeline of United States inventions (1946–1991)
+
+   'Related topics
+     * History of United States patent law
+     * Lemelson Foundation
+     * Lemelson–MIT Prize
+     * List of African American inventors and scientists
+     * List of famous Puerto Ricans
+     * List of inventors
+     * List of inventors killed by their own inventions
+     * List of prolific inventors
+     * List of Puerto Ricans in the United States Space Program
+     * Military invention
+     * NASA spinoff
+     * National Inventors Hall of Fame
+     * Native American contributions
+     * Science and technology in the United States
+     * Technological and industrial history of the United States
+     * Timeline of United States discoveries
+     * United States Patent and Trademark Office
+     * United States patent law
+     * Yankee ingenuity
+
+Footnotes[edit]
+
+    1. ^ "History of Patent Law". IP Legal Services.
+    2. ^ James W. Cortada, "Rise of the knowledge worker, Volume 8 of
+       Resources for the knowledge-based economy", Knowledge Reader
+       Series, Butterworth-Heinemann, 1998, p. 141, ISBN 0-7506-7058-4,
+       ISBN 978-0-7506-7058-6.
+    3. ^ "Manufactures of the United States in 1860; compiled from the
+       original returns of the eighth census, under the direction of the
+       Secretary of the interior", Publisher: Government Printing Office,
+       Washington, 1865, p. cxcix: "Salt-making was commenced at Salein in
+       1636, and in 1641 Samuel Winslow was allowed, for 10 years, the
+       exclusive right of making salt in Massachusetts by a new method."
+    4. ^ ^a ^b "Chapter 4: An Overview of Patents". Digital Law Online.
+    5. ^ "First U.S. Patent Issued Today in 1790". United States Patent
+       and Trademark Office.
+    6. ^ "2701 Patent Term [R-2]". United States Patent and Trademark
+       Office.
+    7. ^ "Table of Issue Years and Patent Numbers, for Selected Document
+       Types Issued Since 1836". United States Patent and Trademark
+       Office.
+    8. ^ "Automotive wheel enhancers". United States Patent and Trademark
+       Office.
+    9. ^ "Active Pixel Sensor with Intra-Pixel Charge Transfer". National
+       Inventors Hall of Fame.
+   10. ^ "Active pixel sensor with intra-pixel charge transfer". United
+       States Patent and Trademark Office.
+   11. ^ "Molecular Computation Of Solutions To Combinatorial Problems".
+       Science Journal.
+   12. ^ Human Transporter, United States Patent and Trademark Office
+   13. ^ "About Segway – Who We Are". Segway.
+   14. ^ "The Team". Bell Laboratories.
+   15. ^ "Unipolar semiconductor laser". United States Patent and
+       Trademark Office.
+   16. ^ "Bose-Einstein Condensation, A New Form of Matter". University of
+       Washington.
+   17. ^ "Screenless hammermill". Massachusetts Institute of Technology.
+   18. ^ "Xtracycle". Massachusetts Institute of Technology.
+   19. ^ "Computing History Displays: Fifth Floor – The Computer Mouse".
+       University of Auckland.
+   20. ^ "System and method of adjusting display characteristics of a
+       displayable data". United States Patent and Trademark Office.
+   21. ^ "The History of JavaScript". The New York Times Company.
+   22. ^ "The History of Flash". Adobe.
+   23. ^ "Virtualy Reality Battles PTSD 9 2011". CNN.
+   24. ^ "HVLS History". MacroAir Technologies, Inc.
+   25. ^ "About the Torino Scale". GNO, Inc.
+   26. ^ "Student's low-cost solution aids high-tech problem in Africa".
+       Massachusetts Institute of Technology.
+   27. ^ "Bow-Tie™ Locking Cotter". Pivot Point.
+   28. ^ "Bow Tie Locking Cotter". United States Patent and Trademark
+       Office.
+   29. ^ Life on wheels: the A to Z guide to living fully with mobility
+       issues. Demos Medical Publishing.
+   30. ^ "System and method for stair climbing in a cluster-wheel
+       vehicle". United States Patent and Trademark Office.
+   31. ^ Allred, J.; Lyman, R.; Kornack, T.; Romalis, M. (2002).
+       "High-Sensitivity Atomic Magnetometer Unaffected by Spin-Exchange
+       Relaxation". Physical Review Letters 89 (13): 130801.
+       Bibcode:2002PhRvL..89m0801A. doi:10.1103/PhysRevLett.89.130801.
+       PMID 12225013.
+   32. ^ No more dreaded Mondays: ignite your passion – and other
+       revolutionary ways. Random House Digital, Inc.
+   33. ^ "Animal Eyewear". United States Patent and Trademark Office.
+   34. ^ "NIST/University of Colorado Scientists Create New Form of
+       Matter: A Fermionic Condensate". University of Colorado.
+   35. ^ Marketing of High-Technology Products and Innovations. Jakki
+       Mohr.
+   36. ^ "Locally powered water distillation system". United States Patent
+       and Trademark Office.
+   37. ^ "Sulfur in hollow nanofibers overcomes challenges of lithium-ion
+       battery design". Stanford University.
+   38. ^ "Silicon nanowire battery holds 10 times the charge of existing
+       ones". Digital Journal.
+   39. ^ "Vision of the Future Seen in Bionic Contact Lens". MSNBC.
+   40. ^ "Babak Parviz: An Engineer With a Bionic Eye". United States
+       Department of State.
+   41. ^ "Time's Best Inventions of 2008". Time Inc. October 29, 2008.
+   42. ^ "WING AND RIB EATERS FINALLY COME CLEAN THANKS TO NEW UTENSIL".
+       PR Newswire.
+   43. ^ "Food Handling Device". United States Patent and Trademark
+       Office.
+
+Further reading[edit]
+
+     * Deitch, Joanne Weisman, "A Nation of Inventors", Carlisle,
+       Massachusetts : Discovery Enterprises Limited, 2001
+     * Haven, Kendall, "100 Greatest Science Inventions of All Time",
+       Westport, Connecticut : Libraries Unlimited, 2006
+     * Hopping-Egan, Lorraine, "Inventors and Inventions", New York City,
+       New York : Scholastic, Incorporated, 1997
+     * Ngeow, Evelyn, "Inventors and Inventions", New York City, New
+       York : Marshall Cavendish Corporation, 2008
+     * Philbin, Tom, "The 100 Greatest Inventions of All Time", New York
+       City, New York : Kensington Publishing Incorporated, 2003
+
+External links[edit]
+
+     * American Inventors
+     * Google: U.S. Patents Search
+     * PBS: They Made America
+     * MIT: Invention Dimension
+     * NASA: Scientific and Technical Information: NASA Spinoff
+     * National Inventors Hall of Fame Foundation
+     * The Great Idea Finder
+     * United States Patent and Trademark Office
+
+
+       * v
+     * t
+     * e
+
+   Inventions and discoveries by nation or region
+     Lists of inventions
+   or discoveries
+                            * Australia
+                            * Austrian
+                            * Azerbaijani
+                            * Britain
+                                 + England
+                                 + Scotland
+                            * Bulgaria
+                            * Byzantine Empire
+                            * Canada
+                            * China
+                                 + Inventions
+                                 + discoveries
+                            * France
+                            * Germany
+                            * India
+                            * Indonesia
+                            * Ireland
+                            * Israel
+                            * Italy
+                            * Japan
+                            * Korea
+                            * Medieval Islam
+                            * Netherlands
+                            * Pakistan
+                            * Philippines
+                            * Portugal
+                                 + Inventions
+                                 + discoveries
+                            * Russia
+                            * Spain
+                            * Sweden
+                            * Switzerland
+                            * Thailand
+
+     Lists of inventors
+   or discoverers
+                            * Worldwide
+                                 + Inventors
+                            * African
+                            * African-American
+                            * Austrian
+                            * British
+                                 + English
+                                 + Welsh
+                            * Bulgarian
+                            * German
+                            * Italian
+                            * New Zealander
+                            * Polish
+                            * Puerto Rican
+                            * Romanian
+                            * Russian
+                            * Spanish
+                            * Swiss
+
+   Timelines of inventions
+   or discoveries
+                            * Islamic world
+                            * Russia
+                            * United States inventions
+                                 + before 1890
+                                 + 1890–1945
+                                 + 1946–1991
+                                 + after 1991
+                            * United States discoveries
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Timeline_of_United_States_in
+   ventions_(after_1991)&oldid=623755624"
+   Categories:
+     * American inventions
+     * History of science and technology in the United States
+     * Lists of inventions or discoveries
+     * Technology-related lists
+     * United States history timelines
+
+   Hidden categories:
+     * Use mdy dates from January 2012
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * ไทย
+     *
+
+   Edit links
+
+     * This page was last modified on 1 September 2014 at 20:12.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

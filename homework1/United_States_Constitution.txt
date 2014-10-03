@@ -1,0 +1,3728 @@
+   #alternate Wikipedia (en) alternate copyright Wikipedia Atom feed
+
+United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Page semi-protected
+                   United States Constitution
+   Constitution of the United States, page 1.jpg
+   Page one of the original copy of the Constitution
+     Created   September 17, 1787
+    Ratified   June 21, 1788
+    Location   National Archives,
+               Washington, D.C.
+    Author(s)  Philadelphia Convention
+   Signatories 39 of the 55 delegates
+     Purpose   To replace the Articles of Confederation (1777)
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+                   United States
+   Great Seal of the United States (obverse).svg
+   This article is part of a series on the
+   politics and government of
+   the United States
+   Federal government
+     * Constitution
+     * Law
+     * Taxation
+
+   Legislature
+     * Congress
+          + House
+               o Speaker
+               o Party leaders
+               o Congressional districts
+          + Senate
+               o President pro tempore
+               o Party leaders
+
+   Executive
+     * President
+     * Vice President
+     * Cabinet
+     * Federal agencies
+
+   Judiciary
+     * Supreme Court
+     * Courts of Appeals
+     * District Courts
+     * Other tribunals
+
+   Elections
+     * Presidential elections
+     * Midterm elections
+     * Off-year elections
+
+   Political parties
+     * Democratic
+     * Republican
+     * Third parties
+
+   Federalism
+     * State government
+          + Governors
+          + Legislatures (List)
+          + State courts
+     * Local government
+
+     * Other countries
+     * Atlas
+
+   Portal icon Politics portal
+     * v
+     * t
+     * e
+
+   The Constitution of the United States is the supreme law of the United
+   States of America.^[1] The Constitution, originally comprising seven
+   articles, delineates the national frame of government. Its first three
+   articles entrench the doctrine of the separation of powers, whereby the
+   federal government is divided into three branches: the legislative,
+   consisting of the bicameral Congress; the executive, consisting of the
+   President; and the judicial, consisting of the Supreme Court and other
+   federal courts. Articles Four, Five and Six entrench concepts of
+   federalism, describing the rights and responsibilities of state
+   governments and of the states in relationship to the federal
+   government. Article Seven establishes the procedure subsequently used
+   by the thirteen States to ratify it.
+
+   Since the Constitution came into force in 1789, it has been amended
+   twenty-seven times.^[2] In general, the first ten amendments, known
+   collectively as the Bill of Rights can be seen as addressing two major
+   concerns: protecting or safeguarding individual liberty and justice,
+   and the balance of power between the federal government and the states
+   and the people within. Subsequent amendments cover many subjects. The
+   majority of the seventeen later amendments stem from continued efforts
+   to expand individual civil rights, while others address issues related
+   to federal authority or modify government processes and procedures.
+   Amendments to the US Constitution, unlike ones made to many
+   constitutions world-wide, are appended to the end of the document.
+   Structurally, the Constitution's original text and all prior amendments
+   remain untouched. The precedent for this practice was set in 1789, when
+   Congress considered and proposed the first several Constitutional
+   amendments–the Bill of Rights. At seven articles and twenty-seven
+   amendments, it is the shortest written constitution in force.^[3]
+
+   The Constitution is interpreted, supplemented, and implemented by a
+   large body of constitutional law. The Constitution of the United States
+   was the first constitution of its kind, and has influenced the
+   constitutions of other nations.
+
+Contents
+
+     * 1 Historical context
+          + 1.1 First government
+          + 1.2 Articles of Confederation
+     * 2 Drafting
+     * 3 Ratification
+     * 4 Influences
+          + 4.1 Fundamental law
+          + 4.2 Native Americans
+          + 4.3 Other bills of rights
+     * 5 Original frame
+          + 5.1 Preamble
+          + 5.2 Article One
+          + 5.3 Article Two
+          + 5.4 Article Three
+          + 5.5 Article Four
+          + 5.6 Article Five
+          + 5.7 Article Six
+          + 5.8 Article Seven
+     * 6 Ratified amendments
+          + 6.1 Safeguards of liberty (Amendments 1, 2, 3)
+          + 6.2 Safeguards of justice (Amendments 4, 5, 6, 7, 8)
+          + 6.3 Unenumerated rights and reserved powers (Amendments 9, 10)
+          + 6.4 Governmental authority (Amendments 11, 16, 18, 21)
+          + 6.5 Safeguards of civil rights (Amendments 13, 14, 15, 19, 23,
+            24, 26)
+          + 6.6 Government processes and procedures (Amendments 12, 17,
+            20, 22, 25, 27)
+     * 7 Unratified amendments
+          + 7.1 Still pending
+          + 7.2 No longer pending
+     * 8 Judicial review
+          + 8.1 Scope and theory
+          + 8.2 Establishment
+               o 8.2.1 Self-restraint
+               o 8.2.2 Separation of powers
+          + 8.3 Subsequent Courts
+     * 9 Civic religion
+     * 10 Worldwide influence
+     * 11 Criticisms
+     * 12 See also
+     * 13 Notes
+     * 14 References
+          + 14.1 Footnotes
+          + 14.2 Works cited
+     * 15 Further reading
+     * 16 External links
+
+Historical context
+
+   See also: History of the United States Constitution
+
+First government
+
+   From September 5, 1774 to March 1, 1781, the Continental Congress
+   functioned as the provisional government of the United States.
+   Delegates to the First (1774) and then the Second (1775-1781)
+   Continental Congress were chosen by different methods, but largely
+   through the action of committees of correspondence in various colonies
+   rather than through the colonial or later state legislatures. In no
+   formal sense was it a gathering representative of existing colonial
+   governments; it represented the people, the dissatisfied elements of
+   the people, such persons as were sufficiently interested to act,
+   despite the strenuous opposition of the loyalists and the obstruction
+   or disfavor of colonial governors.^[4] The process of selecting the
+   delegates for the First and Second Continental Congresses underscores
+   the revolutionary role of the people of the colonies in establishing a
+   central governing body. Endowed by the people collectively, the
+   Continental Congress alone possessed those attributes of external
+   sovereignty which entitled it to be called a state in the international
+   sense, while the separate states, exercising a limited or internal
+   sovereignty, may rightly be considered a creation of the Continental
+   Congress, which preceded them and brought them into being.^[5]
+
+Articles of Confederation
+
+   Main article: Articles of Confederation
+
+   The Articles of Confederation and Perpetual Union was the first
+   constitution of the United States.^[6] It was drafted by the Second
+   Continental Congress from mid-1776 through late-1777, and ratification
+   by all 13 states was completed in early 1781. Under the Articles of
+   Confederation, the central government's power was kept quite limited.
+   The Confederation Congress could make decisions, but lacked enforcement
+   powers. Implementation of most decisions, including modifications to
+   the Articles, required unanimous approval of all thirteen state
+   legislatures.^[7]
+
+   Although in a way, the Congressional powers in Article 9 made the
+   "league of states as cohesive and strong as any similar sort of
+   republican confederation in history,”^[8] the chief problem with the
+   new government under the Articles of Confederation was, in the words of
+   George Washington, "no money."^[9] The Continental Congress could print
+   money; but, by 1786, the currency was worthless. (A popular phrase of
+   the times chimed that a useless object or person was .. not worth a
+   Continental, referring to the Continental dollar.) Congress could
+   borrow money, but couldn't pay it back.^[9] No state paid all their
+   U.S. taxes; Georgia paid nothing, as did New Jersey in 1785. Some few
+   paid an amount equal to interest on the national debt owed to their
+   citizens, but no more.^[9] No interest was paid on debt owed foreign
+   governments. By 1786, the United States would default on outstanding
+   debts as their dates came due.^[9]
+
+   Internationally, the Articles of Confederation did little to enhance
+   the United States' ability to defend its sovereignty as an independent
+   nation. Most of the troops in the 625-man U.S. Army were deployed
+   facing—but not threatening—British forts being maintained on American
+   soil. Those troops had not been paid; some were deserting and others
+   threatening mutiny.^[10] Spain closed New Orleans to American commerce;
+   U.S. officials protested, to no effect. Barbary Pirates began seizing
+   American ships of commerce; the Treasury had no funds to pay the
+   pirates' extortionate demands. If any extant or new military crisis
+   required action the Congress had no credit or taxing power to finance a
+   response.^[9]
+
+   Domestically, the Articles of Confederation was proving inadequate to
+   the task of bringing unity to the diverse sentiments and interests of
+   the various states. Although the Treaty of Paris (1783) was signed
+   between Great Britain and the United States and each of the states by
+   name, the various individual states proceeded blithely to violate it.
+   New York and South Carolina repeatedly prosecuted Loyalists for wartime
+   activity and redistributed their lands over the protests of both Great
+   Britain and the Confederation Congress.^[9] Individual state
+   legislatures independently laid embargoes, negotiated directly with
+   foreigners, raised armies and made war, all violating the letter and
+   the spirit of the Articles.
+
+   During Shays' Rebellion in Massachusetts, Congress could provide no
+   money to support an endangered constituent state. Nor could
+   Massachusetts pay for its own internal defense; General Benjamin
+   Lincoln was obliged to raise funds from Boston merchants to pay for a
+   volunteer army.^[11] During the next Convention, James Madison angrily
+   questioned whether the Articles of Confederation was a binding compact
+   or even a viable government. Connecticut paid nothing and "positively
+   refused" to pay U.S. assessments for two years.^[12] A rumor had it
+   that a "seditious party" of New York legislators had opened a
+   conversation with the Viceroy of Canada. To the south, the British were
+   said to be openly funding Creek Indian raids on white settlers in
+   Georgia and adjacent territory. Savannah was fortified and the State of
+   Georgia was under martial law.^[13]
+
+   Congress was paralyzed. It could do nothing significant without nine
+   states, and some legislation required all thirteen. When a state
+   produced only one member in attendance, its vote was not counted. If a
+   state's delegation were evenly divided, its vote could not be counted
+   towards the nine-count requirement.^[14] The Articles Congress had
+   "virtually ceased trying to govern."^[15] The vision of a "respectable
+   nation" among nations seemed to be fading in the eyes of
+   revolutionaries such as George Washington, Benjamin Franklin and Rufus
+   King. Their dream of a republic, a nation without hereditary rulers,
+   with power derived from the people in frequent elections, was in
+   doubt.^[16]
+
+   On February 21, 1787, the Confederation Congress called a convention of
+   state delegates at Philadelphia to propose a plan of government.^[17]
+   Unlike earlier attempts, the convention was not meant for new laws or
+   piecemeal alterations, but for the "sole and express purpose of
+   revising the Articles of Confederation". The convention was not limited
+   to commerce; rather, it was intended to “render the federal
+   constitution adequate to the exigencies of government and the
+   preservation of the Union." The proposal might take effect when
+   approved by Congress and the states.^[18]
+
+Drafting
+
+   Main article: Constitutional Convention (United States)
+   Signing the Constitution, September 17, 1789
+
+   On the appointed day, May 14, 1787, only the Virginia and Pennsylvania
+   delegations were present. A quorum of seven states met and
+   deliberations began on May 25. Eventually twelve states were
+   represented; 74 delegates were named, 55 attended and 39 signed. The
+   delegates were generally convinced that an effective central government
+   with a wide range of enforceable powers must replace the weaker
+   Congress established by the Articles of Confederation. The high quality
+   of the delegates to the convention was remarkable. As Thomas Jefferson
+   in Paris wrote to John Adams in London, "It really is an assembly of
+   demigods." According to one view, the Framers embraced ambiguity in the
+   constitutional text, since it allows for compromise and cooperation
+   about broad concepts rather than specific circumstances.^[19]
+
+   Delegates used two streams of intellectual tradition, and any one
+   delegate could be found using both or a mixture depending on the
+   subject under discussion: foreign affairs, the economy, national
+   government, or federal relationships among the states. The Virginia
+   Plan recommended a consolidated national government, generally favoring
+   the most populated states. It used the philosophy of John Locke to rely
+   on consent of the governed, Montesquieu for divided government, and
+   Edward Coke to emphasize civil liberties. The New Jersey Plan generally
+   favored the less populated states, using the philosophy of English
+   Whigs such as Edmund Burke to rely on received procedure, and William
+   Blackstone to emphasize sovereignty of the legislature.
+
+   The Convention devolved into a "Committee of the Whole" to consider the
+   fifteen propositions of the Virginia Plan in their numerical order.
+   These discussions continued until June 13, when the Virginia
+   resolutions in amended form were reported out of committee.
+
+   All agreed to a republican form of government grounded in representing
+   the people in the states. For the legislature, two issues were to be
+   decided: how the votes were to be allocated among the states in the
+   Congress, and how the representatives should be elected. The question
+   was settled by the Connecticut Compromise or "Great Compromise". In the
+   House, state power was to be based on population and the people would
+   vote. In the Senate, state power was to be based on state legislature
+   election, with two Senators generally to be elected by their respective
+   state legislatures to better reflect the long term interests of the
+   people living in each state.
+
+   The Great Compromise ended the stalemate between "patriots" and
+   "nationalists", leading to numerous other compromises in a spirit of
+   accommodation. There were sectional interests to be balanced by the
+   three-fifths compromise; reconciliation on Presidential term, powers,
+   and method of selection; and jurisdiction of the federal judiciary.
+   Debates on the Virginia resolutions continued. The 15 original
+   resolutions had been expanded into 23.
+
+   On July 24, a committee of five (John Rutledge (SC), Edmund Randolph
+   (VA), Nathaniel Gorham (MA), Oliver Ellsworth (CT), and James Wilson
+   (PA)) was elected to draft a detailed constitution. The Convention
+   adjourned from July 26 to August 6 to await the report of this
+   "Committee of Detail". Overall, the report of the committee conformed
+   to the resolutions adopted by the Convention, adding some elements.
+
+   From August 6 to September 10, the report of the committee of detail
+   was discussed, section-by-section, and clause-by-clause. Details were
+   attended to, and further compromises were effected. Toward the close of
+   these discussions, on September 8, a "Committee of Style" of five was
+   appointed. Its final version was taken up on Monday, September 17, at
+   the Convention's final session. Several of the delegates were
+   disappointed in the result, a makeshift series of unfortunate
+   compromises. Some delegates left before the ceremony, and three others
+   refused to sign. Of the thirty-nine signers, Benjamin Franklin summed
+   up addressing the Convention, "There are several parts of this
+   Constitution which I do not at present approve, but I am not sure I
+   shall never approve them." He would accept the Constitution, "because I
+   expect no better and because I am not sure that it is not the best."
+
+   The advocates of the Constitution were anxious to obtain unanimous
+   support of all twelve states represented in the Convention. Their
+   accepted formula was "Done in Convention, by the unanimous consent of
+   the States present." George Washington noted in his diary that night,
+   the proposal was agreed to by eleven state delegations and the lone Mr.
+   Hamilton for New York.
+
+Ratification
+
+   Transmitted to the Articles Congress then sitting in New York City, the
+   Constitution was forwarded to the states by Congress recommending the
+   ratification process outlined in the Constitution. Each state
+   legislature was to call elections for a "Federal Convention" to ratify
+   the Constitution. They expanded the franchise beyond the Constitutional
+   requirement to more nearly embrace "the people". Eleven ratified
+   initially, and all thirteen unanimously did so a year later. The
+   Articles Congress certified eleven states' beginning the new
+   government, and called the states to hold elections to begin operation.
+   It then dissolved itself on March 4, 1789, the day the first session of
+   the First Congress began. George Washington was inaugurated as
+   President two months later.
+   Territorial extent of the United States, 1790.
+
+   It was within the power of the old congress to expedite or block the
+   ratification of the new Constitution. The document that the
+   Philadelphia Convention presented was technically only a revision of
+   the Articles of Confederation. But the last article of the new
+   instrument provided that when ratified by conventions in nine states
+   (or 2/3 at the time), it should go into effect among the States so
+   acting.
+
+   Then followed an arduous process of ratification of the Constitution by
+   specially constituted conventions. The need for only nine states was a
+   controversial decision at the time, since the Articles of Confederation
+   could only be amended by unanimous vote of all the states.
+
+   Three members of the Convention—Madison, Gorham, and King—were also
+   Members of Congress. They proceeded at once to New York, where Congress
+   was in session, to placate the expected opposition. Aware of their
+   vanishing authority, Congress, on September 28, after some debate,
+   resolved unanimously to submit the Constitution to the States for
+   action, "in conformity to the resolves of the Convention",^[20] but
+   with no recommendation either for or against its adoption.
+
+   Two parties soon developed, one in opposition, the Antifederalists, and
+   one in support, the Federalists, of the Constitution, and the
+   Constitution was debated, criticized, and expounded clause by clause.
+   Hamilton, Madison, and Jay, under the name of Publius, wrote a series
+   of commentaries, now known as the Federalist Papers, in support of the
+   new instrument of government; however, the primary aim of the essays
+   was for ratification in the state of New York, at that time a hotbed of
+   anti-federalism. These commentaries on the Constitution, written during
+   the struggle for ratification, have been frequently cited by the
+   Supreme Court as an authoritative contemporary interpretation of the
+   meaning of its provisions. The closeness and bitterness of the struggle
+   over ratification as a result of the conferring of additional powers on
+   the central government can scarcely be exaggerated. In some states,
+   ratification was effected only after a bitter struggle in the state
+   convention itself. In every state, the Federalists proved more united,
+   and only they coordinated action between different states, as the
+   Anti-federalists were localized and did not attempt to reach out to
+   other states.^[citation needed]
+
+   The Continental Congress—which still functioned at irregular
+   intervals—passed a resolution on September 13, 1788, to put the new
+   Constitution into operation with eleven states.^[21] North Carolina and
+   Rhode Island ratified by May 1790.
+
+Influences
+
+Fundamental law
+
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (June 2012)
+   Enlightenment and Rule of law
+   John Locke by Herman Verelst.png
+   John Locke
+   Two Treatises of Government
+   life, liberty and property
+
+   Several ideas in the Constitution were new. These were associated with
+   the combination of consolidated government along with federal
+   relationships with constituent states.
+
+   The due process clause of the Constitution was partly based on common
+   law and on Magna Carta (1215), which had become a foundation of English
+   liberty against arbitrary power wielded by a tyrant.
+
+   Both the influence of Edward Coke and William Blackstone were evident
+   at the Convention. In his Institutes of the Laws of England, Edward
+   Coke interpreted Magna Carta protections and rights to apply not just
+   to nobles, but to all British subjects. In writing the Virginia Charter
+   of 1606, he enabled the King in Parliament to give those to be born in
+   the colonies all rights and liberties as though they were born in
+   England. William Blackstone's Commentaries on the Laws of England were
+   the most influential books on law in the new republic.
+
+   British political philosopher John Locke following the Glorious
+   Revolution was a major influence expanding on the contract theory of
+   government advanced by Thomas Hobbes. Locke advanced the principle of
+   consent of the governed in his Two Treatises of Government.
+   Government's duty under a social contract among the sovereign people
+   was to serve them by protecting their rights. These basic rights were
+   life, liberty and property.
+
+   Montesquieu emphasized the need for balanced forces pushing against
+   each other to prevent tyranny (reflecting the influence of Polybius's
+   2nd century BC treatise on the checks and balances of the Roman
+   Republic). In his The Spirit of the Laws, Montesquieu argues that the
+   separation of state powers should be by its service to the people's
+   liberty: legislative, executive and judicial.
+
+   Division of power in a republic was informed by the British experience
+   with mixed government, as well as the study of republics ancient and
+   modern. A substantial body of thought had been developed from the
+   literature of republicanism in the United States, including work by
+   John Adams and applied to the creation of state constitutions.
+
+Native Americans
+
+   The Iroquois nations' political confederacy and democratic government
+   under the Great Law of Peace have been credited as influences on the
+   Articles of Confederation and the United States Constitution.^[22]
+   Relations had long been close, as from the beginning, the colonial
+   English needed allies against New France. Prominent figures, such as
+   Thomas Jefferson in colonial Virginia and Benjamin Franklin in colonial
+   Pennsylvania, two colonies whose territorial claims extended into
+   Iroquois territory, were involved with leaders of the New York-based
+   Iroquois Confederacy.^[23]
+
+   In the 1750s, at the Albany Congress, Franklin called for "some kind of
+   union" of English colonies to effectively deal with Amerindian
+   tribes.^[24] John Rutledge (SC) quoted Iroquoian law to the
+   Constitutional Convention, "We, the people, to form a union, to
+   establish peace, equity, and order..." ^[25]
+
+   The Iroquois experience with confederacy was both a model and a
+   cautionary tale. Their "Grand Council" had no coercive control over the
+   constituent members, and decentralization of authority and power had
+   frequently plagued the Six Nations since the coming of the Europeans.
+   The governance adopted by the Iroquois suffered from "too much
+   democracy" and the long term independence of the Iroquois confederation
+   suffered from intrigues within each Iroquois nation.^[26]
+
+   The 1787 United States had similar problems, with individual states
+   making separate agreements with European and Amerindian nations apart
+   from the Continental Congress. Without the Convention's proposed
+   central government, the framers feared that the fate of the
+   confederated Articles' United States would be the same as the Iroquois
+   Confederacy.
+
+Other bills of rights
+
+   The United States Bill of Rights consists of the 10 amendments added to
+   the Constitution in 1791, as supporters of the Constitution had
+   promised critics during the debates of 1788.^[27] The English Bill of
+   Rights (1689) was an inspiration for the American Bill of Rights. Both
+   require jury trials, contain a right to keep and bear arms, prohibit
+   excessive bail and forbid "cruel and unusual punishments." Many
+   liberties protected by state constitutions and the Virginia Declaration
+   of Rights were incorporated into the Bill of Rights.
+
+Original frame
+
+   "We the People", as it appears in an original copy of the Constitution.
+
+   Neither the Convention which drafted the Constitution nor the Congress
+   which sent it to the thirteen states for ratification in the fall of
+   1787 gave it a lead caption. To fill this void, the document was most
+   often titled "A frame of Government" when it was printed for the
+   convenience of ratifying conventions and the information of the
+   public.^[28] This Frame of Government consisted of a preamble, seven
+   articles and a signed closing endorsement.
+
+Preamble
+
+   The Preamble to the Constitution sets out the origin, scope and purpose
+   of the Constitution. Its origin and authority is in "We, the people of
+   the United States". This echoes the Declaration of Independence. "One
+   people" dissolved their connection with another, and assumed among the
+   powers of the earth, a sovereign nation-state. The scope of the
+   Constitution is twofold. First, "to form a more perfect Union" than had
+   previously existed in the "perpetual Union" of the Articles of
+   Confederation. Second, to "secure the blessings of liberty", which were
+   to be enjoyed by not only the first generation, but for all who came
+   after, "our posterity".^[29]
+
+   It is an itemized social contract of democratic philosophy. It details
+   how the more perfect union was to be carried out between the national
+   government and the people. The people are to be provided justice, civil
+   peace, common defense, those things of a general welfare that they
+   could not provide themselves, and freedom. A government of "liberty and
+   union, now and forever", unfolds when "We" begin and establish this
+   Constitution.^[a]^[31]
+
+Article One
+
+   Article One describes the Congress, the legislative branch of the
+   federal government. Section 1, reads, "All legislative powers herein
+   granted shall be vested in a Congress of the United States, which shall
+   consist of a Senate and House of Representatives."
+
+   The article establishes the manner of election and the qualifications
+   of members of each body. Representatives must be at least 25 years old,
+   be a citizen of the United States for seven years, and live in the
+   state they represent. Senators must be at least 30 years old, be a
+   citizen for nine years, and live in the state they represent.
+
+   Article I, Section 8 enumerates the legislative powers, which include:
+
+     To make all laws which shall be necessary and proper for carrying
+     into execution the foregoing powers, and all other powers vested by
+     this Constitution in the government of the United States, or in any
+     department or officer thereof.
+
+   Article I, Section 9 lists eight specific limits on congressional
+   power.
+
+   The United States Supreme Court has interpreted the Commerce Clause and
+   the Necessary and Proper Clause in Article One to allow Congress to
+   enact legislation that is neither expressly listed in the enumerated
+   power nor expressly denied in the limitations on Congress. In McCulloch
+   v. Maryland (1819), the Supreme Court read the Necessary and Proper
+   Clause to permit the federal government to take action that would
+   "enable [it] to perform the high duties assigned to it [by the
+   Constitution] in the manner most beneficial to the people,"^[32] even
+   if that action is not itself within the enumerated powers. Chief
+   Justice Marshall clarified: "Let the end be legitimate, let it be
+   within the scope of the Constitution, and all means which are
+   appropriate, which are plainly adapted to that end, which are not
+   prohibited, but consist with the letter and spirit of the Constitution,
+   are Constitutional."^[32]
+
+Article Two
+
+   Article Two describes the office of the President of the United States.
+   The President is head of the executive branch of the federal
+   government, as well as the nation's, head of state and head of
+   government.
+
+   The office of the Vice President is also established by Article Two.
+   The Vice President and the President are both elected to serve an
+   identical four year term. Section 1 specifies that the Vice President
+   succeeds to the presidency if the President is removed, unable to
+   discharge the powers and duties of office, dies while in office, or
+   resigns. The later 25th Amendment clarifies this. Additionally, the
+   original procedure (replaced in the Twelfth Amendment) for electing the
+   President and Vice President is contained in this article.
+
+   In order to qualify to serve as president, a person must be a natural
+   born citizen of the United States or a citizen at the time of the
+   adoption of the Constitution, at least 35 years old and a resident of
+   the United States for at least 14 years.^[33] The first president to be
+   born an American citizen was Martin Van Buren.^[34]
+
+   The President receives Compensation, and this compensation may not be
+   increased or decreased during the president's term in office. The
+   president may not receive other compensation from either the United
+   States or any of the individual states. Additionally, every President
+   must take an oath when assuming office, prescribed here in the final
+   clause of the First Section, to preserve, protect, and defend the
+   Constitution.
+
+   Section 2 grants substantive powers to the president:
+     * The president is the Commander in Chief of the United States Armed
+       Forces, and of the state militias when these are called into
+       federal service.
+     * The president may require opinions of the principal officers of the
+       federal government.
+     * The president may grant reprieves and pardons, except in cases of
+       impeachment (i.e., the president cannot pardon himself or herself
+       to escape impeachment by Congress).
+
+   Section 2 grants and limits the president's appointment powers:
+     * The president may make treaties, with the advice and consent of the
+       Senate, provided two-thirds of the senators who are present agree.
+     * With the advice and consent of the Senate, the President may
+       appoint ambassadors, other public ministers and consuls, judges of
+       the Supreme Court, and all other officers of the United States
+       whose appointments are not otherwise described in the Constitution.
+     * Congress may give the power to appoint lower officers to the
+       President alone, to the courts, or to the heads of departments.
+     * The president may make any of these appointments during a
+       congressional recess. Such a "recess appointment" expires at the
+       end of the next session of Congress.
+
+   Section 3 opens by describing the president's relations with Congress:
+     * The president reports on the state of the union.
+     * The Recommendation Clause:^[35] The president has the power and
+       duty^[35] to recommend to Congress's consideration such measures
+       which the president deems as "necessary and expedient".
+     * The president may convene either house, or both houses, of
+       Congress.
+     * When the two houses of Congress cannot agree on the time of
+       adjournment, the president may adjourn them to some future date.
+
+   Section 3 adds:
+     * The president receives ambassadors.
+     * The president sees that the laws are faithfully executed.
+     * The president commissions all the offices of the federal
+       government.
+
+   Section 4 provides for removal of the president and other federal
+   officers. The president is removed on impeachment for, and conviction
+   of, treason, bribery, or other high crimes and misdemeanors.
+
+Article Three
+
+   Article Three describes the court system (the judicial branch),
+   including the Supreme Court. There shall be one court called the
+   Supreme Court. The article describes the kinds of cases the court takes
+   as original jurisdiction. Congress can create lower courts and an
+   appeals process. Congress enacts law defining crimes and providing for
+   punishment. Article Three also protects the right to trial by jury in
+   all criminal cases, and defines the crime of treason.
+
+   Section 1 vests the judicial power of the United States in federal
+   courts. and with it, the authority to interpret and apply the law to a
+   particular case. Also included is the power to punish, sentence, and
+   direct future action to resolve conflicts. The Constitution outlines
+   the U.S. judicial system. In the Judiciary Act of 1789, Congress began
+   to fill in details. Currently, Title 28 of the U.S. Code^[36] describes
+   judicial powers and administration.
+
+   As of the First Congress, the Supreme Court justices rode circuit to
+   sit as panels to hear appeals from the district courts.^[b] In 1891,
+   Congress enacted a new system. District courts would have original
+   jurisdiction. Intermediate appellate courts (circuit courts) with
+   exclusive jurisdiction heard regional appeals before consideration by
+   the Supreme Court. The Supreme Court holds discretionary jurisdiction,
+   meaning that it does not have to hear every case that is brought to
+   it.^[36]
+
+   To enforce judicial decisions, the Constitution grants federal courts
+   both criminal contempt and civil contempt powers. The court’s summary
+   punishment for contempt immediately overrides all other punishments
+   applicable to the subject party. Other implied powers include
+   injunctive relief and the habeas corpus remedy. The Court may imprison
+   for contumacy, bad-faith litigation, and failure to obey a writ of
+   mandamus. Judicial power includes that granted by Acts of Congress for
+   rules of law and punishment. Judicial power also extends to areas not
+   covered by statute. Generally, federal courts cannot interrupt state
+   court proceedings.^[36]
+
+   Clause 1 of Section 2 authorizes the federal courts to hear actual
+   cases and controversies only. Their judicial power does not extend to
+   cases which are hypothetical, or which are proscribed due to standing,
+   mootness, or ripeness issues. Generally, a case or controversy requires
+   the presence of adverse parties who have some interest genuinely at
+   stake in the case. Also required is of broad enough concern in the
+   Court’s jurisdiction that a lower court, either federal or state, does
+   not geographically cover all the existing cases before law. Courts
+   following these guidelines exercise judicial restraint. Those making an
+   exception are said to be judicial activist.^[c]
+
+   Clause 2 of Section 2 provides that the Supreme Court has original
+   jurisdiction in cases involving ambassadors, ministers and consuls, for
+   all cases respecting foreign nation-states,^[37] and also in those
+   controversies which are subject to federal judicial power because at
+   least one state is a party. Cases arising under the laws of the United
+   States and its treaties come under the jurisdiction of federal courts.
+   Cases under international maritime law and conflicting land grants of
+   different states come under federal courts. Cases between U.S. citizens
+   in different states, and cases between U.S. citizens and foreign states
+   and their citizens, come under federal jurisdiction. The trials will be
+   in the state where the crime was committed.^[36]
+
+   No part of the Constitution expressly authorizes judicial review, but
+   the Framers did contemplate the idea. The Constitution is the supreme
+   law of the land. Precedent has since established that the courts could
+   exercise judicial review over the actions of Congress or the executive
+   branch. Two conflicting federal laws are under "pendent" jurisdiction
+   if one presents a strict constitutional issue. Federal court
+   jurisdiction is rare when a state legislature enacts something as under
+   federal jurisdiction.^[d] To establish a federal system of national
+   law, considerable effort goes into developing a spirit of comity
+   between federal government and states. By the doctrine of 'Res
+   judicata', federal courts give "full faith and credit" to State
+   Courts.^[e] The Supreme Court will decide Constitutional issues of
+   state law only on a case by case basis, and only by strict
+   Constitutional necessity, independent of state legislators motives,
+   their policy outcomes or its national wisdom.^[f]
+
+   Section 3 bars Congress from changing or modifying Federal law on
+   treason by simple majority statute. Treason is also defined in this
+   section. It's not enough merely to think a treasonous thought, there
+   must be an overt act of making war or materially helping those at war
+   with the United States. Accusations must be corroborated by at least
+   two witnesses. Congress is a political body and political disagreements
+   routinely encountered should never be considered as treason. This
+   allows for nonviolent resistance to the government because opposition
+   is not a life or death proposition. However, Congress does provide for
+   other less subversive crimes and punishments such as conspiracy.^[g]
+
+Article Four
+
+   Article Four outlines the relation between the states and the relation
+   between each state and the federal government. In addition, it provides
+   for such matters as admitting new states as well as border changes
+   between the states. For instance, it requires states to give "full
+   faith and credit" to the public acts, records, and court proceedings of
+   the other states. Congress is permitted to regulate the manner in which
+   proof of such acts, records, or proceedings may be admitted. The
+   "privileges and immunities" clause prohibits state governments from
+   discriminating against citizens of other states in favor of resident
+   citizens (e.g., having tougher penalties for residents of Ohio
+   convicted of crimes within Michigan).
+
+   It also establishes extradition between the states, as well as laying
+   down a legal basis for freedom of movement and travel amongst the
+   states. Today, this provision is sometimes taken for granted,
+   especially by citizens who live near state borders; but in the days of
+   the Articles of Confederation, crossing state lines was often a much
+   more arduous and costly process. Article Four also provides for the
+   creation and admission of new states. The Territorial Clause gives
+   Congress the power to make rules for disposing of federal property and
+   governing non-state territories of the United States. Finally, the
+   fourth section of Article Four requires the United States to guarantee
+   to each state a republican form of government, and to protect the
+   states from invasion and violence.
+
+Article Five
+
+   Article Five outlines the process for amending the Constitution. Eight
+   state constitutions in effect in 1787 included an amendment mechanism.
+   Amendment making power rested with the legislature in three of the
+   states and in the other five it was given to specially elected
+   conventions. The Articles of Confederation provided that amendments
+   were to be proposed by Congress and ratified by the unanimous vote of
+   all thirteen state legislatures. This proved to be a major flaw in the
+   Articles, as it created an insurmountable obstacle to constitutional
+   reform. The amendment process crafted during the Philadelphia
+   Constitutional Convention was, according to The Federalist No. 43,
+   designed to establish a balance between pliancy and rigidity:^[38]
+
+     It guards equally against that extreme facility which would render
+     the Constitution too mutable; and that extreme difficulty which
+     might perpetuate its discovered faults. It moreover equally enables
+     the General and the State Governments to originate the amendment of
+     errors, as they may be pointed out by the experience on one side, or
+     on the other.
+
+   There are two steps in the amendment process. Proposals to amend the
+   Constitution must be properly Adopted and Ratified before becoming
+   operative.
+
+          A proposed amendment may be adopted and sent to the states for
+          ratification by either:
+
+          + The United States Congress, whenever a two-thirds majority in
+            both the Senate and the House of Representatives deem it
+            necessary; OR,
+          + A national convention, called by Congress for this purpose, on
+            the application of the legislatures of two-thirds (presently
+            34) of the states.
+
+          To become part of the Constitution, an adopted amendment must be
+          ratified by either (as determined by Congress):
+
+          + The legislatures of three-fourths (presently 38) of the
+            states; OR,
+          + State ratifying conventions in three-fourths (presently 38) of
+            the states.
+
+   The decision of which ratification method will be used for any given
+   amendment is Congress' alone to make.^[39] The latter procedure has
+   been utilized only once, for the Twenty-first Amendment.^[40]
+
+   Presently, the Archivist of the United States is charged with
+   responsibility for administering the ratification process under the
+   provisions of 1 U.S. Code § 106b. The Archivist submits the proposed
+   amendment to the states for their consideration by sending a letter of
+   notification to each Governor. Each Governor then formally submits the
+   amendment to their state's legislature. When a state ratifies a
+   proposed amendment, it sends the Archivist an original or certified
+   copy of the state’s action. Ratification documents are examined by the
+   Office of the Federal Register for facial legal sufficiency and an
+   authenticating signature.^[41]
+
+   Article Five ends by shielding certain clauses in the new frame of
+   government from being amended. Article One, Section 9, Clauses 1
+   prevents Congress from passing any law that would restrict the
+   importation of slaves into the United States prior to 1808, plus the
+   fourth clause from that same section, which reiterates the
+   Constitutional rule that direct taxes must be apportioned according
+   state populations. These clauses were explicitly shielded from
+   Constitutional amendment prior to 1808. On January 1, 1808, the first
+   day it was permitted to do so, Congress approved legislation
+   prohibiting the importation of slaves into the country. On February 3,
+   1913, with ratification of the Sixteenth Amendment, Congress gained the
+   authority to levy an income tax without apportioning it among the
+   states or basing it on the United States Census. The third textually
+   entrenched provision is Article One, Section 3, Clauses 1, which
+   provides for equal representation of the states in the Senate. The
+   shield protecting this clause from the amendment process is less
+   absolute—"no state, without its consent, shall be deprived of its equal
+   Suffrage in the Senate"—but permanent.
+
+Article Six
+
+   Article Six establishes the Constitution, and all federal laws and
+   treaties of the United States made according to it, to be the supreme
+   law of the land, and that "the judges in every state shall be bound
+   thereby, any thing in the laws or constitutions of any state
+   notwithstanding." It validates national debt created under the Articles
+   of Confederation and requires that all federal and state legislators,
+   officers, and judges take oaths or affirmations to support the
+   Constitution. This means that the states' constitutions and laws should
+   not conflict with the laws of the federal constitution and that in case
+   of a conflict, state judges are legally bound to honor the federal laws
+   and constitution over those of any state. Article Six also states "no
+   religious Test shall ever be required as a Qualification to any Office
+   or public Trust under the United States."
+
+Article Seven
+
+   Article Seven describes the process for establishing the proposed new
+   frame of government. Anticipating that the influence of many state
+   politicians would be Antifederalist, delegates to the Philadelphia
+   Convention provided for ratification of the Constitution by popularly
+   elected ratifying conventions in each state. The convention method also
+   made it possible that judges, ministers and others ineligible to serve
+   in state legislatures, could be elected to a convention. Suspecting
+   that Rhode Island, at least, might not ratify, delegates decided that
+   the Constitution would go into effect as soon as nine states
+   (two-thirds rounded up) ratified.^[42] Once ratified by this minimum
+   number of states, it was anticipated that the proposed Constitution
+   would become this Constitution between the nine or more that signed. It
+   would not cover the four or fewer states that might not have
+   signed.^[43]
+
+Ratified amendments
+
+                        United States Bill of Rights
+                 Currently housed in the National Archives.
+
+   See also: List of amendments to the United States Constitution
+
+   The Constitution has twenty-seven amendments. Among these, Amendments
+   1–10 are collectively known as the Bill of Rights, and Amendments 13–15
+   are known as the Reconstruction Amendments. Excluding the
+   Twenty-seventh Amendment, which was pending before the states for
+   7002202000000000000202 years, 7002225000000000000225 days, the longest
+   pending amendment that was successfully ratified was the Twenty-second
+   Amendment, which took 70003000000000000003 years,
+   7002343000000000000343 days. The Twenty-sixth Amendment was ratified in
+   the shortest time, 100 days. The average ratification time for the
+   first twenty-six amendments was 1 year, 252 days, for all twenty-seven,
+   9 years, 48 days.
+
+   A proposed amendment becomes an operative part of the Constitution as
+   soon as it is ratified by three-fourths of the States (currently 38 of
+   the 50 States). There is no further step. The text requires no
+   additional action by Congress or anyone else after ratification by the
+   final state. ^[44] Thus, when the Office of the Federal Register
+   verifies that it has received the required number of authenticated
+   ratification documents, it drafts a formal proclamation for the
+   Archivist to certify that the amendment is valid and has become part of
+   the nation's frame of government. This certification is published in
+   the Federal Register Federal Register and United States Statutes at
+   Large and serves as official notice to Congress and to the nation that
+   the ratification process has been successfully completed.^[41]
+
+Safeguards of liberty (Amendments 1, 2, 3)
+
+   The First Amendment (1791) prohibits Congress from obstructing the
+   exercise of certain individual freedoms: freedom of religion, freedom
+   of speech, freedom of the press, freedom of assembly, and freedom of
+   petition. Its free exercise clause guarantees a person’s right to hold
+   whatever religious beliefs he or she wants, and to freely exercise that
+   belief, and its establishment clause prevents the federal government
+   from creating an official national church or favoring one set of
+   religious beliefs over another. The amendment guarantees an
+   individual’s right to express and to be exposed to a wide range of
+   opinions and views. It was intended to ensure a free exchange of ideas
+   even if the ideas are unpopular. It also guarantees an individual’s
+   right to physically gather with a group of people to picket or protest;
+   or associate with others in groups for economic, political or religious
+   purposes. Additionally, it guarantees an individual’s right to petition
+   the government for a redress of grievances.^[45]
+
+   The Second Amendment (1791) protects the right of individuals^[46]^[47]
+   to keep and bear arms.^[48]^[49]^[50]^[51] Although the Supreme Court
+   has ruled that this right applies to individuals, not merely to
+   collective militias, it has also held that the government may regulate
+   or place some limits on the manufacturer, ownership and sale of
+   firearms or similar devices.^[52]^[53] Requested by several states
+   during the Constitutional ratification debates, the widespread desire
+   for such an amendment reflected the lingering resentment over the
+   widespread efforts of the British to confiscate the colonists’ firearms
+   at the outbreak of the Revolutionary War. Patrick Henry had
+   rhetorically asked, shall we be stronger, "when we are totally
+   disarmed, and when a British Guard shall be stationed in every
+   house?"^[54]
+
+   The Third Amendment (1791) prohibits the federal government from
+   forcing individuals to provide lodging to soldiers in their homes
+   during peacetime without their consent. Requested by several states
+   during the Constitutional ratification debates, the widespread desire
+   for such an amendment reflected the lingering resentment over the
+   Quartering Acts passed by the British Parliament during the
+   Revolutionary War, which had allowed British soldiers to take over
+   private homes for their own use.^[55]
+
+Safeguards of justice (Amendments 4, 5, 6, 7, 8)
+
+   The Fourth Amendment (1791) protects people against unreasonable
+   searches and seizures of either self or property by government
+   officials. A search can mean everything from a frisking by a police
+   officer or to a demand for a blood test to a search of an individual’s
+   home or car. A seizure occurs when the government takes control of an
+   individual or something in his or her possession. Items that are seized
+   often are used as evidence when the individual is charged with a crime.
+   It also imposes certain limitations on police investigating a crime and
+   prevents the use of illegally obtained evidence at trial.^[56]
+
+   The Fifth Amendment (1791) establishes a requirement that a trials for
+   a major crime may commence only after an indictment has been handed
+   down by a grand jury; protects individuals from double jeopardy, being
+   tried and put in danger of being punished more than once for the same
+   criminal act; prohibits punishment without due process of law, thus
+   protecting individuals from being imprisoned without fair procedures;
+   and provides that an accused person may not be compelled to reveal to
+   the police, prosecutor, judge, or jury any information that might
+   incriminate or be used against him or her in a court of law.
+   Additionally, the Fifth Amendment also prohibits government from taking
+   private property for public use without "just compensation", the basis
+   of eminent domain in the United States.^[57]
+
+   The Sixth Amendment (1791) provides several protections and rights to
+   an individual accused of a crime. A person has the right to have his or
+   her case heard by an impartial jury composed of people from the
+   surrounding community who are willing to decide the case based only on
+   the evidence. A person has the right to a speedy trial, as without one,
+   a defendant could be held indefinitely under a cloud of unproven
+   criminal accusations. The right to a speedy trial is crucial to
+   assuring that a criminal defendant receives a fair trial, which is also
+   their right. If too much time elapses between the alleged crime and the
+   trial, witnesses may die or leave the area, their memories may fade,
+   and physical evidence may be lost. Likewise, a person has the right to
+   a public trial. This right protects defendants from secret proceedings
+   that might encourage abuse of the justice system, and serves to keep
+   the public informed about how the criminal justice system works. This
+   amendment also guarantees an individual’s right to legal counsel if
+   accused of a crime, guarantees that the accused may require witnesses
+   to attend the trial and testify in the presence of the accused, and
+   guarantees the accused a right to know the charges against them. In
+   1966, the Supreme Court ruled that the Fifth Amendment prohibition on
+   forced self-incrimination and the Sixth Amendment clause on right to
+   counsel were to be made known to all persons placed under arrest,
+   giving rise to what has become known as the ‘’Miranda warning’’.^[58]
+
+   The Seventh Amendment (1791) extends the right to a jury trial to
+   federal civil cases, and inhibits courts from overturning a jury's
+   findings of fact. Although the Seventh Amendment itself says that it is
+   limited to “suits at common law,” meaning cases that triggered the
+   right to a jury under English law, the amendment has been found to
+   apply in lawsuits that are similar to the old common law cases. For
+   example, the right to a jury trial applies to cases brought under
+   federal statutes that prohibit race or gender discrimination in housing
+   or employment. Importantly, this amendment guarantees the right to a
+   jury trial only in federal court, not in state court.^[59]
+
+   The Eighth Amendment (1791) protects people from having bail or fines
+   set at an amount so high that it would be impossible for all but the
+   richest defendants to pay and also protects people from being subjected
+   to cruel and unusual punishment. Although this phrase originally was
+   intended to outlaw certain gruesome methods of punishment, it has been
+   broadened over the years to protect against punishments that are
+   grossly disproportionate to or too harsh for the particular crime. This
+   provision has also been used to challenge prison conditions such as
+   extremely unsanitary cells, overcrowding, insufficient medical care and
+   deliberate failure by officials to protect inmates from one
+   another.^[60]
+
+Unenumerated rights and reserved powers (Amendments 9, 10)
+
+   The Ninth Amendment (1791) declares that individuals have other
+   fundamental rights, in addition to those stated in the Constitution.
+   During the Constitutional ratification debates Anti-Federalists argued
+   that a Bill of Rights should be added. One of the arguments the
+   Federalists gave against the addition of a Bill of Rights was that,
+   because it was impossible to list every fundamental right, it would be
+   dangerous to list just some of them, for fear of suggesting that the
+   list was explicit and exhaustive, thus enlarging the power of the
+   federal government by implication. The Anti-Federalists persisted in
+   favor of a Bill of Rights, and consequently several state ratification
+   conventions refused to ratify the Constitution without a more specific
+   list of protections, so the First Congress added what became the Ninth
+   Amendment as a compromise. Because the rights protected by the Ninth
+   Amendment are not specified, they are referred to as “unenumerated.”
+   The Supreme Court has found that unenumerated rights include such
+   important rights as the right to travel, the right to vote, the right
+   to keep personal matters private and to make important decisions about
+   one’s health care or body.^[61]
+
+   The Tenth Amendment (1791) was included in the Bill of Rights to
+   further define the balance of power between the federal government and
+   the states. The amendment states that the federal government has only
+   those powers specifically granted by the Constitution. These powers
+   include the power to declare war, to collect taxes, to regulate
+   interstate business activities and others that are listed in the
+   articles or in subsequent constitutional amendments. Any power not
+   listed is, says the Tenth Amendment, left to the states or the people.
+   While there is no specific list of what these “reserved powers” may be,
+   the Supreme Court has ruled that laws affecting family relations,
+   commerce that occurs within a state’s own borders, and local law
+   enforcement activities, are among those specifically reserved to the
+   states or the people.^[62]
+
+Governmental authority (Amendments 11, 16, 18, 21)
+
+   The Eleventh Amendment (1795) specifically prohibits federal courts
+   from hearing cases in which a state is sued by an individual from
+   another state or another country, thus extending to the states
+   sovereign immunity protection from certain types of legal liability.
+   Article Three, Section 2, Clause 1 has been affected by this amendment,
+   which also overturned the Supreme Court’s decision in Chisholm v.
+   Georgia.^[63]^[64]
+
+   The Sixteenth Amendment (1913) removed existing Constitutional
+   constraints that limited the power of Congress to lay and collect
+   direct taxes on income. Specifically, the apportionment constraints
+   delineated in Article 1, Section 9, Clause 4 have been removed by this
+   amendment, which also overturned an 1895 Supreme Court decision, in
+   Pollock v. Farmers' Loan & Trust Co., that declared a federal income
+   taxe on rents, dividends, and interest unconstitutional. This amendment
+   has become the basis for all subsequent federal income tax legislation
+   and has greatly expanded the scope of federal taxing and spending in
+   the years since.^[65]
+
+   The Eighteenth Amendment (1919) prohibited the making, transporting,
+   and selling of alcoholic beverages nationwide. It also authorized
+   Congress to enact legislation enforcing this prohibition. Adopted at
+   the urging of a national temperance movement, proponents believed that
+   the use of alcohol was reckless and destructive and that prohibition
+   would reduce crime and corruption, solve social problems, decrease the
+   need for welfare and prisons, and improve the health of all Americans.
+   During prohibition, it is estimated that alcohol consumption and
+   alcohol related deaths declined dramatically. But prohibition had
+   other, more negative consequences. The amendment drove the lucrative
+   alcohol business underground, giving rise to a large and pervasive
+   black market. In addition, prohibition encouraged disrespect for the
+   law and strengthened organized crime. Prohibition came to an end in
+   1933, when this amendment was repealed.^[66]
+
+   The Twenty-first Amendment (1933) repealed the Eighteenth Amendment and
+   returned the regulation of alcohol to the states. Each state sets its
+   own rules for the sale and importation of alcohol, including the
+   drinking age. Because a federal law provides federal funds to states
+   that prohibit the sale of alcohol to minors under the age of
+   twenty-one, all fifty states have set their drinking age there. Rules
+   about how alcohol is sold vary greatly from state to state.^[67]
+
+Safeguards of civil rights (Amendments 13, 14, 15, 19, 23, 24, 26)
+
+   The Thirteenth Amendment (1865) abolished slavery and involuntary
+   servitude, except as punishment for a crime, and authorized Congress to
+   enforce abolition through legislation. Though three–four million slaves
+   had been declared free by President Abraham Lincoln's 1863 Emancipation
+   Proclamation, their post Civil War status was unclear, as was the
+   status of millions of other slaves nationwide.^[68] Congress intended
+   the Thirteenth Amendment to be a proclamation of freedom for all slaves
+   throughout the nation and to take the question of emancipation away
+   from politics. A portion of Article 1, Section 2, clause 3 became
+   inoperative and Article 4 Section 2 Clause 3 rendered mostly moot by
+   this amendment, which the Supreme Court has interpreted broadly to
+   forbid work forced by the use or threat of physical restraint or injury
+   or through law.^[69]
+
+   The Fourteenth Amendment (1868) granted United States citizenship to
+   former slaves and to all persons "subject to U.S. jurisdiction". It
+   also contained three new limits on state power: a state shall not
+   violate a citizen’s privileges or immunities; shall not deprive any
+   person of life, liberty, or property without due process of law; and
+   must guarantee all persons equal protection of the laws. These
+   limitations dramatically expanded the protections of the Constitution.
+   Prior to the adoption of the Fourteenth Amendment, the protections in
+   the Bill of Rights limited only the actions of the federal government,
+   unless the provision specifically stated otherwise. This amendment,
+   according to the Supreme Court's Doctrine of Incorporation, makes most
+   provisions of the Bill of Rights applicable to state and local
+   governments as well. The mode of apportionment of representatives
+   delineated in Article 1, Section 2, Clause 3 has been superseded by
+   that of this amendment, which also overturned the Supreme Court’s
+   decision in Dred Scott v. Sandford.^[70]
+
+   The Fifteenth Amendment (1870) prohibits the use of race, color, or
+   previous condition of servitude in determining which citizens may vote.
+   The last of three post Civil War Reconstruction Amendments, it sought
+   to abolish one of the key vestiges of slavery and to advance the civil
+   rights and liberties of former slaves.^[71]
+
+   The Nineteenth Amendment (1920) prohibits the government from denying
+   women the right to vote on the same terms as men. Prior to the
+   amendment’s adoption, only a few states permitted women to vote and to
+   hold office. With its ratification, this right was extended to all
+   women nation wide.^[72]
+
+   The Twenty-third Amendment (1961) extends the right to vote in
+   presidential elections to citizens residing in the District of Columbia
+   by granting the District electors in the Electoral College, as if it
+   were a state (but no more than the smallest state). When first
+   established as the nation’s capital in 1800, the district had a small
+   population of only five thousand residents. As a federal territory,
+   however, and not a state, the inhabitants had neither a local
+   government, nor the right to vote in federal elections. Although by
+   1960 the population of the District of Columbia had grown to over
+   760,000 people, and the District’s residents had all the
+   responsibilities of citizenship—they were required to pay federal taxes
+   and could be drafted to serve in the military—citizens in thirteen
+   states with lower populations had more voting rights than District
+   residents. Because of this amendment, citizens living in the district
+   are no longer shut out from the Presidential–Vice Presidential election
+   process.^[73]
+
+   The Twenty-fourth Amendment (1964) prohibits the government from
+   imposing a poll tax–a state imposed fee for voting. Although passage of
+   the Thirteenth, Fourteenth, and Fifteenth Amendments helped remove many
+   of the discriminatory laws left over from slavery, they did not
+   eliminate all forms of discrimination. Along with literacy tests and
+   durational residency requirements, poll taxes were used to keep
+   low-income (primarily African American) citizens from participating in
+   elections. The Supreme Court has since struck down these discriminatory
+   measures, opening democratic participation to all, regardless of one’s
+   ability to pay.^[74]
+
+   The Twenty-sixth Amendment (1971) prohibits the government from denying
+   the right of US citizens, eighteen years of age or older, to vote on
+   account of age. The drive to lower the voting age from 21 to 18 grew
+   across the country during the 1960s, driven in large part by the
+   broader student activism movement protesting the Vietnam War. The
+   momentum behind it gained strength following the Supreme Court's
+   decision in Oregon v. Mitchell, which held that Congress may set
+   requirements for voting in federal elections, but not for state or
+   local elections. The measure, which overturns overturns the Mitchell
+   decision, is another in a line of constitutional changes that expanded
+   the right to vote to more citizens.^[75]
+
+Government processes and procedures (Amendments 12, 17, 20, 22, 25, 27)
+
+   The Twelfth Amendment (1804) modifies the way the Electoral College
+   chooses the President and Vice President of the United States. The
+   amendment stipulates that each elector must cast a distinct vote for
+   President and Vice President, instead of two votes for President. It
+   also suggests strongly that the President and Vice President should not
+   be from the same state, as it prohibits the electors from that state
+   from voting for both offices. The electoral process delineated by
+   Article II, Section 1, Clause 3 has been superseded by that of this
+   amendment, which also extends the eligibility requirements to become
+   President to the Vice President.^[76]
+
+   The Seventeenth Amendment (1913) modifies the way that United States
+   senators are elected. The amendment stipulates that senators are to be
+   elected by direct popular vote. The amendment supersedes Article 1,
+   Section 2, Clauses 1and 2, under which the two senators from each state
+   were elected by the state legislature of each state. Under this scheme
+   senators represented the states to the federal Union. It also alters
+   the procedure for filling vacancies in the Senate, allowing for state
+   legislatures to permit their governors to make temporary appointments
+   until a special election can be held.^[77]
+
+   The Twentieth Amendment (1933) changes the date on which both a new
+   President, Vice President and Congress take office, thus reducing the
+   amount of time between Election Day and the beginning of Presidential,
+   Vice Presidential and Congressional terms.^[78] Originally, the
+   Constitution provided that the annual meeting was to be on the first
+   Monday in December unless otherwise provided by law. The government
+   under the Articles of Confederation had determined, as a transitional
+   measure to the new constitution, that the date for "commencing
+   proceedings" under the U.S. Constitution would be March 4, 1789.^[79]
+   Since the first term of the original federal officials began on this
+   date and ended 2, 4, or 6 years later, this became the date on which
+   new federal officials took office in subsequent years. This meant that,
+   every other year, although a new Congress was elected in November, it
+   did not come into office until the following March, with a "lame duck"
+   Congress convening in the interim. However, as transportation and
+   communications improved, this meant that the departing Congress and
+   president would remain in office for an unnecessarily long time
+   following the November elections. By moving the beginning of the
+   president’s new term from March 4 to January 20 (and in the case of
+   Congress, to January 3), proponents of the Constitutional change hoped
+   to put an end to lame duck sessions, while at the same time allowing
+   for a speedier transition for the new administration and
+   legislators.^[80]
+
+   The Twenty-second Amendment (1951) limits an elected president to two
+   terms in office, a total of eight years. However, it is possible for an
+   individual to serve up to ten years as president. The amendment
+   specifies that if a vice president or other successor takes over for a
+   president—who, for whatever reason, cannot fulfill the term—and serves
+   two years or less of the former president’s term, the new president may
+   serve for two full four-year terms. If more than two years remain of
+   the term when the successor assumes office, the new president may serve
+   only one additional term. Although nothing in the original frame of
+   government limited how many presidential terms one could serve, the
+   nation’s first president, George Washington, declined to run for a
+   third term, suggesting that two terms of four years were enough for any
+   president. The "two terms and out" precedent established by Washington
+   remained an unwritten rule of the presidency until broken by Franklin
+   D. Roosevelt, who was elected to a third term as president 1940 and in
+   1944 to a fourth.^[81]
+
+   The Twenty-fifth Amendment (1967) clarifies what happens upon the
+   death, removal, or resignation of the President or Vice President and
+   how the Presidency is temporarily filled if the President becomes
+   disabled and cannot fulfill the responsibilities of the office. It
+   supersedes the ambiguous succession rule established in Article II,
+   Section 1, Clause 6, which does not expressly state whether the Vice
+   President becomes the President, as opposed to an Acting President, if
+   the President dies, resigns, is removed from office or is otherwise
+   unable to discharge the powers of the presidency. Neither does it
+   provide for filling the Vice Presidency if that office becomes vacant.
+   A plan of succession has frequently been necessary. Eight presidents
+   have died in office and one resigned from office mid-term. Similarly,
+   seven vice presidents have died in office and two resigned mid-term.
+   This has meant that for nearly 20% of U.S. history, there has been no
+   Vice-President in office who can assume the Presidency.^[82]
+
+   The Twenty-seventh Amendment (1992) prevents members of Congress from
+   granting themselves pay raises during the current session. Rather, any
+   raises that are adopted must take effect during the next session of
+   Congress. Its proponents believed that Federal legislators would be
+   more likely to be cautious about increasing congressional pay if they
+   have no personal stake in the vote. Article One, section 6, Clause 1
+   has been affected by this amendment, which remained pending for over
+   two centuries as it contained no time limit for ratification.^[83]
+
+Unratified amendments
+
+   Collectively, members of the House and Senate typically propose around
+   200 amendments during each two–year term of Congress.^[84] Most
+   however, never get out of the Congressional committees in which they
+   were proposed, and only a fraction of those that do receive enough
+   support to win Congressional approval to actually go through the
+   constitutional ratification process.
+
+   Six amendments approved by Congress and proposed to the states for
+   consideration have not been ratified by the required number of states
+   to become part of the Constitution. Four of these are technically still
+   pending, as Congress did not set a time limit (see also Coleman v.
+   Miller) for their ratification. The other two are no longer pending, as
+   both had a time limit attached and in both cases the time period set
+   for their ratification expired.
+
+Still pending
+
+   The Congressional Apportionment Amendment (proposed 1789) would, if
+   ratified, establish a formula for determining the appropriate size of
+   the House of Representatives and the appropriate apportionment of
+   representatives among the states following each constitutionally
+   mandated decennial census. At the time it was sent to the states for
+   ratification, an affirmative vote by ten states would have made this
+   amendment operational. That number rose to eleven on March 4, 1791,
+   when Vermont joined the Union. By the end of 1791, the amendment was
+   only one state short of the mark. However, when Kentucky attained
+   statehood on June 1, 1792, the number climbed to twelve. Thus, even
+   though Kentucky ratified it that summer (along with the other eleven
+   amendments), the amendment remained one state shy of the number needed
+   for it to become part of the Constitution. No additional states have
+   ratified this amendment since. To become part of the Constitution
+   today, ratification by an additional twenty-seven would be required.
+   The Apportionment Act of 1792 apportioned the House of Representatives
+   at 33,000 persons per representative in consequence of the 1790 census.
+   Reapportionment has since been effected by statute.
+
+   The Titles of Nobility Amendment (proposed 1810) would, if ratified,
+   strip United States citizenship from any citizen who accepted a title
+   of nobility from a foreign country. When submitted to the states,
+   ratification by thirteen states was required for it to become part of
+   the Constitution; eleven had done so by early 1812. However, with the
+   addition of Louisiana into the Union that year (April 30, 1812), the
+   ratification threshold rose to fourteen. Thus, when New Hampshire
+   ratified it in December 1812, the amendment again came within two
+   states of being ratified. No additional states ratified this amendment
+   since. To become part of the Constitution today, ratification by an
+   additional twenty-six would be required.
+
+   The Corwin Amendment (proposed 1861) would, if ratified, shield
+   "domestic institutions" of the states (which in 1861 included slavery)
+   from the constitutional amendment process and from abolition or
+   interference by Congress. This proposal was one of several measures
+   considered by Congress in an ultimately unsuccessful attempt to attract
+   the seceding states back into the Union and to entice border slave
+   states to stay.^[85] Three states ratified the amendment in the early
+   1860s, but none have since. To become part of the Constitution today,
+   ratification by an additional thirty-five states would be required. The
+   subject of this proposal was subsequently addressed by the 1865
+   Thirteenth Amendment which abolished slavery.
+
+   The Child Labor Amendment, (proposed 1924) would, if ratified,
+   specifically authorize Congress to limit, regulate and prohibit labor
+   of persons less than eighteen years of age. The amendment was proposed
+   in response to Supreme Court rulings in Hammer v. Dagenhart (1918) and
+   Bailey v. Drexel Furniture Co. (1922) that found federal laws
+   regulating and taxing goods produced by employees under the ages of 14
+   and 16 unconstitutional. When submitted to the states, ratification by
+   36 states was required for it to become part of the Constitution, as
+   there were forty-eight states. Twenty-eight had ratified the amendment
+   by early 1937, but none have done so since. To become part of the
+   Constitution today, ratification by an additional ten would be
+   required.^[86] A federal statute approved June 25, 1938, regulated the
+   employment of those under 16 or 18 years of age. The Supreme Court, by
+   unanimous vote in United States v. Darby Lumber Co. (1941), found this
+   law constitutional, effectively overturning Hammer v. Dagenhart. As a
+   result of this development, the movement pushing for the amendment
+   concluded.^[87]
+
+No longer pending
+
+   The Equal Rights Amendment (proposed 1972) would have prohibited
+   deprivation of equality of rights (discrimination) by the federal or
+   state governments on account of sex. A seven year ratification time
+   limit was initially placed on the amendment, but as the deadline
+   approached, Congress granted an extension. Thirty-five states had
+   ratified the amendment, three short of the number required for it to be
+   implemented, prior to the original deadline and none did so during the
+   extension period, thus the amendment failed to be adopted.
+
+   The District of Columbia Voting Rights Amendment (proposed 1978) would
+   have granted the District of Columbia full representation in the United
+   States Congress as if it were a state, repealed the 23rd Amendment,
+   granted the District unconditional Electoral College voting rights, and
+   allowed its participation in the process by which the Constitution is
+   amended. A seven year ratification time limit was placed on the
+   amendment. Sixteen states ratified the amendment (twenty-two short of
+   the number required for it to be implemented) prior to the deadline,
+   thus the amendment failed to be adopted.
+
+Judicial review
+
+   See also: Judicial review in the United States, Judicial review and
+   Appellate review
+
+   The way the Constitution is understood is influenced by court
+   decisions, especially those of the Supreme Court. These decisions are
+   referred to as precedents. Judicial review is the power of the Court to
+   examine federal legislation, federal executive, and all state branches
+   of government, to decide their constitutionality, and to strike them
+   down if found unconstitutional.
+
+   Judicial review includes the power of the Court to explain the meaning
+   of the Constitution as it applies to particular cases. Over the years,
+   Court decisions on issues ranging from governmental regulation of radio
+   and television to the rights of the accused in criminal cases have
+   changed the way many constitutional clauses are interpreted, without
+   amendment to the actual text of the Constitution.
+
+   Legislation passed to implement the Constitution, or to adapt those
+   implementations to changing conditions, broadens and, in subtle ways,
+   changes the meanings given to the words of the Constitution. Up to a
+   point, the rules and regulations of the many federal executive agencies
+   have a similar effect. If an action of Congress or the agencies is
+   challenged, however, it is the court system that ultimately decides
+   whether these actions are permissible under the Constitution.
+
+   The Supreme Court has indicated that once the Constitution has been
+   extended to an area (by Congress or the Courts), its coverage is
+   irrevocable. To hold that the political branches may switch the
+   Constitution on or off at will would lead to a regime in which they,
+   not this Court, say "what the law is.".^[h]
+
+Scope and theory
+
+   Courts established by the Constitution can regulate government under
+   the Constitution, the supreme law of the land. First, they have
+   jurisdiction over actions by an officer of government and state law.
+   Second, federal courts may rule on whether coordinate branches of
+   national government conform to the Constitution. Until the twentieth
+   century, the Supreme Court of the United States may have been the only
+   high tribunal in the world to use a court for constitutional
+   interpretation of fundamental law, others generally depending on their
+   national legislature.^[88]
+
+                                         Early Court roots in the founding
+
+       *
+
+                               John Jay, 1789-1795
+                               New York co-author
+                                Federalist Papers
+       *
+
+                            John Marshall, 1801-1835
+                            Fauquier County delegate
+                        Virginia Ratification Convention
+
+   The basic theory of American Judicial review is summarized by
+   constitutional legal scholars and historians as follows: the written
+   Constitution is fundamental law. It can change only by extraordinary
+   legislative process of national proposal, then state ratification. The
+   powers of all departments are limited to enumerated grants found in the
+   Constitution. Courts are expected (a) to enforce provisions of the
+   Constitution as the supreme law of the land, and (b) to refuse to
+   enforce anything in conflict with it.^[89]
+
+   In Convention. As to judicial review and the Congress, the first
+   proposals by Madison (Va) and Wilson (Pa) called for a supreme court
+   veto over national legislation. In this it resembled the system in New
+   York, where the Constitution of 1777 called for a "Council of Revision"
+   by the Governor and Justices of the state supreme court. The Council
+   would review and in a way, veto any passed legislation violating the
+   spirit of the Constitution before it went into effect. The
+   nationalist’s proposal in Convention was defeated three times, and
+   replaced by a presidential veto with Congressional over-ride. Judicial
+   review relies on the jurisdictional authority in Article III, and the
+   Supremacy Clause.^[90]
+
+   The justification for judicial review is to be explicitly found in the
+   open ratifications held in the states and reported in their newspapers.
+   John Marshall in Virginia, James Wilson in Pennsylvania and Oliver
+   Ellsworth of Connecticut all argued for Supreme Court judicial review
+   of acts of state legislature. In Federalist No. 78, Alexander Hamilton
+   advocated the doctrine of a written document held as a superior
+   enactment of the people. "A limited constitution can be preserved in
+   practice no other way" than through courts which can declare void any
+   legislation contrary to the Constitution. The preservation of the
+   people’s authority over legislatures rests "particularly with
+   judges."^[91]^[i]
+
+   The Supreme Court was initially made up of jurists who had been
+   intimately connected with the framing of the Constitution and the
+   establishment of its government as law. John Jay (NY), a co-author of
+   the Federalist Papers, served as Chief Justice for the first six years.
+   The second Chief Justice for a term of four years, was Oliver Ellsworth
+   (Ct), a delegate in the Constitutional Convention, as was John Rutledge
+   (SC), Washington’s recess appointment as Chief Justice who served in
+   1795. John Marshall (Va), the fourth Chief Justice, had served in the
+   Virginia Ratification Convention in 1788. His service on the Court
+   would extend 34 years over some of the most important rulings to help
+   establish the nation the Constitution had begun. In the first years of
+   the Supreme Court, members of the Constitutional Convention who would
+   serve included James Wilson (Pa) for ten years, John Blair, Jr. (Va)
+   for five, and John Rutledge (SC) for one year as Justice, then Chief
+   Justice in 1795.
+
+Establishment
+
+   When John Marshall followed Oliver Ellsworth as Chief Justice of the
+   Supreme Court in 1801, the federal judiciary had been established by
+   the Judiciary Act, but there were few cases, and less prestige. "The
+   fate of judicial review was in the hands of the Supreme Court itself."
+   Review of state legislation and appeals from state supreme courts was
+   understood. But the Court’s life, jurisdiction over state legislation
+   was limited. The Marshall Court's landmark Barron v. Baltimore held
+   that the Bill of Rights restricted only the federal government, and not
+   the states.^[91]
+
+   In the landmark Marbury v. Madison case, the Supreme Court asserted its
+   authority of judicial review over Acts of Congress. It finds were that
+   Marbury and the others had a right to their commissions as judges in
+   the District of Columbia. The law afforded Marbury a remedy at court.
+   Then Marshall, writing the opinion for the majority, announced his
+   discovered conflict between Section 13 of the Judiciary Act of 1789 and
+   Article III.^[j]^[93]^[k] The United States government, as created by
+   the Constitution is a limited government, and a statute contrary to it
+   is not law. In this case, both the Constitution and the statutory law
+   applied to the particulars at the same time. "The very essence of
+   judicial duty" according to Marshall was to determine which of the two
+   conflicting rules should govern. The Constitution enumerates powers of
+   the judiciary to extend to cases arising "under the Constitution."
+   Courts were required to choose the Constitution over Congressional law.
+   Further, justices take a Constitutional oath to uphold it as "Supreme
+   law of the land".^[94]
+
+   "This argument has been ratified by time and by practice ..."^[l]^[m]
+   "Marshall The Supreme Court did not declare another Act of Congress
+   unconstitutional until the disastrous Dred Scott decision in 1857, held
+   after the voided Missouri Compromise statute, had already been
+   repealed. In the eighty years following the Civil War to World War II,
+   the Court voided Congressional statutes in 77 cases, on average almost
+   one a year.^[96]
+
+   Something of a crisis arose when, in 1935 and 1936, the Supreme Court
+   handed down twelve decisions voiding Acts of Congress relating to the
+   New Deal. President Franklin D. Roosevelt then responded with his
+   abortive "court packing plan". Other proposals have suggested a Court
+   super-majority to overturn Congressional legislation, or a
+   Constitutional Amendment to require that the Justices retire at a
+   specified age by law. To date, the Supreme Court’s power of judicial
+   review has persisted.^[92]
+
+Self-restraint
+
+   The power of judicial review could not have been preserved long in a
+   democracy unless it had been "wielded with a reasonable measure of
+   judicial restraint, and with some attention, as Mr. Dooley said, to the
+   election returns." Indeed, the Supreme Court has developed a system of
+   doctrine and practice that self-limits its power of judicial
+   review.^[97]
+
+   The Court controls almost all of its business by choosing what cases to
+   consider, writs of certiorari. In this way, it can avoid opinions on
+   embarrassing or difficult cases. The Supreme Court limits itself by
+   defining for itself what is a "justiciable question." First, the Court
+   is fairly consistent in refusing to make any "advisory opinions" in
+   advance of actual cases.^[n] Second, "friendly suits" between those of
+   the same legal interest are not considered. Third, the Court requires a
+   "personal interest", not one generally held, and a legally protected
+   right must be immediately threatened by government action. Cases are
+   not taken up if the litigant has no standing to sue. Simply having the
+   money to sue and being injured by government action are not
+   enough.^[97]
+
+   These three procedural ways of dismissing cases have led critics to
+   charge that the Supreme Court delays decisions by unduly insisting on
+   technicalities in their "standards of litigability". Under the Court’s
+   practice, there are cases left unconsidered which are in the public
+   interest, with genuine controversy, and resulting from good faith
+   action. "The Supreme Court is not only a court of law but a court of
+   justice."^[98]
+
+Separation of powers
+
+   The Supreme Court balances several pressures to maintain its roles in
+   national government. It seeks to be a co-equal branch of government,
+   but its decrees must be enforceable. The Court seeks to minimize
+   situations where it asserts itself superior to either President or
+   Congress, but federal officers must be held accountable. The Supreme
+   Court assumes power to declare acts of Congress as unconstitutional but
+   it self-limits its passing on constitutional questions.^[99] But the
+   Court’s guidance on basic problems of life and governance in a
+   democracy is most effective when American political life reinforce its
+   rulings.^[100]
+
+   Justice Brandeis summarized four general guidelines that the Supreme
+   Court uses to avoid constitutional decisions relating to Congress:^[o]
+   The Court will not anticipate a question of constitutional law nor
+   decide open questions unless a case decision requires it. If it does, a
+   rule of constitutional law is formulated only as the precise facts in
+   the case require. The Court will choose statutes or general law for the
+   basis of its decision if it can without constitutional grounds. If it
+   does, the Court will choose a constitutional construction of an Act of
+   Congress, even if its constitutionality is seriously in doubt. ^[99]
+
+   Likewise with the Executive Department, Edwin Corwin observed that the
+   Court does sometimes rebuff presidential pretensions, but it more often
+   tries to rationalize them. Against Congress, an Act is merely
+   "disallowed." In the executive case, exercising judicial review
+   produces "some change in the external world" beyond the ordinary
+   judicial sphere.^[101] The "political question" doctrine especially
+   applies to questions which present a difficult enforcement issue. Chief
+   Justice Charles Evans Hughes addressed the Court’s limitation when
+   political process allowed future policy change, but a judicial ruling
+   would "attribute finality". Political questions lack "satisfactory
+   criteria for a judicial determination."^[102]
+
+   John Marshall recognized that the president holds "important political
+   powers" which as Executive privilege allows great discretion. This
+   doctrine was applied in Court rulings on President Grant’s duty to
+   enforce the law during Reconstruction. It extends to the sphere of
+   foreign affairs. Justice Robert Jackson explained, Foreign affairs are
+   inherently political, "wholly confided by our Constitution to the
+   political departments of the government ... [and] not subject to
+   judicial intrusion or inquiry."^[103]
+
+   Critics of the Court object in two principle ways to self-restraint in
+   judicial review, deferring as it does as a matter of doctrine to Acts
+   of Congress and Presidential actions.
+    1. Its inaction is said to allow "a flood of legislative
+       appropriations" which permanently create an imbalance between the
+       states and federal government.
+    2. Supreme Court deference to Congress and the executive compromises
+       American protection of civil rights, political minority groups and
+       aliens.^[104]
+
+   Further information: Separation of powers under the United States
+   Constitution
+
+Subsequent Courts
+
+   Main article: History of the Supreme Court of the United States
+
+   Supreme Courts under the leadership of subsequent Chief Justices have
+   also used judicial review to interpret the Constitution among
+   individuals, states and federal branches. Notable contributions were
+   made by the Chase Court, the Taft Court, the Warren Court, and the
+   Rehnquist Court.
+   Further information: List of United States Supreme Court cases by the
+   Chase Court
+
+   Salmon P. Chase was a Lincoln appointee, serving as Chief Justice from
+   1864 to 1873. His career encompassed service as a U.S. Senator and
+   Governor of Ohio. He coined the slogan, "Free soil, free Labor, free
+   men." One of Lincoln’s "team of rivals", he was appointed Secretary of
+   Treasury during the Civil War, issuing "greenbacks". To appease radical
+   Republicans, Lincoln appointed him to replace Chief Justice Roger B.
+   Taney of Dred Scott case fame.
+
+   In one of his first official acts, Chase admitted John Rock, the first
+   African-American to practice before the Supreme Court. The "Chase
+   Court" is famous for Texas v. White, which asserted a permanent Union
+   of indestructible states. Veazie Banks v. Fenno upheld the Civil War
+   tax on state banknotes. Hepburn v. Griswold found parts of the Legal
+   Tender Acts unconstitutional, though it was reversed under a late
+   Supreme Court majority.
+   Further information: List of United States Supreme Court cases by the
+   Taft Court
+
+                                         Scope of judicial review expanded
+
+       *
+
+                              Salmon P. Chase ^[p]
+                              Union, Reconstruction
+       *
+
+                              William H. Taft ^[q]
+                             commerce, incorporation
+       *
+
+                                Earl Warren ^[r]
+                            due process, civil rights
+       *
+
+                             William Rehnquist ^[s]
+                               federalism, privacy
+
+   William Howard Taft was a Harding appointment to Chief Justice from
+   1921 to 1930. A Progressive Republican from Ohio, he was a one-term
+   President.
+
+   As Chief Justice, he advocated the Judiciary Act of 1925 that brought
+   the Federal District Courts under the administrative jurisdiction of
+   the Supreme Court. Taft successfully sought the expansion of Court
+   jurisdiction over non- states such as District of Columbia and
+   Territories of Arizona, New Mexico, Alaska and Hawaii.
+
+   In 1925, the Taft Court issued a ruling overturning a Marshall Court
+   ruling on the Bill of Rights. In Gitlow v. New York, the Court
+   established the doctrine of "incorporation which applied the Bill of
+   Rights to the states. Important cases included the Board of Trade v.
+   Olsen that upheld Congressional regulation of commerce. Olmstead v.
+   U.S. allowed exclusion of evidence obtained without a warrant based on
+   application of the 14th Amendment proscription against unreasonable
+   searches. Wisconsin v. Illinois ruled the equitable power of the United
+   States can impose positive action on a state to prevent its inaction
+   from damaging another state.
+   Further information: List of United States Supreme Court cases by the
+   Warren Court
+
+   Earl Warren was an Eisenhower nominee, Chief Justice from 1953 to 1969.
+   Warren’s Republican career in the law reached from County Prosecutor,
+   California state attorney general, and three consecutive terms as
+   Governor. His programs stressed progressive efficiency, expanding state
+   education, re-integrating returning veterans, infrastructure and
+   highway construction.
+
+   In 1954, the Warren Court overturned a landmark Fuller Court ruling on
+   the Fourteenth Amendment interpreting racial segregation as permissible
+   in government and commerce providing "separate but equal" services.
+   Warren built a coalition of Justices after 1962 that developed the idea
+   of natural rights as guaranteed in the Constitution. Brown v. Board of
+   Education banned segregation in public schools. Baker v. Carr and
+   Reynolds v. Sims established Court ordered "one-man-one-vote." Bill of
+   Rights Amendments were incorporated into the states. Due process was
+   expanded in Gideon v. Wainwright" and Miranda v. Arizona. First
+   Amendment rights were addressed in Griswold v. Connecticut concerning
+   privacy, and Engel v. Vitale relative to free speech.
+   Further information: List of United States Supreme Court cases by the
+   Rehnquist Court
+
+   William Rehnquist was a Reagan appointment to Chief Justice, serving
+   from 1986 to 2005. While he would concur with overthrowing a state
+   supreme court’s decision, as in Bush v. Gore, he built a coalition of
+   Justices after 1994 that developed the idea of federalism as provided
+   for in the Tenth Amendment. In the hands of the Supreme Court, the
+   Constitution and its Amendments were to restrain Congress, as in City
+   of Boerne v. Flores.
+
+   Nevertheless, the Rehnquist Court was noted in the contemporary
+   "culture wars" for overturning state laws relating to privacy
+   prohibiting late-term abortions in Stenberg v. Carhart, prohibiting
+   sodomy in Lawrence v. Texas, or ruling so as to protect free speech in
+   Texas v. Johnson or affirmative action in Grutter v. Bollinger.
+
+Civic religion
+
+   Main article: American civil religion
+
+   There is a viewpoint that some Americans have come to see the documents
+   of the Constitution, along with the Declaration of Independence and the
+   Bill of Rights as being a cornerstone of a type of civil religion. This
+   is suggested by the prominent display of the Constitution, along with
+   the Declaration of Independence and the Bill of Rights, in massive,
+   bronze-framed, bulletproof, moisture-controlled glass containers
+   vacuum-sealed in a rotunda by day and in multi-ton bomb-proof vaults by
+   night at the National Archives Building.^[105]
+
+   The idea of displaying the documents strikes some academic critics
+   looking from the point of view of the 1776 or 1789 America as
+   "idolatrous, and also curiously at odds with the values of the
+   Revolution." ^[105] By 1816 Jefferson wrote that "[s]ome men look at
+   constitutions with sanctimonious reverence and deem them like the ark
+   of the covenant, too sacred to be touched." But he saw imperfections
+   and imagined that potentially, there could be others, believing as he
+   did that "institutions must advance also".^[106]
+
+   Some commentators depict the multi-ethnic, multi-sectarian United
+   States as held together by a political orthodoxy, in contrast with a
+   nation state of people having more "natural" ties.^[107]^[108]
+
+Worldwide influence
+
+                                   *
+
+                                                               José Rizal
+                                   *
+
+                                                               Sun Yat-sen
+
+   Main article: United States Constitution and worldwide influence
+
+   The United States Constitution has had influence worldwide on later
+   constitutions, as newly independent nations, like the United States,
+   emerged from colonial rule. This influence is reflected in the ideals
+   of limiting the rulers of a state apart and above sitting law-givers in
+   a parliament. The concepts of governance influencing others
+   internationally are not only found among similarities in phrasing and
+   entire passages from the U.S. Constitution. They are in the principles
+   of the rule of law and recognition of individual rights. The American
+   experience of fundamental law with amendments and judicial review has
+   motivated foreign constitutionalists to reconsider possibilities for
+   their own future.^[109] This view informed Abraham Lincoln during the
+   American Civil War,^[t] his contemporary and ally Benito Juarez of
+   Mexico,^[u] and the second generation of 19th constitutional
+   nationalists, José Rizal of the Philippines^[v] and Sun Yat-sen of
+   China.^[w]
+
+Criticisms
+
+   Further information: Criticism of the United States Constitution
+
+   The United States Constitution has faced various criticisms since its
+   inception in 1787.
+
+   Until the Reconstruction Amendments were adopted between 1865 and 1870,
+   the five years immediately following the Civil War, the Constitution
+   did not abolish slavery, nor give citizenship and voting rights to
+   former slaves.^[115] These amendments did not include a specific
+   prohibition on discrimination on the basis of sex; it took another
+   amendment—the Nineteenth, ratified in 1920— for the Constitution to
+   prohibit any United States citizen from being denied the right to vote
+   on the basis of sex.^[116]
+
+See also
+
+     * Timeline of drafting and ratification of the United States
+       Constitution
+     * Commentaries on the Constitution of the United States by Joseph
+       Story (three volumes)
+     * Congressional power of enforcement
+     * Constitution Day (United States)
+     * History of democracy
+     * List of national constitutions (world countries)
+     * List of proposed amendments to the United States Constitution
+     * List of sources of law in the United States
+     * National Constitution Center
+     * Pocket Constitution
+     * State constitution (United States)
+     * Second Constitutional Convention of the United States
+     * The Constitution of the United States of America: Analysis and
+       Interpretation
+
+   Related documents
+     * Mayflower Compact (1620)
+     * Fundamental Orders of Connecticut (1639)
+     * Massachusetts Body of Liberties (1641)
+     * English Bill of Rights (1689)
+     * United States Declaration of Independence (1776)
+     * Virginia Statute for Religious Freedom (1779)
+
+Notes
+
+    1. ^ The discussion in Adler cites Lincoln's explication of the
+       preamble that "common welfare" meant those things the people could
+       not provide themselves. In 1830, Senator Haynes of South Carolina
+       had made a speech for "Liberty first, and Union afterwards". Daniel
+       Webster of Massachusetts made a "Reply to Haynes" speech for "Union
+       and Liberty, now and forever, one and inseparable".^[30]
+    2. ^ The Judiciary Act of 1789 established six Supreme Court justices.
+       The number was periodically increased, reaching ten in 1863,
+       allowing Lincoln additional appointments. After the Civil War,
+       vacancies reduced the number to seven. Congress finally fixed the
+       number at nine.
+    3. ^ The four concepts which determine "justiciability", the formula
+       for a federal court taking and deciding a case, are the doctrines
+       of (a) standing, (b) real and substantial interests, (c) adversity,
+       and (d) avoidance of political questions.^[36]
+    4. ^ Judicial Review is explained in Hamilton's Federalist No. 78. It
+       also has roots in Natural Law expressions in the Declaration of
+       Independence. The Supreme Court first ruled an act of Congress
+       unconstitutional in Marbury v. Madison, the second was Dred
+       Scott.^[36]
+    5. ^ For instance, 'collateral estoppel' directs that when a litigant
+       wins in a state court, they cannot sue in federal court to get a
+       more favorable outcome.
+    6. ^ Recently numerous habeas corpus reforms have tried to preserve a
+       working "relationship of comity" and simultaneously streamline the
+       process for state and lower courts to apply Supreme Court
+       interpretations.^[36]
+    7. ^ Contrary to this source when viewed, the Constitution provides
+       that punishments, including forfeiture of income and property, must
+       apply to the person convicted. "No attainder of treason shall work
+       corruption of blood or forfeiture" on the convicted traitor’s
+       children or heirs. This avoids the perpetuation of civil war into
+       the generations by Parliamentary majorities as in the War of the
+       Roses.^[36]
+    8. ^ Downes v. Bidwell, 182 U.S. 244, 261 (1901), commenting on an
+       earlier Supreme Court decision, Loughborough v. Blake, 18 U.S. (5
+       Wheat.) 317 (1820); Rasmussen v. United States, 197 U.S. 516,
+       529-530, 536 (1905)(concurring opinions of Justices Harlan and
+       Brown), that once the Constitution has been extended to an area,
+       its coverage is irrevocable; Boumediene v. Bush - That where the
+       Constitution has been once formally extended by Congress to
+       territories, neither Congress nor the territorial legislature can
+       enact laws inconsistent therewith. The Constitution grants Congress
+       and the President the power to acquire, dispose of, and govern
+       territory, not the power to decide when and where its terms apply.
+    9. ^ The Supreme Court found 658 cases of invalid state statutes from
+       1790-1941 before the advent of Civil Rights cases in the last half
+       of the Twentieth Century^[92]
+   10. ^ In this, John Marshall leaned on the argument of Hamilton in
+       Federalist No. 78.
+   11. ^ Although it may be that the true meaning of the Constitution to
+       the people of the United States in 1788 can only be divined by a
+       study of the state ratification conventions, the Supreme Court has
+       used the Federalist Papers as a supplemental guide to the
+       Constitution since their co-author, John Jay, was the first Chief
+       Justice.
+   12. ^ The entire quote reads, "This argument has been ratified by time
+       and by practice, and there is little point in quibbling with it. Of
+       course, the President also takes an oath to support the
+       Constitution."^[95]
+   13. ^ The presidential reference is to Andrew Jackson's disagreement
+       with Marshall's Court over Worcester v. Georgia, finding Georgia
+       could not impose its laws in Cherokee Territory. Jackson replied,
+       "John Marshall has made his decision; now let him enforce it!", and
+       the Trail of Tears proceeded. Jackson would not politically
+       interpose the U.S. Army between Georgia and the Cherokee people as
+       Eisenhower would do between Arkansas and the integrating students.
+   14. ^ "Advisory opinions" are not the same as "declaratory judgments."
+       (a) These address rights and legal relationships in cases of
+       "actual controversy", and (b) the holding has the force and effect
+       of a final judgment. (c) There is no coercive order, as the parties
+       are assumed to follow the judgment, but a "declaratory judgment" is
+       the basis of any subsequent ruling in case law.
+   15. ^ Louis Brandeis concurring opinion, ‘’Ashwander v. Tennessee
+       Valley Authority’’, 1936.
+   16. ^ The Chase Court, 1864–1873, in 1865 were the Hon. Salmon P.
+       Chase, Chief Justice, U.S.; Hon. Nathan Clifford, Maine; Stephen J.
+       Field, Justice Supreme Court, U.S.; Hon. Samuel F. Miller, U.S.
+       Supreme Court; Hon. Noah H. Swayne, Justice Supreme Court, U.S.;
+       Judge Morrison R. Waite
+   17. ^ The Taft Court, 1921–1930, in 1925 were—James Clark McReynolds,
+       Oliver Wendell Holmes, Jr.,William Howard Taft (Chief Justice),
+       Willis Van Devanter, Louis Brandeis.—Edward Sanford, George
+       Sutherland, Pierce Butler, Harlan Fiske Stone
+   18. ^ The Warren Court, 1953-1969, in 1963 were Felix Frankfurter; Hugo
+       Black; Earl Warren (Chief Justice); Stanley Reed; WIlliam O.
+       Douglas. - Tom Clark; Robert H. Jackson; Harold Burton; Sherman
+       Minton
+   19. ^ The Rehnquist Court, , 1986–2005.
+   20. ^ "Secession was indeed unconstitutional...military resistance to
+       secession was not only constitutional but also morally
+       justified.^[110] "the primary purpose of the Constitution was ...
+       to create ‘a more perfect union’... the Constitution was an
+       exercise in nation building.^[111]
+   21. ^ Juarez regarded the United States as a model of republican
+       democracy and consistently supported Abraham Lincoln.^[112]
+   22. ^ The institutions of the two countries which have most influenced
+       constitutional development are Spain and the United States." One of
+       the reforms, "sine quibus non", to use the words of Rizal and
+       Mabini, always insisted upon by the Filipinos, was Philippine
+       representation in the Spanish Cortez, the promulgation in the
+       Islands of the Spanish Constitution, and the complete assimilation
+       equal to that of any in the Spanish provinces on the
+       continent.^[113]
+   23. ^ In the modern history of China, there were many revolutionaries
+       who tried to seek the truth from the West in order to overthrow the
+       feudal system of the Ching Dynasty. Dr. Sun Yat-sen for example was
+       much influenced by American democracy, especially the U.S.
+       Constitution.^[114]
+
+References
+
+Footnotes
+
+    1. ^ Maier 2010, p. 35
+    2. ^ United States Senate (1992). "Amendments to the Constitution of
+       the United States of America" (PDF). The Constitution of the United
+       States of America: Analysis and Interpretation. U.S. Government
+       Printing Office. p. 25 n.2. ISBN 9780160632686.
+    3. ^ "National Constitution Center". Independence Hall Association.
+       Retrieved April 22, 2010.
+    4. ^ McLaughlin, Andrew C. (1936). "A constitutional History of the
+       United States". New York, London: D. Appleton-Century Company.
+       pp. 83–90. Retrieved August 27, 2014.
+    5. ^ Morris, Richard B. (December 28, 1976). Presidential Address
+       (Speech). American Historical Association. Retrieved June 8, 2014.
+    6. ^ Fritz, Christian G. (2008). American Sovereigns: The People and
+       America's Constitutional Tradition Before the Civil War. New York:
+       Cambridge University Press. p. 131. ISBN 978-0-521-88188-3;  noting
+       that "Madison, along with other Americans clearly understood" the
+       Articles of Confederation "to be the first federal Constitution."
+    7. ^ Jensen, Merrill (1950). The New Nation: A History of the United
+       States During the Confederation, 1781–1789. Boston: Northeastern
+       University Press. pp. 177–233. ISBN 978-0-930350-14-7.
+    8. ^ Wood, Gordon S. (1972). The Creation of the American Republic,
+       1776–1787. Chapel Hill: University of North Carolina Press. p. 359.
+       ISBN 978-0-807-84723-7.
+    9. ^ ^a ^b ^c ^d ^e ^f Maier 2010, pp. 11–13
+   10. ^ Maier 2010, pp. 12-13, 19.
+   11. ^ Maier 2010, pp. 15-16.
+   12. ^ Bowen 2010, pp. 129-130.
+   13. ^ Bowen 2010, p. 31.
+   14. ^ Maier 2010, p. 13.
+   15. ^ Wood 1998, pp. 356-367, 359.
+   16. ^ Maier 2010, pp. 14, 30, 66.
+   17. ^ "Resolution of Congress, 21 Feb. 1787". The Founders’
+       Constitution. University of Chicago Press;  The Articles Congress
+       thus echoed a previous resolution of a conference at Annapolis; see
+       "Proceedings of Commissioners to Remedy Defects of the Federal
+       Government: 1786".
+   18. ^ Maier 2010, p. 21
+   19. ^ Finn, John E. (2006). "Civil Liberties and the Bill of Rights
+       Part I: Lecture 4: The Court and Constitutional Interpretation".
+       The Teaching Company. pp. 52–4. "The most obvious mechanism for
+       change is not the freedom to amend the Constitution, not the
+       authority to engage in a new Constitutional revolution, but to
+       build play into the joints, to build ambiguity and flexibility into
+       the very words of the Constitution so that they might mean
+       different things to different generations."
+   20. ^ "Resolution of Congress of September 28, 1787, Submitting the
+       Constitution to the Several States". The Avalon Project at Yale Law
+       School. Retrieved August 31, 2014.
+   21. ^ "Resolution of the Congress, of September 13, 1788, Fixing Date
+       for Election of a President, and the Organization of the Government
+       Under the Constitution, in the City of New York" – via Avalon
+       Project.
+   22. ^ Armstrong, Virginia Irving (1971). I Have Spoken: American
+       History Through the Voices of the Indians. Chicago: Sage Books.
+       p. 14. ISBN 9780804005296;  see also, "House Concurrent Resolution
+       331, October 21, 1988" (PDF). United States Senate. Retrieved
+       November 23, 2008.  In October 1988, the U.S. Congress passed
+       Concurrent Resolution 331 to recognize the influence of the
+       Iroquois Constitution upon the U.S. Constitution and Bill of
+       Rights.
+   23. ^ Greymont 1972, p. vii
+   24. ^ Morgan, Edmund S. (2002). Benjamin Franklin. pp. 80–81.
+       ISBN 0-300-10162-7. Retrieved December 29, 2011.
+   25. ^ Mee, Charles L., Jr. (1987). The Genius of the People. New York:
+       Harper & Row. p. 237.
+   26. ^ Greymont 1972, p. 66 These intrigues were mounted by (a) the
+       French and British empires, (b) the colonies, then states of New
+       York, Pennsylvania and Virginia, and (c) the United States as the
+       Continental Congress, the Articles Congress and subsequently.
+   27. ^ National Archives and Records Administration. "National Archives
+       Article on the Bill of Rights". Retrieved December 16, 2007.
+   28. ^ Kilpatrick, James J., ed. (1961). The Constitution of the United
+       States and Amendments Thereto. Foreword by Denys P. Myers. Virginia
+       Commission on Constitutional Government. p. i (of foreword). ^[full
+       citation needed]
+   29. ^ Adler 1975, p. 26, 80, 136.
+   30. ^ Adler 1975, p. 87.
+   31. ^ James Madison was said to believe that the speech alone would
+       "crush" nullification forever. (This country of ours, H.E. Marshall
+       Part VII, Chapter 73.)
+   32. ^ ^a ^b 17. U.S. at 421
+   33. ^ "The Presidency: Hamilton". Time. May 28, 1923.
+   34. ^ "Martin Van Buren". Herbert Hoover Presidential Library &
+       Museum.
+   35. ^ ^a ^b Sidak, Gregory (August 1989). "The Recommendation Clause".
+       Georgetown Law Journal 77 (6): 2079–2135. Retrieved June 29, 2012.
+   36. ^ ^a ^b ^c ^d ^e ^f ^g ^h O'Connor 2010.
+   37. ^ FindLaw for legal professionals^[dead link], with links to US
+       Government Printing office official website, Cornell Law School,
+       Emory Law School, and U.S. Supreme Court decisions since 1893,
+       (1998, 2000 Supplement). Viewed November 28, 2011.
+   38. ^ England, Trent & Spalding, Matthew. "Essays on Article V:
+       Amendments". The Heritage Foundation. Retrieved July 31, 2014.
+   39. ^ "Proposed Amendments". Constitution Day Observance Events.
+       Clayton State University.
+   40. ^ Lutz, Donald (1994). "Toward a Theory of Constitutional
+       Amendment". The American Political Science Review.
+   41. ^ ^a ^b "The Constitutional Amendment Process". National Archives
+       and Records Administration. Retrieved July 27, 2014.
+   42. ^ Morison, Samuel Eliot (1965). The Oxford History of the American
+       People. Oxford: Oxford University Press. p. 312.
+   43. ^ Lloyd, Gordon. "The Six Stages of Ratification of the
+       Constitution: Stage I—Now For the Bad News".
+       TeachingAmericanHistory.org. The Ashbrook Center at Ashland
+       University. Retrieved June 23, 2014.
+   44. ^ Neale, Thomas H. "The Proposed Equal Rights Amendment:
+       Contemporary Ratification Issues" (PDF). Congressional Research
+       Service. Retrieved July 27, 2014.
+   45. ^ Monk, Linda. "Amendment I". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   46. ^ Fletcher v. Haas, 11-10644-DPW (D. Mass. March 30, 2012).
+   47. ^ Pierce, John (April 2, 2012). "Permanent Resident Aliens Have
+       Second Amendment Rights Too". Monachus Lex. ^[self-published
+       source]
+   48. ^ Constitutional Law. Casenotes. ^[full citation needed]
+   49. ^ Jilson, Cal. American Government: Political Development and
+       Institutional Change. ^[full citation needed]
+   50. ^ Shaman, Jeffrey. "After Heller: What Now for the Second
+       Amendment". Santa Clara Law Review. Retrieved January 30,
+       2014. ^[full citation needed]
+   51. ^ "US Senate Annotated Constitution". Retrieved January 30, 2014.
+   52. ^ Monk, Linda. "Amendment II". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   53. ^ Epstein, Lee & Walk, Thomas G. (2012). Constitutional Law for a
+       Changing America: Rights, Liberties and Justice (8th ed.). CQ
+       Press. pp. 395–396. ISBN 978-1-4522-2674-3.
+   54. ^ Moncure 1990.
+   55. ^ Monk, Linda. "Amendment III". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   56. ^ Monk, Linda. "Amendment IV". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   57. ^ Monk, Linda. "Amendment V". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   58. ^ Monk, Linda. "Amendment VI". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   59. ^ Monk, Linda. "Amendment VII". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   60. ^ Monk, Linda. "Amendment VIII". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   61. ^ Monk, Linda. "Amendment IX". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   62. ^ Monk, Linda. "Amendment X". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   63. ^ "Annotation 1: Eleventh Amendment, State Immunity". FindLaw.
+       Retrieved May 4, 2013.
+   64. ^ Monk, Linda. "Amendment XI". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   65. ^ Monk, Linda. "Amendment XVI". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   66. ^ Monk, Linda. "Amendment XVIII". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   67. ^ Monk, Linda. "Amendment XXI". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   68. ^ "The Emancipation Proclamation". National Archives and Records
+       Administration. Retrieved August 6, 2014.
+   69. ^ Monk, Linda. "Amendment XIII". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   70. ^ Monk, Linda. "Amendment XIV". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   71. ^ Monk, Linda. "Amendment XV". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   72. ^ Monk, Linda. "Amendment XIX". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   73. ^ Monk, Linda. "Amendment XXIII". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   74. ^ Monk, Linda. "Amendment XXIV". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   75. ^ Monk, Linda. "Amendment XXVI". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   76. ^ Monk, Linda. "Amendment XII". Annenberg Classroom. Leonore
+       Annenberg Institute for Civics of the Annenberg Public Policy
+       Center of the University of Pennsylvania. Retrieved August 6,
+       2014.
+   77. ^ Monk, Linda. "Amendment XVII". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   78. ^
+       http://www.law.cornell.edu/anncon/html/amdt20_user.html#amdt20_hd4
+   79. ^ See 34 Library of Cong., Journals of the Continental Congress,
+       1774–1789, at 523 (Roscoe R. Hill ed., 1937).
+   80. ^ Monk, Linda. "Amendment XX". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   81. ^ Monk, Linda. "Amendment XXII". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   82. ^ Monk, Linda. "Amendment XXV". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   83. ^ Monk, Linda. "Amendment XXVII". www.annenbergclassroom.org.
+       Philadelphia, PA: Annenberg Classroom. Retrieved August 6, 2014.
+   84. ^ "Capitol Questions". C-SPAN. Retrieved May 29, 2008.
+   85. ^ Morison, Samuel Eliot (1965). The Oxford History of the American
+       People. Oxford: Oxford University Press. p. 609.
+   86. ^ Kilpatrick, James J., ed. (1961). The Constitution of the United
+       States and Amendments Thereto. Virginia Commission on
+       Constitutional Government. pp. 68–69.
+   87. ^ Griffin, Stephen M. (1998). American Constitutionalism: From
+       Theory to Politics. Princeton University Press. p. 89.
+       ISBN 9780691002408.
+   88. ^ Pritchett 1959, p. 134.
+   89. ^ Pritchett 1959, p. 136.
+   90. ^ Pritchett 1959, pp. 137-138.
+   91. ^ ^a ^b Pritchett 1959, p. 138.
+   92. ^ ^a ^b Pritchett 1959, p. 142.
+   93. ^ Pritchett 1959, p. 140.
+   94. ^ Pritchett 1959, pp. 140-141.
+   95. ^ Pritchett 1959, p. 141.
+   96. ^ Pritchett 1959, pp. 141-142.
+   97. ^ ^a ^b Pritchett 1959, p. 145.
+   98. ^ Pritchett 1959, pp. 148-149.
+   99. ^ ^a ^b Pritchett 1959, p. 149.
+   100. ^ Pritchett 1959, p. 154.
+   101. ^ Pritchett 1959, p. 150.
+   102. ^ Pritchett 1959, p. 151.
+   103. ^ Pritchett 1959, pp. 150-151.
+   104. ^ Pritchett 1959, p. 153.
+   105. ^ ^a ^b Wood, Gordon S., (August 14, 1997). "Dusting off the
+       Declaration". The New York Review of Books. Retrieved December 29,
+       2011.
+   106. ^ Levinson 1987, p. 115.
+   107. ^ Levinson 1987, p. 118.
+   108. ^ Levinson 1987, p. 119.
+   109. ^ Billias 2009, xi–xv.
+   110. ^ Farber 2003, p. 3.
+   111. ^ Farber 2003, p. 198.
+   112. ^ Stacy 2003, p. 436.
+   113. ^ Malcolm 1920, p. 109.
+   114. ^ QuingYu 1988, p. 193.
+   115. ^ Foner, Eric. "The Reconstruction Amendments: Official Documents
+       as Social History". The Gilder Lehrman Institute of American
+       History. Retrieved December 5, 2012. (subscription required
+       (help)).
+   116. ^ "The Constitution: The 19th Amendment". National Archives and
+       Records Administration. Retrieved December 5, 2012.
+
+Works cited
+
+     * Adler, Mortimer & Gorman, William (1975). The American Testament:
+       for the Institute for Philosophical Research and the Aspen
+       Institute for Humanistic Studies. New York: Praeger.
+       ISBN 978-0-275-34060-5.
+     * Billias, George (2009). American Constitutionalism Heard Round the
+       World, 1776-1989: A Global Perspective. New York: New York
+       University Press. ISBN 978-0-8147-9107-3.
+     * Bowen, Catherine (2010) [First published 1966]. Miracle at
+       Philadelphia: The Story of the Constitutional Convention, May to
+       September 1787. New York: Little, Brown. ISBN 978-0-316-10261-2.
+     * Farber, Daniel (2003). Lincoln's Constitution. Chicago: University
+       of Chicago Press. ISBN 978-0-226-23793-0.
+     * Greymont, Barbara (1972). The Iroquois in the American Revolution.
+       Syracuse, NY: Syracuse University Press. p. vii.
+       ISBN 0-8156-0083-6.
+     * Levinson, Sanford (1987). "Pledging Faith in the Civil Religion;
+       Or, Would You Sign the Constitution?". William & Mary Law Review 29
+       (113). Retrieved December 15, 2011.
+     * McDonald, Forrest (1985). Novus Ordo Seclorum: The Intellectual
+       Origins of the Constitution. Lawrence: University Press of Kansas.
+       ISBN 978-0-7006-0311-4.
+     * Maier, Pauline (2010). Ratification: The People Debate the
+       Constitution, 1787–1788. New York: Simon & Schuster.
+       ISBN 978-0-684-86854-7.
+     * Malcolm, George A. (1920). "Constitutional History of the
+       Philippines". American Bar Association Journal 6.
+     * Moncure, Thomas M., Jr. (1990). "Who is the Militia: The Virginia
+       Ratification Convention and the Right to Bear Arms". Lincoln Law
+       Review 19: 1–25. Retrieved November 11, 2011.
+     * O'Connor, Tom (2010). "Constitutional Structure". Retrieved
+       November 14, 2011.
+     * Pritchett, C. Herman (1959). The American Constitution. New York:
+       McGraw-Hill.
+     * Quing Yu, Li (1988). "Dr. Sun Yat Sen and the U.S. Constitution".
+       In Starr, Joseph Barton. The United States Constitution: Its Birth,
+       Growth, and Influence in Asia. Hong Kong: Hong Kong University
+       Press. ISBN 978-962-209-201-3.
+     * Stacy, Lee, ed. (2003). Mexico and the United States. vol. 2.
+       London: Marshall Cavendish. ISBN 978-0-7614-7402-9.
+     * Wood, Gordon (1998). The Creation of the American Republic,
+       1776-1787. Chapel Hill: University of North Carolina Press.
+       ISBN 978-0-8078-4723-7.
+
+Further reading
+
+     * Bailyn, Bernard, ed. (1993). The Debate on the Constitution:
+       Federalist and Antifederalist Speeches, Articles, and Letters
+       During the Struggle for Ratification. Part One: September 1787 to
+       February 1788. The Library of America.
+     * Bailyn, Bernard, ed. (1993). The Debate on the Constitution:
+       Federalist and Antifederalist Speeches, Articles, and Letters
+       During the Struggle for Ratification. Part Two: January to August
+       1788. The Library of America. ISBN 0-940450-64-X.
+     * Bryce, James, viscount (1891). The American Commonwealth. vol. 1
+       (2nd ed.). London: Macmillan and Co. pp. [350]-397, [636]-645,
+       669–682, et passim.
+     * Casey, Gregory (Spring 1974). "The Supreme Court and Myth: An
+       Empirical Investigation". Law & Society Review 8 (3): 385–420.
+     * Elliot, Jonathan. The Debates in the Several State Conventions of
+       the Adoption of the Federal Constitution. Vol. 1, Constitution,
+       Declaration of Independence, Articles of Confederation, Journal of
+       Federal Convention, Vol. 2, State Conventions Massachusetts,
+       Connecticut., New Hampshire, New York, Pennsylvania, Maryland, Vol.
+       3, Virginia, Vol. 4, North. and South. Carolina, Resolutions,
+       Tariffs, Banks, Debt, Vol. 5 Debates in Congress, Madison’s Notes,
+       Misc. Letters.
+     * Ford, Paul Leicester, ed. (1888). Pamphlets on the Constitution of
+       the United States, Published During its Discussion by the People,
+       1787-1788. Brooklyn, NY;  Pamphlets written between 1787-88 by
+       Elbridge Gerry, Noah Webster, John Jay, Melancthon Smith, Pelatiah
+       Werster, Tench Coxe, James Wilson, John Dickinson, Alexander Contee
+       Hanson, Edmund Randolph, Richard Henry Lee, George Mason, and David
+       Ramsay. The essay attributed to Gerry was in fact written by Mercy
+       Otis Warren.
+     * Fritz, Christian G. (2008). American Sovereigns: The People and
+       America's Constitutional Tradition Before the Civil War. Cambridge
+       University Press.
+     * Garvey, John H., ed. (2004). Modern Constitutional Theory: A Reader
+       (5th ed.). ^[full citation needed]
+     * Hall, Kermit (1992). The Oxford Companion to the Supreme Court of
+       the United States. New York: Oxford University Press.
+     * Kaminski, John P.; Saladino, Gaspare J.; Leffler, Richard;
+       Schoenleber, Charles H. & Hogan, Margaret A. (eds.). Documentary
+       History of the Ratification of the Constitution, 1976-. Published
+       volumes 1-10, 13-23, forthcoming volumes 11-12, 24-29. Most recent
+       volume: The Documentary History of the Ratification of the
+       Constitution, Vol. 23, Ratification by the States: New York, No. 5
+       Isnb= 978-0-87020-439-5. Madison: The State Historical Society of
+       Wisconsin,.
+     * Klos, Stanley L. (2004). President Who? Forgotten Founders.
+       Pittsburgh, PA: Evisum. p. 261. ISBN 0-9752627-5-0.
+     * Kurland, Philip B. & Lerner, Ralph (eds.). The Founders'
+       Constitution. University of Chicago Press and the Liberty Fund.
+       ISBN 0-86597-279-6;  The work consists of "extracts from the
+       leading works of political theory, history, law, and constitutional
+       argument on which the Framers and their contemporaries drew and
+       which they themselves produced."
+     * Levy, Leonard W.; Karst, Kenneth L. & West, John G., eds. (1992).
+       Encyclopedia of the American Constitution. New York: Macmillan.
+     * Mason, Alpheus Thomas & Stephenson, Donald Grier, eds. (2004).
+       American Constitutional Law: Introductory Essays and Selected Cases
+       (14th ed.). ^[full citation needed]
+     * Robertson, David Brian (2013). The Original Compromise: What the
+       Constitutional Framers Were Really Thinking. New York: Oxford
+       University Press.
+     * Tribe, Laurence H. (1999). American Constitutional Law. ^[full
+       citation needed]
+     * Yale Law School. "The Avalon Project: Notes on the Debates in the
+       Federal Convention". The Avalon Project. Yale Law School. Retrieved
+       May 8, 2011.
+
+External links
+
+   Find more about United States Constitution at Wikipedia's sister
+   projects
+   Search Commons Media from Commons
+   Search Wikiquote Quotations from Wikiquote
+   Search Wikisource Source texts from Wikisource
+   Search Wikibooks Textbooks from Wikibooks
+
+   National Archives
+     * National Constitution Center
+     * The National Archives Experience: High Resolution Downloads of the
+       Charters of Freedom
+
+   Official U.S. government sources
+     * Constitution and related resources: Library of Congress
+     * Analysis and Interpretation of the Constitution of the United
+       States: Annotated constitution, with descriptions of important
+       cases (official publication of U.S. Senate)
+
+   Listen to this article (info/dl)
+   Sorry, your browser either has JavaScript disabled or does not have any
+   supported player.
+   You can download the clip or download a player to play the clip in your
+   browser.
+
+   This audio file was created from a revision of the "United States
+   Constitution" article dated 2008-07-17, and does not reflect subsequent
+   edits to the article. (Audio help)
+   More spoken articles
+   Sound-icon.svg
+
+   Non-governmental web sites
+     * U.S. Constitution Online
+     * Mobile friendly version of the Constitution
+     * Audio reading of the Constitution in MP3 format provided by the
+       University of Chicago Law School
+     * Annotated Constitution by the Congressional Research Service of the
+       U.S. Library of Congress (hyperlinked version published by Cornell
+       University)
+     * "An Account of the Grand Federal Procession. Performed at
+       Philadelphia on Friday the 4th of July 1788" by Francis Hopkinson -
+       Hopkinson's review of a Philadelphia July 4 parade of 1788;
+       celebrating the ratification of the U.S. Constitution.
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+
+     * v
+     * t
+     * e
+
+   Historical documents of the United States
+
+
+   Constitution
+
+Preamble & Articles
+                      * Preamble
+                      * I
+                      * II
+                      * III
+                      * IV
+                      * V
+                      * VI
+                      * VII
+
+    Amendments
+
+                      Ratified
+                                  * 1
+                                  * 2
+                                  * 3
+                                  * 4
+                                  * 5
+                                  * 6
+                                  * 7
+                                  * 8
+                                  * 9
+                                  * 10
+                                  * 11
+                                  * 12
+                                  * 13
+                                  * 14
+                                  * 15
+                                  * 16
+                                  * 17
+                                  * 18
+                                  * 19
+                                  * 20
+                                  * 21
+                                  * 22
+                                  * 23
+                                  * 24
+                                  * 25
+                                  * 26
+                                  * 27
+
+                      Pending
+                                  * Congressional Apportionment
+                                  * Titles of Nobility
+                                  * Corwin (State Domestic Institutions)
+                                  * Child Labor
+
+                    Unsuccessful
+                                  * Equal Rights
+                                  * District of Columbia Voting Rights
+
+                      See also
+                                  * List of Constitutional Amendments
+                                  * Bill of Rights (Amendments 1-10)
+                                  * Reconstruction Amendments (Amendments 13-15)
+                                  * Amendment proposal in Congress
+                                  * Conventions to propose amendments
+                                  * State ratifying conventions
+
+     Formation
+                      * History
+                      * Articles of Confederation
+                      * Mount Vernon Conference
+                      * Annapolis Convention
+                      * Philadelphia Convention
+                           + Virginia Plan
+                           + New Jersey Plan
+                           + Connecticut Compromise
+                           + Three-Fifths Compromise
+                           + Committee of Detail
+                           + Signing
+                           + Independence Hall
+                           + Syng inkstand
+                      * Federalist Papers
+                      * Anti-Federalist Papers
+                      * Massachusetts Compromise
+                      * Virginia Ratifying Convention
+                      * Drafting and ratification timeline
+
+      Clauses
+                      * Appointments
+                      * Appropriations
+                      * Assistance of Counsel
+                      * Bill of credit
+                      * Case or Controversy
+                      * Citizenship
+                      * Commerce
+                      * Compact
+                      * Compulsory Process
+                      * Confrontation
+                      * Contract
+                      * Copyright and Patent
+                      * Double Jeopardy
+                      * Due Process
+                      * Equal Protection
+                      * Establishment
+                      * Exceptions
+                      * Excessive Bail
+                      * Ex post facto
+                      * Extradition
+                      * Free Exercise
+                      * Free Speech
+                      * Fugitive Slave
+                      * Full Faith and Credit
+                      * General Welfare
+                      * Guarantee
+                      * Impeachment
+                      * Ineligibility (Emolument)
+                      * Militia
+                      * Natural-born citizen
+                      * Necessary and Proper
+                      * No Religious Test
+                      * Origination
+                      * Petition
+                      * Postal
+                      * Presentment
+                      * Privileges and Immunities
+                      * Privileges or Immunities
+                      * Recommendation
+                      * Self-Incrimination
+                      * Speech or Debate
+                      * Speedy Trial
+                      * State of the Union
+                      * Supremacy
+                      * Suspension
+                      * Take Care
+                      * Takings
+                      * Taxing and Spending
+                      * Territorial
+                      * Title of Nobility
+                      * Treaty
+                      * Trial by Jury
+                      * Vesting
+                      * Vicinage
+                      * War Powers
+                      * List of clauses
+
+  Interpretation
+                      * Concurrent powers
+                      * Congressional enforcement
+                      * Constitutional law
+                      * Criminal procedure
+                      * Criminal sentencing
+                      * Dormant Commerce Clause
+                      * Enumerated powers
+                      * Executive privilege
+                      * Incorporation of the Bill of Rights
+                      * Judicial review
+                      * Nondelegation doctrine
+                      * Preemption
+                      * Saxbe fix
+                      * Separation of church and state
+                      * Separation of powers
+                      * Taxation power
+                      * Unitary executive theory
+
+    Signatories
+
+                    Convention President
+                                          * George Washington
+
+                       New Hampshire
+                                          * John Langdon
+                                          * Nicholas Gilman
+
+                       Massachusetts
+                                          * Nathaniel Gorham
+                                          * Rufus King
+
+                        Connecticut
+                                          * William Samuel Johnson
+                                          * Roger Sherman
+
+                          New York
+                                          * Alexander Hamilton
+
+                         New Jersey
+                                          * William Livingston
+                                          * David Brearley
+                                          * William Paterson
+                                          * Jonathan Dayton
+
+                        Pennsylvania
+                                          * Benjamin Franklin
+                                          * Thomas Mifflin
+                                          * Robert Morris
+                                          * George Clymer
+                                          * Thomas Fitzsimons
+                                          * Jared Ingersoll
+                                          * James Wilson
+                                          * Gouverneur Morris
+
+                          Delaware
+                                          * George Read
+                                          * Gunning Bedford, Jr.
+                                          * John Dickinson
+                                          * Richard Bassett
+                                          * Jacob Broom
+
+                          Maryland
+                                          * James McHenry
+                                          * Daniel of St. Thomas Jenifer
+                                          * Daniel Carroll
+
+                          Virginia
+                                          * John Blair
+                                          * James Madison
+
+                       North Carolina
+                                          * William Blount
+                                          * Richard Dobbs Spaight
+                                          * Hugh Williamson
+
+                       South Carolina
+                                          * John Rutledge
+                                          * Charles Cotesworth Pinckney
+                                          * Charles Pinckney
+                                          * Pierce Butler
+
+                          Georgia
+                                          * William Few
+                                          * Abraham Baldwin
+
+                    Convention Secretary
+                                          * William Jackson
+
+
+   Declaration of Independence
+
+   Primary author
+                    * Thomas Jefferson
+
+    Signatories
+
+                  President of Congress
+                                         * John Hancock (Massachusetts)
+
+                      New Hampshire
+                                         * Josiah Bartlett
+                                         * William Whipple
+                                         * Matthew Thornton
+
+                      Massachusetts
+                                         * Samuel Adams
+                                         * John Adams
+                                         * Robert Treat Paine
+                                         * Elbridge Gerry
+
+                      Rhode Island
+                                         * Stephen Hopkins
+                                         * William Ellery
+
+                       Connecticut
+                                         * Roger Sherman
+                                         * Samuel Huntington
+                                         * William Williams
+                                         * Oliver Wolcott
+
+                        New York
+                                         * William Floyd
+                                         * Philip Livingston
+                                         * Francis Lewis
+                                         * Lewis Morris
+
+                       New Jersey
+                                         * Richard Stockton
+                                         * John Witherspoon
+                                         * Francis Hopkinson
+                                         * John Hart
+                                         * Abraham Clark
+
+                      Pennsylvania
+                                         * Robert Morris
+                                         * Benjamin Rush
+                                         * Benjamin Franklin
+                                         * John Morton
+                                         * John Clymer
+                                         * James Smith
+                                         * George Taylor
+                                         * James Wilson
+                                         * George Ross
+
+                        Delaware
+                                         * George Reed
+                                         * Caesar Rodney
+                                         * Thomas McKean
+
+                        Maryland
+                                         * Samuel Chase
+                                         * William Paca
+                                         * Thomas Stone
+                                         * Charles Carroll of Carrollton
+
+                        Virginia
+                                         * George Wythe
+                                         * Richard Henry Lee
+                                         * Thomas Jefferson
+                                         * Benjamin Harrison
+                                         * Thomas Nelson, Jr.
+                                         * Francis Lightfoot Lee
+                                         * Carter Braxton
+
+                     North Carolina
+                                         * William Hooper
+                                         * Joseph Hewes
+                                         * John Penn
+
+                     South Carolina
+                                         * Edward Rutledge
+                                         * Thomas Heyward, Jr.
+                                         * Thomas Lynch, Jr.
+                                         * Arthur Middleton
+
+                         Georgia
+                                         * Button Gwinett
+                                         * Lyman Hall
+                                         * George Walton
+
+      See also
+                    * Committee of Five
+                    * Physical history
+                    * Second Continental Congress
+                    * "All men are created equal"
+                    * "Life, liberty and the pursuit of happiness"
+                    * Independence Hall
+                         + Syng inkstand
+
+
+   Articles of Confederation
+
+   Signatories
+
+               Primary drafter
+                                * John Dickinson
+
+                New Hampshire
+                                * Josiah Bartlett
+                                * John Wentworth, Jr.
+
+                Massachusetts
+                                * John Hancock
+                                * Samuel Adams
+                                * Elbridge Gerry
+                                * Francis Dana
+                                * James Lovell
+                                * Samuel Holten
+
+                Rhode Island
+                                * William Ellery
+                                * Henry Marchant
+                                * John Collins
+
+                 Connecticut
+                                * Roger Sherman
+                                * Samuel Huntington
+                                * Oliver Wolcott
+                                * Titus Hosmer
+                                * Andrew Adams
+
+                  New York
+                                * James Duane
+                                * Francis Lewis
+                                * William Duer
+                                * Gouverneur Morris
+
+                 New Jersey
+                                * John Witherspoon
+                                * Nathaniel Scudder
+
+                Pennsylvania
+                                * Robert Morris
+                                * Daniel Roberdeau
+                                * Jonathan Bayard Smith
+                                * William Clingan
+                                * Joseph Reed
+
+                  Delaware
+                                * Thomas McKean
+                                * John Dickinson
+                                * Nicholas Van Dyke
+
+                  Maryland
+                                * John Hanson
+                                * Daniel Carroll
+
+                  Virginia
+                                * Richard Henry Lee
+                                * John Banister
+                                * Thomas Adams
+                                * John Harvie
+                                * Francis Lightfoot Lee
+
+               North Carolina
+                                * John Penn
+                                * Cornelius Harnett
+                                * John Williams
+
+               South Carolina
+                                * Henry Laurens
+                                * William Henry Drayton
+                                * John Mathews
+                                * Richard Hutson
+                                * Thomas Heyward, Jr.
+
+                   Georgia
+                                * John Walton
+                                * Edward Telfair
+                                * Edward Langworthy
+
+    See also
+                 * Continental Congress
+
+
+   Continental Association
+
+   Signatories
+
+               President of Congress
+                                      * Peyton Randolph
+
+                   New Hampshire
+                                      * John Sullivan
+                                      * Nathaniel Folsom
+
+                 Massachusetts Bay
+                                      * Thomas Cushing
+                                      * Samuel Adams
+                                      * John Adams
+                                      * Robert Treat Paine
+
+                   Rhode Island
+                                      * Stephen Hopkins
+                                      * Samuel Ward
+
+                    Connecticut
+                                      * Eliphalet Dyer
+                                      * Roger Sherman
+                                      * Silas Deane
+
+                     New York
+                                      * Isaac Low
+                                      * John Alsop
+                                      * John Jay
+                                      * James Duane
+                                      * Philip Livingston
+                                      * William Floyd
+                                      * Henry Wisner
+                                      * Simon Boerum
+
+                    New Jersey
+                                      * James Kinsey
+                                      * William Livingston
+                                      * Stephen Crane
+                                      * Richard Smith
+                                      * John De Hart
+
+                   Pennsylvania
+                                      * Joseph Galloway
+                                      * John Dickinson
+                                      * Charles Humphreys
+                                      * Thomas Mifflin
+                                      * Edward Biddle
+                                      * John Morton
+                                      * George Ross
+
+
+     * v
+     * t
+     * e
+
+   James Madison
+     * March 16, 1751 – June 28, 1836
+
+     * 4th President of the United States (1809–1817)
+     * 5th U.S. Secretary of State (1801–1809)
+     * United States House of Representatives (1789–1797)
+     * Congress of the Confederation (1781–1783)
+     * Virginia House of Delegates (1776–1779, 1784–1786)
+
+   "Father of the
+   Constitution"
+     * 1786 Annapolis Convention
+     * Constitutional Convention
+     * Virginia Plan
+     * Constitution of the United States
+     * United States Bill of Rights
+          + 27th amendment
+     * The Federalist Papers
+          + written by Madison
+          + No. 10
+          + No. 51
+     * Virginia Ratifying Convention
+     * Constitution drafting and ratification timeline
+     * Notes of Debates in the Federal Convention of 1787
+     * Founding Fathers
+
+   Presidency
+     * First inauguration
+     * Second inauguration
+     * Tecumseh's War
+          + Battle of Tippecanoe
+     * War of 1812
+          + origins
+          + Burning of Washington
+          + The Octagon House
+          + Treaty of Ghent
+          + results
+     * Second Barbary War
+     * Era of Good Feelings
+     * Second Bank of the United States
+     * State of the Union Address (1810
+     * 1814
+     * 1815
+     * 1816)
+     * Cabinet
+     * Federal judiciary appointments
+     * Seven Buildings residence
+
+   Other noted
+   accomplisments
+     * Democratic-Republican Party
+          + First Party System
+          + republicanism
+     * Supervised the Louisiana Purchase
+     * Library of Congress
+     * Virginia and Kentucky Resolutions
+     * Report of 1800
+     * Residence Act
+          + Compromise of 1790
+
+   Other writings
+     * The Papers of James Madison
+
+   Life
+     * Early life and career
+     * Belle Grove Plantation, birthplace
+     * Montpelier
+
+   Elections
+     * U.S. House of Representatives election, 1789
+     * 1790
+     * 1792
+     * 1794
+     * U.S. presidential election, 1808
+     * 1812
+
+   Legacy and
+   popular culture
+     * James Madison Memorial Building
+     * James Madison University
+     * Madison Square
+     * Madison River
+     * Madison, Wisconsin
+     * Madison Street
+     * U.S. postage stamps
+     * James Madison Memorial Fellowship Foundation
+     * James Madison Freedom of Information Award
+     * James Madison Award
+     * James Madison Institute
+     * A More Perfect Union (1989 film)
+     * Liberty's Kids (2002 miniseries)
+
+   Family
+     * Dolley Madison (wife)
+     * John Payne Todd (stepson)
+     * James Madison, Sr. (father)
+     * Nelly Conway Madison (mother)
+     * Ambrose Madison (grandfather)
+     * James Madison (cousin)
+     * George Madison (second-cousin)
+     * Thomas Madison (second-cousin)
+     * John Madison (great-grandfather)
+     * Lucy Washington (sister-in-law)
+
+   Related
+     * American Enlightenment
+     * Marbury v. Madison
+     * National Gazette
+     * Paul Jennings
+     * Madisonian Model
+     * American Philosophical Society
+     * The American Museum magazine
+     * Virginia dynasty
+
+   US Presidency Portal • American Revolutionary War Portal
+     * ← Thomas Jefferson
+     * James Monroe →
+
+     * Commons page Commons
+     * Wikipedia book Book:Federalist Papers
+     * Wikibooks page Wikibooks
+     * Wikiquote page Wikiquote
+     * Wikisource page Wikisource
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+     * v
+     * t
+     * e
+
+   Constitutions of states and dependencies in the Americas
+     * North America
+     * South America
+
+   Sovereign states
+     * Antigua and Barbuda
+     * Argentina
+     * Bahamas
+     * Barbados
+     * Belize
+     * Bolivia
+     * Brazil
+     * Canada
+     * Chile
+     * Colombia
+     * Costa Rica
+     * Cuba
+     * Dominica
+     * Dominican Republic
+     * Ecuador
+     * El Salvador
+     * Grenada
+     * Guatemala
+     * Guyana
+     * Haiti
+     * Honduras
+     * Jamaica
+     * Mexico
+     * Nicaragua
+     * Panama
+     * Paraguay
+     * Peru
+     * Saint Kitts and Nevis
+     * Saint Lucia
+     * Saint Vincent and the Grenadines
+     * Suriname
+     * Trinidad and Tobago
+     * United States
+     * Uruguay
+     * Venezuela
+
+   Americas (orthographic projection).svg
+   Dependencies and
+   other territories
+     * Anguilla
+     * Aruba
+     * Bermuda
+     * Bonaire
+     * British Virgin Islands
+     * Cayman Islands
+     * Curaçao
+     * Falkland Islands
+     * French Guiana
+     * Greenland
+     * Guadeloupe
+     * Martinique
+     * Montserrat
+     * Navassa Island
+     * Puerto Rico
+     * Saint Barthélemy
+     * Saint Martin
+     * Saint Pierre and Miquelon
+     * Saba
+     * Sint Eustatius
+     * Sint Maarten
+     * South Georgia and the South Sandwich Islands
+     * Turks and Caicos Islands
+     * US Virgin Islands
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_Constitution&o
+   ldid=623962744"
+   Categories:
+     * 1787 in the United States
+     * 1789 establishments in the United States
+     * 1789 in law
+     * 1789 in the United States
+     * James Madison
+     * Official documents of the United States
+     * Political charters
+     * United States Constitution
+     * American political philosophy literature
+
+   Hidden categories:
+     * Articles needing more detailed references
+     * All articles with dead external links
+     * Articles with dead external links from July 2013
+     * Accuracy disputes from August 2014
+     * Pages containing links to subscription-only content
+     * Use mdy dates from August 2014
+     * Wikipedia semi-protected pages
+     * All articles with unsourced statements
+     * Articles with unsourced statements from August 2014
+     * Articles needing additional references from June 2012
+     * All articles needing additional references
+     * Spoken articles
+     * Articles with hAudio microformats
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * View source
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Bosanski
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * Galego
+     * 贛語
+     * 한국어
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * עברית
+     * ಕನ್ನಡ
+     * ქართული
+     * Latina
+     * Latviešu
+     * Lietuvių
+     * Magyar
+     * Македонски
+     * मराठी
+     * Bahasa Melayu
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Саха тыла
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * ไทย
+     * Тоҷикӣ
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * Yorùbá
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 3 September 2014 at 05:20.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

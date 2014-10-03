@@ -1,0 +1,549 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Article Six of the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article includes a list of references, related reading or external
+   links, but its sources remain unclear because it lacks inline
+   citations. Please improve this article by introducing more precise
+   citations. (March 2013)
+   Wikisource has original text related to this article:
+   Article VI of the United States Constitution
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   Article Six of the United States Constitution establishes the laws and
+   treaties of the United States made in accordance with it as the supreme
+   law of the land, forbids a religious test as a requirement for holding
+   a governmental position and holds the United States under the
+   Constitution responsible for debts incurred by the United States under
+   the Articles of Confederation.
+
+Contents
+
+     * 1 Text
+     * 2 Debts
+     * 3 Supremacy
+     * 4 Oaths
+     * 5 References
+     * 6 External links
+
+Text[edit]
+
+     All Debts contracted and Engagements entered into, before the
+     Adoption of this Constitution, shall be as valid against the United
+     States under this Constitution, as under the Confederation.
+
+     This Constitution, and the Laws of the United States which shall be
+     made in Pursuance thereof; and all Treaties made, or which shall be
+     made, under the Authority of the United States, shall be the supreme
+     Law of the Land; and the Judges in every State shall be bound
+     thereby, any Thing in the Constitution or Laws of any State to the
+     Contrary notwithstanding.
+
+     The Senators and Representatives before mentioned, and the Members
+     of the several State Legislatures, and all executive and judicial
+     Officers, both of the United States and of the several States, shall
+     be bound by Oath or Affirmation, to support this Constitution; but
+     no religious Test shall ever be required as a Qualification to any
+     Office or public Trust under the United States.
+
+Debts[edit]
+
+   The first clause of the Article provides that debts contracted prior to
+   the adoption of the Constitution remain valid, as they were under the
+   Articles of Confederation.
+
+Supremacy[edit]
+
+   Main article: Supremacy Clause
+
+   Clause two provides that the Constitution, federal laws made pursuant
+   to it and treaties made under its authority, constitute the supreme law
+   of the land. It provides that state courts are bound by the supreme
+   law; in case of conflict between federal and state law, the federal law
+   must be applied. Even state constitutions are subordinate to federal
+   law.
+
+   The Supreme Court under John Marshall was influential in construing the
+   supremacy clause. It first ruled that it had the power to review the
+   decisions of state courts allegedly in conflict with the supreme law,
+   claims of "state sovereignty" notwithstanding. In Martin v. Hunter's
+   Lessee (1816), the Supreme Court confronted the Chief Justice of
+   Virginia, Spencer Roane, who had previously declared a Supreme Court
+   decision unconstitutional and refused to permit the state courts to
+   abide by it. The Court upheld the Judiciary Act, which permitted it to
+   hear appeals from state courts, on the grounds that Congress had passed
+   it under the supremacy clause.
+
+   The Supreme Court has also struck down attempts by states to control or
+   direct the affairs of federal institutions. McCulloch v. Maryland
+   (1819) was a significant case in this regard. The state of Maryland had
+   levied a tax on banks not chartered by the state; the tax applied,
+   state judges ruled, to the Bank of the United States chartered by
+   Congress in 1816. Marshall wrote that "the States have no power, by
+   taxation or otherwise, to retard, impede, burden, or in any manner
+   control, the operations of the constitutional laws enacted by Congress
+   to carry into execution the powers vested in the general government."
+   United States property is wholly immune to state taxation, as are
+   government activities and institutions. Congress may explicitly provide
+   immunity from taxation in certain cases, for instance by immunizing a
+   federal contractor. Federal employees, however, may not be immunized
+   from taxes, as the tax would not in any way impede government
+   activities.
+
+   Gibbons v. Ogden (1824) was another influential case involving the
+   supremacy clause. The state of New York had granted Aaron Ogden a
+   monopoly over the steamboat business in the Hudson River. The other
+   party, Thomas Gibbons, had obtained a federal permit under the Coastal
+   Licensing Act to perform the same task. The Supreme Court upheld the
+   federal permit. John Marshall wrote, "The nullity of an act,
+   inconsistent with the Constitution, is produced by the declaration,
+   that the Constitution is the supreme law. The appropriate application
+   of that part of the clause which confers the same supremacy on laws and
+   treaties, is to such acts of the State legislatures as do not transcend
+   their powers, but though enacted in the execution of acknowledged State
+   powers, interfere with, or are contrary to the laws of Congress, made
+   in pursuance of the Constitution, or some treaty made under the
+   authority of the United States. In every such case, the act of
+   Congress, or the treaty, is supreme; and the law of the State, though
+   enacted in the exercise of powers not controverted, must yield to it."
+
+   Reid v. Covert (1957) ruled that no branch of the United States
+   Government can have powers conferred upon it by treaty that have not
+   been conferred by the United States Constitution.
+
+Oaths[edit]
+
+   See also: No Religious Test Clause and Qur'an oath controversy of the
+   110th United States Congress
+
+   Federal and state legislators, executive officers and judges are, by
+   the third clause of the article, bound by oath or affirmation to
+   support the Constitution. Congress may determine the form of such an
+   oath. In Ex parte Garland (1866), the Supreme Court held that a test
+   oath would violate the Constitution, so it invalidated the law
+   requiring the following oath:
+
+     I, A. B., do solemnly swear (or affirm) that I have never
+     voluntarily borne arms against the United States since I have been a
+     citizen thereof; that I have voluntarily given no aid, countenance,
+     counsel, or encouragement to persons engaged in armed hostility
+     thereto; that I have neither sought nor accepted, not attempted to
+     exercise the functions of any office whatever, under any authority
+     or pretended authority in hostility to the United States; that I
+     have not yielded a voluntary support to any pretended government,
+     authority, power, or constitution with the United States, hostile or
+     inimical thereto...
+
+   The Supreme Court found that the law constituted an unconstitutional ex
+   post facto law, for it retroactively punished the offenses mentioned in
+   the oath by preventing those who committed them from taking office.
+
+   Congress may not require religious tests for an office under the United
+   States. Thus, Congress may include the customary words "so help me God"
+   in an oath, but an individual would be under no compulsion to utter
+   them, as such a requirement would constitute a religious test.
+
+   The current oath administered is as follows:
+
+     I, [name], do solemnly swear (or affirm) that I will support and
+     defend the Constitution of the United States against all enemies,
+     foreign and domestic; that I will bear true faith and allegiance to
+     the same; that I take this obligation freely, without any mental
+     reservation or purpose of evasion; and that I will well and
+     faithfully discharge the duties of the office on which I am about to
+     enter. [So help me God.]
+
+   During the 1960 presidential campaign, the issue of whether the nation
+   would for the first time elect a Catholic to the highest office in the
+   land raised the specter of an implicit, but no less effective,
+   religious test. John F. Kennedy, in his Address to the Greater Houston
+   Ministerial Association on 12 September 1960, addressed the question
+   directly, saying,
+
+     [N]either do I look with favor upon those who would work to subvert
+     Article VI of the Constitution by requiring a religious test, even
+     by indirection. For if they disagree with that safeguard, they
+     should be openly working to repeal it.
+
+     . . . [C]ontrary to common newspaper usage, I am not the Catholic
+     candidate for President.
+
+     I am the Democratic Party's candidate for President who happens also
+     to be a Catholic.
+
+     I do not speak for my church on public matters; and the church does
+     not speak for me. Whatever issue may come before me as President, if
+     I should be elected, on birth control, divorce, censorship, gambling
+     or any other subject, I will make my decision in accordance with
+     these views – in accordance with what my conscience tells me to be
+     in the national interest, and without regard to outside religious
+     pressure or dictates. And no power or threat of punishment could
+     cause me to decide otherwise.
+
+     But if the time should ever come – and I do not concede any conflict
+     to be remotely possible – when my office would require me to either
+     violate my conscience or violate the national interest, then I would
+     resign the office; and I hope any other conscientious public servant
+     would do likewise.
+
+     But I do not intend to apologize for these views to my critics of
+     either Catholic or Protestant faith; nor do I intend to disavow
+     either my views or my church in order to win this election.
+
+     If I should lose on the real issues, I shall return to my seat in
+     the Senate, satisfied that I'd tried my best and was fairly judged.
+
+     But if this election is decided on the basis that 40 million
+     Americans lost their chance of being President on the day they were
+     baptized, then it is the whole nation that will be the loser, in the
+     eyes of Catholics and non-Catholics around the world, in the eyes of
+     history, and in the eyes of our own people.
+
+References[edit]
+
+     * Irons, Peter. (1999). A People's History of the Supreme Court. New
+       York: Penguin.
+
+External links[edit]
+
+     * Kilman, Johnny and George Costello (Eds). (2000). The Constitution
+       of the United States of America: Analyis and Interpretation.
+     * CRS Annotated Constitution: Article 6
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Article_Six_of_the_United_St
+   ates_Constitution&oldid=616690049"
+   Categories:
+     * Articles of the United States Constitution
+
+   Hidden categories:
+     * Articles lacking in-text citations from March 2013
+     * All articles lacking in-text citations
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Français
+     * 贛語
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 12 July 2014 at 19:34.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

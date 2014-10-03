@@ -1,0 +1,414 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Intentional programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Not to be confused with Intensional programming.
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   In computer programming, Intentional Programming is a programming
+   paradigm developed by Charles Simonyi that encodes in software source
+   code the precise intention which programmers (or users) have in mind
+   when conceiving their work. By using the appropriate level of
+   abstraction at which the programmer is thinking, creating and
+   maintaining computer programs become easier. By separating the concerns
+   for intentions between the Entities and the Actions on those entities,
+   the software becomes more modular and allows for more reusable software
+   modules.
+
+   The Intentional Programming was developed by former Microsoft chief
+   architect Charles Simonyi, who led a team in Microsoft Research which
+   developed the paradigm and built an integrated development environment
+   (IDE) called IP (for Intentional Programming) that demonstrated the
+   paradigm. In the early 2000's Microsoft was rolling out C# and .NET to
+   counter the Java adoption wave, so Microsoft decided not to productize
+   the Intentional Programming paradigm and offer it to customers. ^[1]
+   Charles Simonyi decided, with approval of Microsoft, to take his idea
+   out from Microsoft and commercialize it himself. He founded the company
+   Intentional Software to pursue this. Microsoft licensed the Intentional
+   Programming patents Simonyi had acquired while at Microsoft, but no
+   source code, to Intentional Software.
+
+   An overview of Intentional Programming as it was developed at Microsoft
+   Research is given in Chapter 11 of the book Generative Programming:
+   Methods, Tools, and Applications.^[2]
+
+Contents
+
+     * 1 Development cycle
+     * 2 Separating source code storage and presentation
+     * 3 Example
+          + 3.1 Identity
+          + 3.2 Levels of detail
+     * 4 Similar works
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+Development cycle[edit]
+
+   As envisioned by Simonyi, developing a new application via the
+   Intentional Programming paradigm proceeds as follows. A programmer
+   first builds a language supporting the schema and notation to capture
+   the intentions specific to a given problem domain (such as productivity
+   applications or life insurance applications). Users, who can be domain
+   experts, aided by the programmer, then describe the application's
+   intended knowledge in a WYSIWYG-like manner. This knowledge is then
+   executed either through direct execution by an evaluator or as a
+   compiler to an automated system to generate the final program.
+   Successive changes are done at the WYSIWYG level only.^[3]
+
+Separating source code storage and presentation[edit]
+
+   Key to the benefits of Intentional Programming is that domain code
+   capturing the intentions are not stored in source code text files, but
+   in a tree-based storage (could be binary or XML). Tight integration of
+   the editor with the binary format brings some of the nicer features of
+   database normalization to source code. Redundancy is eliminated by
+   giving each definition a unique identity, and storing the name of
+   variables and operators in exactly one place. This makes it easier to
+   intrinsically distinguish declarations from references, and the
+   environment shows declarations in boldface type. Whitespace is also not
+   stored as part of the source code, and each programmer working on a
+   project can choose an indentation display of the source. More radical
+   visualizations include showing statement lists as nested boxes, editing
+   conditional expressions as logic gates, or re-rendering names in
+   Chinese.
+
+   The project appears to standardize a kind of XML Schema for popular
+   languages like C++ and Java, while letting users of the environment mix
+   and match these with ideas from Eiffel and other languages. Often
+   mentioned in the same context as language-oriented programming via
+   domain-specific languages, and aspect-oriented programming, IP purports
+   to provide some breakthroughs in generative programming. These
+   techniques allow developers to extend the language environment to
+   capture domain-specific constructs without investing in writing a full
+   compiler and editor for any new languages.
+
+Example[edit]
+
+   A Java program that writes out the numbers from 1 to 10, using a curly
+   bracket syntax, might look like this:
+ for (int i = 1; i <= 10; i++) {
+    System.out.println("the number is " + i);
+ }
+
+   The code above contains a common construct of most programming
+   languages, the bounded loop, in this case represented by the for
+   construct. The code, when compiled, linked and run, will loop 10 times,
+   incrementing the value of i each time after printing it out.
+
+   But this code does not capture the intentions of the programmer, namely
+   to "print the numbers 1 to 10". In this simple case, a programmer asked
+   to maintain the code could likely figure out what it is intended to do,
+   but it is not always so easy. Loops that extend across many lines, or
+   pages, can become very difficult to understand, notably if the original
+   programmer uses unclear labels. Traditionally the only way to indicate
+   the intention of the code was to add source code comments, but often
+   comments are not added, or are unclear, or drift out of sync with the
+   source code they originally described.
+
+   In intentional programming systems the above loop could be represented,
+   at some level, as something as obvious as "print the numbers 1 to 10".
+   The system would then use the intentions to generate source code,
+   likely something very similar to the code above. The key difference is
+   that the intentional programming systems maintain the semantic level,
+   which the source code lacks, and which can dramatically ease
+   readability in larger programs.
+
+   Although most languages contain mechanisms for capturing certain kinds
+   of abstraction, IP, like the Lisp family of languages, allows for the
+   addition of entirely new mechanisms. Thus, if a developer started with
+   a language like C, they would be able to extend the language with
+   features such as those in C++ without waiting for the compiler
+   developers to add them. By analogy, many more powerful expression
+   mechanisms could be used by programmers than mere classes and
+   procedures.
+
+Identity[edit]
+
+   IP focuses on the concept of identity. Since most programming languages
+   represent the source code as plain text, objects are defined by names,
+   and their uniqueness has to be inferred by the compiler. For example,
+   the same symbolic name may be used to name different variables,
+   procedures, or even types. In code that spans several pages – or, for
+   globally visible names, multiple files – it can become very difficult
+   to tell what symbol refers to what actual object. If a name is changed,
+   the code where it is used must carefully be examined.
+
+   By contrast, in an IP system, all definitions not only assign symbolic
+   names, but also unique private identifiers to objects. This means that
+   in the IP development environment, every reference to a variable or
+   procedure is not just a name – it is a link to the original entity.
+
+   The major advantage of this is that if an entity is renamed, all of the
+   references to it in the program remain valid (known as referential
+   integrity). This also means that if the same name is used for unique
+   definitions in different namespaces (such as ".to_string()"),
+   references with the same name but different identity will not be
+   renamed, as sometimes happens with search/replace in current editors.
+   This feature also makes it easy to have multi-language versions of the
+   program; it can have a set of English-language names for all the
+   definitions as well as a set of Japanese-language names which can be
+   swapped in at will.
+
+   Having a unique identity for every defined object in the program also
+   makes it easy to perform automated refactoring tasks, as well as
+   simplifying code check-ins in versioning systems. For example, in many
+   current code collaboration systems (e.g. CVS), when two programmers
+   commit changes that conflict (i.e. if one programmer renames a function
+   while another changes one of the lines in that function), the
+   versioning system will think that one programmer created a new function
+   while another modified an old function. In an IP versioning system, it
+   will know that one programmer merely changed a name while another
+   changed the code.
+
+Levels of detail[edit]
+
+   IP systems also offer several levels of detail, allowing the programmer
+   to "zoom in" or out. In the example above, the programmer could zoom
+   out to get a level that would say something like:
+<<print the numbers 1 to 10>>
+
+   Thus IP systems are self-documenting to a large degree, allowing the
+   programmer to keep a good high-level picture of the program as a whole.
+
+Similar works[edit]
+
+   There are projects that exploit similar ideas to create code with
+   higher level of abstraction. Among them are:
+     * Concept programming
+     * Language-oriented programming
+          + Domain-specific language
+     * Program transformation
+     * Semantic-oriented programming
+     * Literate programming
+     * Model-driven architecture (MDA)
+     * Software factory
+     * Metaprogramming
+     * Lisp (programming language)
+
+See also[edit]
+
+     * Programming paradigm
+     * Code generation
+     * Object database
+     * Programming by demonstration
+     * Artefaktur
+     * Abstract syntax tree
+     * Semantic resolution tree
+     * Structure editor
+
+References[edit]
+
+    1. ^ "Simonyi explains, 'It was impractical, when Microsoft was making
+       tremendous strides with .Net in the near term, to somehow send
+       somebody out from the same organization who says, "This is not how
+       you should do things--what if you did things in this other, more
+       disruptive way?'"[1] (Quote from "Part II: Anything You Can Do, I
+       Can Do Meta: Space tourist and billionaire programmer Charles
+       Simonyi designed Microsoft Office. Now he wants to reprogram
+       software.", Tuesday, January 9, 2007, Scott Rosenberg, Technology
+       Review.)
+    2. ^ Generative Programming: Methods, Tools, and Applications, by
+       Krzysztof Czarnecki and Ulrich Eisenecker, Addison-Wesley, Reading,
+       MA, USA, June 2000.
+    3. ^ Scott Rosenberg: "Anything You Can Do, I Can Do Meta." Technology
+       Review, January 8, 2007.
+
+External links[edit]
+
+     * Intentional Software - Charles Simonyi's company
+     * The Death Of Computer Languages, The Birth of Intentional
+       Programming, a technical report by Charles Simonyi (1995)
+     * Intentional Programming - Innovation in the Legacy Age, a talk by
+       Charles Simonyi (1996)
+     * Edge.org interview with Charles Simonyi (interviewer: John
+       Brockman)
+     * Language Workbenches: The Killer-App for Domain Specific Languages?
+       - Martin Fowler's article on the general class of tools that
+       Intentional Programming is an example of.
+     * "Anything You Can Do, I Can Do Meta" Tuesday, January 9, 2007,
+       Scott Rosenberg, Technology Review
+     * Awaiting the Day When Everyone Writes Software, The New York Times,
+       28 January 2007
+     * Is programming a form of encryption?, by Charles Simonyi (2005)
+
+     * The information contents of programs, by Charles Simonyi (2005)
+
+     * Feature X Considered Harmful, by Charles Simonyi (2005)
+
+     * Notations and Programming Languages, by Charles Simonyi (2005)
+
+     * Personal Observations from a Developer, by Mark Edel (2005)
+
+     * Microsoft Research's educational video introducing their
+       Intentional Programming system (ASF format, circa 1998, 20
+       megabytes)
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Intentional_programming&oldi
+   d=625176682"
+   Categories:
+     * Programming paradigms
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Français
+     * 日本語
+     * Polski
+     *
+
+   Edit links
+
+     * This page was last modified on 12 September 2014 at 01:35.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

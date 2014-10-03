@@ -1,0 +1,497 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Oz (programming language)
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   CAPTION: Oz
+
+        Paradigm(s)      multi-paradigm: logic, functional, imperative,
+                         object-oriented, constraint, distributed, concurrent
+        Designed by      Gert Smolka, his students
+         Developer       Mozart Consortium
+        Appeared in      1991
+      Stable release     1.4.0 / 3 July 2008; 6 years ago (2008-07-03)
+     Typing discipline   dynamic
+   Major implementations Mozart Programming System
+       Influenced by     Erlang, Lisp, Prolog
+        Influenced       Alice, Scala
+          License        MIT X11 ^[1]
+          Website        www.mozart-oz.org
+
+   Oz is a multiparadigm programming language, developed in the
+   Programming Systems Lab at Université catholique de Louvain, for
+   programming language education. It has a canonical textbook: Concepts,
+   Techniques, and Models of Computer Programming.
+
+   Oz was first designed by Gert Smolka and his students in 1991. In 1996
+   the development of Oz continued in cooperation with the research group
+   of Seif Haridi and Peter Van Roy at the Swedish Institute of Computer
+   Science. Since 1999, Oz has been continually developed by an
+   international group, the Mozart Consortium, which originally consisted
+   of Saarland University, the Swedish Institute of Computer Science, and
+   the Université catholique de Louvain. In 2005, the responsibility for
+   managing Mozart development was transferred to a core group, the Mozart
+   Board, with the express purpose of opening Mozart development to a
+   larger community.
+
+   The Mozart Programming System is the primary implementation of Oz. It
+   is released with an open source license by the Mozart Consortium.
+   Mozart has been ported to different flavors of Unix, FreeBSD, Linux,
+   Microsoft Windows, and Mac OS X.
+
+Contents
+
+     * 1 Language features
+     * 2 Language overview
+          + 2.1 Data structures
+          + 2.2 Functions
+               o 2.2.1 Higher Order Programming
+               o 2.2.2 Anonymous Functions
+               o 2.2.3 Procedures
+          + 2.3 Dataflow variables and declarative concurrency
+          + 2.4 Example: Trial division sieve
+          + 2.5 Laziness
+          + 2.6 Message passing concurrency
+          + 2.7 State and objects
+     * 3 Execution speed
+     * 4 See also
+     * 5 References
+     * 6 External links
+
+Language features[edit]
+
+   Oz^[2] contains most of the concepts of the major programming
+   paradigms, including logic, functional (both lazy and eager),
+   imperative, object-oriented, constraint, distributed, and concurrent
+   programming. Oz has both a simple formal semantics (see chapter 13 of
+   the book mentioned below) and an efficient implementation^[citation
+   needed]. Oz is a concurrency-oriented language, as the term was
+   introduced by Joe Armstrong, the main designer of the Erlang language.
+   A concurrency-oriented language makes concurrency both easy to use and
+   efficient. Oz supports a canonical GUI language QTk.
+
+   In addition to multi-paradigm programming, the major strengths of Oz
+   are in constraint programming and distributed programming. Due to its
+   factored design, Oz is able to successfully implement a
+   network-transparent distributed programming model. This model makes it
+   easy to program open, fault-tolerant applications within the language.
+   For constraint programming, Oz introduces the idea of "computation
+   spaces"; these allow user-defined search and distribution strategies
+   orthogonal to the constraint domain.
+
+Language overview[edit]
+
+Data structures[edit]
+
+   Oz is based on a core language with very few datatypes that can be
+   extended into more practical ones through syntactic sugar.
+
+   Basic data structures:
+     * Numbers: floating point or integer (real integer)
+     * Records: for grouping data : circle(x:0 y:1 radius:3 color:blue
+       style:dots). Here the terms x,y,radius etc are called features and
+       the data associated with the features(in this case 0,1,3 etc) are
+       the values.
+     * Tuples: Records with integer features in ascending order:
+       circle(1:0 2:1 3:3 4:blue 5:dots) .
+     * Lists: a simple linear structure
+
+'|'(2 '|'(4 '|'(6 '|'(8 nil)))) % as a record.
+2|(4|(6|(8|nil))) % with some syntactic sugar
+2|4|6|8|nil % more syntactic sugar
+[2 4 6 8] % even more syntactic sugar
+
+   Those data structures are values (constant), first class and
+   dynamically type checked. Variable names in oz start with an uppercase
+   letter to distinguish them from literals which always begin with
+   lowercase letter.
+
+Functions[edit]
+
+   Functions are first class values, allowing higher order functional
+   programming:
+fun {Fact N}
+   if N =< 0 then 1 else N*{Fact N-1} end
+end
+
+fun {Comb N K}
+   {Fact N} div ({Fact K} * {Fact N-K}) % integers can't overflow in Oz (unless
+no memory is left)
+end
+
+fun {SumList List}
+   case List of nil then 0
+   [] H|T then H+{SumList T} % pattern matching on lists
+   end
+end
+
+   Functions may be used with both free and bound variables. Free variable
+   values is found using static lexical scoping.^[3]
+
+Higher Order Programming[edit]
+
+   Functions are like other Oz objects. A function can be passed as an
+   attribute to other functions or can be returned in a function.
+fun {Square N}  % A general function
+   N*N
+end
+
+fun {Map F Xs}  % F is a function here - HIGHER ORDER PROGRAMMING
+   case Xs
+      of nil then nil
+      [] X|Xr then {F X}|{Map F Xr}
+   end
+end
+
+%usage
+{Browse {Map Square [1 2 3]}}  %browses [1 4 9]
+
+Anonymous Functions[edit]
+
+   Like many other functional languages, Oz supports use of anonymous
+   functions(i.e. functions which do not have a name) with higher order
+   programming. The symbol $ is used to denote these.
+% Square function is defined anonymously and passed.
+{Browse {Map fun {$ N} N*N end [1 2 3]}}  %browses [1 4 9]
+
+   Since, anonymous functions don't possess a name, it is not possible to
+   define recursive anonymous functions.
+
+Procedures[edit]
+
+   Functions in Oz are supposed to return a value at the last statement
+   encountered in the body of the function during its execution. In the
+   example below, the function Ret returns 5 if X > 0 and -5 otherwise.
+declare
+fun {Ret X}
+   if X > 0 then 5 else ~5 end
+end
+
+   But Oz also provides a facility in case we don't want the function to
+   return values. Such functions are called procedures. Procedures are
+   defined using the construct "proc" as follows
+declare
+proc {Ret X}
+   if X > 0 then {Browse 5} else {Browse ~5} end
+end
+
+   The above example doesn't return any value, it just prints 5 or -5 in
+   the Oz browser depending on the sign of X.
+
+Dataflow variables and declarative concurrency[edit]
+
+   When the program encounters an unbound variable it waits for a value:
+thread
+   Z = X+Y     % will wait until both X and Y are bound to a value.
+   {Browse Z}  % shows the value of Z.
+end
+thread X = 40 end
+thread Y = 2 end
+
+   It is not possible to change the value of a dataflow variable once it
+   is bound:
+X = 1
+X = 2 % error
+
+   Dataflow variables make it easy to create concurrent stream agents:
+fun {Ints N Max}
+   if N == Max then nil
+   else
+      {Delay 1000}
+      N|{Ints N+1 Max}
+   end
+end
+
+fun {Sum S Stream}
+   case Stream of nil then S
+   [] H|T then S|{Sum H+S T} end
+end
+
+local X Y in
+   thread X = {Ints 0 1000} end
+   thread Y = {Sum 0 X} end
+   {Browse Y}
+end
+
+   Because of the way dataflow variables work it is possible to put
+   threads anywhere in the program and it is guaranteed that it will have
+   the same result. This makes concurrent programming very easy. Threads
+   are very cheap: it is possible to have a hundred thousand threads
+   running at once.^[4]
+
+Example: Trial division sieve[edit]
+
+   This example computes a stream of prime numbers using the Trial
+   division algorithm by recursively creating concurrent stream agents
+   that filter out non-prime numbers:
+fun {Sieve Xs}
+   case Xs of nil then nil
+   [] X|Xr then Ys in
+      thread Ys = {Filter Xr fun {$ Y} Y mod X \= 0 end} end
+      X|{Sieve Ys}
+   end
+end
+
+Laziness[edit]
+
+   Oz uses eager evaluation by default, but lazy evaluation is possible:
+fun lazy {Fact N}
+   if N =< 0 then 1 else N*{Fact N-1} end
+end
+local X Y in
+  X = {Fact 100}
+  Y = X + 1 % the value of X is needed and fact is computed
+end
+
+   lazy evaluation gives the possibility of storing truly infinite data
+   structures in Oz. The power of lazy evaluation can be seen from the
+   following fragment of code:
+declare
+fun lazy {Merge Xs Ys}
+   case Xs#Ys
+   of (X|Xr)#(Y|Yr) then
+      if X < Y then X|{Merge Xr Ys}
+      elseif X>Y then Y|{Merge Xs Yr}
+      else X|{Merge Xr Yr}
+      end
+   end
+end
+
+fun lazy {Times N Xs}
+   case Xs
+   of nil then nil
+   [] X|Xr then N*X|{Times N Xr}
+   end
+end
+
+declare H
+H = 1 | {Merge {Times 2 H} {Merge {Times 3 H} {Times 5 H}}}
+{Browse {List.take H 6}}
+
+   The code above elegantly computes all the Regular Numbers in an
+   infinite list. The actual numbers are computed only when they are
+   needed.
+
+Message passing concurrency[edit]
+
+   The declarative concurrent model can be extended with message passing
+   through simple semantics:
+declare
+local Stream Port in
+   Port = {NewPort Stream}
+   {Send Port 1} % Stream is now 1|_ ('_' indicates an unbound and unnamed varia
+ble)
+   {Send Port 2} % Stream is now 1|2|_
+   ...
+   {Send Port n} % Stream is now 1|2| .. |n|_
+end
+
+   With a port and a thread the programmer can define asynchronous agents:
+fun {NewAgent Init Fun}
+   Msg Out in
+   thread {FoldL Msg Fun Init Out} end
+   {NewPort Msg}
+end
+
+State and objects[edit]
+
+   It is again possible to extend the declarative model to support state
+   and object-oriented programming with very simple semantics; we create a
+   new mutable data structure called Cells:
+local A X in
+   A = {NewCell 0}
+   A := 1  % changes the value of A to 1
+   X = @A  % @ is used to access the value of A
+end
+
+   With these simple semantic changes we can support the whole
+   object-oriented paradigm. With a little syntactic sugar OOP becomes
+   well integrated in Oz.
+class Counter
+   attr val
+   meth init(Value)
+      val:=Value
+   end
+   meth browse
+      {Browse @val}
+   end
+   meth inc(Value)
+      val :=@val+Value
+   end
+end
+
+local C in
+   C = {New Counter init(0)}
+   {C inc(6)}
+   {C browse}
+end
+
+Execution speed[edit]
+
+   The execution speed of a program produced by the Mozart Compiler
+   (version 1.4.0 implementing Oz 3) is very slow. On a set of benchmarks
+   it is on average about 50 times slower than that of the gcc compiler
+   for the C language, solving the benchmarks-tasks.^[5]^[not in citation
+   given]
+
+See also[edit]
+
+     * Alice, the concurrent functional constraint programming language
+       from Saarland University
+     * Dataflow programming
+     * Functional logic programming languages
+          + Curry, a functional logic programming language
+          + Mercury, a functional logic programming language
+          + Visual Prolog, an object-oriented, functional, logic
+            programming language
+
+References[edit]
+
+     * Peter Van Roy and Seif Haridi (2004). Concepts, Techniques, and
+       Models of Computer Programming. MIT Press. There is online
+       supporting material for this book. The book, an introduction to the
+       principles of programming languages, uses Oz as its preferred idiom
+       for examples.
+
+    1. ^ "Mozart Oz License Info". 2014-01-16. Retrieved 2014-01-16.
+    2. ^ Gert Smolka (1995). "The Oz Programming Model". Lecture Notes in
+       Computer Science 1000: 324–343.
+    3. ^ Robert Gentleman; Ross Ihaka (Sep 2000). "Lexical Scope in
+       Statistical Computing". Journal of Computational and Graphical
+       Statistics 9 (3, Systems and Languages). pp. 491–508.
+    4. ^
+       http://www.mozart-oz.org/documentation/tutorial/node8.html#chapter.
+       concurrency
+    5. ^ The Computer Language Benchmarks Game
+
+External links[edit]
+
+     * Official website
+     * Oz at DMOZ
+     * A quick Oz overview
+     * Tutorial of Oz
+     * Programming Language Research at UCL: One of the core developers of
+       Mozart/Oz, this group does research using Mozart/Oz as the vehicle
+     * Multiparadigm Programming in Mozart/Oz: Proceedings of MOZ 2004:
+       Conference which gives a snapshot of the work being done with
+       Mozart/Oz
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Oz_(programming_language)&ol
+   did=624773118"
+   Categories:
+     * Multi-paradigm programming languages
+     * Functional logic programming languages
+     * Logic programming languages
+     * Dynamically typed programming languages
+     * Prototype-based programming languages
+     * Concurrent programming languages
+     * Educational programming languages
+     * Programming languages created in 1991
+
+   Hidden categories:
+     * Use dmy dates from May 2012
+     * All articles with unsourced statements
+     * Articles with unsourced statements from June 2007
+     * Articles with unsourced statements from February 2014
+     * Articles with DMOZ links
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Español
+     * Français
+     * Galego
+     * 한국어
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Svenska
+     * Тоҷикӣ
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 9 September 2014 at 07:00.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

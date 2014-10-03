@@ -1,0 +1,309 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Data-driven programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   In computer programming, data-driven programming is a programming
+   paradigm in which the program statements describe the data to be
+   matched and the processing required rather than defining a sequence of
+   steps to be taken.^[1] Standard examples of data-driven languages are
+   the text-processing languages sed and AWK,^[1] where the data is a
+   sequence of lines in an input stream – these are thus also known as
+   line-oriented languages – and pattern matching is primarily done via
+   regular expressions or line numbers. Data-driven programming is similar
+   to event-driven programming, in that both are structured as pattern
+   matching and resulting processing, and are usually implemented by a
+   main loop, though they are typically applied to different domains.
+
+   Adapting abstract data type design methods to object-oriented
+   programming results in a data-driven design.^[2] This type of design is
+   sometimes used in object-oriented programming to define classes during
+   the conception of a piece of software.
+
+Benefits and issues[edit]
+
+   While the benefits and issues may vary between implementation, there
+   are a few big potential benefits and issues of this paradigm.
+   Functionality simply requires that it knows the abstract data type of
+   the variables it is working with. Functions and interfaces can be used
+   on all objects with the same data fields, for instance the object's
+   "position". Data can be grouped into objects or "entities" according to
+   preference with little to no consequence.
+
+   While data-driven design does prevent coupling of data and
+   functionality, in some cases, data-driven programming has been argued
+   to lead to bad object-oriented design, especially when dealing with
+   more abstract data. This is because a purely data-driven object or
+   entity is defined by the way it is represented. Any attempt to change
+   the structure of the object would immediately break the functions that
+   rely on it.
+
+   As an example, one might represent driving directions as a series of
+   intersections (two intersecting streets) where the driver must turn
+   right or left. If an intersection (in the United States) is represented
+   in data by the zip code (5-digit number) and two street names (strings
+   of text), bugs may appear when a city where streets intersect multiple
+   times is encountered. While this example may be oversimplified,
+   restructuring of data is fairly common problem in software engineering,
+   either to eliminate bugs, increase efficiency, or support new features.
+   In these cases responsibility-driven design may be promoted as a better
+   approach, where functionality and data can be coupled together, so
+   functions don't have to deal with the data representation itself.^[2]
+
+Data-driven programming languages[edit]
+
+     * AWK^[1]
+     * Oz
+     * Perl – data-driven programming as in AWK and sed is one paradigm
+       supported by Perl
+     * sed
+
+References[edit]
+
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (March 2011)
+    1. ^ ^a ^b ^c Stutz, Michael (September 19, 2006). "Get started with
+       GAWK: AWK language fundamentals". developerWorks. IBM. Retrieved
+       2010-10-23. "[AWK is] often called a data-driven language -- the
+       program statements describe the input data to match and process
+       rather than a sequence of program steps"
+    2. ^ ^a ^b Wirfs-Brock, R.; Wilkerson, B. (1989). "Object-oriented
+       design: a responsibility-driven approach". Conference Proceedings
+       on Object-Oriented Programming Systems, Languages and Applications
+       (New York: ACM): 71–75. doi:10.1145/74877.74885.
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Stub icon This computer programming–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Data-driven_programming&oldi
+   d=599125078"
+   Categories:
+     * Programming paradigms
+     * Computer programming stubs
+
+   Hidden categories:
+     * Articles needing additional references from March 2011
+     * All articles needing additional references
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Русский
+     *
+
+   Edit links
+
+     * This page was last modified on 11 March 2014 at 12:36.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

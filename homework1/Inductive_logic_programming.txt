@@ -1,0 +1,467 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Inductive logic programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Inductive logic programming (ILP) is a subfield of machine learning
+   which uses logic programming as a uniform representation for examples,
+   background knowledge and hypotheses. Given an encoding of the known
+   background knowledge and a set of examples represented as a logical
+   database of facts, an ILP system will derive a hypothesised logic
+   program which entails all the positive and none of the negative
+   examples.
+
+   Schema: positive examples + negative examples + background knowledge =>
+   hypothesis.
+
+   Inductive logic programming is particularly useful in bioinformatics
+   and natural language processing. The term Inductive Logic Programming
+   was first introduced^[1] in a paper by Stephen Muggleton in 1991.^[2]
+   The term "inductive" here refers to philosophical (i.e. suggesting a
+   theory to explain observed facts) rather than mathematical (i.e.
+   proving a property for all members of a well-ordered set) induction.
+
+Contents
+
+     * 1 Formal definition
+     * 2 Example
+     * 3 Inductive Logic Programming system
+          + 3.1 Hypothesis search
+          + 3.2 Implementations
+     * 4 See also
+     * 5 References
+     * 6 Further reading
+
+Formal definition[edit]
+
+   The background knowledge is given as a logic theory B , commonly in the
+   form of Horn clauses used in logic programming. The positive and
+   negative examples are given as a conjunction E^+ and E^- of unnegated
+   and negated ground literals, respectively. A correct hypothesis h is a
+   logic proposition satisfying the following requirements.^[3]
+   Necessity:          B                   \not\models E^+
+   Sufficiency:        B \land h           \models     E^+
+   Weak consistency:   B \land h           \not\models \textit{false}
+   Strong consistency: B \land h \land E^- \not\models \textit{false}
+
+   "Necessity" does not impose a restriction on h , but forbids any
+   generation of a hypothesis as long as the positive facts are
+   explainable without it. "Sufficiency" requires any generated hypothesis
+   h to explain all positive examples E^+ . "Weak consistency" forbids
+   generation of any hypothesis h that contradicts the background
+   knowledge B . "Strong consistency" also forbids generation of any
+   hypothesis h that is inconsistent with the negative examples E^- ,
+   given the background knowledge B ; it implies "Weak consistency"; if no
+   negative examples are given, both requirements coincide. Džeroski ^[4]
+   requires only "Sufficiency" (called "Completeness" there) and "Strong
+   consistency".
+
+Example[edit]
+
+   Assumed family relations in section "Example"
+
+   The following well-known example about learning definitions of family
+   relations uses the abbreviations \textit{par}: \textit{parent} ,
+   \textit{fem}: \textit{female} , \textit{dau}: \textit{daughter} ,
+   g:\textit{George} , h:\textit{Helen} , m:\textit{Mary} , t:\textit{Tom}
+   , n:\textit{Nancy} , and e:\textit{Eve} . It starts from the background
+   knowledge (cf. picture)
+
+          \textit{par}(h,m) \land \textit{par}(h,t) \land
+          \textit{par}(g,m) \land \textit{par}(t,e) \land
+          \textit{par}(n,e) \land \textit{fem}(h) \land \textit{fem}(m)
+          \land \textit{fem}(n) \land \textit{fem}(e) ,
+
+   the positive examples
+
+          \textit{dau}(m,h) \land \textit{dau}(e,t) ,
+
+   and the trivial proposition \textit{true} to denote the absence of
+   negative examples.
+
+   Plotkin's ^[5]^[6] "relative least general generalization (rlgg)"
+   approach to inductive logic programming shall be used to obtain a
+   suggestion about how to formally define the daughter relation
+   \textit{dau} .
+
+   This approach uses the following steps.
+     * Relativize each positive example literal with the complete
+       background knowledge:
+          + \textit{dau}(m,h) \leftarrow \textit{par}(h,m) \land
+            \textit{par}(h,t) \land \textit{par}(g,m) \land
+            \textit{par}(t,e) \land \textit{par}(n,e) \land
+            \textit{fem}(h) \land \textit{fem}(m) \land \textit{fem}(n)
+            \land \textit{fem}(e)
+          + \textit{dau}(e,t) \leftarrow \textit{par}(h,m) \land
+            \textit{par}(h,t) \land \textit{par}(g,m) \land
+            \textit{par}(t,e) \land \textit{par}(n,e) \land
+            \textit{fem}(h) \land \textit{fem}(m) \land \textit{fem}(n)
+            \land \textit{fem}(e) ,
+     * Convert into clause normal form:
+          + \textit{dau}(m,h) \lor \lnot \textit{par}(h,m) \lor \lnot
+            \textit{par}(h,t) \lor \lnot \textit{par}(g,m) \lor \lnot
+            \textit{par}(t,e) \lor \lnot \textit{par}(n,e) \lor \lnot
+            \textit{fem}(h) \lor \lnot \textit{fem}(m) \lor \lnot
+            \textit{fem}(n) \lor \lnot \textit{fem}(e)
+          + \textit{dau}(e,t) \lor \lnot \textit{par}(h,m) \lor \lnot
+            \textit{par}(h,t) \lor \lnot \textit{par}(g,m) \lor \lnot
+            \textit{par}(t,e) \lor \lnot \textit{par}(n,e) \lor \lnot
+            \textit{fem}(h) \lor \lnot \textit{fem}(m) \lor \lnot
+            \textit{fem}(n) \lor \lnot \textit{fem}(e) ,
+     * Anti-unify each compatible ^[7] pair ^[8] of literals:
+          + \textit{dau}(x_{me},x_{ht}) from \textit{dau}(m,h) and
+            \textit{dau}(e,t) ,
+          + \lnot \textit{par}(x_{ht},x_{me}) from \lnot \textit{par}(h,m)
+            and \lnot \textit{par}(t,e) ,
+          + \lnot \textit{fem}(x_{me}) from \lnot \textit{fem}(m) and
+            \lnot \textit{fem}(e) ,
+          + \lnot \textit{par}(g,m) from \lnot \textit{par}(g,m) and \lnot
+            \textit{par}(g,m) , similar for all other background-knowledge
+            literals
+          + \lnot \textit{par}(x_{gt},x_{me}) from \lnot \textit{par}(g,m)
+            and \lnot \textit{par}(t,e) , and many more negated literals
+     * Delete all negated literals containing variables that don't occur
+       in a positive literal:
+          + after deleting all negated literals containing other variables
+            than x_{me},x_{ht} , only \textit{dau}(x_{me},x_{ht}) \lor
+            \lnot \textit{par}(x_{ht},x_{me}) \lor \lnot
+            \textit{fem}(x_{me}) remains, together with all ground
+            literals from the background knowledge
+     * Convert clauses back to Horn form:
+          + \textit{dau}(x_{me},x_{ht}) \leftarrow
+            \textit{par}(x_{ht},x_{me}) \land \textit{fem}(x_{me}) \land
+            (\text{all background knowledge facts})
+
+   The resulting Horn clause is the hypothesis h obtained by the rlgg
+   approach. Ignoring the background knowledge facts, the clause
+   informally reads " x_{me} is called a daughter of x_{ht} if x_{ht} is
+   the parent of x_{me} and x_{me} is female", which is a commonly
+   accepted definition.
+
+   Concerning the above requirements, "Necessity" was satisfied because
+   the predicate \textit{dau} doesn't appear in the background knowledge,
+   which hence cannot imply any property containing this predicate, such
+   as the positive examples are. "Sufficiency" is satisfied by the
+   computed hypothesis h , since it, together with \textit{par}(h,m) \land
+   \textit{fem}(m) from the background knowledge, implies the first
+   positive example \textit{dau}(m,h) , and similarly h and
+   \textit{par}(t,e) \land \textit{fem}(e) from the background knowledge
+   implies the second positive example \textit{dau}(e,t) . "Weak
+   consistency" is satisfied by h , since h holds in the (finite) Herbrand
+   structure described by the background knowledge; similar for "Strong
+   consistency".
+
+   The common definition of the grandmother relation, viz.
+   \textit{gra}(x,z) \leftarrow \textit{fem}(x) \land \textit{par}(x,y)
+   \land \textit{par}(y,z) , cannot be learned using the above approach,
+   since the variable y occurs in the clause body only; the corresponding
+   literals would have been deleted in the 4th step of the approach. To
+   overcome this flaw, that step has to be modified such that it can be
+   parametrized with different literal post-selection heuristics.
+   Historically, the GOLEM implementation is based on the rlgg approach.
+
+Inductive Logic Programming system[edit]
+
+   Inductive Logic Programming system is a program that takes as an input
+   logic theories B, E^+, E^- and outputs a correct hypothesis H wrt
+   theories B, E^+, E^- An algorithm of an ILP system consists of two
+   parts: hypothesis search and hypothesis selection. First a hypothesis
+   is searched with an inductive logic programming procedure, then a
+   subset of the found hypotheses (in most systems one hypothesis) is
+   chosen by a selection algorithm. A selection algorithm scores each of
+   the found hypotheses and returns the ones with the highest score. An
+   example of score function include minimal compression length where a
+   hypothesis with a lowest Kolmogorov complexity has the highest score
+   and is returned. An ILP system is complete iff for any input logic
+   theories B, E^+, E^- any correct hypothesis H wrt to these input
+   theories can be found with its hypothesis search procedure.
+
+Hypothesis search[edit]
+
+   Modern ILP systems like Progol,^[2] Hail ^[9] and Imparo ^[10] find a
+   hypothesis H using the principle of the inverse entailment^[2] for
+   theories B , E , H : B \land H \models E \iff B \land \neg E \models
+   \neg H . First they construct an intermediate theory F called a bridge
+   theory satisfying the conditions B \land \neg E \models F and F \models
+   \neg H . Then as H \models \neg F , they generalize the negation of the
+   bridge theory F with the anti-entailment.^[11] However, the operation
+   of the anti-entailment since being highly non-deterministic is
+   computationally more expensive. Therefore an alternative hypothesis
+   search can be conducted using the operation of the inverse subsumption
+   (anti-subsumption) instead which is less non-deterministic than
+   anti-entailment.
+
+   Questions of completeness of a hypothesis search procedure of specific
+   ILP system arise. For example, Progol's hypothesis search procedure
+   based on the inverse entailment inference rule is not complete by
+   Yamamoto's example.^[12] On the other hand, Imparo is complete by both
+   anti-entailment procedure ^[13] and its extended inverse subsumption
+   ^[14] procedure.
+
+Implementations[edit]
+
+     * 1BC and 1BC2: first-order naive Bayesian classifiers:
+       (http://www.cs.bris.ac.uk/Research/MachineLearning/1BC/)
+     * ACE (A Combined Engine) (http://dtai.cs.kuleuven.be/ACE/)
+     * Aleph
+       (http://web.comlab.ox.ac.uk/oucl/research/areas/machlearn/Aleph/)
+     * Atom (http://www.ahlgren.info/research/atom/)
+     * Claudien (http://dtai.cs.kuleuven.be/claudien/)
+     * DL-Learner (http://dl-learner.org)
+     * DMax (http://dtai.cs.kuleuven.be/dmax/)
+     * FOIL (ftp://ftp.cs.su.oz.au/pub/foil6.sh)
+     * Golem (ILP) (http://www.doc.ic.ac.uk/~shm/Software/golem)
+     * Imparo^[13]
+     * Inthelex (INcremental THEory Learner from EXamples)
+       (http://lacam.di.uniba.it:8000/systems/inthelex/)
+     * Lime (http://cs.anu.edu.au/people/Eric.McCreath/lime.html)
+     * Mio (http://libra.msra.cn/Publication/3392493/mio-user-s-manual)
+     * MIS (Model Inference System) by Ehud Shapiro
+     * PROGOL (http://www.doc.ic.ac.uk/~shm/Software/progol5.0)
+     * RSD (http://labe.felk.cvut.cz/~zelezny/rsd/)
+     * Warmr (now included in ACE)
+     * ProGolem (http://ilp.doc.ic.ac.uk/ProGolem/) ^[15]^[16]
+
+See also[edit]
+
+     * Inductive reasoning
+     * Inductive programming
+
+References[edit]
+
+    1. ^ Luc De Raedt. A Perspective on Inductive Logic Programming. The
+       Workshop on Current and Future Trends in Logic Programming,
+       Shakertown, to appear in Springer LNCS, 1999. CiteSeerX:
+       10.1.1.56.1790
+    2. ^ ^a ^b ^c Muggleton, S. (1991). "Inductive logic programming". New
+       Generation Computing 8 (4): 295–318. doi:10.1007/BF03037089.  edit
+    3. ^ Muggleton, Stephen (1999). "Inductive Logic Programming: Issues,
+       Results and the Challenge of Learning Language in Logic".
+       Artificial Intelligence 114: 283–296.
+       doi:10.1016/s0004-3702(99)00067-3. ; here: Sect.2.1
+    4. ^ Džeroski, Sašo (1996), "Inductive Logic Programming and Knowledge
+       Discovery in Databases", in Fayyad, U.M.; Piatetsky-Shapiro, G.;
+       Smith, P. et al., Advances in Knowledge Discovery and Data Mining,
+       MIT Press, pp. 117–152  |displayeditors= suggested (help); here:
+       Sect.5.2.4
+    5. ^ Plotkin, Gordon D. (1970). "A Note on Inductive Generalization".
+       In Meltzer, B.; Michie, D. Machine Intelligence (Edinburgh
+       University Press) 5: 153–163.
+    6. ^ Plotkin, Gordon D. (1971). "A Further Note on Inductive
+       Generalization". In Meltzer, B.; Michie, D. Machine Intelligence
+       (Edinburgh University Press) 6: 101–124.
+    7. ^ i.e. sharing the same predicate symbol and negated/unnegated
+       status
+    8. ^ in general: n -tuple when n positive example literals are given
+    9. ^ Ray, O., Broda, K., & Russo, A. M. (2003). Hybrid abductive
+       inductive learning. In LNCS: Vol. 2835. Pro- ceedings of the 13th
+       international conference on inductive logic programming (pp.
+       311–328). Berlin: Springer.
+   10. ^ Kimber, T., Broda, K., & Russo, A. (2009). Induction on failure:
+       learning connected Horn theories. In LNCS: Vol. 5753. Proceedings
+       of the 10th international conference on logic programing and
+       nonmonotonic reasoning (pp. 169–181). Berlin: Springer.
+   11. ^ Yoshitaka Yamamoto, Katsumi Inoue, and Koji Iwanuma. Inverse
+       subsumption for complete explana- tory induction. Machine learning,
+       86(1):115–139, 2012.
+   12. ^ Akihiro Yamamoto. Which hypotheses can be found with inverse
+       entailment? In Inductive Logic Programming, pages 296–308.
+       Springer, 1997.
+   13. ^ ^a ^b Timothy Kimber. Learning definite and normal logic programs
+       by induction on failure. PhD thesis, Imperial College London, 2012.
+   14. ^ David Toth (2014). Imparo is complete by inverse subsumption.
+       arXiv:1407.3836
+   15. ^ Muggleton, Stephen; Santos, Jose; Tamaddoni-Nezhad, Alireza
+       (2009). "ProGolem: a system based on relative minimal
+       generalization". ILP.
+   16. ^ Santos, Jose; Nassif, Houssam; Page, David; Muggleton, Stephen;
+       Sternberg, Mike (2012). "Automated identification of features of
+       protein-ligand interactions using Inductive Logic Programming: a
+       hexose binding case study". BMC Bioinformatics 13: 162.
+
+Further reading[edit]
+
+     * Muggleton, S.; De Raedt, L. (1994). "Inductive Logic Programming:
+       Theory and methods". The Journal of Logic Programming. 19-20:
+       629–679. doi:10.1016/0743-1066(94)90035-3.  edit
+     * Lavrac, N.; Dzeroski, S. (1994). Inductive Logic Programming:
+       Techniques and Applications. New York: Ellis Horwood.
+       ISBN 0-13-457870-8.
+     * Visual example of inducing the grandparenthood relation by the Atom
+       system.
+       http://john-ahlgren.blogspot.com/2014/03/inductive-reasoning-visual
+       ized.html
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Inductive_logic_programming&
+   oldid=618690432"
+   Categories:
+     * Inductive logic programming
+
+   Hidden categories:
+     * Pages using citations with old-style implicit et al. in editors
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Čeština
+     * Deutsch
+     * Français
+     * Italiano
+     * Русский
+     * ไทย
+     *
+
+   Edit links
+
+     * This page was last modified on 27 July 2014 at 16:23.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

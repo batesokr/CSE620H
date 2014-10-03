@@ -1,0 +1,678 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Seventh Amendment to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   The Seventh Amendment (Amendment VII) to the United States Constitution
+   is part of the Bill of Rights. This amendment codifies the right to a
+   jury trial in certain civil cases, and inhibits courts from overturning
+   a jury's findings of fact.
+
+   An early version of the Seventh Amendment was introduced in Congress in
+   1789 by James Madison, along with the other amendments to the Bill of
+   Rights, in response to Anti-Federalist objections to the new
+   Constitution. Congress proposed a revised version of the Seventh
+   Amendment to the states on September 28, 1789, and by December 15,
+   1791, the necessary three-quarters of the states had ratified it.
+   Secretary of State Thomas Jefferson announced the adoption of the
+   amendment on March 1, 1792.
+
+   The Seventh Amendment is generally considered one of the more
+   straightforward amendments of the Bill of Rights. Unlike most of the
+   Bill's provisions, the Seventh Amendment has never been incorporated
+   (i.e., applied to the states), although almost every state voluntarily
+   complies with such a requirement. United States v. Wonson (1812)
+   established the "historical test", which interpreted the amendment as
+   relying on English common law to determine whether a jury trial was
+   necessary in a civil suit. The amendment thus does not guarantee trial
+   by jury in cases under maritime law, in lawsuits against the government
+   itself, and for many parts of patent claims. In all other cases, the
+   jury can be waived by consent of the parties.
+
+   The amendment additionally guarantees a minimum of six members for a
+   jury in a civil trial. The amendment's twenty dollar threshold has not
+   been the subject of much scholarly or judicial writing; that threshold
+   remains applicable despite the inflation that has occurred since the
+   18th century.
+
+Contents
+
+     * 1 Text
+     * 2 Background
+     * 3 Proposal and ratification
+     * 4 Judicial interpretation
+          + 4.1 The historical test
+          + 4.2 Jury size
+          + 4.3 Twenty Dollars Clause
+     * 5 References
+          + 5.1 Notes
+          + 5.2 Citations
+          + 5.3 Bibliography
+     * 6 External links
+
+Text[edit]
+
+     In Suits at common law, where the value in controversy shall exceed
+     twenty dollars, the right of trial by jury shall be preserved, and
+     no fact tried by a jury, shall be otherwise re-examined in any Court
+     of the United States, than according to the rules of the common
+     law.^[1]
+
+   The Bill of Rights in the National Archives
+
+Background[edit]
+
+   After several years of comparatively weak government under the Articles
+   of Confederation, a Constitutional Convention in Philadelphia proposed
+   a new constitution on September 17, 1787, featuring a stronger chief
+   executive and other changes.^[2] George Mason, a Constitutional
+   Convention delegate and the drafter of Virginia's Declaration of
+   Rights, proposed that a bill of rights listing and guaranteeing civil
+   liberties be included. Other delegates—including future Bill of Rights
+   drafter James Madison—disagreed, arguing that existing state guarantees
+   of civil liberties were sufficient and that any attempt to enumerate
+   individual rights risked implying that the federal government had power
+   to violate every other right (this concern eventually led to the Ninth
+   and Tenth Amendments). After a brief debate, Mason's proposal was
+   defeated by a unanimous vote of the state delegations.^[3] In the final
+   days of the convention, North Carolina delegate Hugh Williamson
+   proposed a guarantee of trial by jury in federal civil cases, but a
+   motion to add this guarantee was also defeated.^[4]
+
+   However, for the Constitution to be adopted, nine of the thirteen
+   states were required to ratify it in state conventions. Opposition to
+   ratification ("Anti-Federalism") was partly based on the Constitution's
+   lack of adequate guarantees for civil liberties. Supporters of the
+   Constitution in states where popular sentiment was against ratification
+   (including Virginia, Massachusetts, and New York) successfully proposed
+   that their state conventions both ratify the Constitution and call for
+   the addition of a bill of rights.^[5]
+
+   One charge of the Anti-Federalists was that giving the U.S. Supreme
+   Court jurisdiction "both as to law and fact" would allow it to deny the
+   findings of jury trials in civil cases. Responding to these concerns,
+   five state ratification conventions recommended guaranteeing the right
+   to jury trial in civil cases by constitutional amendment.^[6]
+
+Proposal and ratification[edit]
+
+   Main article: United States Bill of Rights
+   James Madison, drafter of the Bill of Rights
+
+   In the 1st United States Congress, following the state legislatures'
+   request, James Madison proposed twenty constitutional amendments based
+   on state bills of rights and English sources such as the Bill of Rights
+   1689.^[7] Among them was an amendment protecting findings of fact in
+   civil cases exceeding a certain dollar value from judicial review.
+   Madison proposed that this amendment be added directly to Article
+   Three, though Congress later determined to add the proposed Bill of
+   Rights to the end of the Constitution, leaving the original text
+   intact.^[6] Congress also reduced Madison's proposed twenty amendments
+   to twelve, and these were proposed to the states for ratification on
+   September 25, 1789.^[8]^[9]
+
+   By the time the Bill of Rights was submitted to the states for
+   ratification, opinions had shifted in both parties. Many Federalists,
+   who had previously opposed a Bill of Rights, now supported the Bill as
+   a means of silencing the Anti-Federalists' most effective criticism.
+   Many Anti-Federalists, in contrast, now opposed it, realizing that the
+   Bill's adoption would greatly lessen the chances of a second
+   constitutional convention, which they desired.^[10] Anti-Federalists
+   such as Richard Henry Lee also argued that the Bill left the most
+   objectionable portions of the Constitution, such as the federal
+   judiciary and direct taxation, intact.^[11]
+
+   On November 20, 1789, New Jersey ratified eleven of the twelve
+   amendments, rejecting an amendment to regulate congressional pay
+   raises. On December 19 and 22, respectively, Maryland and North
+   Carolina ratified all twelve amendments.^[12] On January 19, 25, and
+   28, 1790, respectively, South Carolina, New Hampshire, and Delaware
+   ratified the Bill, though New Hampshire rejected the amendment on
+   Congressional pay raises, and Delaware rejected Article I, which
+   regulated the size of the House.^[12] This brought the total of
+   ratifying states to six of the required ten, but the process stalled in
+   other states: Connecticut and Georgia found a Bill of Rights
+   unnecessary and so refused to ratify, while Massachusetts ratified most
+   of the amendments, but failed to send official notice to the Secretary
+   of State that it had done so.^[11]^[a]
+
+   In February through June of 1790, New York, Pennsylvania, and Rhode
+   Island ratified eleven of the amendments, though all three rejected the
+   amendment on Congressional pay raises. Virginia initially postponed its
+   debate, but after Vermont was admitted to the Union in 1791, the total
+   number of states needed for ratification rose to eleven. Vermont
+   ratified on November 3, 1791, approving all twelve amendments, and
+   Virginia finally followed on December 15, 1791.^[11] Secretary of State
+   Thomas Jefferson announced the adoption of the ten successfully
+   ratified amendments on March 1, 1792.^[13]
+
+Judicial interpretation[edit]
+
+   The Seventh Amendment is generally considered one of the more
+   straightforward amendments of the Bill of Rights. Scholar Charles W.
+   Wolfram states that it has usually "been interpreted as if it were
+   virtually a self-explanatory provision".^[14]^[15]
+
+   Unlike most of the provisions of the Bill of Rights, the Seventh
+   Amendment has never been applied to the states. The Supreme Court
+   stated in Walker v. Sauvinet (1875), Minneapolis & St. Louis Railroad
+   v. Bombolis (1916) and Hardware Dealers' Mut. Fire Ins. Co. of
+   Wisconsin v. Glidden Co. (1931) that states were not required to
+   provide jury trials in civil cases.^[15] Nonetheless, most states
+   voluntarily guarantee the right to a civil jury trial,^[16] and they
+   must do so in certain state court cases that are decided under federal
+   law.^[17]
+
+The historical test[edit]
+
+   Justice Joseph Story issued the first judicial opinion on the amendment
+   in United States v. Wonson (1812).^[18]
+
+   The first judicial opinion issued on the amendment came in United
+   States v. Wonson (1812), in which the federal government wished to
+   retry the facts of a civil case it had lost against Samuel Wonson.^[18]
+   Supreme Court Justice Joseph Story, acting as a circuit court judge,
+   ruled for Wonson, stating that to retry the facts of the case would
+   violate the Seventh Amendment. Regarding the amendment's phrase "the
+   rules of common law", Story wrote:
+
+     Beyond all question, the common law here alluded to is not the
+     common law of any individual state, (for it probably differs in
+     all), but it is the common law of England, the grand reservoir of
+     all our jurisprudence. It cannot be necessary for me to expound the
+     grounds of this opinion, because they must be obvious to every
+     person acquainted with the history of the law.^[19]
+
+   Wonson's ruling established the "historical test", which interpreted
+   the amendment as relying on English common law to determine whether a
+   jury trial was necessary in a civil suit. Applying the historical test
+   in Parsons v. Bedford (1830), for example, the Supreme Court found that
+   jury trials were not constitutionally guaranteed for cases under
+   maritime law, an area in which English common law did not require
+   juries. The Court further clarified this rule as a "fixed historical
+   test" in Thompson v. Utah (1898), which established that the relevant
+   guide was English common law of 1791, rather than that of the present
+   day.^[15] In Chauffeurs, Teamsters, and Helpers Local No. 391 v. Terry
+   (1990), the Court explained that the right to a jury trial provided by
+   the Seventh Amendment encompasses more than the common law forms of
+   action recognized in 1791 (when the Bill of Rights was ratified), but
+   rather any lawsuit in which parties’ legal rights were to be
+   determined, as opposed to suits which only involve equitable rights and
+   remedies.^[20]
+
+   In Galloway v. United States (1943), the Court permitted a directed
+   verdict (a verdict ordered by a judge on the basis of overwhelming lack
+   of evidence) in a civil suit, finding that it did not violate the
+   Seventh Amendment under the fixed historical test.^[15] The Court
+   extended the amendment's guarantees in Beacon Theatres v. Westover
+   (1959) and Dairy Queen, Inc. v. Wood (1962), ruling in each case that
+   all issues that required trial by jury under English common law also
+   required trial by jury under the Seventh Amendment.^[6] This guarantee
+   was also further extended to shareholder suits in Ross v. Bernhard
+   (1970)^[6] and to copyright infringement lawsuits in Feltner v.
+   Columbia Pictures TV (1998).^[15]
+
+   In Markman v. Westview Instruments, Inc. (1996), the Court ruled that
+   many parts of patent claims are questions of law rather than of fact,
+   and that the Seventh Amendment guarantee of a jury trial therefore does
+   not necessarily apply. Lawsuits against the federal government itself
+   do not receive Seventh Amendment protections due to the doctrine of
+   sovereign immunity. In Lehman v. Nakshian (1981), the Court ruled that
+   citizens may sue the federal government only in cases where such right
+   has been granted by act of Congress.^[15]
+
+Jury size[edit]
+
+   The Supreme Court has held that the Seventh Amendment's guarantee of a
+   jury trial also guarantees a jury of sufficient size. While the Court
+   found a six-member jury sufficient to meet the amendment's requirements
+   in Colgrove v. Battin (1973), it ruled in Ballew v. Georgia (1978) that
+   a five-member jury violated the amendment's intent.^[21] Regardless of
+   size, the jury's verdict must be unanimous.^[4]
+
+Twenty Dollars Clause[edit]
+
+   Little historical evidence exists to interpret the Twenty Dollars
+   Clause, which was added in a closed session of the Senate, and is often
+   omitted in judicial and scholarly discussion of the amendment. A
+   Harvard Law Review article described it as "mysterious ... of shrouded
+   origin and neglected for two centuries", stating that "no one believes
+   that the Clause bears on the right protected by the Seventh
+   Amendment."^[22] According to law professor Philip Hamburger, this
+   clause was intended to become obsolete by inflation, so that its
+   application to more cases would be phased in gradually.^[23]
+
+   Congress has never extended federal diversity jurisdiction to amounts
+   that small. Under the current Federal Rules of Civil Procedure (28
+   U.S.C. §1332), the amount in dispute in diversity cases (which involve
+   parties from different states) must exceed $75,000 in order for the
+   case to be heard in federal court.^[24] However, civil cases may arise
+   in federal court that are not diversity cases (e.g. in places like the
+   District of Columbia that are federal jurisdictions), in which case the
+   Twenty Dollars Clause may apply.^[25]
+
+References[edit]
+
+Notes[edit]
+
+    1. ^ All three states would later ratify the Bill of Rights for
+       sesquicentennial celebrations in 1939.^[11]
+
+Citations[edit]
+
+    1. ^ United States Government Printing Office. "SEVENTH AMENDMENT ----
+       CIVIL TRIALS ---- CONTENTS". gpo.gov.
+    2. ^ Wood, pp. 14–16
+    3. ^ Beeman, pp. 341–43
+    4. ^ ^a ^b "CRS Annotated Constitution". Legal Information Institute,
+       Cornell Law School. Retrieved October 17, 2013.
+    5. ^ Maier, p. 431
+    6. ^ ^a ^b ^c ^d Mahoney, Dennis J. (1986). "Seventh Amendment".
+       Encyclopedia of the American Constitution. Retrieved August 20,
+       2013.
+    7. ^ Labunski, p. 192
+    8. ^ "Bill of Rights". National Archives. Archived from the original
+       on April 4, 2013. Retrieved April 4, 2013.
+    9. ^ Wood, p. 69
+   10. ^ Wood, p. 71
+   11. ^ ^a ^b ^c ^d Levy, Leonard W. (1986). "Bill of Rights (United
+       States)". Encyclopedia of the American Constitution.
+       – via HighBeam Research (subscription required). Retrieved July 16,
+       2013.
+   12. ^ ^a ^b Labunski, p. 245
+   13. ^ Labunski, p. 255
+   14. ^ Wolfram, p. 639
+   15. ^ ^a ^b ^c ^d ^e ^f "Seventh Amendment". Constitutional Amendments.
+        – via HighBeam Research (subscription required). January 1, 2008.
+       Retrieved August 21, 2013.
+   16. ^ Moses, Margaret. "What the Jury Must Hear: The Supreme Court's
+       Evolving Seventh Amendment Jurisprudence", George Washington Law
+       Review, Vol. 68, p. 185 (2000) (in "the two states where the civil
+       jury trial right is not constitutionally based, it is nonetheless
+       provided either by statute or court rule"). See generally West
+       Virginia Constitution, art. III (using a threshold amount of twenty
+       dollars as in the U.S. Constitution).
+   17. ^ Dice v. Akron, C. & Y. R.R., 342 U.S. 359 (1952).
+   18. ^ ^a ^b Wolfram, p. 640
+   19. ^ Wolfram, p. 641
+   20. ^ Chauffeurs, Teamsters, and Helpers Local No. 391 v. Terry, 494
+       U.S. 558 (1990)
+   21. ^ Abrams, Norman (1986). "Jury Size". Encyclopedia of the American
+       Constitution.  – via HighBeam Research (subscription required).
+       Retrieved August 21, 2013.
+   22. ^ "The Twenty Dollars Clause". The Harvard Law Review.
+       – via HighBeam Research (subscription required). March 1, 2005.
+       Retrieved August 21, 2013.
+   23. ^ Hamburger, Philip. "The Constitution's Accommodation of Social
+       Change", Michigan Law Review, Vol. 88, pp. 296-97 (1989).
+   24. ^ Baicker-Mckee, p. 1266
+   25. ^ Capital Traction Co. v. Hof, 174 U.S. 1 (1899).
+
+Bibliography[edit]
+
+     * Baicker-McKee, Steven; William M. Janssen; and John B. Corr (2008)
+       [1997]. A Student's Guide to the Federal Rules of Civil Procedure.
+       Thomson West.
+     * Beeman, Richard (2009). Plain, Honest Men: The Making of the
+       American Constitution. Random House.
+     * Labunski, Richard E. (2006). James Madison and the struggle for the
+       Bill of Rights. Oxford University Press.
+     * Levy, Leonard Williams (1995). Seasoned Judgments: The American
+       Constitution, Rights, and History. Transaction Publishers.
+     * Maier, Pauline (2010). Ratification: The People Debate the
+       Constitution, 1787–1788. Simon and Schuster.
+     * Wolfram, Charles W. (1973). "The Constitutional History of the
+       Seventh Amendment", 57 Minnesota Law Review 639, 670-71.
+
+External links[edit]
+
+     * Kilman, Johnny and George Costello (Eds). (2000). The Constitution
+       of the United States of America: Analysis and Interpretation.
+     * CRS Annotated Constitution: Seventh Amendment
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Seventh_Amendment_to_the_Uni
+   ted_States_Constitution&oldid=625371137"
+   Categories:
+     * 1791 in American politics
+     * 1791 in law
+     * Amendments to the United States Constitution
+     * United States Seventh Amendment case law
+
+   Hidden categories:
+     * Subscription required using via
+     * Pages containing links to subscription-only content
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Беларуская
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * עברית
+     * Polski
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 13 September 2014 at 13:24.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

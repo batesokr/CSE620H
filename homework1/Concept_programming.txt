@@ -1,0 +1,228 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Concept programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Question book-new.svg
+   This article does not cite any references or sources. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (March 2014)
+
+   Concept programming is a programming paradigm focusing on how concepts,
+   that live in the programmer's mind, translate into representations that
+   are found in the code space. This approach was introduced in 2001 by
+   Christophe de Dinechin with the XL Programming Language.
+
+Contents
+
+     * 1 Pseudo-metrics
+     * 2 Rule of equivalence, equivalence breakdown
+     * 3 Methodology
+     * 4 Languages
+     * 5 Similar works
+     * 6 See also
+     * 7 External links
+
+Pseudo-metrics[edit]
+
+   Concept programming uses pseudo-metrics to evaluate the quality of
+   code. They are called pseudo-metrics because they relate the concept
+   space and the code space, with a clear understanding that the concept
+   space cannot be formalized strictly enough for a real metric to be
+   defined. Concept programming pseudo-metrics include:
+     * Syntactic noise measures discrepancies between the concept and the
+       syntax used to represent it. For instance, the semi-colon at the
+       end of statements in C can be considered as syntactic noise,
+       because it has no equivalent in the concept space.
+     * Semantic noise measures discrepancies between the expected meaning
+       or behavior of the concept and its actual meaning or behavior in
+       the code. For instance, the fact that integer data types overflow
+       (when mathematical integers do not) is a form of semantic noise.
+     * Bandwidth measures how much of the concept space a given code
+       construct can represent. For instance, the overloaded addition
+       operator in C has higher bandwidth than the Add instruction in
+       assembly language, because the C operator can represent addition on
+       floating-point numbers and not just integer numbers.
+     * Signal/noise ratio measures what fraction of the code space is used
+       for representing actual concepts, as opposed to implementation
+       information.
+
+Rule of equivalence, equivalence breakdown[edit]
+
+   The rule of equivalence is verified when the code behavior matches the
+   original concept. This equivalence may break down in many cases.
+   Integer overflow breaks the equivalence between the mathematical
+   integer concept and the computerized approximation of the concept.
+
+   Many ways to break the equivalence have been given specific names,
+   because they are very common:
+     * A domain error is a condition where code executes outside of the
+       domain of equivalence, which is the domain where the concept and
+       the implementation match. An integer overflow is an example of
+       domain error.
+     * A concept cast (also concept recast or concept recasting) is a
+       rewrite of a concept as a different concept because the original
+       concept cannot be represented by the tools. In C, using pointers
+       for output arguments because C doesn't support output arguments
+       explicitly is an example of concept cast.
+     * A priority inversion is a form of syntactic or semantic noise
+       introduced by some language-enforced general rule. It is called a
+       priority inversion because the language takes precedence over the
+       concept. In Smalltalk, everything is an object, and that rule leads
+       to the undesirable consequence that an expression like 2+3*5
+       doesn't obey the usual order of operations (Smalltalk interprets
+       this as sending the message * to the number resulting from 2+3,
+       which yields result 25 instead of 17).
+
+Methodology[edit]
+
+   To write code, concept programming recommends the following steps:
+    1. Identify and define the relevant concepts in the concept space.
+    2. Identify traditional notations for the concepts, or invent usable
+       notations.
+    3. Identify a combination of programming constructs that allows the
+       concepts to be represented comfortably in code - That includes
+       finding a code notation that matches the notation identified in the
+       previous step as closely as possible.
+    4. Write code that preserves, as much as possible, the expected
+       behavior and semantics of the relevant aspects of the original
+       concept.
+
+   Many programming tools often lack in notational abilities, thus concept
+   programming sometimes requires the use of preprocessors,
+   domain-specific languages, or metaprogramming techniques.
+
+Languages[edit]
+
+   XL is the only programming language known to date to be explicitly
+   created for concept programming, but concept programming can be done in
+   nearly any language, with varying degrees of success. Lisp and Forth
+   (and their derivatives) are examples of pre-existing languages which
+   lend themselves well to concept programming.^[citation needed]
+
+Similar works[edit]
+
+   There are projects that exploit similar ideas to create code with
+   higher level of abstraction. Among them are:
+     * Intentional Programming
+     * Language-oriented programming
+     * Literate programming
+     * Model-driven architecture
+
+See also[edit]
+
+     * Programming paradigms
+     * Automatic programming
+     * Artefaktur (AAL)
+     * Abstract syntax tree (AST)
+     * Language syntax tree (LST)
+     * Semantic resolution tree (RST)
+     * Interpretation syntax tree (IST)
+     * Code generation syntax tree (CST)
+     * Domain-specific programming language
+
+External links[edit]
+
+     * The XL Programming Language on SourceForge
+     * A presentation of Concept Programming
+     * An interview about Concept Programming on The Register
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Concept_programming&oldid=59
+   7937656"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * Articles lacking sources from March 2014
+     * All articles lacking sources
+     * All articles with unsourced statements
+     * Articles with unsourced statements from August 2010
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * فارسی
+     *
+
+   Edit links
+
+     * This page was last modified on 3 March 2014 at 09:52.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

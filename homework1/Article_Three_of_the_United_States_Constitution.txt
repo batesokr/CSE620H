@@ -1,0 +1,846 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Article Three of the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Wikisource has original text related to this article:
+   Article Three of the United States Constitution
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   Article Three of the United States Constitution establishes the
+   judicial branch of the federal government. The judicial branch
+   comprises the Supreme Court of the United States and lower courts as
+   created by Congress.
+
+Contents
+
+     * 1 Section 1: Federal courts
+          + 1.1 Number of courts
+          + 1.2 Tenure
+          + 1.3 Salaries
+     * 2 Section 2: Judicial power, jurisdiction, and trial by jury
+          + 2.1 Clause 1: Cases and controversies
+          + 2.2 Eleventh Amendment and state sovereign immunity
+          + 2.3 Clause 2: Original and appellate jurisdiction
+          + 2.4 Judicial review
+          + 2.5 Clause 3: Federal trials
+     * 3 Section 3: Treason
+     * 4 See also
+     * 5 References
+     * 6 Bibliography
+     * 7 External links
+
+Section 1: Federal courts[edit]
+
+   Section 1 vests the judicial power of the United States in federal
+   courts, requires a supreme court, allows inferior courts, requires good
+   behavior tenure for judges, and prohibits decreasing the salaries of
+   judges.
+
+     The judicial Power of the United States, shall be vested in one
+     supreme Court, and in such inferior Courts as the Congress may from
+     time to time ordain and establish. The Judges, both of the supreme
+     and inferior Courts, shall hold their Offices during good Behavior,
+     and shall, at stated Times, receive for their Services a
+     Compensation which shall not be diminished during their Continuance
+     in Office.
+
+Number of courts[edit]
+
+   Article III authorizes and sanctions the establishment of (only) one
+   Supreme Court, but does not set the number of justices that must be
+   appointed to it; though Article I, Section 3, Clause 6 refers to a
+   Chief Justice (who shall preside over the impeachment trial of a
+   President). The number of justices has been fixed by statute. At
+   present there are nine justices, one chief justice and eight associate
+   justices, on the Supreme Court.
+
+   Proposals to divide the Supreme Court into the separate panels have
+   been made, but all have failed. Since all such proposals have failed,
+   the Supreme Court has never ruled on the constitutionality of such a
+   division. However, Chief Justice Charles Evans Hughes wrote, "the
+   Constitution does not appear to authorize two or more Supreme Courts
+   functioning in effect as separate courts."
+
+   The Supreme Court is the only federal court that is explicitly mandated
+   by the Constitution. During the Constitutional Convention, a proposal
+   was made for the Supreme Court to be the only federal court, having
+   both original jurisdiction and appellate jurisdiction. This proposal
+   was rejected in favor of the provision that exists today. Under this
+   provision, the Congress may create inferior courts under both Article
+   III, Section 1, and Article I, Section 8. The Article III courts, which
+   are also known as "constitutional courts", were first created by the
+   Judiciary Act of 1789. Article I courts, which are also known as
+   "legislative courts", consist of regulatory agencies, such as the
+   United States Tax Court. Article III courts are the only ones with
+   judicial power, and so decisions of regulatory agencies remain subject
+   to review by Article III courts. However, cases not requiring "judicial
+   determination" may come before Article I courts. In the case of
+   Murray's Lessee v. Hoboken Land & Improvement Co. 59 U.S. 272 (1855),
+   the Supreme Court ruled that cases involving "a suit at the common law,
+   or in equity, or admiralty" inherently involve judicial determination
+   and must come before Article III courts. Other cases, such as
+   bankruptcy cases, have been held not to involve judicial determination,
+   and may therefore go before Article I courts. Similarly, several courts
+   in the District of Columbia, which is under the exclusive jurisdiction
+   of the Congress, are Article I courts rather than Article III courts.
+   This article was expressly extended to the United States District Court
+   for the District of Puerto Rico by the U.S. Congress through Federal
+   Law 89-571, 80 Stat. 764, signed by President Lyndon B. Johnson in
+   1966. This transformed the article IV United States territorial court
+   in Puerto Rico, created in the year 1900, to an Article III federal
+   judicial district court.
+
+   The Judiciary Reorganization Bill of 1937, frequently called the
+   court-packing plan,^[1] was a legislative initiative to add more
+   justices to the Supreme Court proposed by U.S. President Franklin
+   Roosevelt shortly after his victory in the 1936 presidential election.
+   Although the bill aimed generally to overhaul and modernize all of the
+   federal court system, its central and most controversial provision
+   would have granted the President power to appoint an additional Justice
+   to the U.S. Supreme Court for every sitting member over the age of 70½,
+   up to a maximum of six.
+
+   The Constitution is silent when it comes to judges of courts which have
+   been abolished. The Judiciary Act of 1801 increased the number of
+   courts to permit the Federalist President John Adams to appoint a
+   number of Federalist judges before Thomas Jefferson took office. When
+   Jefferson became President, the Congress abolished several of these
+   courts and made no provision for the judges of those courts. The power
+   to abolish a court was next used in 1913, when the Congress abolished
+   the Commerce Court. In that case, however, Congress transferred the
+   judges of the Commerce Court to the Circuit Courts.
+
+Tenure[edit]
+
+   The Constitution provides that judges "shall hold their Offices during
+   good Behavior." The term "good behavior" is interpreted to mean that
+   judges may serve for the remainder of their lives, although they may
+   resign or retire voluntarily. A judge may also be removed by
+   impeachment and conviction by congressional vote (hence the term good
+   behavior); this has occurred fourteen times. Three other judges, Mark
+   W. Delahay,^[2] George W. English,^[3] and Samuel B. Kent,^[4] chose to
+   resign rather than go through the impeachment process.
+
+Salaries[edit]
+
+   The compensation of judges may not be decreased, but may be increased,
+   during their continuance in office.
+
+Section 2: Judicial power, jurisdiction, and trial by jury[edit]
+
+   Section 2 delineates federal judicial power, and brings that power into
+   execution by conferring original jurisdiction and also appellate
+   jurisdiction upon the Supreme Court. Additionally, this section
+   requires trial by jury in all criminal cases, except impeachment cases.
+
+     The judicial Power shall extend to all Cases, in Law and Equity,
+     arising under this Constitution, the Laws of the United States, and
+     Treaties made, or which shall be made, under their Authority;—to all
+     Cases affecting Ambassadors, other public Ministers and Consuls;—to
+     all Cases of admiralty and maritime Jurisdiction;—to Controversies
+     to which the United States shall be a Party;—to Controversies
+     between two or more States;—between a State and Citizens of another
+     State;—between Citizens of different States;—between Citizens of the
+     same State claiming Lands under Grants of different States, and
+     between a State, or the Citizens thereof, and foreign States,
+     Citizens or Subjects.
+
+     In all Cases affecting Ambassadors, other public Ministers and
+     Consuls, and those in which a State shall be Party, the supreme
+     Court shall have original Jurisdiction. In all the other Cases
+     before mentioned, the supreme Court shall have appellate
+     Jurisdiction, both as to Law and Fact, with such Exceptions, and
+     under such Regulations as the Congress shall make.
+
+     Trial of all Crimes, except in Cases of Impeachment, shall be by
+     Jury; and such Trial shall be held in the State where the said
+     Crimes shall have been committed; but when not committed within any
+     State, the Trial shall be at such Place or Places as the Congress
+     may by Law have directed.
+
+Clause 1: Cases and controversies[edit]
+
+   Main article: Case or Controversy Clause
+
+   Clause 1 of Section 2 authorizes the federal courts to hear actual
+   cases and controversies only. Their judicial power does not extend to
+   cases which are hypothetical, or which are proscribed due to standing,
+   mootness, or ripeness issues. Generally, a case or controversy requires
+   the presence of adverse parties who have some interest genuinely at
+   stake in the case. In Muskrat v. United States, 219 U.S. 346 (1911),
+   the Supreme Court denied jurisdiction to cases brought under a statute
+   permitting certain Native Americans to bring suit against the United
+   States to determine the constitutionality of a law allocating tribal
+   lands. Counsel for both sides were to be paid from the federal
+   Treasury. The Supreme Court held that, though the United States was a
+   defendant, the case in question was not an actual controversy; rather,
+   the statute was merely devised to test the constitutionality of a
+   certain type of legislation. Thus the Court's ruling would be nothing
+   more than an advisory opinion; therefore, the court dismissed the suit
+   for failing to present a "case or controversy."
+
+Eleventh Amendment and state sovereign immunity[edit]
+
+   Main articles: Eleventh Amendment to the United States Constitution and
+   Sovereign immunity in the United States
+
+   In Chisholm v. Georgia, 2 U.S. 419 (1793), the Supreme Court ruled that
+   Article III, Section 2 abrogated the States’ sovereign immunity and
+   authorized federal courts to hear disputes between private citizens and
+   States. This decision was overturned by the Eleventh Amendment, which
+   was passed by the Congress on March 4, 1794 1 Stat. 402 and ratified by
+   the states on February 7, 1795. It prohibits the federal courts from
+   hearing any suit in law or equity, commenced or prosecuted against one
+   of the United States by Citizens of another State, or by Citizens or
+   Subjects of any Foreign State.^[5]
+
+Clause 2: Original and appellate jurisdiction[edit]
+
+   See also: Jurisdiction stripping
+
+   Clause 2 of Section 2 provides that the Supreme Court has original
+   jurisdiction in cases affecting ambassadors, ministers and consuls, and
+   also in those controversies which are subject to federal judicial power
+   because at least one state is a party; the Court has held that the
+   latter requirement is met if the United States has a controversy with a
+   state.^[6]^[7] In other cases, the Supreme Court has only appellate
+   jurisdiction, which may be regulated by the Congress. The Congress may
+   not, however, amend the Court's original jurisdiction, as was found in
+   Marbury v. Madison, 5 U.S. (Cranch 1) 137 (1803) (the same decision
+   which established the principle of judicial review). Marbury held that
+   Congress can neither expand nor restrict the original jurisdiction of
+   the Supreme Court. However, the appellate jurisdiction of the Court is
+   different. The Court's appellate jurisdiction is given "with such
+   exceptions, and under such regulations as the Congress shall make."
+
+   Often a court will assert a modest degree of power over a case for
+   purposes of determining whether it has jurisdiction, and so the word
+   "power" is not necessarily synonymous with the word
+   "jurisdiction".^[8]^[9]
+
+Judicial review[edit]
+
+   Main articles: Judicial review and Judicial review in the United States
+
+   The power of the federal judiciary to review the constitutionality of a
+   statute or treaty, or to review an administrative regulation for
+   consistency with either a statute, a treaty, or the Constitution
+   itself, is an implied power derived in part from Clause 2 of Section
+   2.^[10]
+
+   Though the Constitution does not expressly provide that the federal
+   judiciary has the power of judicial review, many of the Constitution's
+   Framers viewed such a power as an appropriate power for the federal
+   judiciary to possess. In Federalist No. 78, Alexander Hamilton wrote,
+
+     The interpretation of the laws is the proper and peculiar province
+     of the courts. A constitution, is, in fact, and must be regarded by
+     the judges, as a fundamental law. It therefore belongs to them to
+     ascertain its meaning, as well as the meaning of any particular act
+     proceeding from the legislative body. If there should happen to be
+     an irreconcilable variance between two, that which has the superior
+     obligation and validity ought, of course, to be preferred; or, in
+     other words, the constitution ought to be preferred to the statute,
+     the intention of the people to the intention of their agents.^[11]
+
+   Secretary of State James Madison, who won Marbury v. Madison, but lost
+   Judicial review.
+
+   Others, however, disagreed, claiming that each branch could determine
+   for itself the constitutionality of its actions.
+
+   A continuation of the text of Federalist No. 78 by Hamilton [below]
+   counterbalances the tone of "judicial supremacists" who demand that
+   both Congress and the Executive are compelled by the Constitution to
+   enforce all court decisions, including those that, in their eyes, or
+   those of the People, violate fundamental American principles.
+
+     Nor does this conclusion by any means suppose a superiority of the
+     judicial to the legislative power. It only supposes that the power
+     of the people is superior to both; and that where the will of the
+     legislature, declared in its statutes, stands in opposition to that
+     of the people, declared in the Constitution, the judges ought to be
+     governed by the latter rather than the former. They ought to
+     regulate their decisions by the fundamental laws, rather than by
+     those which are not fundamental.^[11]
+
+   Hamilton continues. . .
+
+     It can be of no weight to say that the courts, on the pretense of a
+     repugnancy, may substitute their own pleasure to the constitutional
+     intentions of the legislature. This might as well happen in the case
+     of two contradictory statutes; or it might as well happen in every
+     adjudication upon any single statute. The courts must declare the
+     sense of the law; and if they should be disposed to exercise WILL
+     instead of JUDGMENT, the consequence would equally be the
+     substitution of their pleasure to that of the legislative body. The
+     observation, if it prove any thing, would prove that there ought to
+     be no judges distinct from that body.^[11]
+
+   Marbury v. Madison involved a highly partisan set of circumstances.
+   Though Congressional elections were held in November 1800, the newly
+   elected officers did not take power until March. The Federalist Party
+   had lost the elections. In the words of President Thomas Jefferson, the
+   Federalists "retired into the judiciary as a stronghold". In the four
+   months following the elections, the outgoing Congress created several
+   new judgeships, which were filled by President John Adams. In the
+   last-minute rush, however, Federalist Secretary of State John Marshall
+   had neglected to deliver 17 of the commissions to their respective
+   appointees. When James Madison took office as Secretary of State,
+   several commissions remained undelivered. Bringing their claims under
+   the Judiciary Act of 1789, the appointees, including William Marbury,
+   petitioned the Supreme Court for the issue of a writ of mandamus, which
+   in English law had been used to force public officials to fulfill their
+   ministerial duties. Here, Madison would be required to deliver the
+   commissions.
+
+   Marbury posed a difficult problem for the court, which was led by then
+   by Chief Justice John Marshall, the same person who had neglected to
+   deliver the commissions when he was the Secretary of State. If
+   Marshall's court commanded James Madison to deliver the commissions,
+   Madison might ignore the order, thereby indicating the weakness of the
+   court. Similarly, if the court denied William Marbury's request, the
+   court would be seen as weak. Marshall held that appointee Marbury was
+   indeed entitled to his commission. However, Justice Marshall contended
+   that the Judiciary Act of 1789 was unconstitutional, since it purported
+   to grant original jurisdiction to the Supreme Court in cases not
+   involving the States or ambassadors. The ruling thereby established
+   that the federal courts could exercise judicial review over the actions
+   of Congress or the executive branch.
+
+   However, Alexander Hamilton, in Federalist No. 78, expressed the view
+   that the Courts hold only the power of words, and not the power of
+   compulsion upon those other two branches of government, upon which the
+   Supreme Court is itself dependent. Then in 1820, Thomas Jefferson
+   expressed his deep reservations about the doctrine of judicial review:
+
+     You seem ... to consider the judges as the ultimate arbiters of all
+     constitutional questions; a very dangerous doctrine indeed, and one
+     which would place us under the despotism of an oligarchy. Our judges
+     are as honest as other men, and not more so. They have, with others,
+     the same passions for party, for power, and the privilege of their
+     corps.... Their power [is] the more dangerous as they are in office
+     for life, and not responsible, as the other functionaries are, to
+     the elective control. The Constitution has erected no such single
+     tribunal, knowing that to whatever hands confided, with the
+     corruptions of time and party, its members would become despots. It
+     has more wisely made all the departments co-equal and co-sovereign
+     within themselves.^[12]
+
+Clause 3: Federal trials[edit]
+
+   A nineteenth century painting of a jury.
+
+   Clause 3 of Section 2 provides that Federal crimes, except impeachment
+   cases, must be tried before a jury, unless the defendant waives his
+   right. Also, the trial must be held in the state where the crime was
+   committed. If the crime was not committed in any particular state, then
+   the trial is held in such a place as set forth by the Congress. The
+   United States Senate has the sole power to try impeachment cases.^[13]
+
+   Two of the Constitutional Amendments that comprise the Bill of Rights
+   contain related provisions. The Sixth Amendment enumerates the rights
+   of individuals when facing criminal prosecution and the Seventh
+   Amendment establishes an individual's right to a jury trial in certain
+   civil cases. It also inhibits courts from overturning a jury's findings
+   of fact. The Supreme Court has extended the protections of these
+   amendments to individuals facing trial in state courts through the Due
+   Process Clause of the Fourteenth Amendment.
+
+Section 3: Treason[edit]
+
+   Iva Toguri, known as Tokyo Rose, and Tomoya Kawakita were two Japanese
+   Americans who were tried for treason after World War II.
+
+   Section 3 defines treason and its punishment.
+
+     Treason against the United States, shall consist only in levying War
+     against them, or in adhering to their Enemies, giving them Aid and
+     Comfort. No Person shall be convicted of Treason unless on the
+     Testimony of two Witnesses to the same overt Act, or on Confession
+     in open Court.
+
+     The Congress shall have Power to declare the Punishment of Treason,
+     but no Attainder of Treason shall work Corruption of Blood, or
+     Forfeiture except during the Life of the Person attainted.
+
+   The Constitution defines treason as specific acts, namely "levying War
+   against [the people of the United States], or in adhering to their
+   Enemies, giving them Aid and Comfort." A contrast is therefore
+   maintained with the English law, whereby a variety of crimes, including
+   conspiring to kill the King, or "violating" the Queen, were punishable
+   as treason. In Ex Parte Bollman, 8 U.S. 75 (1807), the Supreme Court
+   ruled that "there must be an actual assembling of men, for the
+   treasonable purpose, to constitute a levying of war."^[14]
+
+   Under English law effective during the ratification of the U.S.
+   Constitution, there were essentially five species of treason.^[citation
+   needed] Of the five, the Constitution adopted only two: levying war and
+   adhering to enemies. Omitted were species of treason involving
+   encompassing (or imagining) the death of the king, certain types of
+   counterfeiting, and finally fornication with women in the royal family
+   of the sort which could call into question the parentage of successors.
+   James Wilson wrote the original draft of this section, and he was
+   involved as a defense attorney for some accused of treason against the
+   Patriot cause.
+
+   Section 3 also requires the testimony of two different witnesses on the
+   same overt act, or a confession by the accused in open court, to
+   convict for treason. This rule was derived from an older English
+   statute, the Treason Act 1695.^[15]
+
+   In Cramer v. United States, 325 U.S. 1 (1945), the Supreme Court ruled
+   that "[e]very act, movement, deed, and word of the defendant charged to
+   constitute treason must be supported by the testimony of two
+   witnesses."^[16] In Haupt v. United States, 330 U.S. 631 (1947),
+   however, the Supreme Court found that two witnesses are not required to
+   prove intent, nor are two witnesses required to prove that an overt act
+   is treasonable. The two witnesses, according to the decision, are
+   required to prove only that the overt act occurred (eyewitnesses and
+   federal agents investigating the crime, for example).
+
+   Punishment for treason may not "work Corruption of Blood, or Forfeiture
+   except during the Life of the Person" so convicted. The descendants of
+   someone convicted for treason could not, as they were under English
+   law, be considered "tainted" by the treason of their ancestor.
+   Furthermore, Congress may confiscate the property of traitors, but that
+   property must be inheritable at the death of the person convicted.
+
+   In Federalist No. 43 James Madison wrote regarding the Treason Clause:
+
+     As treason may be committed against the United States, the authority
+     of the United States ought to be enabled to punish it. But as
+     new-fangled and artificial treasons have been the great engines by
+     which violent factions, the natural offspring of free government,
+     have usually wreaked their alternate malignity on each other, the
+     convention have, with great judgment, opposed a barrier to this
+     peculiar danger, by inserting a constitutional definition of the
+     crime, fixing the proof necessary for conviction of it, and
+     restraining the Congress, even in punishing it, from extending the
+     consequences of guilt beyond the person of its author.
+
+   Based on the above quotation, it was noted by the lawyer William J.
+   Olson in an Amicus curiae in the case Hedges v. Obama that the Treason
+   Clause was one of the enumerated powers of the federal government.^[17]
+   He also stated that by defining treason in the U.S. Constitution and
+   placing it in Article III "the founders intended the power to be
+   checked by the judiciary, ruling out trials by military commissions. As
+   James Madison noted, the Treason Clause also was designed to limit the
+   power of the federal government to punish its citizens for “adhering to
+   [the] enemies [of the United States by], giving them aid and
+   comfort.”"^[17]
+
+See also[edit]
+
+     * United States constitutional criminal procedure
+
+References[edit]
+
+    1. ^ Epstein, Lee; Walker, Thomas G. (2007). Constitutional Law for a
+       Changing America: Institutional Powers and Constraints (6th ed.).
+       Washington, D.C.: CQ Press. ISBN 978-1-933116-81-5., at 451.
+    2. ^ "Judges of the United States Courts - Delahay, Mark W.". Federal
+       Judicial Center. n.d. Retrieved 2009-07-02.
+    3. ^ staff (n.d.). "Judges of the United States Courts - English,
+       George Washington". Federal Judicial Center. Retrieved 2009-07-02.
+    4. ^ "Judges of the United States Courts - Kent, Samuel B.". Federal
+       Judicial Center. n.d. Retrieved 2009-07-02.
+    5. ^ "Annotation 1 - Eleventh Amendment - State Immunity". FindLaw.
+       Retrieved May 4, 2013.
+    6. ^ United States v. Texas, 143 U.S. 621 (1892). A factor in United
+       States v. Texas was that there had been an "act of congress
+       requiring the institution of this suit". With a few narrow
+       exceptions, courts have held that Congress controls access to the
+       courts by the United States and its agencies and officials. See,
+       e.g., Newport News Shipbuilding & Dry Dock Co., 514 U.S. 122
+       ("Agencies do not automatically have standing to sue for actions
+       that frustrate the purposes of their statutes"). Also see United
+       States v. Mattson, 600 F. 2d 1295 (9th Cir. 1979).
+    7. ^ Cohens v. Virginia, 19 U.S. 264 (1821): "[T]he original
+       jurisdiction of the Supreme court, in cases where a state is a
+       party, refers to those cases in which, according to the grant of
+       power made in the preceding clause, jurisdiction might be
+       exercised, in consequence of the character of the party."
+    8. ^ Cover, Robert. Narrative, Violence and the Law (U. Mich. 1995):
+       "Every denial of jurisdiction on the part of a court is an
+       assertion of the power to determine jurisdiction...."
+    9. ^ Di Trolio, Stefania. "Undermining and Unintwining: The Right to a
+       Jury Trial and Rule 12(b)(1)", Seton Hall Law Review, Volume 33,
+       page 1247, text accompanying note 82 (2003).
+   10. ^ "The Establishment of Judicial Review". Findlaw.
+   11. ^ ^a ^b ^c "The Federalist Papers : No. 78". Archived from the
+       original on 29 October 2006. Retrieved 2006-10-28.
+   12. ^ Jefferson, Thomas. The Writings of Thomas Jefferson, Letter to
+       William Jarvis (September 28, 1820).
+   13. ^ U.S. Constitution, Art. I, sec. 3
+   14. ^ Bollman, at 126
+   15. ^ This rule was abolished in the United Kingdom in 1945.
+   16. ^ Cramer, at 34
+   17. ^ ^a ^b Olson, William J. (16 April 2012). "Case 1:12-cv-00331-KBF
+       Document 29-2 Filed 04/16/12 AMICUS CURIAE BRIEF OF VIRGINIA STATE
+       DELEGATE BOB MARSHALL, VIRGINIA STATE SENATOR DICK BLACK, DOWNSIZE
+       DC FOUNDATION, DOWNSIZEDC.ORG, INC., U.S. JUSTICE FOUNDATION,
+       INSTITUTE ON THE CONSTITUTION, GUN OWNERS FOUNDATION, GUN OWNERS OF
+       AMERICA, INC., THE LINCOLN INSTITUTE FOR RESEARCH AND EDUCATION,
+       THE WESTERN CENTER FOR JOURNALISM, CONSERVATIVE LEGAL DEFENSE AND
+       EDUCATION FUND, U.S. BORDER CONTROL, RESTORING LIBERTY ACTION
+       COMMITTEE, TENTH AMENDMENT CENTER, CENTER FOR MEDIA AND DEMOCRACY,
+       BILL OF RIGHTS DEFENSE COMMITTEE, PASTOR CHUCK BALDWIN, PROFESSOR
+       JEROME AUMENTE, AND THE CONSTITUTION PARTY NATIONAL COMMITTEE IN
+       SUPPORT OF PLAINTIFFS". Friedman, Harfenist, Kraut & Perlstein ,
+       PPC. lawandfreedom.com. pp. 15–16.
+
+Bibliography[edit]
+
+     * Irons, Peter. (1999). A People's History of the Supreme Court. New
+       York: Penguin.
+     * This article incorporates material from Judicial Procedures Reform
+       Bill of 1937.
+
+External links[edit]
+
+     * Kilman, Johnny and George Costello (Eds). (2000). The Constitution
+       of the United States of America: Analysis and Interpretation.,
+       gpoaccess.gov
+     * CRS Annotated Constitution: Article 3, law.cornell.edu
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Article_Three_of_the_United_
+   States_Constitution&oldid=613582728"
+   Categories:
+     * Articles of the United States Constitution
+     * Judicial branch of the United States government
+     * Treason
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from September 2009
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Français
+     * 贛語
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 19 June 2014 at 17:08.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

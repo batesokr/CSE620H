@@ -1,0 +1,2830 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Unemployment in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   US Employment statistics (changes in unemployment rate and net jobs per
+   month) 2009-2013^[1]^[2]
+
+   Unemployment in the United States discusses the causes and measures of
+   U.S. unemployment and strategies for reducing it. Job creation and
+   unemployment are affected by factors such as economic conditions,
+   global competition, education, automation, and demographics. These
+   factors can affect the number of workers, the duration of unemployment,
+   and wage levels.
+
+   Employment expanded consistently during the 1990s, but has been
+   inconsistent since due to recessions in 2001 and 2008-2009. By some
+   measures, the number of persons employed regained its 2007 pre-crisis
+   peak only in 2014, but the labor force participation rate remained
+   below its 2007 level.^[3] Unemployment generally falls during periods
+   of economic prosperity and rises during recessions, creating
+   significant pressure on public finances as tax revenue falls and social
+   safety net costs increase. The major political parties debate
+   appropriate solutions for improving the job creation rate, with
+   liberals arguing for more government stimulus spending and
+   conservatives arguing for lower taxes and less regulation. Polls
+   indicate that Americans believe job creation is the most important
+   government priority, with not sending jobs overseas the primary
+   solution.^[4]
+
+   Much of the 2012 Presidential campaign focused on job creation as a
+   first priority, but the fiscal cliff and other budgetary debates took
+   precedence in 2012 and early 2013. Critics argue prioritizing deficit
+   reduction is misplaced, as there is no immediate fiscal crisis but
+   there is a high level of unemployment, particularly long-term
+   unemployment.^[5]
+
+   Unemployment can be measured in several ways. A person is unemployed if
+   they are jobless but looking for a job and available for work. People
+   who are neither employed nor unemployed are not in the labor force. For
+   example, as of June 2014, the unemployment rate in the United States
+   was 6.1%^[6] or 9.48 million people,^[7] while the government's broader
+   U-6 unemployment rate, which includes the part-time underemployed was
+   12.1%^[8] or 18.8 million people. These figures were calculated with a
+   civilian labor force of approximately 155.7 million people,^[9]
+   relative to a U.S. population of approximately 315 million people.^[10]
+   Rates of unemployment by US states in May, 2014.^[11]
+   Historical seasonal unemployment rates, showing the variance between
+   the fifty states.
+
+Contents
+
+     * 1 Definitions of unemployment
+          + 1.1 Employed
+          + 1.2 Unemployed
+          + 1.3 Labor force
+     * 2 Recent employment trends
+     * 3 Domestic factors
+          + 3.1 Cyclical vs. structural unemployment
+          + 3.2 Demographics & labor force participation rate
+          + 3.3 Education and training
+          + 3.4 Skills gap
+          + 3.5 Long-term unemployment
+          + 3.6 Labor unions
+          + 3.7 Industry consolidation
+          + 3.8 Income and wealth inequality
+          + 3.9 Government hiring trends
+          + 3.10 Policies regarding full employment
+          + 3.11 Unemployment among younger workers
+          + 3.12 Job openings relative to unemployed
+     * 4 Global factors
+          + 4.1 Offshoring of employment
+          + 4.2 Comparative international wage levels
+          + 4.3 Trade deficits and currency valuation
+               o 4.3.1 Trade deficit
+               o 4.3.2 Currency policy
+          + 4.4 Tradable and non-tradable sectors
+          + 4.5 Globalization commentary
+     * 5 Other factors
+          + 5.1 Automation and technology change
+          + 5.2 Innovation
+          + 5.3 Industry-specific factors
+          + 5.4 Unemployment benefits
+          + 5.5 Employment of part-time workers versus full-time
+     * 6 Fiscal and monetary policy
+          + 6.1 Fiscal policy
+          + 6.2 Monetary policy
+     * 7 Political debates
+          + 7.1 Liberal position
+          + 7.2 Conservative position
+          + 7.3 Poll data
+          + 7.4 2008-2009 debates
+          + 7.5 2010-present debates
+               o 7.5.1 Creating American Jobs and Ending Offshoring Act
+               o 7.5.2 American Jobs Act
+               o 7.5.3 Fiscal cliff
+          + 7.6 Tax policy
+               o 7.6.1 Individual income taxes
+               o 7.6.2 Corporate income taxes
+     * 8 Solutions for creating more U.S. jobs
+          + 8.1 Infrastructure investment
+          + 8.2 Tax policy
+          + 8.3 Lower healthcare costs
+          + 8.4 Energy policy and carbon price certainty
+          + 8.5 Employment policies and the minimum wage
+          + 8.6 Regulatory reform
+          + 8.7 Education policy
+          + 8.8 Income inequality
+          + 8.9 Trade policy
+          + 8.10 Long-term unemployment
+          + 8.11 President's Council on Jobs and Competitiveness
+     * 9 U.S. employment history
+          + 9.1 2000-present
+     * 10 Analytical perspectives
+          + 10.1 Slow labor market recovery following 2007-2009 recession
+          + 10.2 Employment growth 2000-present
+          + 10.3 What job creation rate is required to lower the
+            unemployment rate?
+               o 10.3.1 Estimates
+               o 10.3.2 Empirical data
+          + 10.4 How many jobs must be created to return to pre-recession
+            levels?
+          + 10.5 Comparative size of labor force
+          + 10.6 Comparison of employment recovery across recessions and
+            financial crises
+          + 10.7 Effect of disability recipients on labor force
+            participation measures
+     * 11 Obtaining data
+          + 11.1 Monthly jobs reports
+          + 11.2 Federal Reserve Database (FRED)
+          + 11.3 Unemployment rate forecasts
+          + 11.4 Off-shoring statistics
+     * 12 Historical unemployment rate charts
+     * 13 See also
+     * 14 References
+     * 15 External links
+
+Definitions of unemployment[edit]
+
+   The rate of U.S. unemployment under various definitions.
+
+   The U.S. Bureau of Labor Statistics has defined the basic employment
+   concepts as follows:^[12]
+     * People with jobs are employed.
+     * People who are jobless, looking for jobs, and available for work
+       are unemployed.
+     * People who are neither employed nor unemployed are not in the labor
+       force.
+
+Employed[edit]
+
+   Employed persons consist of:
+     * All persons who did any work for pay or profit during the survey
+       reference week.
+     * All persons who did at least 15 hours of unpaid work in a
+       family-owned enterprise operated by someone in their household.
+     * All persons who were temporarily absent from their regular jobs,
+       whether they were paid or not.
+
+Unemployed[edit]
+
+   Who is counted as unemployed?
+     * Persons are classified as unemployed if they do not have a job,
+       have actively looked for work in the prior 4 weeks, and are
+       currently available for work.
+     * Workers expecting to be recalled from layoff are counted as
+       unemployed, whether or not they have engaged in a specific
+       job-seeking activity.
+     * In all other cases, the individual must have been engaged in at
+       least one active job search activity in the 4 weeks preceding the
+       interview and be available for work (except for temporary illness).
+
+Labor force[edit]
+
+   Who is not in the labor force?
+     * Persons not in the labor force are those who are not classified as
+       employed or unemployed during the survey reference week.
+     * Labor force measures are based on the civilian non-institutional
+       population 16 years old and over. (Excluded are persons under 16
+       years of age, all persons confined to institutions such as nursing
+       homes and prisons, and persons on active duty in the Armed Forces.)
+     * The labor force is made up of the employed and the unemployed.
+     * The remainder—those who have no job and are not looking for one—are
+       counted as "not in the labor force." Many who are not in the labor
+       force are going to school or are retired. Family responsibilities
+       keep others out of the labor force.
+
+Recent employment trends[edit]
+
+   There are a variety of measures used to track the state of the U.S.
+   labor market. Each provides insight into the factors affecting
+   employment.
+     * Civilian employment, one measure of the size of the employed
+       workforce, expanded consistently during the 1990s, but has been
+       inconsistent since due to recessions in 2001 and 2008-2009. For
+       example, employment did not recover its January 2001 peak of 137.8
+       million until June 2003. Then, from the bubble-assisted peak in
+       November 2007 of 146.6 million, 8.6 million jobs were lost due to
+       the global economic crisis. U.S. employment began rising again
+       after December 2009 and had nearly regained the pre-crisis peak by
+       June 2014.^[13]
+
+     * The unemployment rate rose from 5.0% in December 2007 to peak at
+       10.0% in October 2009, before falling to 6.1% by June 2014.^[14]
+       This measure excludes persons outside the workforce, which can
+       distort its interpretation if a large number of working-aged
+       persons become discouraged and stop looking for work.
+
+     * The civilian employment to population ratio fell from its 2007
+       pre-crisis peak of approximately 63% to 58% by November 2010 and
+       partially recovered to 59% by June 2014.^[15] This measure is
+       affected by demographics. The U.S. has a gradually aging
+       population; therefore a greater percentage of people are retiring
+       and leaving the workforce. This creates a steady downward trend.
+       Analysts can adjust for the effect of demographics by examining the
+       ratio for those aged 25–54. Even in this age group, the ratio fell
+       from approximately 80% pre-crisis to 76% in June 2014, due mainly
+       to the 2008-2009 recession and its aftermath.^[3]^[16]
+
+     * The mix of jobs shifted more to part-time in the wake of the
+       crisis; the number of full-time jobs in June 2014 remained
+       approximately 3.7 million below the November 2007 pre-crisis peak,
+       while the number of part-time jobs was 3.2 million higher.^[17]
+       Some employers believe they can make their expenses more variable
+       through part-time employees, which gives them more flexibility in
+       matching costs to revenues.
+
+     * The share of unemployed who have been out of work for 27 or more
+       weeks (i.e., long-term unemployed) averaged approximately 19%
+       pre-crisis; this peaked at 48.1% in April 2010 and fell to 30.4% by
+       June 2014.^[18] Some research indicates the long-term unemployed
+       may be stigmatized as having out-of-date skills, facing an uphill
+       battle to return to the workforce.^[19]
+
+   The U.S. Federal Reserve tracks a variety of labor market metrics,
+   which affect how it sets monetary policy. One "dashboard" includes nine
+   measures, only three of which have returned to their pre-crisis (2007)
+   levels as of June 2014.^[20]^[21]
+
+   From October 2010 to June 2014, the U.S. added a total of 8.5 million
+   jobs, with positive job growth over each of those 45 months averaging
+   189,000 jobs. During January to June 2014, the U.S. added an average of
+   231,000 jobs per month, a robust rate by historical
+   standards.^[13]^[22]
+
+   Each month, The Hamilton Project examines the "jobs gap," which is the
+   number of jobs that the U.S. economy needs to create to return to
+   pre-recession employment levels while also absorbing the people who
+   enter the labor force each month. Job creation would have to average
+   208,000 per month to close the gap by 2020; 320,000 by 2017; or 472,000
+   by mid-2015.^[23] During the prosperous 1990's decade, the U.S. created
+   an average of 182,000 jobs/month.^[22]
+
+Domestic factors[edit]
+
+   There are many domestic factors affecting the U.S. labor force and
+   employment levels. These include: economic growth; cyclical and
+   structural factors; demographics; education and training; innovation;
+   labor unions; and industry consolidation. Ben Bernanke discussed
+   several factors during a March 2012 speech.^[24]
+
+   Economist Laura D'Andrea Tyson wrote in July 2011: "Like many
+   economists, I believe that the immediate crisis facing the United
+   States economy is the jobs deficit, not the budget deficit. The
+   magnitude of the jobs crisis is clearly illustrated by the jobs gap –
+   currently around 12.3 million jobs. That is how many jobs the economy
+   must add to return to its peak employment level before the 2008-9
+   recession and to absorb the 125,000 people who enter the labor force
+   each month. At the current pace of recovery, the gap will be not closed
+   until 2020 or later." She explained further that job growth between
+   2000 and 2007 was only half what it had been in the preceding three
+   decades, pointing to several studies by other economists indicating
+   globalization and technology change had highly negative effects on
+   certain sectors of the U.S. workforce and overall wage levels.^[25]
+
+Cyclical vs. structural unemployment[edit]
+
+   The US Labor Participation Rate from 1948 to 2011 by gender. Men are
+   represented in light blue, women in pink, and the total in black.
+
+   There is ongoing debate among economists regarding the extent to which
+   unemployment is cyclical (i.e., temporary and related to economic
+   cycles, and therefore responsive to stimulus measures that spur demand)
+   or structural (i.e., longer-term and independent of the economic cycle,
+   and therefore requiring process reforms and re-allocation of workers
+   among industries and geographies).^[26]
+
+   For example, a general reduction in employment across multiple
+   industries would likely be cyclical, while a skills or geographic
+   mismatch for available jobs would be structural. Ben Bernanke stated in
+   November 2012: "[T]he slow pace of employment growth has been
+   widespread across industries and regions of the country. That pattern
+   suggests a broad-based shortfall in demand rather than a substantial
+   increase in mismatch between available jobs and workers, because
+   greater mismatch would imply that the demand for workers would be
+   strong in some regions and industries, not weak almost across the
+   board. Likewise, if a mismatch of jobs and workers is the predominant
+   problem, we would expect to see wage pressures developing in those
+   regions and industries where labor demand is strong; in fact, wage
+   gains have been quite subdued in most industries and parts of the
+   country."^[27]
+
+   The Congressional Research Service summarized a variety of studies that
+   indicated changes in unemployment between 2007 and 2010 were 65-80%
+   cyclical, thus mainly due to reduced aggregate demand for goods and
+   services. Labor mobility was not a key issue due to the widespread
+   nature of job losses across geographies and industries. Cyclically
+   sensitive industries such as manufacturing and construction had the
+   most significant job losses. One study referenced in the CRS research
+   indicated that long-term unemployment can convert cyclical to
+   structural unemployment through loss of skills.^[28]
+
+   Mohamed El-Erian wrote in May 2011: "Unemployment must be seen as much
+   more than a cyclical problem; it's a structural one that requires
+   concurrent progress on job retraining, housing reform, education,
+   social safety nets and private-sector competitiveness...America's
+   political parties must jointly agree [to make] progress on the
+   structural-reform agenda..."^[29]^[30] Several tools, such as the
+   Beveridge curve are used to help analyze the extent of structural
+   unemployment.^[31]
+
+   The term frictional unemployment refers to the period when workers are
+   searching for a job or changing jobs. It is sometimes called search
+   unemployment and can be voluntary based on the circumstances of the
+   unemployed individual. Frictional unemployment is always present in an
+   economy, so the level of involuntary unemployment is properly the
+   unemployment rate minus the rate of frictional unemployment.
+
+   The Natural rate of unemployment refers to the rate of unemployment due
+   to structural or supply-side factors alone. Cyclical factors, such as
+   government stimulus or austerity policies, cause the actual
+   unemployment rate to vary around the natural rate. Economists debate
+   the natural rate of unemployment. During February 2011, Federal Reserve
+   economists estimated it may have increased from the historical rate of
+   around 5% to as high as 6.7%. CBO estimated the rate of a closely
+   related measure called NAIRU at 5.2%, up from 4.8%.^[32]^[33]
+
+Demographics & labor force participation rate[edit]
+
+   The percentage of the US civilian working age population employed,
+   1995–2012.
+
+   Demographics have a significant impact on the labor force and therefore
+   employment statistics. There is a long-term trend of declining labor
+   force participation in the U.S. The U.S. population is aging and the
+   Baby Boomers are moving into retirement, so a greater share of the
+   population is either leaving the labor force (retired) or moving into
+   an age bracket with a lower typical labor force participation
+   rate.^[34]^[35]
+
+   Reasons for the decline in labor force participation vary. One Federal
+   Reserve economist estimated that demographics accounted for two-thirds
+   of the decline since 2000. Other Federal Reserve studies place the
+   blame primarily on the recession of 2008-2009.^[36]
+
+   Analyzing the 25-54 prime working age range can help correct for the
+   effects of aging Boomers leaving the workforce. The jobs created since
+   the end of the recession (2009) have not been sufficient to show a
+   significant improvement in employment for the 25-54 age range.^[37] In
+   the 16-64 age range, from mid-2008 to March 2013 the ratios of employed
+   men and women have declined by approximately 6 and 3 percentage points,
+   respectively.^[38]
+
+   The Hamilton Project reported in March 2012 that: "As the Baby Boomers
+   retire, immigration flows change, and the number of young people
+   entering the labor force declines, the number of new jobs needed to
+   maintain pre-recession employment norms will decline...One result of
+   this aging of the population is that overall labor force participation
+   rates (and therefore the number of new jobs required to keep up with
+   the labor force) are expected to decline."^[39]^[40]
+
+   The Bureau of Labor Statistics provides a monthly employment situation
+   summary. For June 2014: "Among the major worker groups, the
+   unemployment rates for adult women (5.3 percent) and blacks (10.7
+   percent) declined in June, and the rate increased for teenagers (21.0
+   percent). The rates for adult men (5.7 percent), whites (5.3 percent),
+   and Hispanics (7.8 percent) showed little change. The jobless rate for
+   Asians was 5.1 percent (not seasonally adjusted), little changed from a
+   year earlier. The number of long-term unemployed (those jobless for 27
+   weeks or more) declined by 293,000 in June to 3.1 million; these
+   individuals accounted for 32.8 percent of the unemployed. Over the past
+   12 months, the number of long-term unemployed has decreased by 1.2
+   million."^[41]
+
+Education and training[edit]
+
+   The U.S. unemployment rate by education level.
+
+   Workers with higher levels of education face considerably lower rates
+   of unemployment. As of September 2012, for workers of age 25 or older,
+   unemployment was approximately: 12% for those with less than a high
+   school diploma; 9% for high school graduates; 6% for those with some
+   college or an associates degree; and 4% for those with a bachelor's
+   degree or higher.^[42]
+
+   The Pew Research Center estimated in 2012 that the average college
+   graduate earns as much as $650,000 more than the average high school
+   graduate over the course of a 40 year career, roughly $1.4 million
+   versus $770,000. Factoring in the cost of college and foregone
+   investment income, the average college graduate still ends up an
+   estimated $550,000 ahead. This difference depends significantly on the
+   type of major and type of employment.^[43]
+
+   The American Enterprise Institute reported in September 2011 that:
+   "...the evidence that the quality of a nation's education system is a
+   key determinant of the future growth of its economy is increasingly
+   strong." In 2010, America's high-school graduation rate trailed the
+   average for European Union countries and ranked no better than
+   eighteenth among the 26 OECD countries for which comparable data was
+   available. President Obama often has stated that education is a key
+   driver of international competitiveness and employment.^[44]
+
+   U.S. companies cut employee training programs approximately 11% in 2008
+   and again in 2009 in an effort to cut costs during the 2008-2009
+   recession, but increased their training costs thereafter.^[45]
+   According to 2012 Society for Human Resource Management (SHRM) industry
+   survey, 63% of employees learn the skills required to do their job
+   while on the job. Approximately 38% of companies said they cross-train
+   employees to develop skills not directly related to their job, down
+   from 43% in 2011 and 55% in 2008. Some companies believe that with high
+   unemployment, they can find the skills necessary should job openings
+   arise.^[46]
+
+   A variety of experts have proposed education reforms to improve U.S.
+   competitiveness. Ideas relate to better qualified and incentivized
+   teachers, less reliance on standardized testing, better feedback
+   systems to help struggling teachers and students, more investment,
+   paying for performance, employing data systems that track how much a
+   child learns from a teacher, measuring teacher quality, giving local
+   administrators the ability to manage staff and finances, and comparing
+   results to the best education systems in the world.^[47]
+
+   The rapid pace of technology change and global competition are
+   rewarding those who continuously improve their skills and education.
+   Futurist Alvin Toffler wrote: "The illiterate of the future are not
+   those that cannot read or write. They are those that cannot learn,
+   unlearn, relearn."^[48]
+
+   Thomas L. Friedman wrote: "How [can workers] adapt? It will require
+   more individual initiative. We know that it will be vital to have more
+   of the 'right' education than less, that you will need to develop
+   skills that are complementary to technology rather than ones that can
+   be easily replaced by it and that we need everyone to be innovating new
+   products and services to employ the people who are being liberated from
+   routine work by automation and software. The winners won’t just be
+   those with more I.Q. It will also be those with more P.Q. (passion
+   quotient) and C.Q. (curiosity quotient) to leverage all the new digital
+   tools to not just find a job, but to invent one or reinvent one, and to
+   not just learn but to relearn for a lifetime."^[49]
+
+Skills gap[edit]
+
+   A "skills gap" would exist if employers were demanding skills that the
+   workforce did not provide. The hypothesis of such a gap in the USA
+   recently grew stronger, in part due to the poor results of the country
+   at OECD adult skills survey.^[50] However, there was limited evidence
+   post-2008 crisis that the U.S. was really facing a skill gap.
+   Unemployment remained higher for workers at all education levels.
+   Further, workers with the "right" skills would theoretically receive
+   significant raises if there were skills shortages, which was not
+   occurring. Paul Krugman wrote in March 2014: "Meanwhile, multiple
+   careful studies have found no support for claims that inadequate worker
+   skills explain high unemployment." He continued that a U.S. skills gap
+   was a "zombie idea...an idea that should have been killed by evidence,
+   but refuses to die."^[51]
+
+Long-term unemployment[edit]
+
+   The mean and median duration of U.S. unemployment.
+
+   Long-term unemployment is defined by the International Labor
+   Organization (ILO) as referring to people who have been unemployed for
+   27 weeks or longer and are actively seeking employment. Other
+   measurements have been used by different Bureaus and Agencies
+   worldwide. The U.S. Bureau of Labor Statistics classifies unemployment
+   based on various aspects into six groups (U1-U6), with U3 referring to
+   the most widely recognized, ILO definition.
+
+   The ratio of long-term unemployed (27 weeks or longer) to unemployed
+   rose from 17.3% in December 2007 (pre-recession) to a peak of 48.1%
+   during April 2010. It has steadily fallen to a still elevated 30.4% as
+   of June 2014.^[52]^[53] This is well above the 1980-2007 average of
+   approximately 16% and the approximately 20-25% level typical in
+   previous recessions since 1980.^[54]^[55]
+
+   Economists believe that long-term unemployment can be transformed into
+   structural unemployment, meaning that a large group of workers may no
+   longer match employers' needs or are no longer considered employable.
+   Skills may become obsolete, business contact lists become outdated, and
+   current industry information is lost. As of September 2012, about
+   800,000 workers wanted a job but had given up looking, and so are no
+   longer even counted as unemployed.^[56]
+
+   About 1.7 million people joined the disability rolls since the
+   recession began at the end of 2007, an increase of 24%, as workers use
+   the disability program as a backdoor safety net when their unemployment
+   insurance runs out. After searching for a new position for a year, a
+   worker trying to regain employment finds that their chance to do so in
+   the coming month falls below 10%. Job training programs and incentives
+   for companies to hire the long-term unemployed are among the solutions
+   available, but gathering the political will to address an isolated
+   group is difficult. The long-term unemployed are less likely to
+   vote.^[57]
+
+   CBO reported several options for addressing long-term unemployment
+   during February 2012. Two short-term options included policies to: 1)
+   Reduce the marginal cost to businesses of adding employees; and 2) Tax
+   policies targeted towards people most likely to spend the additional
+   income, mainly those with lower income. Over the long-run, structural
+   reforms such as programs to facilitate re-training workers or education
+   assistance would be helpful.^[58]
+
+Labor unions[edit]
+
+   Further information: Labor unions in the United States
+   Union membership in the United States from the Great Depression to
+   current day.
+
+   Economist Paul Krugman wrote that historically, worker participation in
+   labor unions gave workers more power in negotiating how corporate
+   profits were split up with shareholders and management. Organized labor
+   acted to limit layoffs. Strong labor unions were a check on executive
+   pay, keeping top executive pay at considerably lower ratios relative to
+   the average worker during the 1950s than during the 2000s. Unions were
+   also a factor in income equality, helping ensure that middle class
+   worker pay rose along with the pay of the higher income brackets.^[59]
+
+   However, labor union participation rates have declined steadily in the
+   United States. According to the Bureau of Labor Statistics annual Union
+   Members Summary: "In 2012, the union membership rate--the percent of
+   wage and salary workers who were members of a union--was 11.3 percent,
+   down from 11.8 percent in 2011. The number of wage and salary workers
+   belonging to unions, at 14.4 million, also declined over the year. In
+   1983, the first year for which comparable union data are available, the
+   union membership rate was 20.1 percent, and there were 17.7 million
+   union workers."^[60] In 1973, the participation rate was 26.7% against
+   a comparable 2011 rate of 13.1%.^[61]
+
+   Differences in labor law and public policy are a key reason for this
+   decline. For example, Canada has gone through many of the same economic
+   and social changes as the U.S. since the middle of the 20th century,
+   but it hasn’t seen the same substantial decline in unionization. The
+   unionization rate in the U.S. and Canada followed fairly similar paths
+   from 1920 to the mid-1960s, at which point they began to diverge
+   drastically, with Canada remaining around 30% while the U.S. fell to
+   around 11%.^[62]
+
+Industry consolidation[edit]
+
+   Industry consolidation or concentration refers to fewer, larger firms
+   driving competition in an industry versus more, smaller firms. Job
+   creation by small businesses can be restricted when larger, more
+   productive firms displace them. For example, the share of customer
+   deposits held by the top 10 largest U.S. banks rose from 15% in 1993,
+   to 44% in 2006, and to 49% by 2009. The number of commercial banks fell
+   from over 14,000 in 1984 to approximately 7,000 by 2010.^[63]
+
+   Economists Barry Lynn and Phillip Longman at the New America Foundation
+   wrote in March 2010:
+     * "It is now widely accepted among scholars that small businesses are
+       responsible for most of the net job creation in the United States.
+       It is also widely agreed that small businesses tend to be more
+       inventive, producing more patents per employee, for example, than
+       do larger firms. Less well established is what role concentration
+       plays in suppressing new business formation and the expansion of
+       existing businesses, along with the jobs and innovation that go
+       with such growth. Evidence is growing, however, that the radical,
+       wide-ranging consolidation of recent years has reduced job creation
+       at both big and small firms simultaneously."
+
+     * "In nearly every sector of our economy, far fewer firms control far
+       greater shares of their markets than they did a generation ago.
+       Indeed, in the years after officials in the Reagan administration
+       radically altered how our government enforces our anti-monopoly
+       laws, the American economy underwent a truly revolutionary
+       restructuring. Four great waves of mergers and acquisitions—in the
+       mid-1980s, early '90s, late '90s, and between 2003 and
+       2007—transformed America's industrial landscape at least as much as
+       globalization."
+
+     * "Over the same two decades, meanwhile, the spread of mega-retailers
+       like Wal-Mart and Home Depot and agricultural behemoths like
+       Smithfield and Tyson's resulted in a more piecemeal approach to
+       consolidation, through the destruction or displacement of countless
+       independent family-owned businesses."^[64]^[65]
+
+Income and wealth inequality[edit]
+
+   U.S. inequality from 1913–2008.^[66]
+   Main article: Income inequality in the United States
+
+   Since the 1980s, wealthier households in the United States have earned
+   a larger and larger share of overall income. As of 2010, the top 1% of
+   households by income earned about one-sixth of all income and the top
+   10% earned about half of it. In other words, the rising tide of
+   economic growth does not lift all boats equally. Wealth is also skewed,
+   with the top 1% owning more wealth than the bottom 90% of households.
+   Several prominent economists and financial entities have reported that
+   income inequality hurts economic growth and can be economically
+   destabilizing.^[67]^[68]
+
+   Economist Joseph Stiglitz wrote in 2012 that moving money from the
+   bottom to the top of the income spectrum through income inequality
+   lowers consumption, and therefore economic growth and job creation.
+   Higher-income individuals consume a smaller proportion of their income
+   than do lower-income individuals; those at the top save 15-25% of their
+   income, while those at the bottom spend all of their income.^[69]^[70]
+
+   Further, as income skews to the top, middle-class families may go
+   deeper into debt than they would otherwise, which restricts consumption
+   once they begin to repay it. Evidence suggests that income inequality
+   has been the driving factor in the growing household debt^[71]^[72] as
+   middle income earners go deeper into debt trying to maintain what once
+   was a middle class lifestyle. Between 1983 and 2007, the top 5 percent
+   saw their debt fall from 80 cents for every dollar of income to 65
+   cents, while the bottom 95 percent saw their debt rise from 60 cents
+   for every dollar of income to $1.40.^[71] Economist Paul Krugman has
+   found a strong correlation between inequality and household debt in
+   America over the last hundred years.^[73]
+
+Government hiring trends[edit]
+
+   Most states have balanced budget rules, which forced them to cut
+   spending when tax revenues fell due to the 2008-2009 recession and its
+   aftermath. Over 500,000 jobs were cut by states and municipalities
+   between 2008-2012. This was different from other recent U.S.
+   recessions, where government employment continued to climb. This trend
+   is expected to reverse in 2013, with states and municipalities adding
+   workers for the first time in five years. State and local government
+   spending accounted for 12% GDP in 2011.^[74]
+
+   Fed Chair Ben Bernanke testified in May 2013 that: "Notably, over the
+   past four years, state and local governments have cut civilian
+   government employment by roughly 700,000 jobs, and total government
+   employment has fallen by more than 800,000 jobs over the same period.
+   For comparison, over the four years following the trough of the 2001
+   recession, total government employment rose by more than 500,000
+   jobs."^[75]
+
+   Government spending employs private sector workers in several
+   industries, such as ship and boat building, facilities services,
+   aerospace, etc. The 2013 sequester has significantly impacting hiring
+   in these industries, which are lagging employment growth in other
+   industries. The New York Times reported in June 2013 that: "Across the
+   five industries that are most sensitive to changes in military
+   spending, employment fell at an annual rate of 2.5 percent in March and
+   stayed flat in April, the latest month for which seasonally adjusted
+   data are available. In all other sectors, by contrast, employment grew
+   at annualized rates of about 1.6 percent in March and 1.7 percent in
+   April. Before the start of the sequester on March 1, employment at
+   private companies heavily dependent on military spending had been more
+   closely tracking employment in the rest of the economy, though the
+   numbers were somewhat uneven. Military payrolls have been declining
+   almost every month since November 2011 in response to the drawdown in
+   American wars abroad."^[76]
+
+Policies regarding full employment[edit]
+
+   Annual rate of change of unemployment rate under various US Presidents
+   The values indicate the average annual rate of change in the
+   unemployment rate over the years in office. Data 1945-present from
+   Bureau of Labor Statistics Labor Force Statistics, Data previous to
+   1945 from McElvaine's The Great Depression, Three Rivers Press (2009),
+   Chapter 4
+
+   Jared Bernstein wrote in May 2013 that the U.S. used to focus on full
+   employment as a policy priority, but this focus has waned since 1980.
+   Full employment refers to having an available job for everyone who
+   wants one. Specific laws were passed to help achieve this goal, such as
+   the Employment Act of 1946 and the Humphrey-Hawkins Full Employment Act
+   of 1978. From 1945-1979, the U.S. was at full employment two-thirds of
+   the time. Conservatives and business interests pushed back however, as
+   tight labor markets meant more worker bargaining power, higher wages
+   and less profitability. Since 1980, full employment ("defined as an
+   unemployment rate below 5 percent") has been maintained one-third of
+   the time.^[77]
+
+   Bernstein argued there are several possible reasons for the reduction
+   in frequency of full employment:
+     * As labor unions weakened, politicians focused less on the working
+       class and more on issues related to the wealthy, such as inflation,
+       budget deficits and tax policy;
+
+     * Capital investment may have become more "labor saving," with
+       productivity improving and automation accelerating;
+
+     * Large and persistent trade deficits have exported significant
+       demand. Trade deficits averaged 5% GDP during the 2000s, versus 1%
+       GDP in the 1990s, representing the loss of millions of jobs; and
+
+     * Growing income inequality has reduced the ability of the middle
+       class to demand as many goods and services as it otherwise would
+       be, affecting many middle-class jobs.^[77]
+
+Unemployment among younger workers[edit]
+
+   The employment situation from 2009 to 2013 was particularly difficult
+   for younger workers. The Economic Policy Institute reported in April
+   2013 that:
+     * The March 2013 unemployment rate of 16.2% for workers under age 25
+       was slightly over twice the national average.
+
+     * Weak demand for goods and services is the primary driver of this
+       unemployment, not a skills mismatch.
+
+     * Graduating in a bad economy has long-lasting economic consequences.
+       For the next 10 to 15 years, those in the Class of 2013 will likely
+       earn less than if they had graduated when the economy were at its
+       potential.
+
+     * For young high school graduates, the unemployment rate is 29.9%
+       (compared with 17.5% in 2007) and the underemployment rate is 51.5%
+       (compared with 29.4% in 2007).
+
+     * For young college graduates, the unemployment rate is 8.8% (vs.
+       5.7% in 2007) and the underemployment rate is 18.3% (vs. 9.9% in
+       2007).^[78]
+
+Job openings relative to unemployed[edit]
+
+   The ratio of job seekers to job openings is another indicator used to
+   analyze unemployment trends. The number of unemployed persons per job
+   opening rose from 2.9 in 2003 to 6.7 at its peak in July 2009, before
+   falling to 3.1 in April 2013. EPI reported in June 2013 that: "In
+   today’s economy, unemployed workers far outnumber job openings in every
+   sector...This demonstrates that the main problem in the labor market is
+   a broad-based lack of demand for workers—and not, as is often claimed,
+   available workers lacking the skills needed for the sectors with job
+   openings."^[79]^[80]
+
+Global factors[edit]
+
+Offshoring of employment[edit]
+
+   Offshoring has become an increasingly common practice of locating jobs
+   in low-cost labor countries. The practice is expanding in both
+   manufacturing and service jobs. Motivation varies; labor cost savings
+   or "labor arbitrage", productivity and regulatory avoidance are
+   potential reasons. Studies have shown that offshoring is a source of
+   significant uncertainty in the labor force. There is significant debate
+   regarding the extent to which this is affecting U.S. job creation. The
+   Congressional Research Service reported a summary of several studies on
+   offshoring in January 2011:^[81]
+     * Forrester Research projected in 2004 that a total of 3.4 million
+       service sector jobs might move abroad by 2015. Forrester projected
+       that a total of 1.2 million services jobs might be relocated
+       offshore between 2003 and 2008.
+
+     * Economists Bardhan and Kroll estimated in 2003 that more than 14
+       million jobs, representing about 11% of U.S. employment in 2001,
+       have attributes that could allow them to be sent overseas (e.g., no
+       in-person customer servicing required; an IT-enabled work process
+       that can be accomplished via telecommuting; jobs that can be
+       routinized; a fairly wide gap between a job's pay in the United
+       States compared to in a destination country; and a destination
+       country having few language, institutional, and cultural barriers.)
+
+     * Economists Jensen and Kletzer estimated in 2005 that about 9.4% of
+       total U.S. employment in 2000 was in offshorable industries.
+       Approximately 14% of employment in professional services industries
+       might be vulnerable to offshoring compared to 12.4% of employment
+       in manufacturing industries.
+
+     * The Brookings Institution estimated in 2007 that offshoring may
+       impact 2.2% of the jobs in 246 metro areas.
+
+     * The Bureau of Labor statistics estimated that one-fifth of U.S.
+       workers were in industries subject to offshoring. The 33
+       service-providing occupations found to be most susceptible to
+       offshoring experienced below average employment and wage growth
+       during the 2001-2007 period. The skills and education of this most
+       vulnerable group range widely.
+
+     * Economist Alan Blinder estimated in 2009 that up to 30 million jobs
+       may be offshorable.^[81]
+
+   An estimated 750,000 call center jobs were off-shored by U.S. firms to
+   India and the Philippines as of November 2011.^[82] The New York Times
+   reported in January 2012 that: "Apple employs 43,000 people in the
+   United States and 20,000 overseas...Many more people work for Apple’s
+   contractors: an additional 700,000 people engineer, build and assemble
+   iPads, iPhones and Apple’s other products. But almost none of them work
+   in the United States."^[83]
+
+   Princeton economist Alan Blinder said in 2007 that the number of jobs
+   at risk of being shipped out of the country could reach 40 million over
+   the next 10 to 20 years, which represents one out of every three
+   service sector jobs.^[84]
+
+   The Economist reported in January 2013 that: "High levels of
+   unemployment in Western countries after the 2007-2008 financial crisis
+   have made the public in many countries so hostile towards off-shoring
+   that many companies are now reluctant to engage in it." Further, The
+   Economist reported that off-shoring trends are evolving for several
+   other reasons:
+     * Wages in China and India have been increasing for 10-20% a year for
+       the past decade while U.S. wages have been relatively stagnant,
+       reducing the cost advantage of off-shoring.
+
+     * Shipping costs are rising and long shipping lead times can affect
+       customer service in certain industries.
+
+     * Separating production and research & development functions has
+       adversely impacted innovation.
+
+     * Multinational corporations are moving production closer to their
+       target customers, which in some cases means back to the U.S.^[85]
+
+   The Department of Labor's Employment and Training Administration (ETA)
+   prepares an annual report on those petitioning for trade adjustment
+   assistance, due to jobs lost from international trade. This represents
+   a fraction of jobs actually off-shored and does not include jobs that
+   are placed overseas initially or the collateral impact on surrounding
+   businesses when, for example, a manufacturing plant moves overseas.
+   During 2011, there were 98,379 workers covered by petitions filed with
+   ETA.^[86] The figure was 280,873 in 2010,^[87] 201,053 in 2009 and
+   126,633 in 2008.^[88]
+
+Comparative international wage levels[edit]
+
+   One of the reasons for off-shoring jobs or sourcing goods overseas has
+   been considerably lower wages in developing or Asian countries. The NY
+   Times reported in December 2012 that: "American wages are [not]
+   anywhere close to those in countries in East Asia or other places where
+   American imports come from. As of 2010 (the latest year available),
+   hourly compensation costs for manufacturing in the United States were
+   about four times those in Taiwan, and 20 times those in the
+   Philippines, according to the Labor Department." However, foreign wages
+   have been rising since 2000, while those in the U.S. have been
+   stagnant.^[89]
+
+   During 2011, entry level call center workers in the U.S. earned about
+   $20,000 per year, about six times as much as similar jobs in
+   India.^[82] According to the Congressional Research Service, during
+   2006, compensation for the average American production worker was
+   $24.59 per hour, compared to $16.02 in South Korea, $2.92 in Mexico,
+   and $0.81 in China.^[90]
+
+   CEO's are under pressure from their boards to maximize profits and are
+   paid bonuses accordingly; one method of doing so is offshoring jobs or
+   sourcing inputs in the lowest wage countries possible. Firms in
+   low-cost labor countries actively lobby U.S. and European companies to
+   offshore a variety of jobs or locate new jobs and facilities
+   overseas.^[91]
+
+Trade deficits and currency valuation[edit]
+
+   Ambox question.svg
+   This section possibly contains previously unpublished synthesis of
+   published material that conveys ideas not attributable to the original
+   sources. Relevant discussion may be found on the talk page. (January
+   2013)
+   The U.S. Current Account or Trade Deficit.
+
+Trade deficit[edit]
+
+   Net exports are a major component of GDP. In the U.S., net exports are
+   negative due to a trade deficit that is much larger than historical
+   average. There is significant debate regarding the impact of the trade
+   deficit on the economy and employment, and therefore the budget
+   deficit. For example, The Economist wrote in July 2012 that the inflow
+   of investment dollars required to fund the trade deficit was a major
+   cause of the housing bubble and financial crisis: "The trade deficit,
+   less than 1% of GDP in the early 1990s, hit 6% in 2006. That deficit
+   was financed by inflows of foreign savings, in particular from East
+   Asia and the Middle East. Much of that money went into dodgy mortgages
+   to buy overvalued houses, and the financial crisis was the
+   result."^[92]
+
+   NPR explained in their Peabody-Award winning article "The Giant Pool of
+   Money" that a vast inflow of savings from developing nations flowed
+   into the mortgage market, driving the U.S. housing bubble. This pool of
+   fixed income savings increased from around $35 trillion in 2000 to
+   about $70 trillion by 2008. NPR explained this money came from various
+   sources, "[b]ut the main headline is that all sorts of poor countries
+   became kind of rich, making things like TVs and selling us oil. China,
+   India, Abu Dhabi, Saudi Arabia made a lot of money and banked it."^[93]
+   During 2008, then U.S. Comptroller General David M. Walker argued that
+   the U.S. faced four deficits that posed significant risk to its fiscal
+   future: Budget, balance of payments, savings and leadership.^[94]
+
+   A February 2013 paper from four economists concluded that a trade
+   deficit is a factor in whether a country will pay higher interest rates
+   as its public debt level rises, which increases the risk of fiscal
+   crisis. Both the U.S. and Eurozone countries (excluding Germany) had
+   significant trade deficits leading up to the crisis.^[95]^[96] A
+   rebuttal to their paper indicated that the trade deficit (which
+   requires private borrowing to fund) may be a bigger factor than public
+   debt in causing a rise in interest rates.^[97]
+
+Currency policy[edit]
+
+   Policies that affect the value of the U.S. dollar relative to other
+   currencies also affect employment levels. Economist Christina Romer
+   wrote in May 2011: "A weaker dollar means that our goods are cheaper
+   relative to foreign goods. That stimulates our exports and reduces our
+   imports. Higher net exports raise domestic production and employment.
+   Foreign goods are more expensive, but more Americans are working. Given
+   the desperate need for jobs, on net we are almost surely better off
+   with a weaker dollar for a while."^[98] Economist Paul Krugman wrote in
+   May 2011: "First, what's driving the turnaround in our manufacturing
+   trade? The main answer is that the U.S. dollar has fallen against other
+   currencies, helping give U.S.-based manufacturing a cost advantage. A
+   weaker dollar, it turns out, was just what U.S. industry needed."^[99]
+
+   Economists C. Fred Bergsten and Joseph E. Gagnon wrote in September
+   2012: "The most overlooked cause of the economic weakness in the United
+   States and Europe is what we call the 'global currency wars.' If all
+   currency intervention were to cease, we estimate that the US trade
+   deficit would fall by $150 billion to $300 billion, or 1 to 2 percent
+   of gross domestic product. Between 1 million and 2 million jobs would
+   be created. The euro area would gain by a lesser but still substantial
+   amount. Countries that were engaged in intervention could offset the
+   impact on their economies by expanding domestic demand."^[100]
+
+Tradable and non-tradable sectors[edit]
+
+   Economist Michael Spence analyzed U.S. employment trends from 1990 to
+   2008, separating workforce components into two major sectors:
+     * Non-tradeable sector, meaning those jobs that must be done locally,
+       such as healthcare, government and construction. Of the 27.3
+       million jobs added during the period, 26.7 million were in the
+       non-tradeable sector. From 1990 to 2008, the jobs in this sector
+       increased from 88 million to 115 million.
+
+     * Internationally tradeable sector, meaning jobs related to goods
+       that can be produced in one country and consumed in another, such
+       as manufacturing, agriculture and energy, or consumed by people
+       from another country, such as tourism. Lower- and middle- value
+       added jobs have been moved abroad as part of globalized supply
+       chains, resulting in less than one million jobs created during the
+       period in this sector. During 1990, there were 34 million jobs in
+       this sector; these grew slowly for about a decade then returned to
+       their starting point by 2008.
+
+   Spence advocates structural reforms to help grow the tradeable sector
+   jobs. Further, value-added per employee has been growing slowly in the
+   non-tradeable sector. These trends are correlated with increasing
+   income inequality and indicate significant structural issues face the
+   U.S. labor market.^[101]
+
+Globalization commentary[edit]
+
+   Ambox question.svg
+   This section possibly contains previously unpublished synthesis of
+   published material that conveys ideas not attributable to the original
+   sources. Relevant discussion may be found on the talk page. (January
+   2013)
+   An 1837 political cartoon about unemployment in the United States.
+
+   Economist Paul Krugman wrote: "By contrast, trade between countries at
+   very different levels of economic development tends to create large
+   classes of losers as well as winners. Although the outsourcing of some
+   high-tech jobs to India has made headlines, on balance, highly educated
+   workers in the United States benefit from higher wages and expanded job
+   opportunities because of trade...But workers with less formal education
+   either see their jobs shipped overseas or find their wages driven down
+   by the ripple effect as other workers with similar qualifications crowd
+   into their industries and look for employment to replace the jobs they
+   lost to foreign competition. And lower prices at Wal-Mart aren’t
+   sufficient compensation."^[102]
+
+   Fareed Zakaria described the factors slowing growth in developed
+   countries like the U.S., writing in November 2011: "The fact is that
+   Western economies – with high wages, generous middle-class subsidies
+   and complex regulations and taxes – have become sclerotic. Now they
+   face pressures from three fronts: demography (an aging population),
+   technology (which has allowed companies to do much more with fewer
+   people) and globalization (which has allowed manufacturing and services
+   to locate across the world)."^[103]
+
+   Former Fed chair Paul Volcker argued in February 2010 that the U.S.
+   should make more of the goods it consumes domestically: "We need to do
+   more manufacturing again. We're never going to be the major world
+   manufacturer as we were some years ago, but we could do more than we're
+   doing and be more competitive. And we've got to close that big gap. You
+   know, consumption is running about 5 percent above normal. That 5
+   percent is reflected just about equally to what we're importing in
+   excess of what we're exporting. And we've got to bring that back into
+   closer balance."^[104]
+
+   Economist Peter Navarro wrote in June 2011: "The American economy has
+   been in trouble for more than a decade, and no amount of right-wing tax
+   cuts or left-wing fiscal stimuli will solve the primary structural
+   problem underpinning our slow growth and high unemployment. That
+   problem is a massive, persistent trade deficit — most of it with China
+   — that cuts the number of jobs created by nearly the number we need to
+   keep America fully employed."^[105] Economist Peter Morici wrote in May
+   2012: "Cutting the trade deficit in half, through domestic energy
+   development and conservation, and offsetting Chinese exchange rate
+   subsidies would increase GDP by about $525 billion a year and create at
+   least 5 million jobs."^[106]
+
+   Economist Michael Spence explained in August 2011 that over the
+   1990-2008 period, job creation was almost entirely in the
+   "non-tradable" sector (which produces goods and services that must be
+   consumed domestically, like healthcare) with few jobs created in the
+   "tradable" sector (which produces goods that can be sold
+   internationally, like manufacturing). He stated that job creation in
+   both sectors is necessary and that various factors, such as the housing
+   bubble, hid the lack of job creation in the tradable sector. He stated:
+   "We're going to have to try to fix the ineffective parts of our
+   educational system...We're under-investing in things like
+   infrastructure...we've just been living on consumption and we need to
+   live a little bit more on investment, including public-sector
+   investment." He also advocated tax policy changes to encourage hiring
+   of U.S. workers.^[107]
+
+Other factors[edit]
+
+Automation and technology change[edit]
+
+   In addition to off-shoring, technological change and automation of
+   labor have impacted job growth in certain industries. A technology
+   revolution is fast replacing human beings with machines in virtually
+   every sector and industry in the global economy. Global unemployment
+   has now reached its highest level since the great depression of the
+   1930s. That figure is likely to rise sharply between now and the turn
+   of the century as millions of new entrants into the workforce find
+   themselves without jobs. As a science fiction writer might ask: "Who
+   has a job once the robots repair the robots?" As wages or healthcare
+   costs rise, companies have a growing financial incentive to automate
+   more of their production and service processes. While automation has
+   displaced millions of workers in various cycles (e.g., agriculture in
+   the U.S. in the early 1900s) other industries have typically taken
+   their place.^[108]^[109]
+
+   Economist Henry Hazlitt explained in the 1979 edition of his book
+   Economics in One Lesson why automation tends to create as many or more
+   jobs overall than it destroys:
+     * It requires labor and capital to build the machines that replace
+       the workers whose jobs have been automated away, which creates jobs
+       partially or fully offsetting the initial loss;
+
+     * After the machines have produced sufficient economies to offset
+       their cost, the owners can expect increased profits, which can be
+       spent in the same or different industry, also creating jobs;
+
+     * If competitors also adopt the machines, prices in the industry will
+       begin to drop. This may increase the quantity of the goods
+       demanded. This also allows savings to be passed along to consumers,
+       who can use the difference to spend in the same or different
+       industry, also creating jobs.
+
+   Hazlitt wrote that these three offsets tend to increase jobs overall.
+   Further, automation increases production, productivity and real wages
+   over the long-run. He explained that over the course of human history,
+   the number of persons employed tends to jump along with advances in
+   technology. While jobs are destroyed in one activity, more jobs are
+   typically created in others.^[110]
+
+   However, MIT economists Brynjolfsson and McAfee estimated in January
+   2013 that technology is potentially destroying more jobs than it is
+   creating: "Technology is always creating jobs. It's always destroying
+   jobs. But right now the pace of destroying them is accelerating...So as
+   a consequence, we are not creating jobs at the same pace that we need
+   to." Routine, middle-skill jobs are being eliminated by advances in
+   business processes and technology, for example: self-service
+   applications such as internet ordering in retail, grocery
+   self-checkout, and ATM machines; manufacturing assembly robots;
+   logistics such as warehouse robots that can move goods from storage to
+   shipping; and healthcare, where robots are moving meals and medical
+   waste in hospitals. McAfee sees this trend of technology eliminating
+   jobs continuing for some time: "When I see what computers and robots
+   can do right now, I project that forward for two, three more
+   generations, I think we're going to find ourselves in a world where the
+   work as we currently think about it it, is largely done by
+   machines."^[111]^[112]
+
+   Matt Miller wrote in January 2013 that this automation may have
+   profound policy implications. If robots replace a vast number of
+   workers, wage income may not be sufficient to support the middle class.
+   More and more wealth will be concentrated in the hands of capital
+   (e.g., those who make and own the robots doing the work). This could
+   require significant changes in tax and redistribution policies on a
+   massive scale.^[113] During August 2011, Taiwan manufacturing company
+   Foxconn announced that it would be using up to one million robots to
+   replace human laborers.^[114]
+
+   Paul Krugman discussed this automation in December 2012: "This is an
+   old concern in economics; it's 'capital-biased technological change',
+   which tends to shift the distribution of income away from workers to
+   the owners of capital...Twenty years ago, when I was writing about
+   globalization and inequality, capital bias didn't look like a big
+   issue; the major changes in income distribution had been among
+   workers...rather than between labor and capital. So the academic
+   literature focused almost exclusively on 'skill bias," supposedly
+   explaining the rising college premium. But the college premium hasn't
+   risen for a while. What has happened, on the other hand, is a notable
+   shift in income away from labor...I think we'd better start paying
+   attention to those implications." Krugman used a chart to show how the
+   share of compensation income as a % GDP had fallen consistently from
+   60% in 1970 to 55% in 2011.^[65]^[115]
+
+   One possible consequence is that as developing country wages rise, U.S.
+   companies may decide to automate the jobs but return the activity to
+   the U.S., a phenomenon some refer to as "re-shoring" (as opposed to
+   "off-shoring").^[89]
+
+   Although U.S. manufacturing employment declined from 17 million workers
+   to 12 million from 2000-2011, production has returned to 2000
+   levels.^[116]^[117] In other words, productivity, supported by
+   significant automation or process improvements, may be a significant
+   driver of job losses in that industry, along with off-shoring.
+
+Innovation[edit]
+
+   Relatively new, smaller firms are the primary job creators. A 2009
+   study by the Kauffman Foundation using U.S. Census data indicated that:
+     * "From 1980-2005, nearly all net job creation in the United States
+       occurred in firms less than five years old...without startups, net
+       job creation for the American economy would be negative in all but
+       a handful of years."
+     * "If one excludes startups, an analysis of the 2007 Census data
+       shows that young firms (defined as one to five years old) still
+       account for roughly two-thirds of job creation, averaging nearly
+       four new jobs per firm per year."
+     * "Of the overall 12 million new jobs added in 2007, young firms were
+       responsible for the creation of nearly 8 million of those jobs."
+       (Note: This is a gross number not reduced by jobs lost; the economy
+       generally creates and destroys millions of jobs in any given year.)
+     * "Given this information, it is clear that new and young companies
+       and the entrepreneurs that create them are the engines of job
+       creation and eventual economic recovery. The distinction of firm
+       age, not necessarily size, as the driver of job creation has many
+       implications, particularly for policymakers who are focusing on
+       small business as the answer to a dire employment situation."^[118]
+
+   In the globalized free market, innovation does not necessarily mean the
+   jobs will be created domestically. A popular product, the Apple iPod,
+   offers an interesting perspective on globalization and employment. This
+   product was developed by a U.S. corporation. In 2006, it was produced
+   by about 14,000 workers in the U.S. and 27,000 overseas. Further, the
+   salaries attributed to this product were overwhelmingly distributed to
+   highly skilled U.S. professionals, as opposed to lower skilled U.S.
+   retail employees or overseas manufacturing labor. Increasingly,
+   globalization is shifting incomes to those with the highest educational
+   backgrounds and professional skills. One interpretation of this result
+   is that U.S. innovation can create more jobs overseas than
+   domestically.^[119]^[120] During 2011, Apple employed 43,000 U.S.
+   workers and 20,000 overseas. However, nearly 700,000 workers overseas
+   working for other companies made nearly all of its iPhone, iPad and
+   other products.^[121]
+
+   Andrew Grove wrote in July 2010 that key technology innovations are
+   increasingly "scaled" or mass-produced in Asia, with a 10-1 ratio of
+   overseas to domestic workers. He wrote that Asian countries "seem to
+   understand that job creation must be the No. 1 objective of economic
+   policy." He recommended a tax on products made off-shore, to be used to
+   fund companies that will scale their U.S. operations.^[122]
+
+Industry-specific factors[edit]
+
+   U.S. manufacturing employment (left axis) and construction employment
+   (right axis).
+
+   Industries may have long-term and short-term factors that drive trends
+   in employment. Manufacturing and construction are two major industry
+   groups that illustrate such factors.
+
+   The Economist reported in March 2011 that U.S. manufacturing employment
+   declined steadily from approximately 17 million in 2000 to under 12
+   million in 2010.^[123] Comparing January 2008, the U.S. overall peak
+   employment month across all industries pre-crisis, with October 2012,
+   manufacturing employment was down 1.76 million.^[124] This is due to a
+   combination of growing competition from lower-wage countries,
+   automation/productivity improvements, off-shoring, etc.
+
+   For example, China's share of global manufacturing increased from
+   approximately 5% in 1996 to 12% in 2008. China represents roughly
+   one-third of the U.S. trade deficit, nearly $295 billion in 2011.^[125]
+   The Economic Policy Institute (EPI) estimated that from 2001-2011, 2.7
+   million jobs were lost to China.^[126] USA Today reported in 2007 that
+   an estimated one in six factory jobs (3.2 million) have disappeared
+   from the U.S. since 2000, due to automation or off-shoring to countries
+   like Mexico and China, where labor is cheaper.^[127]
+
+   U.S. construction employment is heavily reliant on the housing market
+   and new home construction. Measured from January 2008, construction
+   employment was down 1.94 million as of October 2012. This follows a
+   peak in construction employment due to the U.S. housing bubble
+   throughout the mid-2000s, with a recent peak of approximately 7 million
+   sustained during the 2005-2008 period.^[128]
+
+   The total of the job losses in these two industries from January 2008
+   to October 2012 was 3.7 million. For scale, the U.S. overall employment
+   decline from January 2008 to October 2012 was a net 4.3 million, with
+   8.8 million jobs lost from 1/08 to 2/10 and 4.5 million jobs added back
+   thereafter.^[129]
+
+   According to an American Bar Association report, After the JD, for the
+   2000 graduating class of law students 24% of the surveyed lawyers were
+   not practicing law in 2012, compared, to the same group, about 9%, who
+   weren’t practicing law in 2003.^[130]^[131]
+
+Unemployment benefits[edit]
+
+   There is debate regarding the extent to which safety net programs such
+   as unemployment insurance extend periods of unemployment by reducing
+   the incentive to find work. The Heritage Foundation estimated in
+   September 2011 that extending unemployment insurance increases the
+   unemployment rate between 0.5 to 1.5 percentage points, advocating that
+   such payouts be offset by other spending cuts.^[132] Economist Paul
+   Krugman argued in July 2010 that with five job seekers for every job
+   opening, "cutting off benefits to the unemployed will make them even
+   more desperate for work — but they can't take jobs that aren't there."
+   He also cited CBO reports indicating unemployment insurance is a highly
+   effective form of stimulus, which he advocated in an economic
+   downturn.^[133]
+
+   The Congressional Budget Office provides periodic reports on
+   unemployment insurance programs. The unemployment insurance (UI)
+   program provides a weekly benefit to qualified workers who lose their
+   job and are actively seeking work. The amount of that benefit is based
+   in part on a workers past earnings. In particular, the periods for
+   which eligible workers can receive UI benefits have been repeatedly
+   extended during the 2008-2009 recession and its aftermath. Regular UI
+   benefits generally last up to 26 weeks, but extensions were legislated
+   extending this period significantly. From 2008-2012, these programs
+   provided approximately $520 billion in benefits to recipients, which
+   allowed households to better maintain their consumption. Far more
+   workers were laid off in 2008 and 2009 than in 2006 and 2007. The
+   number of workers who lost their job and started receiving UI benefits
+   peaked at 14.4 million in 2009, whereas an average of roughly 8 million
+   laid-off workers started receiving benefits in each fiscal year from
+   2004 to 2007.^[134]
+
+   Outlays for UI benefits totaled $120 billion in fiscal year 2009, a
+   substantial increase over the amount two years earlier, which was $33
+   billion. Spending on UI benefits in fiscal year 2010 was even higher
+   than in fiscal year 2009, totaling nearly $160 billion. CBO projected
+   in November 2010 that spending in fiscal year 2011 would be $93
+   billion.^[135]
+
+   In January 2014, the United States Senate began debating the Emergency
+   Unemployment Compensation Extension Act (S. 1845; 113th Congress) on
+   the Senate floor.^[136] The Emergency Unemployment Compensation
+   Extension Act would extend federal emergency unemployment benefits for
+   another three months, at a cost of $6.4 billion.^[137]
+
+Employment of part-time workers versus full-time[edit]
+
+   U.S. Full-Time and Part-Time Workers (in thousands).
+
+   U.S. employers have shifted the composition of the workforce to more
+   part-time workers versus full-time. The percentage of the workforce
+   that is part-time has risen from approximately 17.0% in January 2000 to
+   19.2% in May 2013. Employers do not have to pay some costly benefits to
+   part-time workers and can vary payroll costs more easily to reflect
+   economic conditions.^[138]
+
+   Statistics regarding the number of full-time and part-time workers (in
+   thousands) since 2000 highlight this trend:
+     * From the November 2007 pre-crisis peak total employment month to
+       December 2009 trough or low point, the U.S. lost 11,306 full-time
+       jobs but added 2,704 part-time jobs, a net loss of 8,602 jobs
+       total.
+     * From the December 2009 crisis total employment trough to May 2013,
+       the U.S. added 5,669 full-time jobs and added 237 part-time jobs, a
+       total of 5,906 jobs.
+     * From the November 2007 pre-crisis peak total employment month to
+       May 2013, the U.S. lost 5,637 full-time jobs and added 2,941
+       part-time jobs, a net loss of 2,696 jobs total.^[139]
+
+Fiscal and monetary policy[edit]
+
+   The Federal Reserve Holdings of Treasury and Mortgage-Backed
+   Securities.
+
+   Employment is both cause and response to the economic growth rate,
+   which can be affected by both government fiscal policy (spending and
+   tax decisions) and monetary policy (Federal Reserve action.)
+
+Fiscal policy[edit]
+
+   The U.S. has run historically large budget deficits since the 2008
+   recession, adding over $1 trillion in debt annually since fiscal year
+   2008. With a U.S. GDP of approximately $15 trillion, the spending
+   implied by this deficit comprises a significant amount of GDP.
+   Keynesian economics argues that when the economic growth is slow,
+   larger budget deficits are stimulative to the economy. This is one
+   reason why the significant deficit reduction represented by the fiscal
+   cliff was expected to result in a recession.^[140]^[141]
+
+Monetary policy[edit]
+
+   The U.S. Federal Reserve has taken significant action to stimulate the
+   economy after the 2008-2009 recession. The Fed expanded its balance
+   sheet significantly from 2008-2012, meaning it essentially "printed
+   money" to purchase large quantities of mortgage-backed securities and
+   U.S. treasury bonds. This bids up bond prices, helping keep interest
+   rates low, to encourage companies to borrow and invest and people to
+   buy homes. It signaled in 2012 this expansion will continue
+   indefinitely. The Fed also tied its actions to its outlook for
+   unemployment and inflation for the first time in December 2012.^[142]
+
+Political debates[edit]
+
+Liberal position[edit]
+
+   Liberals typically argue for government action or partnership with the
+   private sector to improve job creation. Typical proposals involve
+   stimulus spending on infrastructure construction, clean energy
+   investment, unemployment compensation, educational loan assistance, and
+   retraining programs. Liberals historically supported labor unions and
+   protectionist trade policies. Liberals tend to be less concerned with
+   budget deficits and debt and have a higher tolerance for inflation or
+   currency devaluation to improve trade competitiveness, as a weaker
+   currency makes exports relatively less expensive. During recessions,
+   liberals generally advocate solutions based on Keynesian economics,
+   which argues for additional government spending when the private sector
+   is unable or unwilling to support sufficient levels of economic
+   growth.^[59]^[143]
+
+Conservative position[edit]
+
+   Conservatives typically argue for free market solutions, with less
+   government restriction of the private sector. Conservatives tend to
+   oppose stimulus spending or bailouts, letting the free market determine
+   success and failure. Typical proposals involve deregulation and income
+   tax rate reduction. Conservatives historically have opposed labor
+   unions and encouraged free trade agreements. Fiscal conservatives
+   express concern that higher budget deficits and debt damage confidence,
+   reducing investment and spending. Conservatives argue for policies that
+   reduce or lower inflation. Conservatives generally advocate supply-side
+   economics.^[59]
+
+Poll data[edit]
+
+   The affluent are much less inclined than other groups of Americans to
+   support an active role for government in addressing high unemployment.
+   Only 19% of the wealthy say that Washington should insure that everyone
+   who wants to work can find a job, but 68% of the general public support
+   that proposition. Similarly, only 8% of the rich say that the federal
+   government should provide jobs for everyone able and willing to work
+   who cannot find a job in private employment, but 53% of the general
+   public thinks it should. A September 2012 survey by The Economist found
+   those earning over $100,000 annually were twice as likely to name the
+   budget deficit as the most important issue in deciding how they would
+   vote than middle- or lower-income respondents. Among the general
+   public, about 40% say unemployment is the most important issue while
+   25% say that the budget deficit is.^[144]
+
+   A March 2011 Gallup poll reported: "One in four Americans say the best
+   way to create more jobs in the U.S. is to keep manufacturing in this
+   country and stop sending work overseas. Americans also suggest creating
+   jobs by increasing infrastructure work, lowering taxes, helping small
+   businesses, and reducing government regulation." Further, Gallup
+   reported that: "Americans consistently say that jobs and the economy
+   are the most important problems facing the country, with 26% citing
+   jobs specifically as the nation's most important problem in March."
+   Republicans and Democrats agreed that bringing the jobs home was the
+   number one solution approach, but differed on other poll questions.
+   Republicans next highest ranked items were lowering taxes and reducing
+   regulation, while Democrats preferred infrastructure stimulus and more
+   help for small businesses.^[4]
+
+   Further, U.S. sentiment on free trade has been turning more negative.
+   An October 2010 Wall Street Journal/NBC News poll reported that:
+   "[M]ore than half of those surveyed, 53%, said free-trade agreements
+   have hurt the U.S. That is up from 46% three years ago and 32% in
+   1999." Among those earning $75,000 or more, 50% now say free-trade
+   pacts have hurt the U.S., up from 24% who said the same in 1999. Across
+   party lines, income, and job type, between 76-95% of Americans surveyed
+   agreed that "outsourcing of production and manufacturing work to
+   foreign countries is a reason the U.S. economy is struggling and more
+   people aren't being hired." ^[145]
+
+   The Pew Center reported poll results in August 2012: "Fully 85% of
+   self-described middle-class adults say it is more difficult now than it
+   was a decade ago for middle-class people to maintain their standard of
+   living. Of those who feel this way, 62% say “a lot” of the blame lies
+   with Congress, while 54% say the same about banks and financial
+   institutions, 47% about large corporations, 44% about the Bush
+   administration, 39% about foreign competition and 34% about the Obama
+   administration."^[146]
+
+2008-2009 debates[edit]
+
+   The debate around the American Recovery and Reinvestment Act of 2009
+   (ARRA), the approximately $800 billion stimulus bill passed due to the
+   subprime mortgage crisis, highlighted these views. Democrats generally
+   advocated the liberal position and Republicans advocated the
+   conservative position. Republican pressure reduced the overall size of
+   the stimulus while increasing the ratio of tax cuts in the law.
+
+   These historical positions were also expressed during the debate around
+   the Emergency Economic Stabilization Act of 2008, which authorized the
+   Troubled Asset Relief Program (TARP), an approximately $700 billion
+   bailout package (later reduced to $430 billion) for the banking
+   industry. The initial attempt to pass the bill failed in the House of
+   Representatives due primarily to Republican opposition.^[147] Following
+   a significant drop in the stock market and pressure from a variety of
+   sources, a second vote passed the bill in the House.
+
+2010-present debates[edit]
+
+Creating American Jobs and Ending Offshoring Act[edit]
+
+   Senator Dick Durbin proposed a bill in 2010 called the "Creating
+   American Jobs and Ending Offshoring Act" that would have reduced tax
+   advantages from relocating U.S. plants abroad and limited the ability
+   to defer profits earned overseas. However, the bill was stalled in the
+   Senate primarily due to Republican opposition. It was supported by the
+   AFL-CIO but opposed by the U.S. Chamber of Commerce.^[148]^[149]
+
+   The Congressional Research Service summarized the bill as follows:
+   "Creating American Jobs and Ending Offshoring Act – Amends the Internal
+   Revenue Code to: (1) exempt from employment taxes for a 24-month period
+   employers who hire a employee who replaces another employee who is not
+   a citizen or permanent resident of the United States and who performs
+   similar duties overseas; (2) deny any tax deduction, deduction for
+   loss, or tax credit for the cost of an American jobs offshoring
+   transaction (defined as any transaction in which a taxpayer reduces or
+   eliminates the operation of a trade or business in connection with the
+   start-up or expansion of such trade or business outside the United
+   States); and (3) eliminate the deferral of tax on income of a
+   controlled foreign corporation attributable to property imported into
+   the United States by such corporation or a related person, except for
+   property exported before substantial use in the United States and for
+   agricultural commodities not grown in the United States in commercially
+   marketable quantities."^[150]
+
+American Jobs Act[edit]
+
+   President Barack Obama proposed the American Jobs Act in September
+   2011, which included a variety of tax cuts and spending programs to
+   stimulate job creation. The White House provided a fact sheet which
+   summarized the key provisions of the $447 billion bill.^[151] However,
+   neither the House nor the Senate has passed the legislation as of
+   December 2012. President Obama stated in October 2011: "In the coming
+   days, members of Congress will have to take a stand on whether they
+   believe we should put teachers, construction workers, police officers
+   and firefighters back on the job...They'll get a vote on whether they
+   believe we should protect tax breaks for small business owners and
+   middle-class Americans, or whether we should protect tax breaks for
+   millionaires and billionaires."^[152]
+
+Fiscal cliff[edit]
+
+   Main article: United States fiscal cliff
+
+   During 2012, there was significant debate regarding approximately $560
+   billion in tax increases and spending cuts scheduled to go into effect
+   in 2013, which would reduce the 2013 budget deficit roughly in half.
+   Critics argued that with an employment crisis, such fiscal austerity
+   was premature and misguided.^[5] The Congressional Budget Office
+   projected that such sharp deficit reduction would likely cause the U.S.
+   to enter recession in 2013, with the unemployment rate rising to 9%
+   versus approximately 8% in 2012, costing over 1 million
+   jobs.^[140]^[141] The fiscal cliff was partially addressed by the
+   American Taxpayer Relief Act of 2012.
+
+Tax policy[edit]
+
+Individual income taxes[edit]
+
+   The historical record indicates that marginal income tax rate changes
+   have little impact on job creation, economic growth or employment.
+     * During the 1970s, marginal income tax rates were far higher than
+       subsequent periods and the U.S. created 19.6 million net new jobs.
+     * During the 1980s, marginal income tax rates were lowered and the
+       U.S. created 18.3 million net new jobs.
+     * During the 1990s, marginal income tax rates rose and the U.S.
+       created 21.6 million net new jobs.
+     * From 2000-2010, marginal income tax rates were lowered due to the
+       Bush tax cuts and the U.S. created no net new jobs, with 7.5
+       million created 2000-2007 before the 8.7 million lost during the
+       2008-2010 period.^[153]^[154]^[155]^[156]^[157]
+
+   The Center on Budget and Policy Priorities (CBPP) wrote in March 2009:
+   "Small business employment rose by an average of 2.3 percent (756,000
+   jobs) per year during the Clinton years, when tax rates for high-income
+   filers were set at very similar levels to those that would be
+   reinstated under President Obama's budget. But during the Bush years,
+   when the rates were lower, employment rose by just 1.0 percent (367,000
+   jobs)."^[158] CBPP reported in September 2011 that both employment and
+   GDP grew faster in the seven-year period following President Clinton's
+   income tax rate increase of 1993, than a similar period after the Bush
+   tax cuts of 2001.^[159]
+
+Corporate income taxes[edit]
+
+   Conservatives typically argue for lower U.S. tax income rates, arguing
+   that it would encourage companies to hire more workers. Liberals have
+   proposed legislation to tax corporations that offshore jobs and to
+   limit corporate tax expenditures.
+
+   U.S. corporate after-tax profits were at record levels during 2012
+   while corporate tax revenue was below its historical average relative
+   to GDP. For example, U.S. corporate after-tax profits were at record
+   levels during the third quarter of 2012, at an annualized $1.75
+   trillion.^[160] U.S. corporations paid approximately 1.2% GDP in taxes
+   during 2011. This was below the 2.7% GDP level in 2007 pre-crisis and
+   below the 1.8% historical average for the 1990-2011 period.^[161] In
+   comparing corporate taxes, the Congressional Budget Office found in
+   2005 that the top statutory tax rate was the third highest among OECD
+   countries behind Japan and Germany. However, the U.S. ranked 27th
+   lowest of 30 OECD countries in its collection of corporate taxes
+   relative to GDP, at 1.8% vs. the average 2.5%.^[162]
+
+Solutions for creating more U.S. jobs[edit]
+
+   A variety of options for creating jobs exist, but these are strongly
+   debated and often have tradeoffs in terms of additional government
+   debt, adverse environmental impact, and impact on corporate
+   profitability.^[163] Examples include infrastructure investment, tax
+   reform, healthcare cost reduction, energy policy and carbon price
+   certainty, reducing the cost to hire employees, education and training,
+   deregulation, and trade policy. Authors Bittle & Johnson of Public
+   agenda explained the pros and cons of 14 job creation arguments
+   frequently discussed, several of which are summarized below by topic.
+   These are hotly debated by experts from across the political
+   spectrum.^[164]
+
+Infrastructure investment[edit]
+
+   Many experts advocate infrastructure investment, such as building roads
+   and bridges and upgrading the electricity grid. Such investments have
+   historically created or sustained millions of jobs, with the offset to
+   higher state and federal budget deficits. In the wake of the 2008-2009
+   recession, there were over 2 million fewer employed housing
+   construction workers.^[164]
+
+Tax policy[edit]
+
+   Removing the threat of higher taxes embodied in the fiscal cliff may
+   encourage consumers to spend and employers to expand their business and
+   add jobs. The risk is higher national debt, which can slow the economy
+   in the long-run. The American Taxpayer Relief Act of 2012 significantly
+   reduced taxes relative to the full expiration of the Bush tax cuts.
+   Lowering the costs of workers also encourages employers to hire more.
+   This can be done via reducing existing Social Security or Medicare
+   payroll taxes or by specific tax incentives for hiring additional
+   workers. President Obama reduced the Social Security payroll tax on
+   workers during the 2011-2012 period, which added an estimated $100
+   billion to the deficit while leaving these funds with consumers to
+   spend. The U.S. corporate tax rate is among the highest in the world,
+   although U.S. corporations pay among the lowest amount relative to GDP
+   due to loopholes. Reducing the rate and eliminating loopholes may make
+   U.S. businesses more competitive, but may also add to the
+   deficit.^[164] The Tax Policy Center estimated during 2012 that
+   reducing the corporate tax rate from 35% to 20% would add $1 trillion
+   to the debt over a decade, for example.^[165]
+
+Lower healthcare costs[edit]
+
+   Businesses are faced with paying the significant and rising healthcare
+   costs of their employees. Many other countries do not burden
+   businesses, but instead tax workers who pay the government for their
+   healthcare. This significantly reduces the cost of hiring and
+   maintaining the work force.^[164]
+
+Energy policy and carbon price certainty[edit]
+
+   Various studies place the cost of environmental regulations in the
+   thousands of dollars per employee. Americans are split on whether
+   protecting the environment or economic growth is a higher priority.
+   Regulations that would add costs to petroleum and coal may slow the
+   economy, although they would provide incentives for clean energy
+   investment by addressing regulatory uncertainty regarding the price of
+   carbon.^[164]
+
+   President Obama advocated a series of clean energy policies during June
+   2013. These included: Reducing carbon pollution from power plants;
+   Continue expanding usage of clean energy; raising fuel economy
+   standards; and energy conservation through more energy-efficient homes
+   and businesses.^[166]
+
+Employment policies and the minimum wage[edit]
+
+   Raising the minimum wage would provide households with more money to
+   spend, in an era with record corporate profits and a reluctance of
+   corporations to invest. Critics argue raising employment costs deters
+   hiring. During 2009, the minimum wage was $7.25 per hour, or $15,000
+   per year, below poverty level for some families.^[164] The New York
+   Times editorial board wrote in August 2013: "As measured by the federal
+   minimum wage, currently $7.25 an hour, low-paid work in America is
+   lower paid today than at any time in modern memory. If the minimum wage
+   had kept pace with inflation or average wages over the past nearly 50
+   years, it would be about $10 an hour; if it had kept pace with the
+   growth in average labor productivity, it would be about $17 an
+   hour."^[167]
+
+   President Obama advocated raising the minimum wage during February
+   2013: "The President is calling on Congress to raise the minimum wage
+   from $7.25 to $9 in stages by the end of 2015 and index it to inflation
+   thereafter, which would directly boost wages for 15 million workers and
+   reduce poverty and inequality...A range of economic studies show that
+   modestly raising the minimum wage increases earnings and reduces
+   poverty without jeopardizing employment. In fact, leading economists
+   like Lawrence Katz, Richard Freeman, and Laura Tyson and businesses
+   like Costco, Wal-Mart, and Stride Rite have supported past increases to
+   the minimum wage, in part because increasing worker productivity and
+   purchasing power for consumers will also help the overall
+   economy."^[168]
+
+   The Economist wrote in December 2013: "A minimum wage, providing it is
+   not set too high, could thus boost pay with no ill effects on
+   jobs....America's federal minimum wage, at 38% of median income, is one
+   of the rich world's lowest. Some studies find no harm to employment
+   from federal of state minimum wages, others see a small one, but none
+   finds any serious damage."^[169]
+
+   The U.S. minimum wage was last raised to $7.25 per hour in July
+   2009.^[170] As of December 2013, there were 21 states with minimum
+   wages above the Federal minimum, with the State of Washington the
+   highest at $9.32. Ten states index their minimum wage to
+   inflation.^[171]
+
+   The CBO reported in February 2014 that increasing the minimum wage to
+   $10.10 per hour between 2014 and 2016 would reduce employment by an
+   estimated 500,000 jobs, while about 16.5 million workers would have
+   higher pay. A smaller increase to $9.00 per hour would reduce
+   employment by 100,000, while about 7.6 million workers would have
+   higher pay.^[172]
+
+Regulatory reform[edit]
+
+   Regulatory costs on business start-ups and going concerns are
+   significant. Requiring laws to have sunset provisions (end-dates) would
+   help ensure only worthwhile regulations are renewed. New businesses
+   account for about one-fifth of new jobs added. However, the number of
+   new businesses starting each year dropped by 17% after the recession.
+   Inc. magazine published 16 ideas to encourage new startups, including
+   cutting red tape, approving micro-loans, allowing more immigration, and
+   addressing tax uncertainty.^[164]
+
+Education policy[edit]
+
+   Education policy reform could make higher education more affordable and
+   more attuned to job needs. Unemployment is considerably lower for those
+   with a college education. However, college is increasingly
+   unaffordable. Providing loans contingent on degrees focused on fields
+   with worker shortages such as healthcare and accounting would address
+   structural workforce imbalances (i.e., a skills mismatch).^[164]
+
+Income inequality[edit]
+
+   Further information: Income inequality in the United States
+
+   Income inequality, expressed by wage stagnation for middle- and
+   lower-income families coupled with a shift in income growth to the top
+   earners, can adversely affect economic growth, as wealthier families
+   tend to save more. The quality or pay of the job matters, not just
+   creating more jobs. The union movement has declined considerably, one
+   factor contributing to more income inequality and off-shoring.
+   Reinvigorating the labor movement could help create more higher-paying
+   jobs, shifting some of the economic pie back to workers from owners.
+   However, by raising employment costs, employers may choose to hire
+   fewer workers.^[164]
+
+Trade policy[edit]
+
+   Creating a level playing field with trading partners could help create
+   more jobs in the U.S. Wage and living standard differentials and
+   currency manipulation can make "free trade" something other than "fair
+   trade." Requiring countries to allow their currencies to float freely
+   on international markets would reduce significant trade deficits,
+   adding jobs in developed countries such as the U.S. and Western
+   Europe.^[164]
+
+Long-term unemployment[edit]
+
+   CBO reported several options for addressing long-term unemployment
+   during February 2012. Two short-term options included policies to: 1)
+   Reduce the marginal cost to businesses of adding employees; and 2) Tax
+   policies targeted towards people most likely to spend the additional
+   income, mainly those with lower income. Over the long-run, structural
+   reforms such as programs to facilitate re-training workers or education
+   assistance would be helpful.^[58]
+
+President's Council on Jobs and Competitiveness[edit]
+
+   President Obama established the President’s Council on Jobs and
+   Competitiveness in 2009. The Council released an interim report with a
+   series of recommendations in October 2011. The report included five
+   major initiatives to increase employment while improving
+   competitiveness:
+    1. Measures to accelerate investment into job-rich projects in
+       infrastructure and energy development;
+    2. A comprehensive drive to ignite entrepreneurship and accelerate the
+       number and scale of young, small businesses and high-growth firms
+       that produce an outsized share of America’s new jobs;
+    3. A national investment initiative to boost jobs-creating inward
+       investment in the United States, both from global firms
+       headquartered elsewhere and from multinational corporations
+       headquartered here;
+    4. Ideas to simplify regulatory review and streamline project
+       approvals to accelerate jobs and growth; and,
+    5. Steps to ensure America has the talent in place to fill existing
+       job openings as well as to boost future job creation.^[173]
+
+U.S. employment history[edit]
+
+2000-present[edit]
+
+   See also: 2007–present recession in the United States
+   U.S. Changes in Employment for Selected Time Periods.
+
+   Job growth in the U.S. from 2000-2007 was slow by historical standards,
+   with 9.2 million jobs created versus a range of approximately 18-20
+   million in each of the preceding three decades. Including the impact of
+   the 2008-2009 recession, job growth from 2000-2010 was only 2.2
+   million.^[174]
+
+   The U.S. economy was severely impacted by the subprime mortgage crisis.
+   The U.S. unemployment rate rose steadily from 5% in January 2008 to a
+   peak of 10% in October 2009. It has since fallen to 7.8% in September
+   2012.^[175] The number unemployed rose from 7.6 million in January 2008
+   to a peak of 15.4 million in October 2009. It has since fallen to 12.1
+   million in September 2012.^[176]
+
+   Monthly job losses began in February 2008 and peaked in January 2009,
+   with over 800,000 jobs lost that month. Employment fell from 138.0
+   million at peak employment in January 2008 to the trough of 129.2
+   million in February 2010, a decline of 8.8 million jobs or 6.4% of the
+   workforce.^[177]
+
+   As part of the economic policy of Barack Obama, the United States
+   Congress funded approximately $800 billion in spending and tax cuts via
+   the February 2009 American Recovery and Reinvestment Act to stimulate
+   the economy. Monthly job losses began slowing shortly thereafter. By
+   March 2010, employment again began to rise. From March 2010 to
+   September 2012, over 4.3 million jobs were added, with 24 consecutive
+   months of employment increases from October 2010 to September 2012. As
+   of September 2012, employment of 133.5 million remained 4.5 million
+   below the pre-crisis peak in January 2008.^[177]
+
+   However, despite decreases in job loss and the unemployment rate, the
+   federal data has been criticized for excluding large numbers of people
+   who would like to work but are not considered to be part of the labor
+   force because they are not running an active job search and are not
+   available for immediate employment.^[178]
+
+   In 2009, there were six unemployed people, on average, for each
+   available job.^[179] Men account for at least 7 of 10 workers who lost
+   jobs, according to Bureau of Labor Statistics data.^[180] The youth
+   unemployment rate was 18.5% in July 2009, the highest July rate since
+   1948.^[181] Approximately 34.5% of young African American men were
+   unemployed in October 2009.^[182] As of 2009, Detroit's unemployment
+   rate was 27%, but the Detroit News suggests that nearly half of the
+   city's working-age population was unemployed.^[183] An estimated 3.8
+   million Americans lost their jobs in 2009.^[179]
+
+   A study by the Brookings Institution determined that the 2011
+   employment rate for teens (ages 16–19) in the United States is
+   25%.^[184] Comparing employment rates in 2000 vs. 2011, the Brookings
+   Institution found that younger workers had much lower rates of
+   employment (higher unemployment) while older workers had higher rates
+   of employment (lower unemployment). Between 2000 and 2011, the
+   employment rate for 16-19 year-olds fell from 44 to 24 percent, while
+   the employment rate for those over 55 rose moderately. For those aged
+   20–54, the rate of employment fell.^[185]
+
+   Research indicates recovery from financial crises can be protracted,
+   with lengthy periods of high unemployment and substandard economic
+   growth.^[186]^[187]
+
+Analytical perspectives[edit]
+
+   Analyzing the true state of the U.S. labor market is very complex and a
+   challenge for leading economists, who may arrive at different
+   conclusions. For example, the main gauge, the unemployment rate, can be
+   falling (a positive sign) while the labor force participation rate is
+   falling as well (a negative sign). Further, the reasons for persons
+   leaving the labor force may not be clear, such as aging (more people
+   retiring) or because they are discouraged and have stopped looking for
+   work.^[188]
+
+Slow labor market recovery following 2007-2009 recession[edit]
+
+   CBO issued a report in February 2014 analyzing the causes for the slow
+   labor market recovery following the 2007-2009 recession. CBO listed
+   several major causes:
+     * "To a large degree, the slow recovery of the labor market reflects
+       the slow growth in the demand for goods and services, and hence
+       gross domestic product (GDP). CBO estimates that GDP was 7½ percent
+       smaller than potential (maximum sustainable) GDP at the end of the
+       recession; by the end of 2013, less than one-half of that gap had
+       been closed. With output growing so slowly, payrolls have increased
+       slowly as well—and the slack in the labor market that can be seen
+       in the elevated unemployment rate and part of the reduction in the
+       rate of labor force participation mirrors the gap between actual
+       and potential GDP."
+     * "Of the roughly 2 percentage-point net increase in the rate of
+       unemployment between the end of 2007 and the end of 2013, about 1
+       percentage point was the result of cyclical weakness in the demand
+       for goods and services, and about 1 percentage point arose from
+       structural factors; those factors are chiefly the stigma workers
+       face and the erosion of skills that can stem from long-term
+       unemployment (together worth about one-half of a percentage point
+       of increase in the unemployment rate) and a decrease in the
+       efficiency with which employers are filling vacancies (probably at
+       least in part as a result of mismatches in skills and locations,
+       and also worth about one-half of a percentage point of the increase
+       in the unemployment rate)."
+     * "Of the roughly 3 percentage-point net decline in the labor force
+       participation rate between the end of 2007 and the end of 2013,
+       about 1½ percentage points was the result of long-term trends
+       (primarily the aging of the population), about 1 percentage point
+       was the result of temporary weakness in employment prospects and
+       wages, and about one-half of a percentage point was attributable to
+       unusual aspects of the slow recovery that led workers to become
+       discouraged and permanently drop out of the labor force."
+     * "Employment at the end of 2013 was about 6 million jobs short of
+       where it would be if the unemployment rate had returned to its
+       prerecession level and if the participation rate had risen to the
+       level it would have attained without the current cyclical weakness.
+       Those factors account roughly equally for the shortfall."^[189]
+
+Employment growth 2000-present[edit]
+
+   The U.S. economy created between 18-21 million jobs in each of the
+   three decades from 1970-2000, an average of approximately 165,500/month
+   during that span. From January 2000 to January 2008 (the pre-recession
+   peak), job creation averaged 77,000 jobs/month. Excluding the early
+   2000s recession, from January 2003-January 2008 the U.S. created
+   128,000 jobs/month. During the Great Recession, 8.5 million jobs were
+   lost from the peak in early 2008 to the trough in February 2010. By
+   September 2012, approximately 4.3 million jobs were added back, still
+   4.2 million below the pre-crisis peak. During 2011 and 2012, job
+   creation averaged 153,000 and 151,000 jobs/month
+   respectively.^[190]^[191]
+
+What job creation rate is required to lower the unemployment rate?[edit]
+
+Estimates[edit]
+
+   Estimates vary for the number of jobs that must be created to absorb
+   the inflow of persons into the labor force, to maintain a given rate of
+   unemployment. This number is significantly affected by demographics and
+   population growth. For example, economist Laura D'Andrea Tyson
+   estimated this figure at 125,000 jobs per month during 2011.^[25]
+
+   Economist Paul Krugman estimated it around 90,000 during 2012,
+   mentioning also it used to be higher.^[192] One method of calculating
+   this figure follows, using data as of September 2012: U.S. population
+   314,484,000 x 0.90% annual population growth x 63% of population is
+   working age x 63% work force participation rate / 12 months per year =
+   93,614 jobs/month. This approximates the Krugman figure.
+
+   Wells Fargo economists estimated the figure around 150,000 in January
+   2013: "Over the past three months, labor force participation has
+   averaged 63.7 percent, the same as the average for 2012. If the
+   participation rate holds steady, how many new jobs are needed to lower
+   the unemployment rate? The steady employment gains in recent months
+   suggest a rough answer. The unemployment rate has been 7.9 percent, 7.8
+   percent and 7.8 percent for the past three months, while the labor
+   force participation rate has been 63.8 percent, 63.6 percent and 63.6
+   percent. Meanwhile, job gains have averaged 151,000. Therefore, it
+   appears that the magic number is something above 151,000 jobs per month
+   to lower the unemployment rate."^[193] Reuters reported a figure of
+   250,000 in February 2013, stating sustained job creation at this level
+   would be needed to "significantly reduce the ranks of
+   unemployed."^[194]
+
+   Federal Reserve analysts estimated this figure around 80,000 in June
+   2013: "According to our analysis, job growth of more than about 80,000
+   jobs per month would put downward pressure on the unemployment rate,
+   down significantly from 150,000 to 200,000 during the 1980s and 1990s.
+   We expect this trend to fall to around 35,000 jobs per month from 2016
+   through the remainder of the decade."^[195]
+
+Empirical data[edit]
+
+   During the 41 months from January 2010 to May 2013, there were 19
+   months where the unemployment rate declined. On average, 179,000 jobs
+   were created in those months. The median job creation during those
+   months was 166,000.^[196]
+
+How many jobs must be created to return to pre-recession levels?[edit]
+
+   Answering this question involves understanding the current employment
+   level relative to the pre-recession peak, as well as the jobs needed to
+   address new labor force entrants as the population grows. U.S. total
+   non-farm employment peaked at 138.1 million in January 2008. As of
+   March 2013, employment was 135.2 million, a net loss of 2.9 million
+   jobs. Employment fell from the peak in 1/2008 until 2/2010, then began
+   to increase through early 2013.^[197]
+
+   From January to November 2012, the U.S. added approximately 151,000
+   jobs per month on average.^[22] Each month, The Hamilton Project
+   examines the "jobs gap," which is the number of jobs that the U.S.
+   economy needs to create in order to return to pre-recession employment
+   levels while also absorbing the people who enter the labor force each
+   month. Job creation would have to average 208,000 per month to close
+   the gap by 2020; 320,000 by 2017; or 472,000 by mid-2015.^[23] During
+   the prosperous 1990's decade, the U.S. created an average of 182,000
+   jobs/month.^[22]
+
+   Bloomberg reported that as of May 2013, the employment-to-population
+   ratio for those aged 16–65 was 67.5%, well below the average of 72.5%
+   in the decade preceding the recession that began in January 2008. This
+   was approximately 10 million jobs short of the number that would exist
+   at the average ratio.^[198]
+
+Comparative size of labor force[edit]
+
+   The U.S. civilian labor force was approximately 155 million people
+   during October 2012.^[9] This was the world's third largest, behind
+   China (795.5 million) and India (487.6 million). The entire European
+   Union employed 228.3 million.^[199]
+
+Comparison of employment recovery across recessions and financial
+crises[edit]
+
+   One method of analyzing the impact of recessions on employment is to
+   measure the period of time it takes to return to the pre-recession
+   employment peak. By this measure, the 2008-2009 recession was
+   considerably worse than the five other U.S. recessions from 1970 to
+   present. By May 2013, U.S. employment had reached 98% of its
+   pre-recession peak after approximately 60 months.^[200] Employment
+   recovery following a combined recession and financial crisis tends to
+   be much longer than a typical recession. For example, it took Norway
+   8.5 years to return to its pre-recession peak employment after its 1987
+   financial crisis and it took Sweden 17.8 years after its 1991 financial
+   crisis. The U.S. is recovering considerably faster than either of these
+   countries.^[201]
+
+Effect of disability recipients on labor force participation measures[edit]
+
+   The number of people receiving Social Security disability benefits
+   (SSDI) increased 22% to 8.7 million in April 2012 from 7.1 million in
+   December 2007. Recipients are excluded from the labor force. Economists
+   at JPMorgan Chase & Co. and Morgan Stanley estimated this explained as
+   much as 0.5 of the 2.0 percentage point decline in the U.S. labor-force
+   participation rate during the period.^[202]
+
+Obtaining data[edit]
+
+Monthly jobs reports[edit]
+
+   U.S. employment statistics are reported by government and private
+   primary sources monthly, which are widely quoted in the news media.
+   These sources use a variety of sampling techniques that yield different
+   measures.
+     * The U.S. Bureau of Labor Statistics (BLS) provides a monthly
+       "Employment Situation Summary." For example, BLS reported for
+       December 2012 that: "Nonfarm payroll employment rose by 155,000 in
+       December, and the unemployment rate was unchanged at 7.8
+       percent...Employment increased in health care, food services and
+       drinking places, construction, and manufacturing."^[203]
+     * Automatic Data Processing (ADP) also provides a "National
+       Employment Report." For the December 2012 period, ADP reported a
+       215,000 non-farm payroll increase.^[204]
+
+   Several secondary sources also interpret the primary data released.
+     * The Center on Budget and Policy Priorities provides a monthly
+       "Statement" on the BLS Situation Summary. The CBPP wrote in January
+       2013: "[December 2012] is the 34th straight month of private-sector
+       job creation, with payrolls growing by 5.3 million jobs (a pace of
+       157,000 jobs a month) since February 2010; total nonfarm employment
+       (private plus government jobs) has grown by 4.8 million jobs over
+       the same period, or 141,000 a month. Total government jobs fell by
+       546,000 over this period, dominated by a loss of 395,000 local
+       government jobs."^[205]
+
+Federal Reserve Database (FRED)[edit]
+
+   The FRED database contains a variety of employment statistics organized
+   as data series. It can be used to generate charts or download
+   historical information. Data series include labor force, employment,
+   unemployment, labor force participation, etc. The Bureau of Labor
+   Statistics (BLS) also releases employment statistics. Some popular data
+   series include:
+     * FRED – Civilian Labor Force
+     * FRED – Civilian Labor Force Participation Rate CIVPART
+     * FRED – Civilian Unemployment Rate UNRATE
+     * FRED – Civilian Unemployed UNEMPLOY
+
+   Job creation in the U.S. is typically measured by changes in the "Total
+   Non-Farm" employees.
+     * FRED – Total Non-Farm Employment
+
+   FRED has gathered many of the employment statistics on one page for
+   easy access:
+     * FRED-Unemployment Series
+
+Unemployment rate forecasts[edit]
+
+   The Congressional Budget Office provides an unemployment rate forecast
+   in its long term budget outlook. During August 2012, it projected that
+   the unemployment rate would be 8.8% in 2013 and 8.7% in 2014. CBO
+   projected the rate would then begin falling steadily to 5.5% by 2018
+   and remain around that level through 2022. This forecast assumes annual
+   real GDP growth will exceed 3% between 2014 and 2018.^[206] During
+   December 2012, Wells Fargo Economics forecast that the unemployment
+   rate would be 7.8% in 2013 and 7.6% in 2014. This forecast assumes real
+   GDP growth would be 1.4% in 2013 and 2.5% in 2014.^[207]
+
+Off-shoring statistics[edit]
+
+   The Department of Labor's Employment and Training Administration (ETA)
+   prepares an annual report on those petitioning for trade adjustment
+   assistance, due to jobs lost from international trade. This represents
+   a fraction of jobs actually off-shored and does not include jobs that
+   are placed overseas initially or the collateral impact on surrounding
+   businesses when, for example, a manufacturing plant moves overseas.
+   During 2011, there were 98,379 workers covered by petitions filed with
+   ETA.^[86] The figure was 280,873 in 2010,^[87] 201,053 in 2009 and
+   126,633 in 2008.^[88]
+
+Historical unemployment rate charts[edit]
+
+   US Unemployment 1800-1890
+   The estimated U.S. Unemployment rate from 1800-1890. All data are
+   estimates based on data compiled by Lebergott.^[208] See limitations
+   section below regarding how to interpret unemployment statistics in
+   self-employed, agricultural economies. See image info for complete
+   data.
+   US Unemployment 1890-2009
+   The estimated U.S. Unemployment rate from 1890-2010. 1890–1930 data are
+   from Romer (who modified Lebergott's work after finding some errors in
+   it).^[209] 1930–1940 data are from Coen.^[210] 1940–2009 data are from
+   Bureau of Labor Statistics.^[211]^[212] See image info for complete
+   data.
+
+See also[edit]
+
+     * Bureau of Labor Statistics
+     * Economy of the United States
+     * Income inequality in the United States
+     * Job Creation Index
+
+References[edit]
+
+    1. ^ "Unemployment Rate". Bureau of Labor Statistics. Retrieved
+       October 6, 2012.
+    2. ^ "Unemployment Rate". Bureau of Labor Statistics. Retrieved
+       October 6, 2012.
+    3. ^ ^a ^b FiveThirtyEight-The Job Market Five Year Recovery in Ten
+       Charts-June 6, 2014
+    4. ^ ^a ^b Gallup Poll-Americans' Top Job-Creation Idea: Stop Sending
+       Work Overseas-March 31, 2011
+    5. ^ ^a ^b NYT-Paul Krugman-The Forgotten Millions-December 2012
+    6. ^ Federal Reserve Database-FRED-Data Series UNRATE-Retrieved July
+       2014
+    7. ^ Federal Reserve Database-FRED-Data Series Unemploy
+    8. ^ Federal Reserve Database-FRED-Data Series U6RATE-March 2013
+    9. ^ ^a ^b Federal Reserve Database-CLF160V Data Series-Retrieved
+       October 27, 2012
+   10. ^ FRED Database-POP Data Series-U.S. Population-Retrieved November
+       2012
+   11. ^ "Current Unemployment Rates for States and Historical
+       Highs/Lows". BLS. June 2012. Retrieved 2012-06-15.
+   12. ^ Bureau of Labor Statistics – How the Government Measures
+       Unemployment-Retrieved October 27, 2012
+   13. ^ ^a ^b FRED Database-Civilian Employment-Retrieved July 2014
+   14. ^ Fred Database-Unemployment Rate-Retrieved July 2014
+   15. ^ FRED Database-EMRATIO-Retrieved July 2014
+   16. ^ FRED Database-Employment Rate Aged 25-54-Retrieved July 2014
+   17. ^ FRED Datbase-Full and Part Time Jobs-Retrieved July 2014
+   18. ^ Fred Database-Long Term Unemployed-Retrieved July 7, 2014
+   19. ^ NYT-Catherine Rampbell-The Forgotten Long-Term
+       Unemployed-November 1, 2012
+   20. ^ Bloomberg-Fed Chair Janet Yellen's Labor Market Dashboard-July
+       2014
+   21. ^ Bloomberg-Clive Crook-Yellen and the Fed on Target-August 1, 2014
+   22. ^ ^a ^b ^c ^d FRED Database-Payems Data Series-Retrieved June 2014
+   23. ^ ^a ^b The Hamilton Project-Closing the Jobs Gap-Retrieved
+       December 14, 2012
+   24. ^ Ben Bernanke – Recent Developments in the Labor Market-March 2012
+   25. ^ ^a ^b NYT-Economix-Laura D'Andrea Tyson-Jobs Deficit, Investment
+       Deficit, Budget Deficit-July 2011
+   26. ^ Ben Bernake-Recent Developments in the Labor Market-March 26,
+       2012
+   27. ^ Federal Reserve-Ben Bernanke Speech-The Economic Recovery and
+       Economic Policy
+   28. ^ Congressional Research Service-The Increase in Unemployment Since
+       2007: Is it Structural or Cyclical?-April 2011
+   29. ^ Time El-Erian Time to Fix the Economy-April 2011
+   30. ^ Project Syndicate El-Erian Sleepwalking Through America's
+       Unemployment Crisis-April 2011
+   31. ^ Catherine Rampell (March 2013). "An Odd Shift in an Unemployment
+       Curve". NYT. Retrieved March 2013.
+   32. ^ FRB-What Is the New Normal Unemployment Rate?-February 2011
+   33. ^ FRED Database-CBO Estimates of Natural Unemployment
+       Rate-Retrieved November 23, 2012
+   34. ^ Calculated Risk-Employment: A decline in the participation rate
+       was expected due to the aging population
+   35. ^ NYT-Paul Krugman-Constant Demography Employment-October 6, 2012
+   36. ^ NYT-Binyamin Appelbaum-Debating Why the Workforce is
+       Shrinking-January 10, 2014
+   37. ^ Bloomberg-Matthew Klein-Why Aging Baby Boomers Don't Explain Jobs
+       Numbers-April 2013
+   38. ^ Federal Reserve Database-EMRATIO for Men and Women Aged 16-64
+   39. ^ The Hamilton Project-Understanding the Jobs Gap and What it Says
+       About America’s Evolving Workforce-March 2012
+   40. ^ NYT-David Leonhardt-The Age Equation in Employment Numbers-August
+       2013
+   41. ^ Bureau of Labor Statistics-Employment Situation Summary-June 2014
+   42. ^ Calculated Risk-Employment Graphs-Retrieved October 27, 2012
+   43. ^ Pew Research Center-The Monetary Value of a College
+       Education-March 7, 2012
+   44. ^ AEI-Education and Global Competitiveness: Lessons for the U.S.
+       from International Evidence
+   45. ^ Forbes-The Recovery Arrives as Corporate Training Spend
+       Skyrockets-February 2014
+   46. ^ USA Today-Companies' training cuts add to jobless woes-August 9,
+       2012
+   47. ^ Council on Foreign Relations-Education Reform and U.S.
+       Competitiveness-September, 2011
+   48. ^ Alvin Toffler-Quotes-Retrieved November 11, 2015
+   49. ^ NYT-Thomas Friedman-Its the CQ and the PQ as much as the
+       IQ-January 2013
+   50. ^ "Stubborn Skills Gap in America’s Work Force". NYT. 8 April
+       2013.
+   51. ^ NYT-Paul Krugman-Jobs and Skills and Zombies-March 30, 2014
+   52. ^ FRED-Ratio of Long-Term Unemployed-Retrieved July 2014
+   53. ^ NYT-Catherine Rampbell-The Forgotten Long-Term
+       Unemployed-November 1, 2012
+   54. ^ Calculated Risk-Employment Graphs-Retrieved October 28, 2012
+   55. ^ FRED Database-LNS13025703 Data Series-Retrieved October 28, 2012
+   56. ^ NYT-Annie Lowrey and Catherine Rampbell-Little Federal Help for
+       the Long-term Unemployed-November 1, 2012
+   57. ^ NYT-Annie Lowrey and Catherine Rampbell-Little Federal Help for
+       the Long-term Unemployed-November 1, 2012
+   58. ^ ^a ^b CBO-Understanding and Responding to Persistently High
+       Unemployment-February 2012
+   59. ^ ^a ^b ^c Krugman, Paul (2007). The Conscience of a Liberal. W.W.
+       Norton Company Limited. ISBN 978-0-393-06069-0.
+   60. ^ U.S. Bureau of Labor Statistics-Union Members Summary-January 23,
+       2013
+   61. ^ The Atlantic-A Giant Statistical Roundup of the Income Inequality
+       Crisis in 16 Charts-December 2012
+   62. ^ Bloomberg-The Real Reason for the Decline of Unions-Kris
+       Warner-January 23, 2013
+   63. ^ Banking Industry Consolidation and Market Structure: Impact of
+       the Financial Crisis and Recession-November 2011
+   64. ^ Washington Monthly-Who Broke America's Jobs Machine?-March 2010
+   65. ^ ^a ^b NYT-Paul Krugman-Robots and Robber Barons-December 2012
+   66. ^ Chart was made using data initially published as Thomas Piketty
+       and Emmanuel Saez (2003), Quarterly Journal of Economics, 118(1),
+       2003, 1-39. Data (and updates) shown at
+       http://inequality.org/income-inequality
+   67. ^ NYT-Annie Lowrie-Income Inequality May Take Toll on
+       Growth-October 2012
+   68. ^ Wealth, Income, and Power-G. William Domhoff-University of
+       California Santa Cruz-Retrieved December 2012
+   69. ^ Stiglitz, Joseph E. (2012-06-04). The Price of Inequality: How
+       Today's Divided Society Endangers Our Future (p. 85). Norton.
+       Kindle Edition. See also: Karen E. Dynan, Jonathan Skinner, and
+       Stephen P. Zeldes, "Do the Rich Save More?," Journal of Political
+       Economy 112, no. 2 (2004): 397– 444.
+   70. ^ NYT-Joseph Stiglitz-Inequality is holding back the
+       recovery-January 2013
+   71. ^ ^a ^b Conservative Inequality Denialism| Timothy Noah| tnr.com|
+       October 25, 2012
+   72. ^ The Way Forward| By Daniel Alpert, Westwood Capital; Robert
+       Hockett, Professor of Law, Cornell University; and Nouriel Roubini,
+       Professor of Economics, New York University| New America
+       Foundation| October 10, 2011
+   73. ^ Inequality and crises: coincidence or causation? Paul Krugman
+   74. ^ Bloomberg-U.S. Set for Biggest State-Local Jobs Boost Since
+       2007-January 2013
+   75. ^ Chairman Ben S. Bernanke-The Economic Outlook Before the Joint
+       Economic Committee-May 22, 2013
+   76. ^ NYT-Catherine Rampell-Mandatory Federal Cuts Hurt Private Sector,
+       Too-June 26, 2013
+   77. ^ ^a ^b Jared Bernstein (May 2013). "Where Have All the Jobs
+       Gone?". NYT. Retrieved May 2013.
+   78. ^ Economic Policy Institute- -Shierholz, Sabadish, and Finio-The
+       Class of 2013-Retrieved May 27, 2013
+   79. ^ EPI-Unemployed Workers Outnumber Job Openings in Every
+       Sector-April 2013
+   80. ^ Bureau of Labor Statistics-Jobs Openings and Labor Turnover
+       Summary-September 10, 2013
+   81. ^ ^a ^b Levine, Linda (January 21, 2011). "CRS-Offshoring (or
+       Offshore Outsourcing) and Job Loss Among U.S. Workers".
+       Congressional Research Service. Retrieved November 21, 2012.
+   82. ^ ^a ^b NYT-A New Capital of Call Centers-November 2011
+   83. ^ NYT-Charles DuHigg and Keith Bradsher-How the U.S. Lost Out on
+       iPhone work-January 2012
+   84. ^ USA Today-Factory Jobs: 3 Million Lost Since 2000-April 2007
+   85. ^ The Economist-Here, there and everywhere-January 2013
+   86. ^ ^a ^b DOL-Employment and Training Administration-Trade Adjustment
+       Assistance for Workers Fiscal Year 2011 Report to the Committee on
+       Finance of the Senate and Committee on Ways and Means of the House
+       of Representatives-Page 4-2011
+   87. ^ ^a ^b DOL-Employment and Training Administration-Trade Adjustment
+       Assistance for Workers Fiscal Year 2010 Report to the Committee on
+       Finance of the Senate and Committee on Ways and Means of the House
+       of Representatives-Page 4-2010
+   88. ^ ^a ^b DOL-Employment and Training Administration-Trade Adjustment
+       Assistance for Workers Fiscal Year 2009 Report to the Committee on
+       Finance of the Senate and Committee on Ways and Means of the House
+       of Representatives-Page 5 for 2009 and 2008 Data
+   89. ^ ^a ^b NYT-Catherine Rampell-When Cheap Foreign Labor Gets Less
+       Cheap-December 2012
+   90. ^ Congressional Research Service-Globalized Supply Chains and U.S.
+       Policy-Page 24-January 27, 2010
+   91. ^ Networkworld-CEOs defend moving jobs offshore at tech
+       summit-October 2003
+   92. ^ The Economist-Points of Light-July 14, 2012
+   93. ^ NPR-This American Life-The Giant Pool of Money-May 2008
+   94. ^ GAO-U.S. Financial Condition and Fiscal Future Briefing-January
+       2008
+   95. ^ NYT-Binyamin Appelbaum-Predicting a Crisis, Repeatedly-February
+       22, 2013
+   96. ^ Greenlaw, Hamilton, Hooper, Mishkin Crunch Time: Fiscal Crises
+       and the Role of Monetary Policy-February 2013
+   97. ^ The Atlantic-No, the United States Will Never, Ever Turn Into
+       Greece-Mathew O'Brien-March 7, 2013
+   98. ^ NYT-Christina Romer-Needed: Plain Talk About the Dollar-May 2011
+   99. ^ Krugman, Paul. Making Things in America. The New York Times. May
+       20, 2011.
+   100. ^ Peterson Institute for International Economics-Time for a
+       Fightback in the Currency Wars-September 2012
+   101. ^ Council on Foreign Relations-Spence and Hlatshwayo-The Evolving
+       Structure of the American Economy and the Employment
+       Challenge-March 2011
+   102. ^ Paul Krugman-The Trouble With Trade-December 2007
+   103. ^ CNN Fareed Zakaria GPS-November 10,2011
+   104. ^ Fareed Zakaria GPS-Paul Volcker Interview-February 2010
+   105. ^ LA Times-Peter Navarro-How China Unfairly Bests the U.S.-June
+       21, 2011
+   106. ^ Peter Morici-Globalpolitician.com – Retrieved November 16, 2012
+   107. ^ McKinsey Quarterly-Michael Spence-August 2011
+   108. ^ NYT-Catherine Rampbell-Raging (Again) Against the
+       Robots-February 2, 2013
+   109. ^ Wired-Kevin Kelly-Better Than Human: Why Robots Will — And Must
+       — Take Our Jobs December 2012
+   110. ^ Hazlitt, Henry (1979). Economics in One Lesson. Three Rivers
+       Press. ISBN 0-517-54823-2.
+   111. ^ 60 Minutes-Robots on the Rise in the Workplace-January 13, 2013
+   112. ^ Brynjolfsson, Erik, McAfee, Andrew (2011). Race Against the
+       Machine. Digital Frontier Press. ISBN 978-0984725113.
+   113. ^ Washington Post-Matt Miller-The Robots are Coming-January 2013
+   114. ^ Reuters-Foxconn to rely more on robots; could use 1 million in 3
+       years-August 2011
+   115. ^ NYT-Paul Krugman-Rise of the Robots-December 2012
+   116. ^ FRED Database-Manufacturing Output Index-Retrieved February 2013
+   117. ^ FRED Database-Manufacturing Employment-Retrieved February 2013
+   118. ^ Kauffman Foundation-Where will the jobs come from?-November 2009
+   119. ^ NYT-Apple and a Squeezed Middle Class-Jan 2012
+   120. ^ Reuters-Freeland-Winners and Losers in the Apple Economy-July
+       2011
+   121. ^ NYT-How the U.S. Lost Out on iPhone Work-January 21, 2012
+   122. ^ Andy Grove-How America Can Create Jobs
+   123. ^ The Economist-Rustbelt Recovery-March 2011
+   124. ^ FRED Database-Manufacturing Employment-Retrieved November 2012
+   125. ^ Zandi, Mark (2009). Financial Shock. FT Press.
+       ISBN 978-0-13-701663-1.
+   126. ^ EPI-The China Toll-August 2012
+   127. ^ USA Today-Factory Jobs 3 Million Lost Since 2000-April 2007
+   128. ^ FRED Database-Construction Employment-Retrieved November 2012
+   129. ^ FRED Database – U.S. Non-Farm Employees
+   130. ^ Weiss, Debra Cassens (8 February 2014). "24 percent of JDs who
+       passed the bar in 2000 aren’t practicing law, survey finds".
+       American Bar Association Journal. Retrieved 18 February 2014.
+   131. ^ "After the JD". American Bar Association. Retrieved 18 February
+       2014.
+   132. ^ Heritage Foundation-Extended UI Payments Do Not Benefit the
+       Economy-James Sherk-September 2011
+   133. ^ NYT-Paul Krugman-Punishing the Jobless-July 2010
+   134. ^ Unemployment Insurance in the Wake of the Recent
+       Recession-November 2012
+   135. ^ CBO-Unemployment Insurance Benefits and Family Income of the
+       Unemployed-November 2010
+   136. ^ "S. 1845 - All Actions". United States Congress. Retrieved 8
+       January 2014.
+   137. ^ Vicki Needham; Ramsey Cox (7 January 2014). "Jobless benefits
+       pass Senate hurdle". The Hill. Retrieved 8 January 2014.
+   138. ^ NYT-Catherine Rampell-The Rise of Part Time Work-March 2013
+   139. ^ FRED Database-Full Time and Part Time Workers-Retrieved June
+       2013
+   140. ^ ^a ^b Christina Hawley Anthony (March 13, 2012). "Updated Budget
+       Projections: Fiscal Years 2012 to 2022". Congressional Budget
+       Office. p. 3. Retrieved July 27, 2012.
+   141. ^ ^a ^b Schwabish, Jonathan (August 22, 2012). "Fiscal Tightening
+       in 2013 and Its Economic Consequences". Congressional Budget
+       Office. Retrieved August 28, 2012.
+   142. ^ Bloomberg-Bernanke Wields New Tools to Reduce Unemployment
+       Rate-December 2012
+   143. ^ Bill Moyers-Paul Krugman Interview-January 11, 2013
+   144. ^ Cha, J.M. (December 7, 2012) "Why is Washington Reducing the
+       Deficit Instead of Creating Jobs?" Demos Explainer
+   145. ^ WSJ-Americans Sour on Free Trade-October 2010
+   146. ^ Pew Center-The Lost Decade of the Middle Class-August 2012
+   147. ^ "Final vote results for roll call 674". Clerk of the United
+       States House of Representatives. 2008-09-29. Retrieved 2008-09-29.
+   148. ^ Supply Chain Digest-Bill Targeting Offshoring Will Not Make it
+       Out of U.S. Senate-September 2010
+   149. ^ Open Congress-S.3816 – Creating American Jobs and Ending
+       Offshoring Act-Retrieved December 2012
+   150. ^ S. 3816 (111th): Creating American Jobs and Ending Offshoring
+       Act
+   151. ^ Office of the White House Press Secretary. "Fact Sheet: The
+       American Jobs Act". White House. Retrieved October 4, 2011.
+   152. ^ Silverleib, Alan (October 12, 2011). "Obama vows to break jobs
+       plan into separate bills after Senate setback". CNN. Retrieved
+       October 12, 2011.
+   153. ^ NYT-Economix Blog-Laura Tyson-Jobs Deficit, Investment Deficit,
+       Fiscal Deficit July 2011
+   154. ^ CBO Historical Tables-1971 to 2010
+   155. ^ McKinsey Global Institute-An Economy that Works-June 2011
+   156. ^ Tax Foundation-Historical Tax Tables-Retrieved December 2011
+   157. ^ NYT-Paul Krugman-Conscience of a Liberal-The Ultimate Zombie
+       Idea-November 3, 2012
+   158. ^ CBPP-History Contradicts Claim That President's Budget Would
+       Harm Small Business Job Creation-March 2009
+   159. ^ CBPP-Supercommittee Should Develop Balanced Package-September
+       2011
+   160. ^ FRED Database-Corporate Profits After Tax-Retrieved December 13,
+       2012
+   161. ^ CBO Historical Tables-January 2012
+   162. ^ CBO-Corporate Income Tax Rates International Comparison-November
+       2005
+   163. ^ Bittle & Johson-Where Did the Jobs Go? Retrieved January 4, 2013
+   164. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j Bittle, Scott, Johnson, Jean
+       (2012). Where Did the Jobs Go? And How Do We Get Them Back?. Harper
+       Collins. ISBN 978-0-06-171566-2.
+   165. ^ Bloomberg-Cap of $25,000 on Deductions Would Cover 32% of Tax
+       Cuts
+   166. ^ President Obama-Climate Action Plan-Whitehouse.gov-June 2013
+   167. ^ NYT-Editorial Board-Fast Food Fight-August 2013
+   168. ^ President Obama-Fact Sheet-Whitehouse.gov-Retrieved June 2013
+   169. ^ The Economist-The Logical Floor-December 2013
+   170. ^ U.S. Department of Labor-History of Federal Minimum Wage
+       Rates-Retrieved January 11, 2013
+   171. ^ U.S. Department of Labor-Minimum Wage Laws in the States-See
+       commentary at bottom of web page-Retrieved January 11, 2013
+   172. ^ CBO-The Effects of a Minimum-Wage Increase on Employment and
+       Family Income-February 18, 2014
+   173. ^ Presiden'ts Council on Jobs and Competitiveness-Interim
+       Report-October 2011
+   174. ^ NYT-Laura D'Andrea Tyson-Jobs Deficit, Investment Deficit,
+       Fiscal Deficit-July 29,2011
+   175. ^ Federal Reserve Database-UNRATE Data Set-Retrieved October 2012
+   176. ^ Federal Reserve Database-Unemploy Data Set-Retrieved October
+       2012
+   177. ^ ^a ^b Federal Reserve Database-Total Non-Farm Payroll-Retrieved
+       October 29, 2012
+   178. ^ http://www.dollarsandsense.org/archives/2013/0513reuss.html
+   179. ^ ^a ^b "Unemployment sets a grim record in 2009". Msnbc.msn.com.
+       December 31, 2009.
+   180. ^ "Revenge of the white men". Los Angeles Times. March 22, 2010
+       (Page 2 of 2).
+   181. ^ "Employment and Unemployment Among Youth Summary". United States
+       Department of Labor.
+   182. ^ "Blacks hit hard by economy's punch". The Washington Post.
+       November 24, 2009.
+   183. ^ "Nearly half of Detroit's workers are unemployed". The Detroit
+       News. December 16, 2009.
+   184. ^
+       http://www.bostonglobe.com/business/2014/03/13/teens-getting-squeez
+       ed-out-labor-markermarket-study-finds/z78nvT5jc6DLlPJxytXL1I/story.
+       html
+   185. ^ NYT-Emily Badger-The last decade was a historically awful time
+       to enter the job market-March 18, 2014
+   186. ^ Bloomberg-Reinhart & Rogoff-Sorry, U.S. Recoveries Really Aren't
+       Different-October 2012
+   187. ^ NYT-Economix-Comparing the Job Losses in Financial
+       Crises-Catherine Rampell-September 2012
+   188. ^ Bloomberg-Mathew Klein-Is the Jobless Rate Really
+       Falling?-January 2014
+   189. ^ CBO-The Slow Recovery of the Labor Market-February 4, 2014
+   190. ^ Fred Database-Payems Data Series-Through November 2012
+   191. ^ Calculated Risk-September Jobs Report-Retrieved October 23, 2012
+   192. ^ NYT-Paul Krugman-The Truth About Jobs-October 2012
+   193. ^ Wells Fargo Economics-Employment:So This is It? January 4, 2012
+   194. ^ NYT-AP-Reuters-Economic Data Points to Steady Fed
+       Policy-February 21, 2013
+   195. ^ Federal Reserve Bank of Chicago-Aaronson and Brave-Estimating
+       the Trend in Employment Growth-June 2013
+   196. ^ FRED Database-Unemploy and Payems Data Series for January 2010
+       to May 2013
+   197. ^ Federal Reserve Economic Database-Payems Data Series-Retrieved
+       April 2013
+   198. ^ Bloomberg-Mark Whitehouse-U.S. Is Still 10 Million Jobs Away
+       from Normal-June 2013
+   199. ^ CIA World Factbook-Country Comparison:Labor Force-Retrieved
+       November 22, 2012
+   200. ^ NYT-Catherine Rampell-Comparing Jobs in Recessions and
+       Recoveries-May 2013
+   201. ^ NYT-Catherine Rampell-Comparing the Job Losses in Financial
+       Crises-September 2012
+   202. ^ Bloomberg-Disabled Americans Shrink Size of U.S. Labor Force-May
+       2012
+   203. ^ http://www.bls.gov/news.release/empsit.nr0.htm
+   204. ^ ADP-National Employment Report for December 2012-Retrieved
+       January 4, 2013
+   205. ^ Center on Budget and Policy Priorities-Statement on December
+       Employment Report-January 4, 2013
+   206. ^ CBO-An Update to the Budget and Economic Outlook: Fiscal Years
+       2012 to 2022-August 2012
+   207. ^ Wells Fargo Economics-2013 Economic Outlook-December 2013
+   208. ^ Stanley Lebergott (1964). Manpower in Economic Growth: The
+       American Record since 1800. Pages 164-190. New York: McGraw-Hill.
+   209. ^ Christina Romer (1986). "Spurious Volatility in Historical
+       Unemployment Data", The Journal of Political Economy, 94(1): 1–37.
+   210. ^ Robert M. Coen (1973). "Labor Force and Unemployment in the
+       1920s and 1930s: A Re-Examination Based on Postwar Experience", The
+       Review of Economics and Statistics, 55(1): 46–55.
+   211. ^ Bureau of Labor Statistics, Employment status of the civilian
+       noninstitutional population, 1940 to date. Retrieved March 6, 2009.
+   212. ^ "Historical Comparability" (2006). Employment and Earnings.
+       Household Data Explanatory Notes, February 2006.
+
+   www.lindahua.net
+
+External links[edit]
+
+   Wikimedia Commons has media related to Unemployment in the United
+   States.
+
+   Graphs and data
+
+     * Bloomberg-Fed Chair Janet Yellen's Employment Dashboard-July 2014
+     * Bureau of Labor Statistics
+     * US Unemployment Data – Current and historical unemployment data by
+       various demographics
+     * Historical US Unemployment Rate Chart – interactive chart for U.S.
+       unemployment rate data – 1948 to present including subcategories
+     * BLS-Job Openings and Labor Turnover Survey-October 2013
+
+   Other resources
+
+     * Summers, Lawrence H. (2008). "Unemployment". In David R. Henderson
+       (ed.). Concise Encyclopedia of Economics (2nd ed.). Library of
+       Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.
+     * Unemployment Benefits Comparison By State
+     * Looking for Work: A History of Unemployment – an hour-long history
+       public radio program exploring U.S. unemployment over more than
+       three centuries
+     * Ben Bernanke-Recent Developments in the Labor Market-March 2012
+     * NYT Graphic-Pay and Productivity Trends 1947 to Present
+     * Monthly Labor Review-The Compensation-Productivity Gap: A Visual
+       Essay-January 2011
+     * Demos-Why is Washington Reducing the Deficit Instead of Creating
+       Jobs? – December 2012
+     * Economic Policy Institute-State of Working America 12th
+       Edition-2012
+     * BLS Economists Moncarz and Wolf: Service-providing occupations,
+       offshoring and the labor market-Monthly Labor Review-December 2008
+     * Wells Fargo Economics-2013 Economics Outlook-December 2013
+     * Center on Budget and Policy Priorities-December 2012 Jobs Report
+     * President's Council on Jobs and Competitiveness-Interim
+       Report-October 2011
+     * Economic Report of the President – Chapter 4 – Jobs, Workers and
+       Skills
+     * McKinsey Global Institute-An Economy that Works, Job Creation and
+       America's Future-June 2011
+     * Congressional Research Service - The Increase in Unemployment Since
+       2007 - Is it Cyclical or Structural?-April 2011
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Unemployment_in_the_United_S
+   tates&oldid=620445751"
+   Categories:
+     * Unemployment in the United States
+
+   Hidden categories:
+     * Articles that may contain original research from January 2013
+     * Commons category template with no category set
+     * Commons category with page title same as on Wikidata
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Español
+     *
+
+   Edit links
+
+     * This page was last modified on 9 August 2014 at 01:09.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

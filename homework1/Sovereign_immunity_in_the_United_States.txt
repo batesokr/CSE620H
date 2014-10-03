@@ -1,0 +1,602 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Sovereign immunity in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (July 2009)
+
+   Sovereign immunity in the United States is the legal privilege by which
+   the American federal, state, and tribal governments cannot be sued
+   (sovereign immunity). Local governments in most jurisdictions enjoy
+   immunity from some forms of suit, particularly in tort. Foreign
+   governments enjoy immunity from suit (state immunity) as provided in
+   the Foreign Sovereign Immunities Act.
+
+                             Seal of the United States Supreme Court.svg
+
+                              United States Federal
+                            Civil Procedure Doctrines
+
+                                                            Justiciability
+                                                         Advisory opinions
+                                            Standing · Ripeness · Mootness
+                                                       Political questions
+                                                              Jurisdiction
+                                               Subject-matter jurisdiction
+                                           * Federal question jurisdiction
+
+                                                  * Diversity jurisdiction
+
+                                                     Amount in controversy
+                                               * Supplemental jurisdiction
+
+                                                    * Removal jurisdiction
+
+                                       * Class Action Fairness Act of 2005
+
+                                                     Personal jurisdiction
+                                                               In personam
+                                                       In rem jurisdiction
+                                                 Quasi in rem jurisdiction
+                                                                Federalism
+                                                Erie doctrine · Abstention
+                                           Sovereign immunity · Abrogation
+                                                   Rooker-Feldman doctrine
+                                                              Adequate and
+                                                  independent state ground
+                                                        edit this template
+
+Contents
+
+     * 1 Federal sovereign immunity
+     * 2 State sovereign immunity in federal courts
+          + 2.1 Early history and Eleventh Amendment
+          + 2.2 Later interpretation
+     * 3 Tribal sovereign immunity
+     * 4 Foreign sovereign immunity in state and federal courts
+     * 5 Local governmental immunity
+     * 6 Exceptions and abrogation
+          + 6.1 Discrimination
+          + 6.2 Arbitration
+          + 6.3 Suits brought by the United States
+          + 6.4 Suits brought by another state
+          + 6.5 Suits filed against state officials under the "stripping
+            doctrine"
+          + 6.6 Suits as to which Congress has abrogated the states'
+            Eleventh Amendment immunity
+          + 6.7 Certain contracts with the government
+          + 6.8 Actions taken in bad faith
+     * 7 References
+     * 8 See also
+
+Federal sovereign immunity[edit]
+
+   In the United States, the federal government has sovereign immunity and
+   may not be sued unless it has waived its immunity or consented to
+   suit.^[1] The United States as a sovereign is immune from suit unless
+   it unequivocally consents to being sued.^[2] The United States Supreme
+   Court in Price v. United States observed: "It is an axiom of our
+   jurisprudence. The government is not liable to suit unless it consents
+   thereto, and its liability in suit cannot be extended beyond the plain
+   language of the statute authorizing it."^[3]
+
+   The principle was not mentioned in the original United States
+   Constitution. The courts have recognized it both as a principle that
+   was inherited from English common law, and as a practical, logical
+   inference (that the government cannot be compelled by the courts
+   because it is the power of the government that creates the courts in
+   the first place).^[4]
+
+   The United States has waived sovereign immunity to a limited extent,
+   mainly through the Federal Tort Claims Act, which waives the immunity
+   if a tortious act of a federal employee causes damage, and the Tucker
+   Act, which waives the immunity over claims arising out of contracts to
+   which the federal government is a party. The Federal Tort Claims Act
+   and the Tucker Act are not as broad waivers of sovereign immunity as
+   they might appear, as there are a number of statutory exceptions and
+   judicially fashioned limiting doctrines applicable to both.^[which?]
+   Title 28 U.S.C. § 1331 confers federal question jurisdiction on
+   district courts, but this statute has been held not to be a blanket
+   waiver of sovereign immunity on the part of the federal government.
+
+   In Federal tax refund cases filed by taxpayers against the United
+   States, various courts have indicated that Federal sovereign immunity
+   is waived under subsection (a)(1) of 28 U.S.C. § 1346 in conjunction
+   with Internal Revenue Code section 7422 (26 U.S.C. § 7422), or under
+   section 7422 in conjunction with subsection (a) of Internal Revenue
+   Code section 6532 (26 U.S.C. § 6532).^[5]
+
+   Congress has also waived sovereign immunity for patent infringement
+   claims under 28 USC § 1498(a), but that statute balances this waiver
+   with provisions that limit the remedies available to the patent holder.
+   The government may not be enjoined from infringing a patent, and
+   persons performing work for the government are immune both from
+   liability and from injunction. Any recourse must be had only against
+   the government in the United States Court of Federal Claims. In
+   Advanced Software Design v. Federal Reserve Bank of St. Louis, the
+   Federal Circuit expanded the interpretation of this protection to
+   extend to private companies doing work not as contractors, but in which
+   the government participates even indirectly.
+
+State sovereign immunity in federal courts[edit]
+
+Early history and Eleventh Amendment[edit]
+
+   The 1793 Supreme Court case Chisholm v. Georgia confirmed that Article
+   III, § 2 which granted diversity jurisdiction to the federal courts,
+   allowed lawsuits "between a State and Citizens of another State" as the
+   text reads. In 1795, the Eleventh Amendment was ratified in response to
+   this ruling, removing federal judicial jurisdiction from lawsuits
+   "prosecuted against one of the United States by Citizens of another
+   State, or by Citizens or Subjects of any Foreign State". The validity
+   of and retroactivity of the Eleventh Amendment was affirmed in the 1798
+   case Hollingsworth v. Virginia.
+
+Later interpretation[edit]
+
+   In Hans v. Louisiana, the Supreme Court of the United States held that
+   the Eleventh Amendment re-affirms that states possess sovereign
+   immunity and are therefore immune from being sued in federal court
+   without their consent. In later cases, the Supreme Court has
+   strengthened state sovereign immunity considerably. In Blatchford v.
+   Native Village of Noatak, the court explained that
+
+     we have understood the Eleventh Amendment to stand not so much for
+     what it says, but for the presupposition of our constitutional
+     structure which it confirms: that the States entered the federal
+     system with their sovereignty intact; that the judicial authority in
+     Article III is limited by this sovereignty, and that a State will
+     therefore not be subject to suit in federal court unless it has
+     consented to suit, either expressly or in the "plan of the
+     convention." States may consent to suit, and therefore waive their
+     Eleventh Amendment immunity by removing a case from state court to
+     federal court. See Lapides v. Board of Regents of University System
+     of Georgia.
+
+   (Citations omitted). In Alden v. Maine, the Court explained that while
+   it has
+
+     sometimes referred to the States’ immunity from suit as "Eleventh
+     Amendment immunity[,]" [that] phrase is [a] convenient shorthand but
+     something of a misnomer, [because] the sovereign immunity of the
+     States neither derives from nor is limited by the terms of the
+     Eleventh Amendment. Rather, as the Constitution's structure, and its
+     history, and the authoritative interpretations by this Court make
+     clear, the States’ immunity from suit is a fundamental aspect of the
+     sovereignty which the States enjoyed before the ratification of the
+     Constitution, and which they retain today (either literally or by
+     virtue of their admission into the Union upon an equal footing with
+     the other States) except as altered by the plan of the Convention or
+     certain constitutional Amendments.
+
+   Writing for the court in Alden, Justice Anthony Kennedy argued that in
+   view of this, and given the limited nature of congressional power
+   delegated by the original unamended Constitution, the court could not
+   "conclude that the specific Article I powers delegated to Congress
+   necessarily include, by virtue of the Necessary and Proper Clause or
+   otherwise, the incidental authority to subject the States to private
+   suits as a means of achieving objectives otherwise within the scope of
+   the enumerated powers."
+
+   However, a "consequence of [the] Court's recognition of
+   pre-ratification sovereignty as the source of immunity from suit is
+   that only States and arms of the State possess immunity from suits
+   authorized by federal law." Northern Ins. Co. of N. Y. v. Chatham
+   County (emphases added). Thus, cities and municipalities lack sovereign
+   immunity, Jinks v. Richland County, and counties are not generally
+   considered to have sovereign immunity, even when they "exercise a
+   'slice of state power.'" Lake Country Estates, Inc. v. Tahoe Regional
+   Planning Agency.
+
+Tribal sovereign immunity[edit]
+
+   Main article: Tribal sovereignty in the United States
+
+   The federal government recognizes tribal nations as "domestic dependent
+   nations" and has established a number of laws attempting to clarify the
+   relationship between the federal, state, and tribal governments.
+   Generally speaking, Native American tribes enjoy immunity from suit—in
+   federal, state, or tribal courts—unless they consent to suit, or unless
+   the federal government abrogates that immunity.^[6]
+
+Foreign sovereign immunity in state and federal courts[edit]
+
+   Main article: Foreign Sovereign Immunities Act
+
+   The Foreign Sovereign Immunities Act (FSIA) of 1976 establishes the
+   limitations as to whether a foreign sovereign nation (or its political
+   subdivisions, agencies, or instrumentalities) may be sued in U.S.
+   courts—federal or state. It also establishes specific procedures for
+   service of process and attachment of property for proceedings against a
+   Foreign State. The FSIA provides the exclusive basis and means to bring
+   a lawsuit against a foreign sovereign in the United States. In
+   international law, the prohibition against suing a foreign government
+   is known as state immunity.
+
+Local governmental immunity[edit]
+
+   Counties and municipalities are not entitled to sovereign immunity. In
+   Lincoln County v. Luning, 133 U.S. 529 (1890), the Court held that the
+   Eleventh Amendment does not bar an individual's suit in federal court
+   against a county for nonpayment of a debt. (By contrast, a suit against
+   a statewide agency is considered a suit against the state under the
+   Eleventh Amendment. See, e.g., Edelman v. Jordan, 415 U.S. 651 (1974);
+   Ford Motor Co. v. Department of Treasury, 323 U.S. 459 (1945)). In
+   allowing suits against counties and municipalities, the Court was
+   unanimous, relying in part on its "general acquiescence" in such suits
+   over the prior thirty years. William Fletcher, a professor of legal
+   studies at Yale University, explains the different treatment on the
+   ground that in the nineteenth century, a municipal corporation was
+   viewed as more closely analogous to a private corporation than to a
+   state government. Fletcher, note 2.
+
+   County and municipal officials, when sued in their official capacity,
+   can only be sued for prospective relief under Federal law.^[7] Under
+   state law, however, the Court in Pennhurst noted that even without
+   immunity, suits against municipal officials relate to an institution
+   run and funded by the state, and any relief against county or municipal
+   officials that has some significant effect on the state treasury must
+   be considered a suit against the state, and barred under the doctrine
+   of sovereign immunity.
+
+Exceptions and abrogation[edit]
+
+   There are exceptions to the doctrine of sovereign immunities derived
+   from the 11th amendment:
+
+Discrimination[edit]
+
+   If the state or local government entities receive federal funding for
+   whatever purpose, they cannot claim sovereign immunity if they are sued
+   in federal court for discrimination. The United States Code, Title 42,
+   Section 2000d-7 explicitly says this.
+
+   The Supreme Court decision of Board of Trustees of the University of
+   Alabama v. Garrett seems to nullify this; however, numerous appellate
+   court cases, such as Doe v. Nebraska in the 8th Circuit^[8] and Thomas
+   v. University of Houston of the 5th Circuit^[9] have held that, as long
+   as the state entity receives federal funding, then the sovereign
+   immunity for discrimination cases is not abrogated, but voluntarily
+   waived. Since the receiving of the federal funds - such as FAFSA and
+   affirmative action - was optional, then the waiver of sovereign
+   immunity was optional. If a state entity wanted its sovereign immunity
+   back, all they have to do in these circuits is stop receiving federal
+   funding.
+
+   However, the 2nd Circuit does not share this ideal.^[10] Currently,
+   they are the only federal court of appeals to take this approach to the
+   issue.^[11]
+
+Arbitration[edit]
+
+   In C & L Enterprises, Inc. v. Citizen Band, Potawatomi Indian Tribe of
+   Oklahoma, 532 U.S. 411 (2001), the Supreme Court of the United States
+   held that sovereigns are not immune under the Federal Arbitration Act.
+   Since arbitration is a matter of contract between the parties, agreeing
+   to participate in arbitration constitutes consent to be subject to the
+   arbitrator's jurisdiction, thus constituting a voluntary waiver of
+   immunity.^[12]
+
+Suits brought by the United States[edit]
+
+   Because the U.S. is a superior sovereign, it may need to bring suit
+   against a state from time to time. According to the Supreme Court,
+   proper jurisdiction for a contract suit by the United States Federal
+   Government against a state is in Federal District Court.^[13]
+
+Suits brought by another state[edit]
+
+   Similar to the U.S. v. State exclusion above, a state may also sue
+   another state in the federal court system. Again, there would be a
+   conflict of interest if either state's court system tried the case.
+   Instead, the federal court system provides a neutral forum for the
+   case.
+
+   Under Article III, Section 2 of the United States Constitution, the
+   Supreme Court of the United States has original jurisdiction over cases
+   between states. Congress, if it so chooses, may grant lower federal
+   courts concurrent jurisdiction over cases between states. However,
+   Congress has not yet chosen to do so. Thus, the United States Supreme
+   Court currently has original and exclusive jurisdiction over cases
+   between state governments.
+
+Suits filed against state officials under the "stripping doctrine"[edit]
+
+   Accuracy dispute
+   This article appears to contradict the article Qualified immunity.
+   Please see discussion on the linked talk page. Please do not remove
+   this message until the contradictions are resolved. (June 2014)
+
+   The "stripping doctrine" permits a state official who used his or her
+   position to act illegally to be sued in his or her individual capacity.
+   In other words, once public officials have acted illegally, they are
+   theoretically stripped of their position's power and are eligible to be
+   sued as individuals. However, the government itself is still immune
+   from being sued through respondeat superior. The Court has openly
+   called this "stripping doctrine" a legal fiction. Therefore, a citizen
+   may sue an official under this "stripping doctrine" and get around any
+   sovereign immunity that that official might have held within his or her
+   position within a state.
+
+   When a citizen uses this exception, they can't include the state in the
+   suit: they have to list specifically the official's name. They also
+   can't seek damages from the state, because they can't list the state as
+   a party. However, the citizen can seek prospective, or future, relief
+   by asking the court to direct the future behavior of the official.
+
+   For example, Ex parte Young allows federal courts to enjoin the
+   enforcement of unconstitutional state (or federal) statutes on the
+   theory that "immunity does not extend to a person who acts for the
+   state, but [who] acts unconstitutionally, because the state is
+   powerless to authorize the person to act in violation of the
+   Constitution." Althouse, Tapping the State Court Resource, 44 Vand. L.
+   Rev. 953, 973 (1991). Pennhurst State School and Hospital v. Halderman
+   (465 U.S.) ("the authority-stripping theory of Young is a fiction that
+   has been narrowly construed"); Idaho v. Coeur d'Alene Tribe of Idaho
+   ("Young rests on a fictional distinction between the official and the
+   State"). The Young doctrine was narrowed by the court in Edelman v.
+   Jordan, which held that relief under Young can only be for prospective,
+   rather than retrospective, relief; the court reasoned that the Eleventh
+   Amendment's protection of state sovereignty requires the state's
+   coffers to be shielded from suit. Prospective relief includes
+   injunctions and other equitable orders, but would rarely include
+   damages. This limitation of the Young doctrine "focused attention on
+   the need to abrogate sovereign immunity, which led to the decision two
+   years later in Fitzpatrick." Althouse, Vanguard States, supra, at 1791
+   n.216
+
+   For more details, "constitutional torts" 42 U.S.C. § 1983 allows state
+   officials to be sued in their individual or official capacities, a
+   principle which was demonstrated again in Brandon v. Holt, 469 U.S. 464
+   (1984).
+
+Suits as to which Congress has abrogated the states' Eleventh Amendment
+immunity[edit]
+
+   See also: Congressional power of enforcement
+
+   The federal government and nearly every state have passed tort claims
+   acts allowing them to be sued for the negligence, but not intentional
+   wrongs^[citation needed], of government employees. The common-law tort
+   doctrine of respondeat superior makes employers generally responsible
+   for the torts of their employees. In the absence of this waiver of
+   sovereign immunity, injured parties would generally have been left
+   without an effective remedy. See Brandon v. Holt.
+
+   Under the abrogation doctrine, while Congress cannot use its Article I
+   powers to subject states to lawsuits in either federal courts, Seminole
+   Tribe v. Florida, or a fortiori its own courts, Alden, supra, it can
+   abrogate a state's sovereign immunity pursuant to the powers granted to
+   it by §5 of the Fourteenth Amendment, and thus subject them to
+   lawsuits. Seminole, supra; Fitzpatrick v. Bitzer. However:
+     * The court requires "a clear legislative statement" of intent to
+       abrogate sovereignty, Blatchford, supra; Seminole, supra.
+     * Because Congress' power under §5 is only "the power 'to enforce,'
+       not the power to determine what constitutes a constitutional
+       violation," for the abrogation to be valid, the statute must be
+       remedial or protective of a right protected by the Fourteenth
+       Amendment and "[t]here must be a congruence and proportionality
+       between the injury to be prevented or remedied and the means
+       adopted to that end," City of Boerne v. Flores. But "[t]he ultimate
+       interpretation and determination of the Fourteenth Amendment's
+       substantive meaning remains the province of the Judicial Branch."
+       Kimel v. Florida Board of Regents. Simply put: "Under the City of
+       Boerne doctrine, courts must ask whether a statutory remedy has
+       'congruence and proportionality' to violations of Section 1 rights,
+       as those rights are defined by courts." Althouse, Vanguard States,
+       Laggard States: Federalism & Constitutional Rights, 152 U. Pa. L.
+       Rev. 1745, 1780 (2004)
+     * States can expressly waive sovereign immunity, but do not do so
+       implicitly simply by participating in a commercial enterprise where
+       Congress subjects market participants to lawsuits. College Savings
+       Bank v. Florida Prepaid Postsecondary Education Expense Board.
+
+   To the surprise of many observers, however, the Court has found that
+   somewhat different rules may apply to Congressional efforts to subject
+   the states to suit in the domain of federal bankruptcy law. In Central
+   Virginia Community College v. Katz, the Court held that state sovereign
+   immunity was not implicated by the exercise of in rem jurisdiction by
+   bankruptcy courts in voiding a preferential transfer to a state.
+   Justice Stevens, writing for a majority of five (including Justice
+   O'Connor, in one of her last cases before retirement, and Justices
+   Souter, Ginsburg, and Breyer), referred to the rationale of an earlier
+   bankruptcy decision, but relied more broadly on the nature of the
+   bankruptcy power vested in Congress under Article I. "The question", he
+   stated, "[was] not whether Congress could 'abrogate' state sovereign
+   immunity in the Bankruptcy Act (as Congress had attempted to do);
+   rather, because the history and justification of the Bankruptcy Clause,
+   as well as legislation enacted immediately following ratification,
+   demonstrate that [the Bankruptcy Clause] was intended not just as a
+   grant of legislative authority to Congress, but also to authorize
+   limited subordination of state sovereign immunity in the bankruptcy
+   arena." In reaching this conclusion, he acknowledged that the Court's
+   decision in Seminole Tribe and succeeding cases had assumed that those
+   holdings would apply to the Bankruptcy Clause, but stated that the
+   Court was convinced by "[c]areful study and reflection" that "that
+   assumption was erroneous". The Court then crystallized the current
+   rule: when Congressional legislation regulates matters that implicate
+   "a core aspect of the administration of bankrupt estates", sovereign
+   immunity is no longer available to the States if the statute subjects
+   them to private suits.
+
+   It is worth noting that the Court in Central Virginia Community College
+   v. Katz added this cryptic caveat to their holding: "We do not mean to
+   suggest that every law labeled a 'bankruptcy' law could, consistent
+   with the Bankruptcy Clause, properly impinge upon state sovereign
+   immunity". It is quite possible the Court has anticipated a significant
+   narrowing of the doctrine.
+
+Certain contracts with the government[edit]
+
+   By way of the Tucker Act, certain claims of monetary damages against
+   the United States are exempt from sovereign immunity. These cases are
+   heard by the United States Court of Federal Claims, or, for cases
+   involving less than ten thousand dollars, a district court has
+   concurrent jurisdiction.
+
+   Examples of contracts where immunity is waived include:
+     * Debts incurred.
+     * Salaries of government employees.
+     * Tax refunds that have not been sent.
+     * Commercial contracts.
+     * Any contract that has a provision in it specifically waiving
+       sovereign immunity.
+
+Actions taken in bad faith[edit]
+
+   Further information: bad faith
+
+   If a defendant can demonstrate that the government's action was done in
+   bad faith, they can receive damages despite sovereign immunity.
+   Typically if a defendant can demonstrate that the government
+   intentionally acted wrongly with the sole purpose of causing damages,
+   they can recover for injury or economic losses. For example, if access
+   lanes to a major bridge are closed for repair and results in severe
+   traffic congestion, the action was in good faith and the state couldn't
+   be sued. However, if, as in the Fort Lee lane closure scandal, the
+   lanes were closed in retaliation against a mayor who declined to
+   support a politician's campaign, with the explicit purpose of causing
+   traffic jams, such lawsuits could proceed.^[14]
+
+References[edit]
+
+    1. ^ See Gray v. Bell, 712 F.2d 490, 507 (D.C. Cir. 1983).
+    2. ^ United States v. Mitchell, 445 U.S. 535, 538 (1980)
+    3. ^ Price v. United States, 174 U.S. 373, 375-76 (1899)
+    4. ^ Template:Title=Federal Sovereign Immunity
+    5. ^ Roger D. Martin, "Waiver of Sovereign Immunity in Tax Refund
+       Proceedings in Bankruptcy," Vol. 11, No. 1, NABTalk, p. 16, at 23,
+       Nat'l Ass'n of Bankr. Trustees (Columbia, S.C. 1995).
+    6. ^ C & L Enters., Inc. v. Citizen Band, Potawatomi Indian Tribe of
+       Okla., 532 U.S. 411 (2001); Kiowa Tribe of Okla. v. Mfg. Techs.,
+       Inc., 523 U.S. 751 (1998); Okla. Tax Comm'n v. Citizen Band,
+       Potawatomi Indian Tribe of Okla., 498 U.S. 505 (1991); Santa Clara
+       Pueblo v. Martinez, 436 U.S. 49 (1978); Puyallup Tribe, Inc. v.
+       Dep't of Game of State of Wash., 433 U.S. 165 (1977); United States
+       v. U.S. Fidelity & Guar. Co., 309 U.S. 506 (1940); Turner v. United
+       States, 248 U.S. 354 (1919). See also Oneida Indian Nation of N.Y.
+       v. Madison Cnty., 605 F.3d 149, 156 (2d Cir. 2010), cert. granted,
+       131 S. Ct. 459, vacated and remanded, 131 S. Ct. 704 (2011) (per
+       curiam).
+    7. ^ Pennhurst State Sch. & Hosp. v. Halderman, 465 U.S. 89 (1984).
+    8. ^ http://www.ca8.uscourts.gov/opndir/03/10/022014P.pdf
+    9. ^ "Blewett William Thomas, Plaintiff-Appellee v. University of
+       Houston". Retrieved August 26, 2010.
+   10. ^ "GREGORY WARREN, Plaintiff-Appellant, -v- GLENN S. GOORD".
+       Retrieved August 26, 2010.
+   11. ^ "2d Cir.: Rehab Act claims barred by sovereign immunity".
+       Retrieved August 26, 2010.
+   12. ^ "C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe
+       of Oklahoma, 532 U.S. 411 (2001)". Retrieved Aug 20, 2011.
+   13. ^ West Virginia v. United States, 479 U.S. 305; 107 S.Ct. 702; 93
+       L.Ed.2d 639 (1987).
+   14. ^ John Culhane (January 14, 2014). "How to Sue Over the Christie
+       Bridge Scandal and Win". Slate.com. Retrieved January 25, 2014.
+
+See also[edit]
+
+     * Former Indian Reservations in Oklahoma
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Sovereign_immunity_in_the_Un
+   ited_States&oldid=622290714"
+   Categories:
+     * Sovereign immunity in the United States
+
+   Hidden categories:
+     * Articles needing additional references from July 2009
+     * All articles needing additional references
+     * All articles with specifically marked weasel-worded phrases
+     * Articles with specifically marked weasel-worded phrases from August
+       2014
+     * Articles contradicting other articles
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2010
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 22 August 2014 at 04:23.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

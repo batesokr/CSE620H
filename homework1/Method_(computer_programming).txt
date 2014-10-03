@@ -1,0 +1,619 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Method (computer programming)
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (June 2011)
+
+   A method (or a member function) in object-oriented programming (OOP) is
+   a subroutine associated with an object of a class that forms its
+   interface through which the outside members of the class (other
+   objects) can access its private members (mainly the encapsulated data).
+   Methods define the behaviour of objects at program run time. Methods
+   can be defined both inside and outside a class. When defined inside
+   they are automatically inline and are bound to the class at compile
+   time (static binding) otherwise they are bound at runtime (dynamic
+   binding).
+
+Contents
+
+     * 1 Example
+     * 2 Abstract methods
+          + 2.1 Example
+     * 3 Accessor, mutator and manager methods
+     * 4 Class methods
+     * 5 Conversion operator methods
+     * 6 Hook methods
+     * 7 Overloaded methods
+     * 8 Overridden methods
+     * 9 Special methods
+          + 9.1 Constructors
+          + 9.2 Destruction
+          + 9.3 Copy-assignment operators
+          + 9.4 Operator methods
+     * 10 Static methods
+     * 11 Virtual methods
+     * 12 References
+     * 13 See also
+
+Example[edit]
+
+   The following Java code defines a method "rectangle" in the class
+   "Main" that can find the area of a rectangle.
+public class Main
+{
+        int rectangle(int h, int w)
+        {
+                return h*w;
+        }
+}
+
+   The following C++ code defines methods "input" and "display".
+#include <iostream>
+#include <string>
+#include <array>
+
+struct goods
+{
+        std::string name;
+        float price;
+        static int percent;
+        void input()
+        {
+                std::cout << "Good's name: ";
+                std::cin >> name;
+                std::cout << "Price: ";
+                std::cin >> price;
+        }
+        void display()
+        {
+                std::cout << "\n" << name;
+                std::cout << ", Final price with tax: ";
+                std::cout << static_cast<long>(price * (1.0 + goods::percent * 0
+.01));
+                std::cout << "\n";
+        }
+};
+
+int goods::percent = 20;
+
+int main()
+{
+        std::array<goods, 3> a;
+        for (auto&& i : a)
+        {
+                i.input();
+        }
+        for (auto&& i : a)
+        {
+                i.display();
+        }
+}
+
+Abstract methods[edit]
+
+   An abstract method is one with only a signature and no implementation
+   body. It is often used to specify that a subclass must provide an
+   implementation of the method. Abstract methods are used to specify
+   interfaces in some computer languages.^[citation needed]
+
+Example[edit]
+
+   The following Java code shows an abstract class that needs to be
+   extended:
+abstract class Main {
+    abstract int rectangle(int h, int w); // abstract method signature
+}
+
+   The following subclass extends the main class:
+public class Main2 extends Main {
+
+    @Override
+    int rectangle(int h, int w)
+    {
+        return h * w;
+    }
+
+}
+
+Accessor, mutator and manager methods[edit]
+
+   Accessor methods (also called getters) are used to read values of
+   private data members of an object which are directly inaccessible to
+   non member methods. Mutator methods (also called setters) are used to
+   modify values of private data members of an object. Manager methods are
+   used to initialize and destroy objects of a class, e.g. constructors
+   and destructors.
+
+   An 'accessor' method is a method that is usually small, simple and
+   provides the sole means for accessing (retrieving) the state of an
+   object from other parts of a program.
+
+   Although this introduces a new dependency, as stated above, use of
+   methods is preferred, in the object-oriented paradigm, to directly
+   accessing state data - because those methods provide an abstraction
+   layer. For example, if a bank-account class provides a getBalance()
+   accessor method to retrieve the current balance (rather than directly
+   accessing the balance data fields), then later revisions of the same
+   code can implement a more complex mechanism for balance retrieval (say,
+   a database fetch), without the dependent code needing to be changed
+   (However, this often claimed advantage is not unique to object-oriented
+   programming, and was earlier implemented - when desirable in critical
+   systems - through conventional modular programming with optional
+   run-time, system-wide locking mechanisms, in the imperative/procedural
+   paradigms).
+
+   To compare the value of two data items, two accessor-method calls are
+   normally required before a comparison can take place between the
+   retrieved primitive data type values. Comparator methods are required
+   to compare entire objects for equality. This contrasts with a direct
+   comparison in non-OOP paradigms. An update, modifier, or mutator
+   method, is an accessor method that changes the state of an object.
+   Objects that provide such methods are considered mutable objects.
+
+Class methods[edit]
+
+   Class methods are methods that are called on a class (compare this to
+   class instance methods, or object methods). Exact meaning varies
+   depending on the programming languages.
+
+   In some languages (e.g. Smalltalk, Python, Ruby, Objective-C), class
+   methods are methods that are called on a class object. This is
+   virtually identical to instance methods, except that in class methods
+   this refers to the class object, not the instance object. In these
+   languages, class methods are resolved dynamically (at runtime), just
+   like instance methods. Class methods may be implemented as class
+   objects being instances of a Class class (hence called a metaclass),
+   and the class method on the class (instance of metaclass) being an
+   instance method on the metaclass, in which case class methods are just
+   a form of instance methods.
+
+   In other languages, notably C++ and Java, class methods are synonymous
+   with static methods (see below), which are resolved at compile-time
+   with a known class name. this cannot be used in static methods, either
+   to refer to the instance or the class.
+
+   Python is unusual in having both class methods in the object-oriented
+   sense – methods called on a class object, referred to as cls instead of
+   self for class instance objects – which are created with the
+   classmethod decorator; and functions that are defined in a class – and
+   can be overridden in derived classes – but have no this, and cannot
+   refer to either the instance object or the class object. These latter
+   are called "static methods", by analogy with C++ and Java, and are
+   created with the staticmethod decorator, but are resolved dynamically
+   (at run time). Further, Python resolves methods on the class if no
+   matches are found on an object, thus it may resolve a method call on an
+   object to a class method or static method, based on the type of the
+   object.
+
+Conversion operator methods[edit]
+
+   A conversion operator provides a means for the compiler to implicitly
+   (performed by the compiler automatically when appropriate) provide an
+   object of a type other than the type of the class object.
+
+Hook methods[edit]
+
+   Hook methods are defined in abstract classes and called from a template
+   method. Hooks are used as placeholders that can be supplied by the
+   component's client in a concrete derived class.^[1]^[2] Here is a Java
+   example:^[3]
+/**
+ */
+public abstract class Beverage implements Beveragelike {
+
+        /**
+         * Adds condiments to the beverage
+         */
+        public abstract void addCondiments();
+
+        /**
+         * Hook method that determines whether the customer wants condiments
+         * or not. Can be overridden.
+         * @return true, if the customer wants condiments, and false otherwise.
+         */
+        public boolean customerWantsCondiments() {
+                return true;
+        }
+
+        /**
+         * Prepares the beverage according to this recipe.
+         */
+        public final void prepareRecipe() {
+                // …
+
+                if (customerWantsCondiments()) {
+                    addCondiments();
+                }
+        }
+}
+
+Overloaded methods[edit]
+
+   Overloaded methods are those that appear to have the same name, but
+   that have different formal parameter types (or result value type, if
+   the language supports overloading on result type). The "real name" of
+   the method is made up by concatenating the identifier used to name the
+   method with an encoding of the types, so this works only for languages
+   in which the types are statically known. Overloading is generally
+   confusing; it is better practice to simply come up with more meaningful
+   names for methods, that is, names that explain the role of the
+   parameters.^[4] For example, the following C++ class has two methods
+   named "area", but their different parameter lists distinguish the
+   methods.
+#include <iostream>
+
+class geometry
+{
+public:
+        static double area(double h, double w)
+        {
+                return h * w;
+        }
+        static double area(double r)
+        {
+                return r * r * 3.14;
+        }
+
+};
+
+int main()
+{
+        double rectangle_area = geometry::area(3, 4);
+        double circle_area = geometry::area(5);
+        std::cout << rectangle_area << '\n';
+        std::cout << circle_area << '\n';
+}
+
+Overridden methods[edit]
+
+   Overridden methods are those that are redefined in a subclass and hide
+   methods of a superclass. The new method can use the previous definition
+   through a special mechanism, for example, the super keyword in
+   Smalltalk and Java. Some people confuse overriding with overloaded
+   methods, but they are really quite different; the main difference is
+   that the choice of method from a set of overriding methods is made
+   according to the class of the receiver of the method request, whereas
+   the name of an overloaded method is constructed according to the static
+   types of the arguments to the method request. Another difference is
+   that an overriding method must be declared in a subclass of the class
+   that declared the overridden method, while several overloadings of a
+   method name can be declared in the same class.^[5] Look at the
+   following example from Java:
+public class class1
+{
+        int f(int x)
+        {
+                return x+3;
+        }
+}
+
+public class class2 extends class1
+{
+        @Override
+        int f(int x) // overriding
+        {
+                return x*x;
+        }
+        int f(int x, int y) // overloading
+        {
+                return x*y;
+        }
+}
+
+   ^[6]
+
+Special methods[edit]
+
+   Special methods are very language-specific and a language may support
+   none, some, or all of the special methods defined here. A language's
+   compiler may automatically generate default special methods or a
+   programmer may be allowed to optionally define special methods. Most
+   special methods cannot be directly called, but rather the compiler
+   generates code to call them at appropriate times. The syntax for
+   definition and calling (i.e., when a special method can be called) of
+   special methods varies amongst programming languages.^[citation needed]
+
+Constructors[edit]
+
+   A constructor is a class method that is called automatically at the
+   beginning of an object's lifetime to initialize the object, a process
+   called construction (or instantiation). Initialization may include
+   acquisition of resources. A language may provide a means to control
+   whether a constructor can be called implicitly (by the compiler) or
+   only explicitly (by the programmer). Constructors may have parameters
+   but usually do not return values in most languages. See the following
+   example in Java:
+public class Main
+{
+        String name;
+        int roll;
+        Main(String _name, int _roll) { //constructor method
+                (this).name = _name;
+                (this).roll = _roll;
+        }
+
+}
+
+Destruction[edit]
+
+   A destructor is a class method that is called automatically at the end
+   of an object's lifetime, a process called destruction. Destruction in
+   most languages does not allow destructor method arguments nor return
+   values. (In some languages^[citation needed], a destructor can return a
+   value which can then be used to obtain a public representation
+   (transfer encoding) of an instance of a class and simultaneously
+   destroy the copy of the instance stored in current thread's memory).
+   Destruction can be implemented so as to perform cleanup chores and
+   other tasks at object destruction.
+
+Copy-assignment operators[edit]
+
+   Copy-assignment operators define actions to be performed by the
+   compiler when a class object is assigned to a class object of the same
+   type.
+
+Operator methods[edit]
+
+   Operator methods define or redefine operator symbols and define the
+   operations to be performed with the symbol and the associated method
+   parameters. C++ Example:
+class data
+{
+public:
+        string name;
+        int roll;
+        bool operator < (const data& p) const
+        {
+                return roll < p.roll;
+        }
+        bool operator == (const data& p) const
+        {
+                return (name == p.name) and (roll == p.roll);
+        }
+};
+
+   Some programming languages don't support operator methods as they might
+   create confusion. For details read: Operator overloading.
+
+Static methods[edit]
+
+   Static methods neither require an instance of the class nor can they
+   implicitly access the data (or this, self, Me, etc.) of such an
+   instance. A static method is distinguished in some programming
+   languages with the static keyword placed somewhere in the method's
+   signature.
+
+   In statically typed languages such as Java, static methods are called
+   "static" because they are resolved statically (i.e. at compile time)
+   based on the class they are called on and not dynamically as in the
+   case with instance methods which are resolved polymorphically based on
+   the runtime type of the object. Therefore, static methods cannot be
+   overridden.^[7]
+
+Virtual methods[edit]
+
+   Virtual methods are the means by which a class object can achieve
+   polymorphic behavior. Non-virtual methods, or regular methods, are
+   those which do not participate in polymorphism.^[8]
+
+   C++ Example:
+#include <iostream>
+#include <memory>
+
+class Super
+{
+public:
+        virtual void iAm() { std::cout << "I'm the super class!\n"; }
+}
+
+class Sub : public Super
+{
+public:
+        void iAm() { std::cout << "I'm the subclass!\n"; }
+}
+
+int main()
+{
+        std::unique_ptr<Super> inst1(new Super());
+        std::unique_ptr<Super> inst2(new Sub());
+
+        inst1->iAm(); // calls Super::iAm()
+        inst2->iAm(); // calls Sub::iAm()
+}
+
+References[edit]
+
+    1. ^ "Template Method Design Pattern". Source Making - teaching IT
+       professional. Retrieved 2012-09-12. "The component designer decides
+       which steps of an algorithm are invariant (or standard), and which
+       are variant (or customizable). The invariant steps are implemented
+       in an abstract base class, while the variant steps are either given
+       a default implementation, or no implementation at all. The variant
+       steps represent “hooks”, or “placeholders”, that can, or must, be
+       supplied by the component’s client in a concrete derived class."
+    2. ^ "Hook Method". Cunningham & Cunningham, Inc. 2002-08-27. Archived
+       from the original on 2002-08-27. Retrieved 2012-09-12.
+    3. ^ Freeman, Eric; Freeman, Elisabeth; Kathy, Sierra; Bert, Bates
+       (2004). Hendrickson, Mike; Loukides, Mike, eds. Head First Design
+       Patterns (paperback) 1. O'REILLY. p. 293. ISBN 978-0-596-00712-6.
+       Retrieved 2012-09-12.
+    4. ^ John Suzuki (2000-02-18). "What is an overloaded method?".
+       http://www.jguru.com/: j Guru. Retrieved 2011-08-12. "Overloaded
+       methods are multiple methods in the same class that share the same
+       name but have different parameter lists. Overloaded methods cannot
+       have the same parameter lists with different return types."
+    5. ^
+       http://www.codeproject.com/Articles/16407/METHOD-Overload-Vs-Overri
+       ding
+    6. ^ Anandvijayakumar. "What is an overridden method and overriding a
+       method?". http://www.answers.com/: Answers.com. Retrieved
+       2011-08-12. "Assuming class A has a method named getXXX() and class
+       B is a sub class of class A. Now, if we write a method with the
+       same name getXXX() in class B, with exactly the same signature as
+       class A, it is called overriding a method."
+    7. ^
+       http://www.javabeat.net/qna/49-can-we-override-static-methods-what-
+       is-metho/
+    8. ^ Alexis Angelidis. "What is a virtual method?".
+       http://www.cs.otago.ac.nz/postgrads/alexis/tutorial/: Online C++
+       FAQ/Tutorial and Advanced Questions. Retrieved 2011-08-12. "A
+       virtual method in a parent allows children to have a different
+       implementation for it. A pure virtual method in a parent forces
+       children to have an implementation for it (interface in Java). A
+       class with a pure virtual method is called virtual."
+
+     * JANA, DEBASISH (1 January 2005). C++ AND OBJECT-ORIENTED
+       PROGRAMMING PARADIGM. PHI Learning Pvt. Ltd.
+       ISBN 978-81-203-2871-6.
+     * Sengupta, Probal (1 August 2004). Object-Oriented Programming:
+       Fundamentals And Applications. PHI Learning Pvt. Ltd.
+       ISBN 978-81-203-1258-6.
+     * Svenk, Goran (2003). Object-oriented Programming: Using C++ for
+       Engineering and Technology. Cengage Learning. ISBN 0-7668-3894-3.
+     * Balagurusamy (2013). Object Oriented Programming with C++. Tata
+       McGraw-Hill Education. ISBN 978-1-259-02993-6.
+     * Kirch-Prinz, Ulla; Prinz, Peter (2002). A Complete Guide to
+       Programming in C++. Jones & Bartlett Learning.
+       ISBN 978-0-7637-1817-6.
+     * Conger, David (2006). Creating Games in C++: A Step-by-step Guide.
+       New Riders. ISBN 978-0-7357-1434-2.
+     * Skinner, M. T. (1992). The Advanced C++ Book. Silicon Press.
+       ISBN 978-0-929306-10-0.
+     * Love (1 September 2005). Linux Kernel Development. Pearson
+       Education. ISBN 978-81-7758-910-8.
+     * DEHURI, SATCHIDANANDA; JAGADEV, ALOK KUMAR; RATH, AMIYA KUMAR (8
+       May 2007). OBJECT-ORIENTED PROGRAMMING USING C++. PHI Learning Pvt.
+       Ltd. ISBN 978-81-203-3085-6.
+
+See also[edit]
+
+     * Subroutine
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Method_(computer_programming
+   )&oldid=625741483"
+   Categories:
+     * Method (computer programming)
+
+   Hidden categories:
+     * Articles needing additional references from June 2011
+     * All articles needing additional references
+     * All articles with unsourced statements
+     * Articles with unsourced statements from February 2013
+     * Articles with unsourced statements from June 2012
+     * Articles with unsourced statements from August 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * বাংলা
+     * Беларуская (тарашкевіца)
+     * Български
+     * Bosanski
+     * Català
+     * Čeština
+     * Deutsch
+     * Eesti
+     * Español
+     * Français
+     * 한국어
+     * Italiano
+     * ქართული
+     * Lietuvių
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Simple English
+     * Srpskohrvatski / српскохрватски
+     * Svenska
+     * தமிழ்
+     * Українська
+     * Tiếng Việt
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 16 September 2014 at 00:10.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

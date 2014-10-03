@@ -1,0 +1,212 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Very high-level programming language
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   A very high-level programming language (VHLL) is a programming language
+   with a very high level of abstraction, used primarily as a professional
+   programmer productivity tool.
+
+   Very high-level programming languages are usually domain-specific
+   languages, limited to a very specific application, purpose, or type of
+   task, and often scripting languages (especially extension languages),
+   controlling a specific environment. For this reason, very high-level
+   programming languages are often referred to as goal-oriented
+   programming languages.
+
+   An example of a very high-level programming language is the mIRC
+   scripting language, which is designed to extend mIRC, a popular IRC
+   client for Windows.
+
+   The term VHLL was used in the 1990s for what are today more often
+   called high-level languages (no "very"), such as Perl, Python, and
+   Visual Basic.^[1]^[2]
+
+See also[edit]
+
+     * Scripting language
+     * Low-level programming language
+     * High-level programming language
+     * Fourth-generation programming language
+     * Fifth-generation programming language
+     * Domain-specific language
+
+References[edit]
+
+    1. ^ Tom Christiansen et al (eds.): USENIX 1994 Very High Level
+       Languages Symposium Proceedings. October 26-28, 1994, Santa Fe, New
+       Mexico
+    2. ^ "Are VHLLs Really High-Level?", by Greg Wilson, 12/01/1999
+
+     * Symposium on Very High Level Languages. SIG- PLAN Notices (ACM) 9,
+       4 (April 1974), 1-132.
+     * Teichroew, D. A survey of.languages for stating requirements for
+       computer-based information systems. Proc. AFIPS 1972 FJCC, AFIPS
+       Press, Montvale, N.J., pp. 1203-1224.
+     * Libre Software Meeting 2004
+     * Libre Software Meeting: Proceedings of the VHLL track (2004).
+     * Libre Software Meeting (2003) VHLL Track announcement
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Stub icon This programming language–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Very_high-level_programming_
+   language&oldid=609922314"
+   Categories:
+     * Programming language topic stubs
+     * Programming language classification
+
+   Hidden categories:
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * العربية
+     * Italiano
+     * Magyar
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 24 May 2014 at 09:27.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

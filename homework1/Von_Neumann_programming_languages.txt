@@ -1,0 +1,197 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Von Neumann programming languages
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+    This article has multiple issues. Please help improve it or discuss
+   these issues on the talk page.
+
+   Question book-new.svg
+   This article relies largely or entirely upon a single source. Relevant
+   discussion may be found on the talk page. Please help improve this
+   article by introducing citations to additional sources. (August 2010)
+
+   This article provides insufficient context for those unfamiliar with
+   the subject. Please help improve the article with a good introductory
+   style. (October 2009)
+
+   This article possibly contains original research. Please improve it by
+   verifying the claims made and adding inline citations. Statements
+   consisting only of original research should be removed. (August 2010)
+
+   A von Neumann language is any of those programming languages that are
+   high-level abstract isomorphic copies of von Neumann
+   architectures^[citation needed]. As of 2009^[update], most current
+   programming languages fit into this description^[citation needed],
+   likely as a consequence of the extensive domination of the von Neumann
+   computer architecture during the past 50 years.
+
+   The differences between Fortran, C, and even Java, although
+   considerable, are ultimately constrained by all three being based on
+   the programming style of the von Neumann computer^[citation needed].
+   If, for example, Java objects were all executed in parallel with
+   asynchronous message passing and attribute-based declarative
+   addressing, then Java would not be in the group.
+
+   The isomorphism between von Neumann programming languages and
+   architectures is in the following manner:
+     * program variables ↔ computer storage cells
+     * control statements ↔ computer test-and-jump instructions
+     * assignment statements ↔ fetching, storing instructions
+     * expressions ↔ memory reference and arithmetic instructions.
+
+Criticism[edit]
+
+   Using a metaphor from John Backus, assignment statements in von Neumann
+   languages split programming into two worlds. The first world consists
+   of expressions, an orderly mathematical space with potentially useful
+   algebraic properties: most computation takes place here. The second
+   world consists of statements, a disorderly mathematical space with few
+   useful mathematical properties (structured programming can be seen as a
+   limited heuristic that does apply in this space, though).
+
+   Backus^[1] claimed that there exists now in computer science a vicious
+   cycle where the long standing emphasis on von Neumann languages has
+   continued the primacy of the von Neumann computer architecture, and
+   dependency on it has made non-von Neumann languages uneconomical and
+   thus limited their further development: the lack of widely available
+   and effective non-von Neumann languages has deprived computer designers
+   of the motivation and the intellectual foundation needed to develop new
+   computer architectures.^[2]
+
+   Some examples of non-von Neumann languages are: APL, FP, FL, J, Lucid,
+   NGL, ZPL, Mercury, and Plankalkül.^[citation needed]
+
+Presence In Modern Systems[edit]
+
+   Many modern processors now contain multiple processing cores and have
+   different buses for instructions and data (for example the Harvard
+   architecture and MIMD). Furthermore, many modern CPUs support
+   out-of-order execution and other advanced optimization heuristics. Thus
+   these systems do not implement a von Neumann architecture at the
+   hardware level. However, they retain some of its obvious features such
+   as random access memory (RAM).
+
+   Many widely used programming languages such as C, C++ and Java have
+   ceased to be strictly von Neumann by adding support for parallel
+   processing, in the form of threads. However, most of the categorically
+   non-von Neumann languages are also functional languages and have not
+   achieved widespread use.
+
+References[edit]
+
+   This article is based on material taken from the Free On-line
+   Dictionary of Computing prior to 1 November 2008 and incorporated under
+   the "relicensing" terms of the GFDL, version 1.3 or later.
+    1. ^ Can Programming Be Liberated from the von Neumann Style?, John
+       Backus, Communications of the ACM, Volume 21, Number 8, August 1978
+    2. ^ IBM Archives: John Backus
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Von_Neumann_programming_lang
+   uages&oldid=618397644"
+   Categories:
+     * Programming language classification
+
+   Hidden categories:
+     * Articles needing additional references from August 2010
+     * All articles needing additional references
+     * Wikipedia articles needing context from October 2009
+     * All Wikipedia articles needing context
+     * Wikipedia introduction cleanup from October 2009
+     * All pages needing cleanup
+     * Articles that may contain original research from August 2010
+     * All articles that may contain original research
+     * All articles with unsourced statements
+     * Articles with unsourced statements from August 2010
+     * Articles containing potentially dated statements from 2009
+     * All articles containing potentially dated statements
+     * Articles with unsourced statements from September 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     *
+
+   Edit links
+
+     * This page was last modified on 25 July 2014 at 10:11.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

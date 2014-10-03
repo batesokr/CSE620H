@@ -1,0 +1,284 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Language-oriented programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article uses bare URLs for citations, which may be threatened by
+   link rot. Please consider adding full citations so that the article
+   remains verifiable. Several templates are available to assist in
+   formatting. (June 2013)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Language oriented programming (LOP) is a style of computer programming
+   in which, rather than solving problems in general-purpose programming
+   languages, the programmer creates one or more domain-specific languages
+   for the problem first, and solves the problem in those languages. This
+   concept is described in detail in the paper by Martin Ward entitled
+   Language Oriented Programming published in Software - Concepts and
+   Tools, Vol.15, No.4, pp 147-161, 1994 and in the article by Sergey
+   Dmitriev entitled Language Oriented Programming: The Next Programming
+   Paradigm.
+
+Contents
+
+     * 1 Concept
+     * 2 Existing implementations
+     * 3 See also
+     * 4 References
+     * 5 External links
+
+Concept[edit]
+
+   The concept of language oriented programming takes the approach to
+   capture requirements in the user's terms, and then to try to create an
+   implementation language as isomorphic as possible to the user's
+   descriptions, so that the mapping between requirements and
+   implementation is as direct as possible. A measure of the closeness of
+   this isomorphism is the "redundancy" of the language, defined as the
+   number of editing operations needed to implement a stand-alone change
+   in requirements. It is not assumed a-priori what is the best language
+   for implementing the new language. Rather, the developer can choose
+   among options created by analysis of the information flows — what
+   information is acquired, what its structure is, when it is acquired,
+   from whom, and what is done with it.^[1]
+
+Existing implementations[edit]
+
+     * Forth
+     * LayerD
+     * Lisp macros
+     * ASF+SDF Meta-Environment
+     * Nemerle macros
+     * Meta Programming System by JetBrains
+     * openArchitectureWare
+     * REBOL
+     * Rascal
+     * Spoofax/IMP
+     * Whole Platform
+     * XL
+     * XMF by Ceteva
+
+See also[edit]
+
+   This "see also" section may contain an excessive number of suggestions.
+   Please ensure that only the most relevant suggestions are given and
+   that they are not red links, and consider integrating suggestions into
+   the article itself. (December 2013)
+     * Grammar-oriented programming
+     * Dialecting
+     * Domain-specific languages
+     * Metalinguistic abstraction
+     * Aspect-oriented programming
+     * Automatic programming
+     * Concept programming
+     * Fourth-generation programming language
+     * Generative programming
+     * Intentional programming
+     * Linguistic method
+     * Model-driven engineering
+     * Domain-specific multimodeling
+
+References[edit]
+
+    1. ^ Dunlavey (1994). Building Better Applications: a Theory of
+       Efficient Software Development. International Thomson Publishing.
+       ISBN 0-442-01740-5.
+
+External links[edit]
+
+     * Language Oriented Programming Martin Ward's original paper that
+       coined the term.
+     * Language Oriented Programming: The Next Programming Paradigm Sergey
+       Dmitriev's paper that further explored the topic.
+     * Language Workbenches: The Killer-App for Domain Specific Languages?
+       Martin Fowler's article describing both the concept and tools that
+       support it.
+     * Papers by Martin Ward
+     * Sergey Dmitriev's personal homepage
+     * The Meta-Programming System
+     * http://www.intentsoft.com/
+     * Ceteva's XMF 'Language Oriented Programming' language
+     * uCalc Language Builder
+     * http://msdn.microsoft.com/architecture/overview/softwarefactories/
+     * http://osl.iu.edu/~tveldhui/papers/dagstuhl1998/
+     * http://research.microsoft.com/research/pubs/view.aspx?tr_id=4
+     * http://oozy.blogspot.com/
+     * http://lambda-the-ultimate.org/node/377
+     * http://www.paulgraham.com/onlisp.html
+     * Language Oriented Programming (LOP)
+     * LayerD framework
+     * Interviews with Sergey Dmitriev, Charles Simonyi, Krzystof
+       Czarnecki and Andy Evans
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Language-oriented_programmin
+   g&oldid=607551639"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * Articles needing cleanup from June 2013
+     * Articles needing link rot cleanup from June 2013
+     * All articles needing link rot cleanup
+     * Articles covered by WikiProject Wikify from June 2013
+     * All articles covered by WikiProject Wikify
+     * Articles with excessive see also sections from December 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 7 May 2014 at 23:10.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

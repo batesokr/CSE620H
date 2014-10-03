@@ -1,0 +1,377 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Natural language programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Not to be confused with Neurolinguistic programming, literate
+   programming, or Natural language processing.
+
+     This article has multiple issues. Please help improve it or discuss
+   these issues on the talk page.
+
+   This article includes a list of references, related reading or external
+   links, but its sources remain unclear because it lacks inline
+   citations. Please improve this article by introducing more precise
+   citations. (February 2011)
+
+   This article may require cleanup to meet Wikipedia's quality standards.
+   No cleanup reason has been specified. Please help improve this article
+   if you can. (January 2009)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Natural Language Programming (NLP) is an ontology-assisted way of
+   programming in terms of natural language sentences, e.g. English. A
+   structured document with Content, sections and subsections for
+   explanations of sentences forms a NLP document, which is actually a
+   computer program. An example of natural language programming is in
+   sEnglish that is short for "system English".
+
+Contents
+
+     * 1 Interpretation
+     * 2 What is the software paradigm of NLP ?
+     * 3 What is the publication value of an NLP program and document ?
+     * 4 What is the contribution of NLP programs to machine knowledge ?
+     * 5 Natural languages and interfaces
+     * 6 See also
+     * 7 References
+     * 8 External links
+
+Interpretation[edit]
+
+   The smallest unit of statement in NLP is a sentence. Each sentence is
+   stated in terms of concepts from the underlying ontology, attributes in
+   that ontology and named objects in capital letters. In an NLP text
+   every sentence unambiguously compiles into a procedure call in the
+   underlying high level programming language such as MATLAB, Octave,
+   SciLab, Python, etc.
+
+   Symbolic languages such as Mathematica are capable of interpreted
+   processing of queries by sentences. This can allow interactive requests
+   such as that implemented in Wolfram Alpha (see external links). The
+   difference between these and NLP is that the latter builds up a single
+   program or a library of routines that are programmed through natural
+   language sentences using an ontology that defines the available data
+   structures in a high level programming language.
+
+   An example text from an English language NLP program (in sEnglish) is
+   as follows:
+
+     If U_ is 'smc01-control', then do the following. Define surface
+     weights Alpha as "[0.5, 0.5]". Initialise matrix Phi as a 'unit
+     matrix'. Define J as the 'inertia matrix' of Spc01. Compute matrix
+     J2 as the inverse of J . Compute position velocity error Ve and
+     angular velocity error Oe from dynamical state X, guidance reference
+     Xnow . Define the joint sliding surface G2 from the position
+     velocity error Ve and angular velocity error Oe using the surface
+     weights Alpha. Compute the smoothed sign function SG2 from the joint
+     sliding surface G2 with sign threshold 0.01. Compute special
+     dynamical force F from dynamical state X and surface weights Alpha.
+     Compute control torque T and control force U from matrix J2, surface
+     weights Alpha, special dynamical force F, smoothed sign function
+     SG2. Finish conditional actions.
+
+   that defines a feedback control scheme using a sliding mode control
+   method. This entry describes NLP in its general form, without being
+   specific about the underlying high level programming language.
+
+   The following are discussed:
+
+What is the software paradigm of NLP ?[edit]
+
+   Natural language programming is a top down method of writing software.
+   Its stages are as follows:
+     * Definition of an ontology - taxonomy - of concepts needed to
+       describe tasks in the topic addressed. Each concept and all their
+       attributes are defined in natural language words. This ontology
+       will define the data structures the NLP can use in sentences.
+     * Definition of one or more top level sentences in terms of concepts
+       from the ontology. These sentences are later used to invoke the
+       most important activities in the topic.
+     * Defining of each of the top level sentences in terms of a sequence
+       of sentences.
+     * Defining each of the lower level sentences in terms of other
+       sentences or by a simple sentence of the form Execute code "...".
+       where ... stands for a code in terms of the associated high level
+       programming language.
+     * Repeating the previous step until you have no sentences left
+       undefined. During this process each of sentences can be classified
+       to belong to a section of the document to be produced in HTML or
+       Latex format to form the final NLP program.
+     * Testing the meaning of each sentence by executing its code using
+       testing objects.
+     * Providing a library of procedure calls (in the underlying high
+       level language) which are needed in the code definitions of some
+       low-level-sentence meanings.
+     * Providing a title, author data and compiling the sentences into an
+       HTML or LaTex file.
+     * Publishing the NLP program as a webpage on the Internet or as a PDF
+       file compiled from the LaTex document.
+
+What is the publication value of an NLP program and document ?[edit]
+
+   An NLP program is a precise formal description of some procedure that
+   its author created. It is human readable and it can also be read by a
+   suitable software agent. For example a web page in an NLP format can be
+   read by a software personal assistant agent to a person and she or he
+   can ask the agent to execute some sentences, i.e. carry out some task
+   or answer a question. There is a reader agent available for English
+   interpretation of HTML based NLP documents that a person can run on her
+   personal computer .
+
+What is the contribution of NLP programs to machine knowledge ?[edit]
+
+   This section needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (June 2014)
+
+   An ontology class in a natural language program that is not a concept
+   in the sense as humans use concepts. Concepts in an NLP are examples
+   (samples) of generic human concepts. Each sentence in an NLP program is
+   either (1) stating a relationship in a world model or (2) carries out
+   an action in the environment or (3) carries out a computational
+   procedure or (4) invokes an answering mechanism in response to a
+   question.
+
+   A set of NLP sentences, with associated ontology defined, can also be
+   used as a pseudo code that does not provide the details in any
+   underlying high level programming language. In such an application the
+   sentences used become high level abstractions (conceptualisations) of
+   computing procedures that are computer language and machine
+   independent.
+
+Natural languages and interfaces[edit]
+
+     * Inform7, is a natural programming language for making interactive
+       fiction.
+     * Shakespeare, a joke natural programming language, in the style of
+       Shakespearean plays.
+     * Wolfram Alpha Computational knowledge engine, using natural
+       language input, available online.
+
+See also[edit]
+
+     * Natural Language Processing
+     * Knowledge Representation
+     * English Grammar
+
+   Programming languages with English-like syntax:
+     * xTalk
+          + HyperTalk
+     * LiveCode
+     * Inform 7
+     * SQL (formerly Structured English Query Language)
+     * JOSS
+     * COBOL
+     * FLOW-MATIC
+
+References[edit]
+
+   Books:
+     * Natural Language Programming of Agents and Robotic Devices:
+       publishing for agents and humans in sEnglish by S M Veres, ISBN
+       978-0-9558417-0-5, London, June 2008.
+
+   Papers at conferences:
+     * Documents for Intelligent Agents in English. by S M Veres and L
+       Molnar. Proc. AIA2010, 10th IASTED Conference on Artificial
+       Intelligence and Applications, 15-17 Feb, 2010, Innsbruck, Austria.
+     * Sliding mode control of autonomous spacecraft. (half written in
+       sEnglish) by S M Veres an N K Lincoln, Proc. TAROS’2008, Towards
+       Autonomous Robotic Systems, Edinburgh, 1–3 September 2008.
+     * Mission Capable Autonomous Control Systems in the Oceans, in the
+       Air and in Space by S M Veres, Hanazawa et al. (Eds.):
+       Brain-Inspired Info. Technology, SCI 266, pp. 1–10, Springer, 2010.
+     * Programming Spatial Algorithms in Natural Language, by Boris
+       Galitsky, Daniel Usikov, in the AAAI Workshop on Spatial and
+       Temporal Reasoning 2008, AAAI Technical report,
+       http://www.aaai.org/Library/Workshops/ws08-11.php
+
+External links[edit]
+
+     * English Script
+     * system-english
+     * sysbrain.org
+     * How Natural Should a Natural Interface Be - thoughts on how
+       "natural" the Ubiquity interface should attempt to be
+     * Tool turns English to code
+     * Wolfram Alpha - how it works Computer Weekly, 4 June 2009
+     * Wolfram Alpha computes answers Tech Crunch, 8 Mar, 2009
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Natural_language_programming
+   &oldid=623087418"
+   Categories:
+     * Algorithm description languages
+     * Forms of English
+     * Structured English
+     * Computer programming
+     * Natural language processing
+
+   Hidden categories:
+     * Articles lacking in-text citations from February 2011
+     * All articles lacking in-text citations
+     * Articles needing cleanup from January 2009
+     * All articles needing cleanup
+     * Cleanup tagged articles without a reason field from January 2009
+     * Wikipedia pages needing cleanup from January 2009
+     * Articles needing additional references from June 2014
+     * All articles needing additional references
+     * Use dmy dates from February 2011
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 27 August 2014 at 21:10.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

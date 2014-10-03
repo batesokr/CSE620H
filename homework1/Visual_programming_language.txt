@@ -1,0 +1,439 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Visual programming language
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Scratch is a visual programming language aimed at new programmers
+
+   In computing, a visual programming language (VPL) is any programming
+   language that lets users create programs by manipulating program
+   elements graphically rather than by specifying them textually. A VPL
+   allows programming with visual expressions, spatial arrangements of
+   text and graphic symbols, used either as elements of syntax or
+   secondary notation. For example, many VPLs (known as dataflow or
+   diagrammatic programming)^[1] are based on the idea of "boxes and
+   arrows", where boxes or other screen objects are treated as entities,
+   connected by arrows, lines or arcs which represent relations.
+
+Contents
+
+     * 1 Definition
+     * 2 Visual language and interfaces
+     * 3 See also
+     * 4 References
+     * 5 External links
+
+Definition[edit]
+
+   VPLs may be further classified, according to the type and extent of
+   visual expression used, into icon-based languages, form-based
+   languages, and diagram languages. Visual programming environments
+   provide graphical or iconic elements which can be manipulated by users
+   in an interactive way according to some specific spatial grammar for
+   program construction.
+
+   A visually transformed language is a non-visual language with a
+   superimposed visual representation. Naturally visual languages have an
+   inherent visual expression for which there is no obvious textual
+   equivalent.^[citation needed]
+
+   Current developments try to integrate the visual programming approach
+   with dataflow programming languages to either have immediate access to
+   the program state resulting in online debugging or automatic program
+   generation and documentation (i.e. visual paradigm). Dataflow languages
+   also allow automatic parallelization, which is likely to become one of
+   the greatest programming challenges of the future.^[2]
+
+   An instructive counterexample for visual programming languages is the
+   Microsoft Visual Studio. The languages it encompasses (Visual Basic,
+   Visual C#, Visual J#, etc.) are commonly confused with, but are not
+   visual programming languages. All of these languages are textual and
+   not graphical. MS Visual Studio is a visual programming environment,
+   but not a visual programming language, hence the confusion.
+
+Visual language and interfaces[edit]
+
+   This section is in a list format that may be better presented using
+   prose. You can help by converting this section to prose, if
+   appropriate. Editing help is available. (April 2014)
+   This is an incomplete list that may never be able to satisfy particular
+   standards for completeness. You can help by expanding it with entries
+   that are reliably sourced.
+     * AgentSheets, easy to use game authoring and computational science
+       authoring tool
+     * Alice
+     * Analytica
+     * App Inventor for Android, a tool for creating applications for
+       Google Android, based on Blockly and Kawa
+     * AppWare, also known as MicroBrew, icon based programming for Mac OS
+       and Microsoft Windows
+     * AudioMulch, an audio signal flow based sound and music creation
+       environment
+     * Macromedia Authorware
+     * Automator
+     * Aviary Peacock, browser based visual laboratory
+     * Befunge, an esoteric text-based programming language in which
+       commands are laid out graphically in a text file
+     * Blender (software), the open source 3D graphics package, includes a
+       "node editor" to create shading programs as graphs. Also, custom
+       nodes allows create systems as sverchok, blendgraph or other.
+     * BYOB, an extension of Scratch which is used for teaching by UC
+       Berkeley
+     * Cameleon, graphical functional language
+     * CODE
+     * CiMPLE, Visual Programming Language by ThinkLABs for teaching
+       robotics
+     * Clickteam's The games factory/Multimedia fusion series,
+       environments made for visually developing games
+     * Construct 2 is a HTML5 based game editor developed by Scirra Ltd.
+     * DRAKON, a language designed for developing the Soviet Buran
+       spacecraft
+     * EICASLAB, a software suite including a graphical language for
+       supporting the design of control architectures
+     * Executable UML, a profile of the Universal Modeling Language
+       specification defining an executable semantics for a subset of UML
+     * Flow a graphical integration language used in the webMethods
+       platform
+     * Filter Forge Node based filter generation for image processing.
+     * Flow-based programming
+     * Flowcode is a graphical programming language to program embedded
+       microprocessors
+     * Flowgorithm is a language/tool for teaching students to program
+       using flowcharts.
+     * Function block diagrams, used in programmable logic controllers
+     * Godot, in-house open source MIT Licensed game development software
+       made by OKAM Studio
+     * GameSalad is a visual game creation tool developed by GameSalad,
+       Inc.
+     * GNU Radio Companion, a signal processing environment using visual
+       blocks
+     * Grasshopper 3d, a generative modeling interface for Rhinoceros 3D
+     * Helix and Double Helix, a pioneering database management system for
+       the Apple Macintosh platform, created in 1983
+     * Hopscotch, a visual programming language for the iPad inspired by
+       MIT's Scratch.
+     * Illumination Software Creator, a language and IDE for visually
+       creating desktop and mobile software
+     * Kodu, a software designed to program games with a 3D Interface
+       developed by Microsoft Research
+     * Kwikpoint, an isotype visual translator created by Alan Stillman
+     * LabVIEW, a graphical language designed for engineers and scientists
+     * Ladder logic, a language that simulates relay logic commonly used
+       in programmable logic controllers
+     * Lava
+     * Lily, browser based visual programming environment
+     * Limnor
+     * Mama (software) - a programming language and IDE for building 3D
+       animations and games
+     * Max (software), visual programming environment for building
+       interactive, real-time music and multimedia applications
+          + Max/MSP
+          + Pure Data
+          + nato.0+55+3d
+     * MeVisLab, cross-platform application framework for medical image
+       processing and scientific visualization
+     * Microsoft Visual Programming Language, dataflow language for
+       robotics programming that is a component of Microsoft Robotics
+       Studio
+     * MindRover, a robot programming game incorporating a dataflow
+       "wiring" language
+     * Minibloq, visual programming language for robotics and Arduino
+       compatible boards.
+     * Morphic (software), makes it easier to build and edit graphical
+       objects by direct manipulation and from within programs; the whole
+       Self (programming language) programming environment is built using
+       Morphic
+     * MST Workshop, an interactive visual programming language for
+       creating mathematical solutions, rapid prototyping, two-dimensional
+       and three-dimensional graphic applications
+     * Nuke, a python based visual programming language for visual effects
+       compositing by The Foundry
+     * NXT-G, a visual programming language for the Lego Mindstorms NXT
+       robotics kit
+     * OpenDX scientific data visualization using a visual programming
+       language and data flow model
+     * OpenMusic, a visual programming language for music composition
+       (based on Common Lisp Object System (CLOS)) applications, and
+       mobile applications
+     * OpenWire - adds visual dataflow programming abilities to Delphi via
+       Visual Component Library (VCL) components and a graphical editor
+       (homonymous binary protocol is unrelated)
+     * OutSystems language, a visual modeling language to develop and
+       change all layers of business centric web applications
+     * Piet is an esoteric programming language designed by David
+       Morgan-Mar, whose programs are bitmaps that look like abstract art.
+     * Pipeline Pilot is a scientific visual and dataflow programming
+       language, and the authoring tool for the Accelrys Enterprise
+       Platform.
+     * PLUS+1 GUIDE, a graphical programming environment from
+       Sauer-Danfoss typically used for off-highway machines.
+     * Prograph
+     * Ptolemy
+     * Pure Data (Pd) is a visual programming language developed by Miller
+       Puckette for creating interactive computer music and multimedia
+       works.
+     * Quartz Composer, a language for processing and rendering graphical
+       data (Mac OS X)
+     * Reaktor, a DSP and MIDI-processing language by Native Instruments
+     * ROBO Pro, a visual programming language for the fischertechnik
+       robotics kit
+     * Scala Multimedia Authoring suite and complete multimedia system for
+       AmigaOS and Windows
+     * Scicos A graphical language associated with the numerical analysis
+       package ScicosLab (originally SciLab).
+     * Scratch, a product of MIT designed for kids in K-12 and after
+       school programs
+     * Simulink
+     * Built on Squeak
+          + Etoys scripting
+     * Sequential function chart, a Petri-net like programming language
+       for programmable logic controllers
+     * Snap!, an extension of Scratch with first class procedures and
+       lists which is used for teaching by UC Berkeley (browser-based
+       reimplementation of BYOB (programming language))
+     * Softimage ICE, a node-based system that is used to create and
+       modify 3D models, simulate particles and perform various other
+       tasks
+     * SQL Server Integration Services, a platform for data integration
+       and workflow applications
+     * Stagecast Creator, formerly Apple's Cocoa: Internet Authoring for
+       Kids
+     * StarLogo, an agent-based simulation language developed by Mitchel
+       Resnick, Eric Klopfer, and others at MIT Media Lab. It is an
+       extension of the Logo programming language, a dialect of Lisp.
+     * Stencyl, a video game creation tool
+     * StreamBase Systems, StreamBase EventFlow is a visual programming
+       language for processing streaming events
+     * Subtext
+     * SynthEdit, a Synthesizer construction tool using a VPL.
+     * Tersus, an open source platform for the development of rich web
+       applications by visually defining user interface, client side
+       behavior and server side processing
+     * ThingLab
+     * ToonTalk, programming system for children
+     * TouchDevelop, programming for mobile devices
+     * VEE
+     * VisSim, modeling and simulation language, allows making
+       mathematical models quickly and executing them in real-time
+     * Virtools, a middleware used to create interactive 3D experiences
+     * WebML, is a visual language for designing complex data-intensive
+       Web applications that can be automatically generated
+     * WireFusion, visual programming environment for creating interactive
+       3D web presentations
+     * Vsxu, music visual / real time 3D graphics generation (Windows,
+       GNU/Linux, Mac Os X)
+     * vvvv, real time video synthesis
+     * XEE, a visual data processing language for ETL tasks
+     * YAWL, graphical workflow language
+
+See also[edit]
+
+     * Argument map
+     * Cognitive dimensions of notations - Notation assessment for visual
+       and non-visual languages
+     * Concept map
+     * Dataflow programming
+     * Deutsch limit, an adage about the information density of language
+       primitives in a visual notation
+     * Domain-specific modeling
+     * Drakon-chart
+     * Flow-based programming
+     * Flowchart
+     * Graph drawing
+     * Unified Modeling Language
+     * Visual language
+     * Visual thinking
+     * Widget Workshop
+     * Programming game
+
+References[edit]
+
+    1. ^ Diagrammatic-graphical programming languages and DoD-STD-2167A
+       from the IEEE
+    2. ^ Johnston, W.M.; Hanna, J.R.P. and Millar, R.J. (2004). "Advances
+       in dataflow programming languages" (PDF). ACM Computing Surveys 36
+       (1): 1–34. doi:10.1145/1013208.1013209. Retrieved 2011-02-16.  Cite
+       uses deprecated parameters (help)
+
+   This article was originally based on material from the Free On-line
+   Dictionary of Computing, used with permission. Update as needed.
+
+External links[edit]
+
+     * Visual programming languages at DMOZ
+     * Visual Programming Languages - Snapshots
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Visual_programming_language&
+   oldid=622937313"
+   Categories:
+     * Programming language classification
+     * Visual programming languages
+
+   Hidden categories:
+     * Pages containing cite templates with deprecated parameters
+     * All articles with unsourced statements
+     * Articles with unsourced statements from April 2010
+     * Articles needing cleanup from April 2014
+     * All pages needing cleanup
+     * Articles with sections that need to be turned into prose from April
+       2014
+     * Dynamic lists
+     * Articles with DMOZ links
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Català
+     * Deutsch
+     * Ελληνικά
+     * Español
+     * فارسی
+     * Français
+     * Italiano
+     * עברית
+     * Қазақша
+     * Latviešu
+     * 日本語
+     * Română
+     * Русский
+     * Svenska
+     * Українська
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 26 August 2014 at 21:13.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

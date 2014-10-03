@@ -1,0 +1,982 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Convention to propose amendments to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   A Convention to propose amendments to the United States Constitution,
+   also called an Article V Convention, or Amendments Convention, is one
+   of two procedures for proposing amendments to the United States
+   Constitution described in Article Five of the Constitution. The other
+   method is a vote by two-thirds of each house of Congress.
+
+   In recent years some constitutional scholars have argued that state
+   governments should call for such a convention.^[1]^[2] They include
+   Lawrence Lessig, Sanford Levinson, Larry Sabato, Jonathan Turley, and
+   Mark Levin.^[1]^[3]^[4] As of 2014, there is an active nationwide
+   effort to call an Article V Convention. Citizens for Self-Governance,
+   through a project called Convention of the States, is promoting Article
+   V legislation in all 50 states. In March 2014, Georgia became the first
+   state to pass the group's Convention of States application.^[5] Alaska
+   and Florida followed suit in April 2014.^[6]^[7]^[8]^[9]^[10]
+   Similarly, the group Wolf-PAC chose this method to promote its cause.
+   Their resolution passed first in Vermont^[11] in May 2014 and a month
+   later in California; as of late June 2014, Wolf-PAC's resolution is
+   still pending in eight other states.
+
+   According to Article V, Congress must call for an amendment-proposing
+   convention, “on the application of the Legislatures of two thirds of
+   the several States," meaning 34 state legislatures would have to submit
+   applications. Once an Article V Convention has proposed an amendment or
+   amendments, then the amendment or amendments would have to be ratified
+   by three-fourths of the states (38 states) in order to become part of
+   the Constitution.
+
+   Congress has the power to choose between two methods of ratification:
+   ratification by the state legislatures, or instead ratification by
+   state conventions called for that purpose. In contrast to those
+   separate state ratification conventions, a convention to propose
+   amendments to the United States Constitution would be a single federal
+   convention. While there have been calls for a second federal convention
+   based on a single issue such as the Balanced Budget Amendment, it is
+   not clear whether a convention summoned in this way would be legally
+   bound to limit discussion to a single issue; law professor Michael
+   Stokes Paulsen has suggested that such a convention would have the
+   "power to propose anything it sees fit".^[12] All 27 amendments to the
+   Constitution have happened in a procedural sense by going through
+   Congress and not through proposal by state legislatures.^[12]
+
+Contents
+
+     * 1 History
+          + 1.1 Creation of the amendment process
+     * 2 Permissible scope of applications to Congress
+     * 3 Permissible scope of proposed amendments
+     * 4 Ability of states to rescind applications to Congress
+     * 5 Supreme Court interpretations of Article V
+     * 6 Attempts to call an Article V convention
+          + 6.1 1960s
+          + 6.2 1970s and 1980s
+          + 6.3 2010s
+               o 6.3.1 Wolf PAC
+               o 6.3.2 Balanced Budget Amendment
+               o 6.3.3 Others
+     * 7 See also
+     * 8 Footnotes
+     * 9 Bibliography
+     * 10 Further reading
+
+History[edit]
+
+   A painting depicting the signing of the original United States
+   Constitution.
+
+   To guard against oppressive government of any kind, the authors of the
+   United States Constitution sought to establish institutional checks and
+   balances. In framing the Constitution as the fundamental embodiment of
+   such safeguards, the Constitutional Convention assembled in
+   Philadelphia in 1787,^[13] at the invitation of the Continental
+   Congress.^[14] That is the last time a federal constitutional
+   convention was convened in the United States.
+
+Creation of the amendment process[edit]
+
+   One of the main reasons for the 1787 Convention was that the Articles
+   of Confederation required the unanimous consent of all 13 states for
+   the national government to take action. This system had proved
+   unworkable, and the newly written Constitution sought to address this
+   problem.
+
+   The first proposal for a method of amending the Constitution offered in
+   the Constitutional Convention, contained in the Virginia Plan, sought
+   to circumvent the national legislature, stating that "the assent of the
+   National Legislature ought not to be required."^[15] In response,
+   Alexander Hamilton privately circulated a proposal that gave the power
+   to propose amendments to the national legislature, and the power to
+   ratify the amendments to the states.^[16]
+
+   James Madison did not oppose reintroducing language permitting the
+   convention amendment process, although he did express concerns about
+   the lack of detail in Article V regarding how the convention amendment
+   process would work. Madison stated that "difficulties might arise as to
+   the form" a convention would take.^[17]
+
+   After some debate, Madison removed reference to the convention
+   amendment process, giving the national legislature sole authority to
+   propose amendments whenever it thought necessary or when two-thirds of
+   the states applied to the national legislature.^[18] Several delegates
+   voiced opposition to the idea of the national legislature retaining
+   sole power to propose constitutional amendments.^[19] George Mason
+   argued from the floor of the Convention that it "would be improper to
+   require the consent of the Natl. Legislature, because they may abuse
+   their power, and refuse their consent on that very account." Mason
+   added that, "no amendments of the proper kind would ever be obtained by
+   the people, if the Government should become oppressive."^[20] In
+   response to these concerns, the Convention unanimously voted to add the
+   language allowing states to apply to Congress for a convention to
+   propose amendments to the Constitution.^[19]
+
+Permissible scope of applications to Congress[edit]
+
+   A frequent question is whether applications from the states can omit to
+   mention subject matter, and instead request an unlimited convention.
+   Past practice suggests that separate unlimited applications submitted
+   to Congress at different times are not allowed.^[21] Article V itself
+   calls for "the application of the legislatures" instead of calling for
+   plural "applications".
+
+   States have requested that Congress convene an Article V convention to
+   propose amendments on a variety of subjects. According to the National
+   Archives, Congress has, however, never officially tabulated the
+   applications, nor separated them by subject matter.^[22] On at least
+   one occasion though, the Congressional Record has included such a
+   tabulation, which indicated that, as of 22 September 1981^[update],
+   thirty states had made a request for a balanced budget amendment.^[23]
+   In 1993, Professor Michael Paulsen and his research staff assembled a
+   listing of all state applications to date, but neither Paulsen's list,
+   nor any other, can be safely characterized as "complete" since there
+   may very well be state applications that have been overlooked and/or
+   forgotten.^[24]
+
+   According to James Kenneth Rogers, the drafting history of Article V
+   indicates that states may limit the subject matter of their
+   applications, and that Congress has a duty to tally applications
+   separately by subject matter.^[19] Moreover, Rogers asserts that states
+   may not make a general application without specifying the subject or
+   subjects to be addressed by the convention.^[25] Rogers points out
+   that, during the drafting process, the Philadelphia Convention at one
+   point adopted a version of Article V that gave power to Congress to
+   propose amendments when two-thirds of both houses agreed, or to propose
+   amendments without a congressional supermajority "on the application of
+   two thirds of the Legislatures of the several states."^[26] This draft
+   version of Article V lacked any provision for a constitutional
+   convention requested by the states, and instead included language
+   almost identical to the final version of Article V but giving states
+   the power to apply to Congress for amendments without any convention.
+   The draft language suggests that states applying to Congress for
+   amendments would have to say what sort of amendments they were applying
+   for, because a general petition (that is, one not limited by subject
+   matter) asking Congress to propose amendments would serve little
+   purpose "beyond notifying Congress that two‐thirds of the States
+   thought that some unknown changes to the Constitution were
+   desirable."^[25] Therefore, due to the similarity between the draft and
+   final versions, Rogers contends that state applications to Congress
+   must specify subject matter, and must be tallied individually by
+   subject matter to determine whether the two-thirds threshold of state
+   applications has been met.
+
+   A dissenting view has been expressed by Michael Stokes Paulsen, a
+   professor at the University of St. Thomas School of Law. Paulsen has
+   argued that state applications for an Article V convention limited to a
+   particular subject matter are invalid and that only applications that
+   include a call for an unrestricted convention are valid.^[24] If
+   Paulsen's criteria that state applications must not be limited to
+   particular subject matter and that rescissions by states are valid, as
+   of 1993 a total of forty-five states had pending applications meeting
+   this criteria.^[21] According to Paulsen, therefore, Congress has had a
+   duty to call a convention for many years. The fact that Congress has
+   not called such a convention, and that courts have rejected all
+   attempts to force Congress to call a convention, has been cited as
+   persuasive evidence that Paulsen's view is incorrect.^[27]
+
+Permissible scope of proposed amendments[edit]
+
+   A serious challenge to the authority of the Constitution happened in
+   the mid-nineteenth century, when southern states seceded resulting in
+   the American Civil War.
+
+   Because no Article V convention has ever been convened, there are
+   various questions about how such a convention would function in
+   practice. One major question is whether the scope of the convention's
+   subject matter could be limited.^[19]
+
+   The consensus is that Congress probably does not have the power to
+   limit a convention to a single amendment or a single subject, because
+   the language of Article V leaves no discretion to Congress, merely
+   stating that Congress "shall" call a convention when the proper number
+   of state applications have been received. Comments made at the time the
+   Constitution was adopted indicate that it was understood when the
+   Constitution was drafted that Congress would have no discretion. In The
+   Federalist, Alexander Hamilton stated that when the proper number of
+   applications had been received, Congress was "obliged" to call a
+   convention and that "nothing is left to the discretion of
+   Congress."^[28] James Madison also affirmed Hamilton's contention that
+   Congress was obligated to call a convention when the requisite number
+   of states requested it.^[29] In the North Carolina debates about
+   ratifying the Constitution, James Iredell, who subsequently became one
+   of the founding members of the Supreme Court, stated that when
+   two-thirds of states have applied to Congress for a convention,
+   Congress is "under the necessity of convening one" and that they have
+   "no option."^[30]
+
+   By citing the Constitution's Necessary and Proper Clause, Congress has
+   tried to enact a statute to regulate how an Article V convention would
+   function. Sponsored by the late Senator Sam Ervin, such a bill passed
+   the U.S. Senate unanimously in 1971 and again in 1973, but the proposed
+   legislation remained bottled up in the Committee on the Judiciary in
+   the U.S. House of Representatives and died both times. Opponents to
+   congressional regulation of an Article V convention's operations argue
+   that neither Article I nor Article V of the Constitution grants
+   Congress this power, and that the Founders intended that Congress "have
+   no option." There has been no opportunity for Federal courts to decide
+   whether Congress has such authority because such legislation has never
+   been adopted by Congress.
+
+   While Congress likely has no authority to limit the scope of an Article
+   V convention, some scholars believe that states do have that power.
+   Larry J. Sabato is one scholar who advanced that view.^[31] Some feel
+   that Congress's duty to call a convention when requested by the states
+   means that it must call the convention that the states requested. If
+   the states, therefore, request a convention limited to a certain
+   subject matter, then the convention that is called would likely need to
+   be limited in the way the states requested.^[32]
+
+   If states have the power to limit an Article V convention to a
+   particular subject matter, and Congress only has power to call a
+   convention but no further power to control or regulate it, then a
+   potential concern becomes whether an Article V convention could become
+   a "runaway convention" that attempts to exceed its scope. If a
+   convention did attempt to exceed its scope, none of the amendments it
+   proposed would become part of the constitution until three-fourths of
+   the states ratified them, which is more states than are required to
+   call a convention in the first place.^[33] Some proponents of a
+   convention express doubt that an Article V convention would exceed its
+   scope, in light of the United States' experience with state
+   constitutional conventions; over 600 state constitutional conventions
+   have been held to amend state constitutions, with little evidence that
+   any of them have exceeded their scope.^[34]
+
+   Opponents to a convention counter that the only national amendments
+   convention, held in 1787, tells a very different story. Of the 12
+   states that sent delegates to the 1787 convention, only 2 placed no
+   restrictions on the power of their delegates. The other 10 states,
+   Congress, and Article XIII of the Articles of Confederation all gave
+   very specific restrictions and rules for the convention, yet none of
+   these were honored.
+
+   NY, MA and Congress all specifically restricted delegates to “revising”
+   the Articles of Confederation. MA & DE said delegates were to protect
+   the rights of states to veto constitutional changes and to recall
+   congressmen. NH, CT, PA, MD, VA, SC, GA, & Art XIII of the Articles of
+   Confederation required all 13 states to ratify any changes. All of
+   these were violated.
+
+   The Constitutional Convention of 1787, which gave us the U.S.
+   Constitution, was called as a "limited" convention, but ended up not
+   being limited.
+
+Ability of states to rescind applications to Congress[edit]
+
+   The legislatures of some states have adopted rescissions of their prior
+   applications. It is not clear from the language of Article V whether a
+   subsequent vote to rescind an application is permissible. As discussed
+   above, however, if the purpose of Article V is to give state
+   legislatures power over a recalcitrant Congress—and if state lawmakers
+   may indeed limit their applications by specific subject matter—it is
+   possible that federal courts would hold that rescissions of previous
+   applications are likewise valid, in order to give more meaningful
+   effect to the power which Article V confers upon state
+   legislators.^[35]
+
+   If it is ultimately adjudicated that a state may not rescind a prior
+   application, then Ohio's 2013 application for a Balanced Budget
+   Amendment convention would be the 33rd and Michigan's 2014 application
+   would be the 34th (out of the necessary 34) on that topic—rather than
+   merely the 20th and 22nd, respectively. The Balanced Budget Amendment
+   applications by Ohio and Michigan plowed completely new ground for
+   those two states. Whereas, the renewed applications from Alabama,
+   Florida, Georgia, and New Hampshire, simply re-visited old and familiar
+   territory. Those four states applied during the 1970s and then
+   rescinded in the period from 1988 to 2010. Then, they changed their
+   minds yet again and re-applied from 2010 to 2014 for a Balanced Budget
+   Amendment convention. Again, if states may not rescind, then with
+   Michigan's actions of March 26, 2014, the threshold of 34 states that
+   Article V requires for triggering a convention on the subject of a
+   Balanced Budget Amendment has now been met.
+
+Supreme Court interpretations of Article V[edit]
+
+   While the Supreme Court has never definitively interpreted the meaning
+   of Article V, it has, on four separate occasions, referred to the
+   Article V convention process:
+
+   Dodge v. Woolsey, 59 U.S. 331 (1855): “[The people] have directed that
+   amendments should be made representatively for them, by the Congress .
+   . . ; or where the legislatures of two thirds of the several States
+   shall call a convention for proposing amendments, which, in either
+   case, become valid, to all intents and purposes, as a part of the
+   constitution, when ratified. . . .”
+
+   Hawke v. Smith, 253 U.S. 221 (1920): “[Article V] makes provision for
+   the proposal of amendments either by two-thirds of both houses of
+   Congress or on application of the Legislatures of two-thirds of the
+   states; thus securing deliberation and consideration before any change
+   can be proposed.”
+
+   Dillon v. Gloss 256 U.S. 368 (1921): In discussing Congress's power to
+   propose amendments, the Court affirmed that “[a] further mode of
+   proposal—as yet never invoked—is provided, which is, that on the
+   application of two thirds of the states Congress shall call a
+   convention for the purpose.”
+
+   United States v. Sprague, 282 U.S. 716 (1931): “[A]rticle 5 is clear in
+   statement and in meaning, contains no ambiguity and calls for no resort
+   to rules of construction. . . . It provides two methods for proposing
+   amendments. Congress may propose them by a vote of two-thirds of both
+   houses, or, on the application of the legislatures of two-thirds of the
+   States, must call a convention to propose them.”
+
+   Because of the political question doctrine and the Court's ruling in
+   the 1939 case of Coleman v. Miller (307 U.S. 433), it remains an open
+   question whether federal courts could assert jurisdiction over a legal
+   challenge to Congress, if Congress were to refuse to call a convention.
+
+Attempts to call an Article V convention[edit]
+
+   Main article: List of state applications for an Article V Convention
+   Harvard Law School professor Lawrence Lessig has called for a Second
+   Constitutional Convention of the United States.^[1]
+
+   Every state except Hawaii has applied for an Article V Convention at
+   one time or another. The majority of such applications were made in the
+   20th century. While there is no official count of the number of
+   applications, one private count puts the total number of applications
+   at over 700.^[36]^[37]
+
+   Even though the Article V Convention process has never been used to
+   amend the Constitution, the number of states applying for a convention
+   has nearly reached the required threshold several times. Congress has
+   proposed amendments to the Constitution on several occasions, at least
+   in part, because of the threat of an Article V Convention. Rather than
+   risk such a convention taking control of the amendment process away
+   from it, Congress acted pre-emptively to propose the amendments
+   instead. At least four amendments (the Seventeenth, Twenty-First,
+   Twenty-Second, and Twenty-Fifth Amendments) have been identified as
+   being proposed by Congress at least partly in response to the threat of
+   an Article V convention.^[38]
+
+1960s[edit]
+
+   There have been two nearly successful attempts to amend the
+   Constitution via an Article V Convention since the late 1960s. The
+   first try was an attempt to propose an amendment that would overturn
+   two Supreme Court decisions, Wesberry v. Sanders and Reynolds v. Sims,
+   decisions that required states to adhere to the one man, one vote
+   principle in drawing electoral districts for state and federal
+   elections. The attempt fell only one state short of reaching the 34
+   needed to force Congress to call a convention in 1969, but ended by the
+   death of its main promoter Senator Everett Dirksen. After this peak,
+   several states rescinded their applications, and interest in the
+   proposed amendment subsided.^[39]
+
+1970s and 1980s[edit]
+
+   The next nearly successful attempt to call a convention was in the late
+   1970s and 1980s, in response to the ballooning federal deficit. States
+   began applying to Congress for an Article V Convention to propose a
+   balanced budget amendment. By 1983, the number of applications had
+   reached 32, only two states short of the 34 needed to force such a
+   convention.^[40] Enthusiasm for the amendment subsided in response to
+   fears that an Article V Convention could not be limited to a single
+   subject and because Congress passed the Gramm-Rudman-Hollings Act,
+   which required that the budget be balanced by 1991 (but that Act was
+   overturned by the Supreme Court in 1986). ^[40]
+
+2010s[edit]
+
+Wolf PAC[edit]
+
+   A political action committee called Wolf PAC emerged from New York's
+   Occupy Wall Street movement in October 2011. Wolf PAC calls for a
+   convention of states in order to propose a constitutional amendment
+   that would ban corporations and unions from spending money on
+   elections, and institute a system of public financing.^[41]^[42]
+
+   On May 2, 2014, after an effort by Wolf PAC, the Vermont legislature
+   passed a resolution calling for an Article V convention to address the
+   issue of money in politics.^[43]
+
+   On June 23, 2014, California became the second state in the nation to
+   pass Wolf PAC's resolution.^[44]
+
+Balanced Budget Amendment[edit]
+
+   On November 20, 2013, the Ohio General Assembly applied to Congress for
+   a convention to propose a Balanced Budget Amendment. This effort made
+   Ohio the 20th state to join a push for a national convention of
+   states.^[45]
+
+   On March 26, 2014, the Michigan Legislature applied to Congress for a
+   convention to propose a Balanced Budget Amendment, making Michigan the
+   22nd to participate in the national effort. If it is ultimately
+   adjudicated that a state may not rescind a prior application, then the
+   threshold of 34 states that Article V requires for triggering a
+   convention has now been met.^[46]
+
+Others[edit]
+
+   A group called Citizens for Self-Governance (CSG) is actively engaged
+   in an effort to call an Article V Convention. Through an initiative
+   called Convention of States, CSG is seeking "to urge and empower state
+   legislators to call a convention of states." CSG states that it
+   initiated the Convention of States project "for the purpose of stopping
+   the runaway power of the federal government."^[47]^[48]^[49]^[50]^[51]
+   Mark Levin has supported CSG's efforts to a call a second
+   constitutional convention.^[51]
+
+   Single Subject Amendment, a Super PAC registered with the Federal
+   Election Commission on March 1, 2013, is actively engaged in an effort
+   to call an Article V Convention to propose a constitutional amendment
+   to provide that Congress shall pass no bill and no bill shall become
+   law which embraces more than one subject.^[52]
+
+   In December 2013, nearly 100 legislators from 32 states met at Mount
+   Vernon to talk about how to call a convention of states. According to
+   Slate, "The meeting lasted four hours, ending when legislators agreed
+   to meet again in the spring of 2014. That’s the most progress anyone’s
+   made in decades toward a states-first constitutional amendment
+   campaign."^[51]
+
+   Tom Coburn has announced that after his retirement from Congress, he
+   will focus on promoting the Convention of States to state
+   legislatures.^[53]
+
+   On April 2, 2014, the Alabama state house adopted a resolution calling
+   for a constitutional convention to propose an amendment to ban same-sex
+   marriage nation-wide.^[54]
+
+See also[edit]
+
+     * List of state applications for an Article V Convention
+     * List of proposed amendments to the United States Constitution
+     * Second Constitutional Convention of the United States
+
+Footnotes[edit]
+
+    1. ^ ^a ^b ^c James O'Toole (December 12, 2011). "Constitutional
+       convention call gains traction". Pittsburgh Post-Gazette. Retrieved
+       December 14, 2011. "Article V of the Constitution, however, in the
+       same section that set up that procedure, set forth the legal
+       possibility for the legislatures of two-thirds of the states to
+       instruct Congress to call a constitutional convention, a mechanism,
+       in the view of some government critics, whose time has come."
+    2. ^ Gregory Korte (November 29, 2011). "Balanced budget amendment
+       push sparks debate". USA Today. Retrieved December 14, 2011. "Some
+       supporters of a balanced budget amendment to the Constitution are
+       turning to a method last used by the founding fathers: A
+       constitutional convention."
+    3. ^ Christopher Shea (November 2, 2011). "Time for a Constitutional
+       Convention?". Wall Street Journal. Retrieved December 14, 2011. "As
+       you might guess, they’re coming at the issue from different angles,
+       but they and other conference attendees shared a frustration with
+       the current structure of the government (or recent Supreme Court
+       decisions, or both)."
+    4. ^ Turley, Jonathan. "Real political reform should go beyond
+       campaign finance". Los Angeles Times. Retrieved March 8, 2012.
+    5. ^ Lowrey, Jason (2014-03-12). "Georgia Legislature calls for
+       convention under Article V Read more: The Daily Tribune News -
+       Georgia Legislature calls for convention under Article V". Daily
+       Tribune News. Retrieved 24 March 2014.
+    6. ^ Gill, Jeff (3/4/2014). "Convention of states may be hot issue in
+       2016 race". Gainesville Times. Retrieved 5 March 2014.  Check date
+       values in: |date= (help)
+    7. ^ Jones, Winston (2014-02-21). "House passes convention of states
+       resolution". Times-Georgian. Retrieved 26 February 2014.
+    8. ^ Ritz, Erica (2/5/2014). "Another Big Name Just Officially
+       Announced Their Support for a Convention of States". The Blaze.
+       Retrieved 26 February 2014.  Check date values in: |date= (help)
+    9. ^ Weigel, Dave (2/6/2014). "Georgia, Tom Coburn Call for
+       Constitutional Convention". Slate. Retrieved 26 February 2014.
+       Check date values in: |date= (help)
+   10. ^ Meckler, Mark. "Florida and Alaska Officially Pass Convention of
+       States Application". Citizens for Self-Governance. Retrieved 2 June
+       2014.
+   11. ^ MORGAN TRUE, 05/03/2014, Brattleboro Reformer, Vermont first
+       state to call for constitutional convention to get money out of
+       politics, Accessed May 5, 2014, "...Vermont became the first state
+       to call for a convention to amend the U.S. Constitution to reverse
+       the U.S. Supreme Court's Citizens United decision ... Monetta is
+       the organizing director for Wolf PAC...
+   12. ^ ^a ^b "Balanced budget amendment push sparks debate".
+       Indystar.com. November 30, 2011. Retrieved December 23, 2011.
+       "Lawrence Lessig, a Harvard law professor, proposes a
+       constitutional convention in his new book, Republic, Lost, about
+       how Congress has been corrupted by special interests...."
+   13. ^ Caplan, Russell. Constitutional Brinksmanship, Amending the
+       Constitution by National Convention (New York: Oxford University
+       Press, 1988), p. 5.
+   14. ^ "Resolution of Congress" (February 21, 1787), The Founders'
+       Constitution, ed. Philip Kurland and Ralph Lerner (University of
+       Chicago Press).
+   15. ^ Farrand, Max. The Records of the Federal Convention of 1787
+       (1937), vol. 1, p. 22. Also see "Records of the Federal
+       Convention", The Founders Constitution, ed. Philip Kurland and
+       Ralph Lerner (U. Chicago Press).
+   16. ^ Farrand, Max. The Records of the Federal Convention of 1787
+       (1937), vol. 3, p. 617.
+   17. ^ Farrand, Max. The Records of the Federal Convention of 1787
+       (1937), vol. 2, p. 629–30
+   18. ^ Rogers 2007, p. 1007.
+   19. ^ ^a ^b ^c ^d Rogers 2007.
+   20. ^ Caplan, Russell. Constitutional Brinksmanship, pp. 27–29; quoting
+       Max Farrand, ed., The Records of the Federal Convention of 1787, 4
+       vols., (New Haven: Yale University Press, revised ed., 1937), 1:22,
+       202–03, 629.
+   21. ^ ^a ^b Paulsen 1993, p. 764.
+   22. ^ Ross, Rodney. Center for Legislative Archives, National Archives
+       and Records Administration, March 12, 2007 letter to U.S. Senator
+       Bernie Sanders, Vermont, "Unfortunately there is no single category
+       for petitions asking for amendments to the Constitution, let alone
+       for amendments by the convention route."
+   23. ^ 129 Cong. Rec. S21538 (1981) (collecting applications calling for
+       a constitutional convention since 1974).
+   24. ^ ^a ^b Paulsen 1993.
+   25. ^ ^a ^b Rogers & 2007 1017.
+   26. ^ Farrand, Max. The Records of the Federal Convention of 1787
+       (1937), vol. 2, p. 555, 559.
+   27. ^ Rogers 2007, p. 1018-18.
+   28. ^ Hamilton, Alexander. Federalist Papers, no. 85 (1788). In the
+       third to last paragraph, Hamilton states:
+
+     But there is yet a further consideration, which proves beyond the
+     possibility of a doubt, that the observation is futile. It is this
+     that the national rulers, whenever nine States concur, will have no
+     option upon the subject. By the fifth article of the plan, the
+     Congress will be obliged "on the application of the legislatures of
+     two thirds of the States [which at present amount to nine], to call
+     a convention for proposing amendments, which shall be valid, to all
+     intents and purposes, as part of the Constitution, when ratified by
+     the legislatures of three fourths of the States, or by conventions
+     in three fourths thereof." The words of this article are peremptory.
+     The Congress "shall call a convention." Nothing in this particular
+     is left to the discretion of that body. And of consequence, all the
+     declamation about the disinclination to a change vanishes in air.
+     Nor however difficult it may be supposed to unite two thirds or
+     three fourths of the State legislatures, in amendments which may
+     affect local interests, can there be any room to apprehend any such
+     difficulty in a union on points which are merely relative to the
+     general liberty or security of the people. We may safely rely on the
+     disposition of the State legislatures to erect barriers against the
+     encroachments of the national authority. If the foregoing argument
+     is a fallacy, certain it is that I am myself deceived by it, for it
+     is, in my conception, one of those rare instances in which a
+     political truth can be brought to the test of a mathematical
+     demonstration.
+   29. ^ Madison, James. Letter to George Eve, 2 January 1789. See also
+       Madison's remark in the House, that it is ". . . out of the power
+       of Congress to decline complying," in 1 Annals of Congress, 1
+       Congress 1, (May 5, 1789), p. 260; also available in Abridgment of
+       the Debates of Congress, from 1789 to 1856, p. 47.
+   30. ^ Elliot, Jonathan. The Debates of the Several State Conventions on
+       the Adoption of the Federal Constitution (1937), vol. 4, p. 177–78.
+       Also available in "Debate in North Carolina Ratifying Convention",
+       The Founders Constitution, ed. Philip Kurland and Ralph Lerner (U.
+       Chicago Press).
+   31. ^ Sabato, Larry. A More Perfect Constitution (2007).
+   32. ^ Rogers 2007, pp. 1014-1019.
+   33. ^ Rogers 2007, pp. 1010-1020.
+   34. ^ Shearer, Augustus. A List of Official Publications of American
+       State Constitutional Conventions, 1776-1916 (1917).
+   35. ^ Rogers 2007, pp. 1014-1020.
+   36. ^ "Images of Article V Applications". Retrieved March 22, 2010.
+   37. ^ It should be noted that the listing, prepared by the Friends of
+       the Article V Convention, a group that believes that Congress has
+       purposefully ignored its mandate to call such a convention,
+       includes, as of March 20, 2010, 39 entries where the state
+       legislature rescinded one or more earlier applications.
+   38. ^ Rogers 2007, p. 1008.
+   39. ^ Rogers 2007, p. 1009.
+   40. ^ ^a ^b Rogers 2007, p. 1010.
+   41. ^ The Rapidian, Catalyst Radio on Friday Sep 20th, 2013 11:30am
+       with Linda Gellasch and WYCE Radio 88.1 FM, Catalyst Radio: Wolf
+       PAC starting with local efforts to get money out of politics,
+       Accessed Jan. 15, 2014
+   42. ^ Katerina Nikolas, Nov 9, 2011 in World, Digital Journal,
+       Wolf-PAC.com: Proposal to prevent corporations buying politicians,
+       Accessed Jan. 15, 2014, “...In October, Cenk Uygur, ... announced
+       the launch of Wolf-PAK during Occupy Wall Street protests. Wolf-PAK
+       is a political action committee with a mission to pass the 28th
+       Amendment to prevent corporations buying politicians...”
+   43. ^ Machado, Steph (5/2/2014). "Vermont Calls to Take Money out of
+       Politics". My Champlain Valley. Retrieved 2 June 2014.  Check date
+       values in: |date= (help)
+   44. ^ https://www.youtube.com/watch?v=R6k7cL3z0Bk
+   45. ^ Pelzer, Jeremy (2013-11-22). "Ohio lawmakers join in push for
+       national convention on balanced-budget amendment". Cleveland Plain
+       Dealer. Retrieved 21 January 2014.
+   46. ^ Oosting, Jonathan (2014-03-26). "81 comments Michigan petitions
+       Congress for federal balanced budget amendment, constitutional
+       convention". MLive. Retrieved 31 March 2014.
+   47. ^ "Welcome". Convention of States. Citizens for Self-Governance.
+   48. ^ Ritz, Erica (2013-12-18). "Could a Convention of States Occur as
+       Early as 2016?". The Blaze. Retrieved 5 January 2014.
+   49. ^ Roller, Emma (12-4-2013). "Conservatives' Improbable New
+       'Convention of States' Project". Slate. Retrieved 21 January 2014.
+       Check date values in: |date= (help)
+   50. ^ Benko, Ralph (2013-08-19). "Mark Levin's Game Changer: Using The
+       Constitution To Arrest Federal Drift". Forbes. Retrieved 21 January
+       2014.
+   51. ^ ^a ^b ^c Weigel, David; Roller, Emma (12-10-2013). "Inside the
+       Secret Conservative Campaign to Rewrite the Constitution". Slate.
+       Retrieved 21 January 2014.  Check date values in: |date= (help)
+   52. ^ "Home".
+   53. ^ Weigel, David (2/6/2014). "Georgia, Tom Coburn Call for
+       Constitutional Convention". Slate. Retrieved 26 February 2014.
+       Check date values in: |date= (help)
+   54. ^ Whitmire, Kyle (4/2/2014). "Alabama House resolution calls for US
+       Constitution same-sex marriage ban, but did anyone read it?".
+       Al.com. Retrieved 2 June 2014.  Check date values in: |date= (help)
+
+Bibliography[edit]
+
+     * Paulsen, Michael (1993). "A General Theory of Article V: The
+       Constitutional Lessons of the Twenty-Seventh Amendment". Yale Law
+       Journal 103: 677. JSTOR 797083.
+     * Paulsen, Michael (2011). "How to Count to Thirty-Four: The
+       Constitutional Case for a Constitutional Convention". Harvard
+       Journal of Law and Public Policy 34: 837. SSRN 1856719.
+     * Rogers, James (2007). "The Other Way to Amend the Constitution: The
+       Article V Constitutional Convention Amendment Process". Harvard
+       Journal of Law and Public Policy 30: 1005.
+
+Further reading[edit]
+
+     * Klein, Philip. "Is it Time for a Convention?", American Spectator
+       (October 2010).
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Convention_to_propose_amendm
+   ents_to_the_United_States_Constitution&oldid=624843649"
+   Categories:
+     * United States constitutional law
+     * Article Five of the United States Constitution
+
+   Hidden categories:
+     * CS1 errors: dates
+     * Use mdy dates from December 2013
+     * Articles containing potentially dated statements from before 1990
+     * All articles containing potentially dated statements
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 9 September 2014 at 19:06.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

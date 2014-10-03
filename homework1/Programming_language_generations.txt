@@ -1,0 +1,287 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Programming language generations
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   For programming languages grouped by ancestor language, see
+   Generational list of programming languages.
+
+   Programming languages have been classified into several programming
+   language generations. Historically, this classification was used to
+   indicate increasing power of programming styles. Later writers have
+   somewhat redefined the meanings as distinctions previously seen as
+   important became less significant to current practice.
+
+Contents
+
+     * 1 Historical view of first three generations
+          + 1.1 First and second generation
+          + 1.2 Third generation
+     * 2 Later generations
+     * 3 References
+
+Historical view of first three generations[edit]
+
+First and second generation[edit]
+
+   The terms "first-generation" and "second-generation" programming
+   language were not used prior to the coining of the term
+   "third-generation." In fact, none of these three terms are mentioned in
+   early compendiums of programming languages. The introduction of a third
+   generation of computer technology coincided with the creation of a new
+   generation of programming languages. The marketing for this
+   generational shift in machines did correlate with several important
+   changes in what were called high level programming languages, discussed
+   below, giving technical content to the second/third-generation
+   distinction among high level programming languages as well, and
+   reflexively renaming machine code languages as First generation, and
+   assembly languages as second generation.
+
+Third generation[edit]
+
+   Main article: Third-generation programming language
+
+   The introduction of a third generation of computer technology coincided
+   with the creation of a new generation of programming languages.^[1] The
+   essential feature of third-generation languages is their
+   hardware-independence, i.e. expression of an algorithm in a way that
+   was independent of the characteristics of the machine on which the
+   algorithm would run.
+
+   Some or all of a number of other developments that occurred at the same
+   time were included in 3GLs.
+
+   Interpretation was introduced. Some 3GLs were compiled, a process
+   analogous to the creation of a complete machine code executable from
+   assembly code, the difference being that in higher-level languages
+   there is no longer a one-to-one, or even linear, relationship between
+   source code instructions and machine code instructions. Compilers are
+   able to target different hardware by producing different translations
+   of the same source code commands.
+
+   Interpreters, on the other hand, essentially execute the source code
+   instructions themselves — if one encounters an "add" instruction, it
+   performs an addition itself, rather than outputting an addition
+   instruction to be executed later. Machine-independence is achieved by
+   having different interpreters in the machine codes of the targeted
+   platforms, i.e. the interpreter itself generally has to be compiled.
+   Interpretation was not a linear "advance", but an alternative model to
+   compilation, which continues to exist alongside it, and other, more
+   recently developed, hybrids. Lisp is an early interpreted language.
+
+   The earliest 3GLs, such as Fortran and COBOL, were spaghetti coded,
+   i.e. they had the same style of flow of control as assembler and
+   machine code, making heavy use of the goto statement. Structured
+   programming^[2] introduced a model where a program was seen as a
+   hierarchy of nested blocks rather than a linear list of instructions.
+   For instance, structured programmers were to conceive of a loop as a
+   block of code that is repeated, rather than so many commands followed
+   by a backwards jump or goto. Structured programming is less about power
+   — in the sense of one higher-level command expanding into many
+   lower-level ones — than safety. Programmers following it were much less
+   prone to make mistakes. The division of code into blocks, subroutines
+   and other modules with clearly defined interfaces also had productivity
+   benefits in allowing many programmers to work on one project. Once
+   introduced (in the ALGOL language), structured programming was
+   incorporated into almost all languages, and retrofitted to languages
+   that did not originally have it, such as Fortran, etc.
+
+   Block structure was also associated with deprecation of global
+   variables, a similar source of error to goto. Instead, the structured
+   languages introduced lexical scoping and automated management of
+   storage with a stack.
+
+   Another high-level feature was the development of type systems that
+   went beyond the data types of the underlying machine code, such as
+   strings, arrays and records.
+
+   Where early 3GLs were special-purpose, (e.g. science or commerce) an
+   attempt was made to create general-purpose languages, such as C and
+   Pascal. While these enjoyed great success, domain specific languages
+   did not disappear.
+
+   Whereas individual instructions of a second generation language are in
+   one-to-one correspondence to individual machine instructions (i.e. they
+   are close to the machine's domain), a third generation language aims to
+   be closer to the human domain. Instructions operate at a higher,
+   abstract level, closer to the human way of thinking, and each
+   individual instruction can be translated into a (possibly large) number
+   of machine-level instruction. Third generation languages are intended
+   to be easier to use than second generation languages. In order to run
+   on an actual computer, code written in a third generation language must
+   be compiled either directly into machine code, or into assembly, and
+   then assembled. Code written in a third generation language can
+   generally be compiled to run on many different computers using a
+   variety of hardware architectures.
+
+   First introduced in the late 1950s, FORTRAN, ALGOL and COBOL are early
+   examples of a third-generation language.
+
+   Third generation languages tend to be either entirely (or almost
+   entirely) independent of the underlying hardware, such as
+   general-purpose languages like Pascal, Java, FORTRAN, etc., although
+   some have been targeted at specific processor or processor family
+   architectures, such as, e.g. PL/M which was targeted at Intel
+   processors, or even C, some of whose auto-increment and auto-decrement
+   idioms such as *(c++) derive from the PDP-11's hardware which supports
+   the auto-increment and auto-decrement indirect addressing modes, and on
+   which C was first developed.
+
+   Most "modern" languages (BASIC, C, C++, C#, Pascal, Ada and Java) are
+   also third-generation languages.
+
+   Many 3GLs support structured programming.
+
+Later generations[edit]
+
+   Main articles: Fourth-generation programming language and
+   Fifth-generation programming language
+
+   Initially, all programming languages at a higher level than assembly
+   were termed "third-generation", but later on, the term
+   "fourth-generation" was introduced to try to differentiate the (then)
+   new declarative languages (such as Prolog and domain-specific
+   languages) which claimed to operate at an even higher level, and in a
+   domain even closer to the user (e.g. at a natural language level) than
+   the original, imperative high level languages such as Pascal, C, ALGOL,
+   Fortran, BASIC, etc.
+
+   "Generational" classification of high level languages (3rd generation
+   and later) was never fully precise and was later perhaps abandoned,
+   with more precise classifications gaining common usage, such as
+   object-oriented, declarative and functional. C gave rise to C++ and
+   later to Java and C#, Lisp to CLOS, Ada to Ada 2012, and even COBOL to
+   COBOL2002, and new languages have emerged in that "generation" as well.
+
+References[edit]
+
+    1. ^ Rico, DF; HH Sayani; RF Field (2008). "History of computers,
+       electronic commerce and agile methods". Advances in Computers
+       (Academic Press). 73: Emerging Technologies.
+    2. ^ heralded by Edsger W. Dijkstra's letter to the Editor of
+       Communications of the ACM, published in March 1968
+
+
+     * v
+     * t
+     * e
+
+   Programming language generations
+     * Generations Overview
+          + 1GL
+          + 2GL
+          + 3GL
+          + 4GL
+          + 5GL
+
+
+     * v
+     * t
+     * e
+
+   Types of computer languages
+     * Architecture description
+     * Hardware description
+     * Markup
+     * Modeling
+     * Programming language
+     * Query
+     * Specification
+     * Stylesheet
+     * Template processing
+     * Transformation
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Programming_language_generat
+   ions&oldid=625223976"
+   Categories:
+     * Programming language classification
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 12 September 2014 at 11:18.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

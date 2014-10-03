@@ -1,0 +1,206 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Grammar-oriented programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article was considered for deletion, and requires cleanup
+   according to the discussion. Please improve this article if you can;
+   the deletion discussion may suggest necessary improvements. (May 2014)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Grammar-oriented programming (GOP) and Grammar-oriented Object Design
+   (GOOD) are good for designing and creating a domain-specific
+   programming language (DSL) for a specific business domain.
+
+   GOOD can be used to drive the execution of the application or it can be
+   used to embed the declarative processing logic of a context-aware
+   component (CAC) or context-aware service (CAS). GOOD is a method for
+   creating and maintaining dynamically reconfigurable software
+   architectures driven by business-process architectures. The business
+   compiler was used to capture business processes within real-time
+   workshops for various lines of business and create an executable
+   simulation of the processes used.
+
+   Instead of using one DSL for the entire programming activity, GOOD
+   suggests the combination of defining domain-specific behavioral
+   semantics in conjunction with the use of more traditional, general
+   purpose programming languages.
+
+See also[edit]
+
+     * Language-oriented programming
+     * Dialecting
+
+External links[edit]
+
+     * Manners Externalize Semantics for On-demand Composition of
+       Context-aware Services
+     * "Empowering the Business Analyst for On-demand Computing" for an
+       example of using GOOD.
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Grammar-oriented_programming
+   &oldid=610940411"
+   Categories:
+     * Domain-specific programming languages
+
+   Hidden categories:
+     * Articles needing cleanup from May 2014
+     * All pages needing cleanup
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 31 May 2014 at 15:30.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

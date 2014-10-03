@@ -1,0 +1,490 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Comparison of multi-paradigm programming languages
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article possibly contains original research. Please improve it by
+   verifying the claims made and adding inline citations. Statements
+   consisting only of original research should be removed. (August 2009)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Programming languages can be grouped by the number and types of
+   paradigms supported.
+
+Contents
+
+     * 1 Paradigm summaries
+     * 2 Language overview
+     * 3 See also
+     * 4 References
+
+Paradigm summaries[edit]
+
+   A concise reference for the programming paradigms listed in this
+   article.
+     * Concurrent programming – have language constructs for concurrency,
+       these may involve multi-threading, support for distributed
+       computing, message passing, shared resources (including shared
+       memory), or futures
+          + Actor programming – concurrent computation with actors that
+            make local decisions in response to the environment (capable
+            of selfish or competitive behavior)
+     * Constraint programming – relations between variables are expressed
+       as constraints (or constraint networks), directing allowable
+       solutions (uses constraint satisfaction or simplex algorithm)
+     * Dataflow programming – forced recalculation of formulas when data
+       values change (e.g. spreadsheets)
+     * Declarative programming – describes actions (e.g. HTML describes a
+       page but not how to actually display it)
+     * Distributed programming – have support for multiple autonomous
+       computers that communicate via computer networks
+     * Functional programming – uses evaluation of mathematical functions
+       and avoids state and mutable data
+     * Generic programming – uses algorithms written in terms of
+       to-be-specified-later types that are then instantiated as needed
+       for specific types provided as parameters
+     * Imperative programming – explicit statements that change a program
+       state
+     * Logic programming – uses explicit mathematical logic for
+       programming
+     * Metaprogramming – writing programs that write or manipulate other
+       programs (or themselves) as their data, or that do part of the work
+       at compile time that would otherwise be done at runtime
+          + Template metaprogramming – metaprogramming methods in which
+            templates are used by a compiler to generate temporary source
+            code, which is merged by the compiler with the rest of the
+            source code and then compiled
+          + Reflective programming – metaprogramming methods in which a
+            program modifies or extends itself
+     * Object-oriented programming – uses data structures consisting of
+       data fields and methods together with their interactions (objects)
+       to design programs
+          + Class-based – object-oriented programming in which inheritance
+            is achieved by defining classes of objects, versus the objects
+            themselves
+          + Prototype-based – object-oriented programming that avoids
+            classes and implements inheritance via cloning of instances
+     * Pipeline programming – a simple syntax change to add syntax to nest
+       function calls to language originally designed with none
+     * Rule-based programming – a network of rules of thumb that comprise
+       a knowledge base and can be used for expert systems and problem
+       deduction & resolution
+     * Visual programming – manipulating program elements graphically
+       rather than by specifying them textually (e.g. Simulink); also
+       termed diagrammatic programming^[1]
+
+Language overview[edit]
+
+   CAPTION: List of multi-paradigm programming languages
+
+   Langauge Number of Paradigms Concurrent Constraints Dataflow
+   Declarative Distributed Functional Metaprogramming Generic Imperative
+   Logic Reflection Object-oriented Pipelines Visual Rule-based Other
+   paradigms
+   LabVIEW 2 No No Yes No No No No No No No No No No Yes No No
+   APL 2 No No No No No Yes No No Yes No No No No No No No
+   ALF 2 No No No No No Yes No No No Yes No No No No No No
+   Dylan^[citation needed] 2 No No No No No Yes No No No No No Yes^[a 1]
+   No No No No
+   Sather^[citation needed] 2 No No No No No Yes No No No No No Yes^[a 1]
+   No No No No
+   Claire 2 No No No No No Yes No No No No No Yes^[a 1] No No No No
+   Spreadsheets 2 No No No No No Yes No No No No No No No Yes No No
+   AmigaE^[citation needed] 2 No No No No No No No No Yes No No Yes^[a 1]
+   No No No No
+   Simula^[citation needed] 2 No No No No No No No No Yes No No Yes^[a 1]
+   No No No No
+   Lava 2 No No No No No No No No No No No Yes^[a 1] No Yes No No
+   PointDragon 3 No No No No No No No No Yes No No Yes No Yes No No
+   SISAL 3 Yes No Yes No No Yes No No No No No No No No No No
+   Erlang 3 Yes No No No Yes Yes No No No No No No No No No No
+   ChucK^[citation needed] 3 Yes No No No No No No No Yes No No Yes^[a 1]
+   No No No No
+   Prograph 3 No No Yes No No No No No No No No Yes^[a 1] No Yes No No
+   Poplog 3 No No No No No Yes No No Yes Yes No No No No No No
+   BETA^[citation needed] 3 No No No No No Yes No No Yes No No Yes^[a 1]
+   No No No No
+   J^[citation needed] 3 No No No No No Yes No No Yes No No Yes^[a 1] No
+   No No No
+   Pliant^[citation needed] 3 No No No No No Yes No No Yes No No Yes^[a 1]
+   No No No No
+   Tcl with itcl or XOTcl extensions^[citation needed] 3 No No No No No
+   Yes No No Yes No No Yes^[a 1] No No No No
+   ECMAScript^[2]^[3] (ActionScript, E4X, JavaScript, JScript) 3 No No No
+   No No Yes No No Yes No No Yes^[a 2] No No No No
+   Lua^[citation needed] 3 No No No No No Yes No No Yes No No Yes^[a 2] No
+   No No No
+   Tcl with Snit extension^[citation needed] 3 No No No No No Yes No No
+   Yes No No Yes^[a 2] No No No No
+   D (version 1.0) 3 No No No No No No No Yes^[a 3] Yes No No Yes^[a 1] No
+   No No No
+   Embarcadero Delphi 3 No No No No No No No Yes^[a 3] Yes No No Yes^[a 1]
+   No No No No
+   E 3 Yes No No No Yes No No No No No No Yes^[a 1] No No No No
+   REBOL 3 No No No No No Yes No No Yes No No Yes^[a 2] No No No No
+   ROOP 3 No No No No No No No No Yes Yes No No No No Yes No
+   PHP^[4]^[5]^[6] 4 No No No No No Yes No No Yes No Yes Yes^[a 1] No No
+   No No
+   Curry 4 Yes Yes No No No Yes No No No Yes No No No No No No
+   Python^[citation needed] 4 No No No No No No Yes No Yes No Yes Yes^[a
+   1] No No No procedural
+   Ruby 4 No No No No No Yes No No Yes No Yes Yes^[a 1] No No No No
+   OCaml 4 No No No No No Yes No Yes Yes No No Yes^[a 1] No No No No
+   Leda 4 No No No No No Yes No No Yes Yes No Yes^[a 1] No No No No
+   Io 4 Yes^[a 4] No No No No Yes No No Yes No No Yes^[a 2] No No No No
+   Fortran 4 Yes No No No No Yes^[a 5] No Yes^[a 6] No No No Yes^[a 1] No
+   No No No
+   Falcon 4 No No No No No Yes Yes No No No Yes Yes^[a 1] No No No No
+   Object Pascal 4 Yes No No No No Yes No No Yes No No Yes^[a 1] No No No
+   No
+   Ada^[7]^[8]^[9]^[10]^[11] 5 Yes^[a 7] No No No Yes No No Yes Yes No No
+   Yes^[a 1] No No No No
+   Common Lisp (some other paradigms are implemented as
+   libraries)^[citation needed] 5 No No No No No Yes Yes No Yes No Yes
+   Yes^[a 1] No No No No
+   D (version 2.0)^[12]^[13] 5 Yes^[a 4] No No No No Yes No Yes^[a 3] Yes
+   No No Yes^[a 1] No No No No
+   Curl 5 No No No No No Yes No Yes^[a 3] Yes No Yes Yes^[a 1] No No No No
+   Java 6 Yes No No No No Yes No Yes Yes No Yes Yes^[a 1] No No No No
+   Windows PowerShell 6 No No No No No Yes No Yes Yes No Yes Yes^[a 1] Yes
+   No No No
+   C# 6 (7) Yes No Library^[a 8] No No Yes^[a 9] No Yes Yes No Yes Yes^[a
+   1] No No No reactive^[a 10]
+   Visual Basic .NET 6 (7) Yes No Library^[a 8] No No Yes^[a 9] No Yes Yes
+   No Yes Yes^[a 1] No No No reactive^[a 10]
+   C++ 7 (13) Yes^[14]^[15]^[16] Library^[17] Library^[18]^[19]
+   Library^[20]^[21] Library^[22]^[23] Yes Yes^[24] Yes^[a 3] Yes
+   Library^[25]^[26] Library^[27] Yes^[a 1] Yes^[28] No Library^[29] No
+   Nemerle 7 Yes No No No No Yes Yes Yes Yes No Yes Yes^[a 1] No No No No
+   D (version 2.0) 7 (8) Yes Partial No No No Yes Yes Yes^[a 3] Yes No No
+   Yes^[a 1] No No No No
+   F# 7 (8) Yes^[a 4] No Library^[a 8] Yes No Yes No Yes Yes No Yes Yes^[a
+   1] No No No reactive^[a 10]
+   Perl^[citation needed] 8 (9) Yes^[30] Library^[31] Yes^[32] No No Yes
+   Yes No Yes No Yes^[a 1] Yes^[a 1] Yes No No No
+   Scala^[33]^[34] 9 Yes^[a 4] No Yes ^[a 11] Yes No Yes Yes Yes Yes No
+   Yes Yes^[a 1] No No No No
+   MATLAB 9 Yes^[35] Yes^[36] Yes^[37] No Yes^[38] No Yes^[39] Yes^[40] No
+   No Yes^[41] Yes^[42] No Yes^[43] No No
+   Oz 9 Yes Yes Yes No Yes Yes No No Yes Yes No Yes^[a 1] No No Yes No
+   LispWorks (version 6.0 with support for symmetric multi-processing,
+   rules, logic (Prolog), CORBA) 9 Yes No No No Yes Yes Yes No Yes Yes Yes
+   Yes^[a 1] No No Yes No
+   Mathematica 12 Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes No Yes No No Yes
+   No
+    1. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u ^v
+       ^w ^x ^y ^z ^aa ^ab ^ac ^ad ^ae ^af ^ag ^ah ^ai ^aj ^ak ^al ^am ^an
+       Class-based
+    2. ^ ^a ^b ^c ^d ^e Prototype-based
+    3. ^ ^a ^b ^c ^d ^e ^f Template metaprogramming
+    4. ^ ^a ^b ^c ^d actor programming
+    5. ^ purely functional
+    6. ^ parameterized classes
+    7. ^ rendezvous and monitor-like based
+    8. ^ ^a ^b ^c using TPL Dataflow
+    9. ^ ^a ^b only lambda support (lazy functional programming)
+   10. ^ ^a ^b ^c using Reactive Extensions (Rx)
+   11. ^ Akka
+
+See also[edit]
+
+     * Programming paradigm
+     * Categorical list of programming languages
+     * Domain-specific programming language
+     * Domain-specific multimodeling
+
+References[edit]
+
+    1. ^ Driskill, C.G. (20–22 September 1994). "Diagrammatic-graphical
+       programming languages and DoD-STD-2167A". IEEEXplore. IEEE.
+    2. ^ The Little JavaScripter demonstrates fundamental commonality with
+       Scheme, a functional language.
+    3. ^ Object Oriented Programming in JavaScript gives an overview of
+       object-oriented programming techniques in JavaScript.
+    4. ^ PHP Manual, Chapter 17. Functions
+    5. ^ PHP Manual, Chapter 19. Classes and Objects (PHP 5)
+    6. ^ PHP Manual, Anonymous functions
+    7. ^ Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3, Section 9:
+       Tasks and Synchronization
+    8. ^ Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3 Annex E:
+       Distributed Systems
+    9. ^ Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3, Section 12:
+       Generic Units
+   10. ^ Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3, Section 6:
+       Subprograms
+   11. ^ Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3, 3.9 Tagged
+       Types and Type Extensions
+   12. ^ D Language Feature Table
+   13. ^ Phobos std.algorithm
+   14. ^ Thread support
+   15. ^ Atomics support
+   16. ^ Memory model
+   17. ^ Gecode
+   18. ^ SystemC
+   19. ^ Boost.Iostreams
+   20. ^ Boolinq
+   21. ^ AraRat
+   22. ^ OpenMPI
+   23. ^ Boost.MPI
+   24. ^ Boost.MPL
+   25. ^ LC++
+   26. ^ Castor
+   27. ^ Reflect Library
+   28. ^ N3534
+   29. ^ Boost.Spirit
+   30. ^ interpreter based threads
+   31. ^ Moose
+   32. ^ Higher Order Perl
+   33. ^ An Overview of the Scala Programming Language
+   34. ^ Scala Language Specification
+   35. ^ Execute loop iterations in parallel with parfor
+   36. ^ Write constraints with Optimization Toolbox
+   37. ^ SimEvents
+   38. ^ Execute loop iterations in parallel with parfor
+   39. ^ Execute MATLAB expression in text string with eval
+   40. ^ Determine class of object
+   41. ^ Getting information about classes and objects
+   42. ^ Object-oriented programming with MATLAB
+   43. ^ Simulink
+
+     * Multiparadigm Design for C++, by Jim Coplien, 1998.
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Comparison_of_multi-paradigm
+   _programming_languages&oldid=624437387"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * Articles that may contain original research from August 2009
+     * All articles that may contain original research
+     * All articles with unsourced statements
+     * Articles with unsourced statements from March 2007
+     * Articles with unsourced statements from May 2012
+     * Articles with unsourced statements from July 2011
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Čeština
+     * Español
+     * فارسی
+     * 한국어
+     * Кыргызча
+     * Magyar
+     * Nederlands
+     * 日本語
+     * Português
+     * Română
+     * Русиньскый
+     * Русский
+     * Slovenčina
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 6 September 2014 at 17:20.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,707 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Ninth Amendment to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   The Bill of Rights in the National Archives
+
+   The Ninth Amendment (Amendment IX) to the United States Constitution,
+   which is part of the Bill of Rights, addresses rights, retained by the
+   people, that are not specifically enumerated in the Constitution.
+
+Contents
+
+     * 1 Text
+     * 2 Background prior to adoption
+     * 3 Judicial interpretation
+     * 4 Scholarly interpretation
+     * 5 Recapitulation
+     * 6 See also
+     * 7 Footnotes
+     * 8 Further reading
+          + 8.1 Books
+          + 8.2 Articles
+     * 9 External links
+
+Text[edit]
+
+     The enumeration in the Constitution, of certain rights, shall not be
+     construed to deny or disparage others retained by the people.^[1]
+
+Background prior to adoption[edit]
+
+   When the U.S. Constitution was put to the states for ratification after
+   being signed on September 17, 1787, the Anti-Federalists argued that a
+   Bill of Rights should be added. One of the arguments the Federalists
+   gave against the addition of a Bill of Rights, during the debates about
+   ratification of the Constitution, was that a listing of rights could
+   problematically enlarge the powers specified in Article One, Section 8
+   of the new Constitution by implication. For example, in Federalist 84,
+   Alexander Hamilton asked, "Why declare that things shall not be done
+   which there is no power to do?"^[2] Likewise, James Madison explained
+   to Thomas Jefferson, "I conceive that in a certain degree ... the
+   rights in question are reserved by the manner in which the federal
+   powers are granted"^[3] by Article One, Section 8 of the Constitution.
+
+   The Anti-Federalists persisted in favor of a Bill of Rights during the
+   ratification debates, but also were against ratification, and
+   consequently several of the state ratification conventions gave their
+   assent with accompanying resolutions proposing amendments to be added.
+   In 1788, the Virginia Ratifying Convention attempted to solve the
+   problem that Hamilton and the Federalists had identified by proposing a
+   constitutional amendment specifying:^[4]
+
+     That those clauses which declare that Congress shall not exercise
+     certain powers be not interpreted in any manner whatsoever to extend
+     the powers of Congress. But that they may be construed either as
+     making exceptions to the specified powers where this shall be the
+     case, or otherwise as inserted merely for greater caution.
+
+   This proposal ultimately led to the Ninth Amendment.
+
+   In 1789, while introducing to the House of Representatives nineteen^[5]
+   draft Amendments, James Madison addressed what would become the Ninth
+   Amendment as follows:^[6]
+
+     It has been objected also against a Bill of Rights, that, by
+     enumerating particular exceptions to the grant of power, it would
+     disparage those rights which were not placed in that enumeration;
+     and it might follow by implication, that those rights which were not
+     singled out, were intended to be assigned into the hands of the
+     General Government, and were consequently insecure. This is one of
+     the most plausible arguments I have ever heard against the admission
+     of a bill of rights into this system; but, I conceive, that it may
+     be guarded against. I have attempted it, as gentlemen may see by
+     turning to the last clause of the fourth resolution.
+
+   Like Alexander Hamilton, Madison was concerned that enumerating various
+   rights could "enlarge the powers delegated by the constitution."^[6] To
+   attempt to solve this problem, Madison submitted this draft to
+   Congress:
+
+     The exceptions here or elsewhere in the constitution, made in favor
+     of particular rights, shall not be so construed as to diminish the
+     just importance of other rights retained by the people; or as to
+     enlarge the powers delegated by the constitution; but either as
+     actual limitations of such powers, or as inserted merely for greater
+     caution.^[6]
+
+   This was an intermediate form of the Ninth Amendment that borrowed
+   language from the Virginia proposal, while foreshadowing the final
+   version.
+
+   The final text of the Ninth Amendment, like Madison's draft, speaks of
+   other rights than those enumerated in the Constitution. The character
+   of those other rights was indicated by Madison in his speech
+   introducing the Bill of Rights (emphasis added):
+
+     It has been said, by way of objection to a bill of rights....that in
+     the Federal Government they are unnecessary, because the powers are
+     enumerated, and it follows, that all that are not granted by the
+     constitution are retained; that the constitution is a bill of
+     powers, the great residuum being the rights of the people; and,
+     therefore, a bill of rights cannot be so necessary as if the
+     residuum was thrown into the hands of the Government. I admit that
+     these arguments are not entirely without foundation, but they are
+     not as conclusive to the extent it has been proposed. It is true the
+     powers of the general government are circumscribed; they are
+     directed to particular objects; but even if government keeps within
+     those limits, it has certain discretionary powers with respect to
+     the means, which may admit of abuse.^[6]
+
+   The First through Eighth Amendments address the means by which the
+   federal government exercises its enumerated powers, while the Ninth
+   Amendment addresses a "great residuum" of rights that have not been
+   "thrown into the hands of the government," as Madison put it.^[6] The
+   Ninth Amendment became part of the Constitution on December 15, 1791
+   upon ratification by three-fourths of the states.
+
+Judicial interpretation[edit]
+
+   The Ninth Amendment has generally been regarded by the courts as
+   negating any expansion of governmental power on account of the
+   enumeration of rights in the Constitution, but the Amendment has not
+   been regarded as further limiting governmental power. The U.S. Supreme
+   Court explained this, in U.S. Public Workers v. Mitchell 330 U.S. 75
+   (1947): "If granted power is found, necessarily the objection of
+   invasion of those rights, reserved by the Ninth and Tenth Amendments,
+   must fail."
+
+   The Supreme Court held in Barron v. Baltimore (1833) that the Amendment
+   was enforceable by the federal courts only against the federal
+   government, and not against the states. Thus, the Ninth Amendment
+   originally applied only to the federal government, which is a
+   government of enumerated powers.
+
+   Some jurists have asserted that the Ninth Amendment is relevant to
+   interpretation of the Fourteenth Amendment. Justice Arthur Goldberg
+   (joined by Chief Justice Earl Warren and Justice William Brennan)
+   expressed this view in a concurring opinion in the case of Griswold v.
+   Connecticut (1965):
+
+     The Framers did not intend that the first eight amendments be
+     construed to exhaust the basic and fundamental rights.... I do not
+     mean to imply that the .... Ninth Amendment constitutes an
+     independent source of rights protected from infringement by either
+     the States or the Federal Government....While the Ninth Amendment -
+     and indeed the entire Bill of Rights - originally concerned
+     restrictions upon federal power, the subsequently enacted Fourteenth
+     Amendment prohibits the States as well from abridging fundamental
+     personal liberties. And, the Ninth Amendment, in indicating that not
+     all such liberties are specifically mentioned in the first eight
+     amendments, is surely relevant in showing the existence of other
+     fundamental personal rights, now protected from state, as well as
+     federal, infringement. In sum, the Ninth Amendment simply lends
+     strong support to the view that the "liberty" protected by the Fifth
+     and Fourteenth Amendments from infringement by the Federal
+     Government or the States is not restricted to rights specifically
+     mentioned in the first eight amendments. Cf. United Public Workers
+     v. Mitchell, 330 U.S. 75, 94-95.
+
+   Since Griswold, some judges have tried to use the Ninth Amendment to
+   justify judicially enforcing rights that are not enumerated. For
+   example, the District Court that heard the case of Roe v. Wade ruled in
+   favor of a "Ninth Amendment right to choose to have an abortion,"
+   although it stressed that the right was "not unqualified or
+   unfettered." ^[7] However, Justice William O. Douglas rejected that
+   view; Douglas wrote that, "The Ninth Amendment obviously does not
+   create federally enforceable rights." See Doe v. Bolton (1973). Douglas
+   joined the majority opinion of the U.S. Supreme Court in Roe, which
+   stated that a federally enforceable right to privacy, "whether it be
+   founded in the Fourteenth Amendment's concept of personal liberty and
+   restrictions upon state action, as we feel it is, or, as the District
+   Court determined, in the Ninth Amendment's reservation of rights to the
+   people, is broad enough to encompass a woman's decision whether or not
+   to terminate her pregnancy."^[8]
+
+   The Sixth Circuit Court of Appeals stated in Gibson v. Matthews, 926
+   F.2d 532, 537 (6th Cir. 1991) that the Ninth Amendment was intended to
+   vitiate the maxim of expressio unius est exclusio alterius according to
+   which the express mention of one thing excludes all others:
+
+     [T]he ninth amendment does not confer substantive rights in addition
+     to those conferred by other portions of our governing law. The ninth
+     amendment was added to the Bill of Rights to ensure that the maxim
+     expressio unius est exclusio alterius would not be used at a later
+     time to deny fundamental rights merely because they were not
+     specifically enumerated in the Constitution.
+
+   Justice Antonin Scalia has expressed the view, in the dissenting
+   opinion of Troxel v. Granville 530 U.S. 57 (2000), that:
+
+     The Declaration of Independence...is not a legal prescription
+     conferring powers upon the courts; and the Constitution’s refusal to
+     'deny or disparage' other rights is far removed from affirming any
+     one of them, and even farther removed from authorizing judges to
+     identify what they might be, and to enforce the judges’ list against
+     laws duly enacted by the people.
+
+Scholarly interpretation[edit]
+
+   Professor Laurence Tribe shares the view that this amendment does not
+   confer substantive rights: "It is a common error, but an error
+   nonetheless, to talk of 'ninth amendment rights.' The ninth amendment
+   is not a source of rights as such; it is simply a rule about how to
+   read the Constitution."^[9]
+
+   In 2000, Harvard historian Bernard Bailyn gave a speech at the White
+   House on the subject of the Ninth Amendment. He said that the Ninth
+   Amendment refers to "a universe of rights, possessed by the people —
+   latent rights, still to be evoked and enacted into law....a reservoir
+   of other, unenumerated rights that the people retain, which in time may
+   be enacted into law."^[10] Similarly, journalist Brian Doherty has
+   argued that the Ninth Amendment "specifically roots the Constitution in
+   a natural rights tradition that says we are born with more rights than
+   any constitution could ever list or specify."^[11]
+
+   Robert Bork, often considered an originalist, stated during his Supreme
+   Court confirmation hearing that a judge should not apply a
+   constitutional provision like this one if he does not know what it
+   means; the example Bork then gave was a clause covered by an inkblot.
+   Upon further study, Bork later ascribed a meaning to the Ninth
+   Amendment in his book The Tempting of America. In that book, Bork
+   subscribed to the interpretation of constitutional historian Russell
+   Caplan, who asserted that this Amendment was meant to ensure that the
+   federal Bill of Rights would not affect provisions in state law that
+   restrain state governments.^[12]
+
+   A libertarian originalist, Randy Barnett, has argued that the Ninth
+   Amendment requires what he calls a presumption of liberty. Barnett also
+   argues that the Ninth Amendment prevents the government from
+   invalidating a ruling by either a jury or lower court through strict
+   interpretation of the Bill of Rights.^[12]
+
+   Still others, such as Thomas B. McAffee, have argued that the Ninth
+   Amendment protects the unenumerated "residuum" of rights which the
+   federal government was never empowered to violate.^[13]
+
+   According to lawyer and diplomat Frederic Jesup Stimson, the framers of
+   the Constitution and the Ninth Amendment intended that no rights that
+   they already held would be lost through omission. Law professor Charles
+   Lund Black took a similar position, though Stimson and Black
+   respectively acknowledged that their views differed from the modern
+   view, and differed from the prevalent view in academic
+   writing.^[14]^[15]
+
+   Gun rights activists in recent decades have sometimes argued for a
+   fundamental natural right to keep and bear arms in the United States
+   that both predates the U.S. Constitution and is covered by the
+   Constitution's Ninth Amendment; according to this viewpoint, the Second
+   Amendment only enumerates a pre-existing right to keep and bear
+   arms.^[16]
+
+Recapitulation[edit]
+
+   The Ninth Amendment explicitly bars denial of unenumerated rights if
+   the denial is based on the enumeration of certain rights in the
+   Constitution, but this amendment does not explicitly bar denial of
+   unenumerated rights if the denial is based on the enumeration of
+   certain powers in the Constitution.^[17] It is to that enumeration of
+   powers that the courts have pointed, in order to determine the extent
+   of the unenumerated rights mentioned in the Ninth Amendment.^[17]
+
+See also[edit]
+
+     * Constitutionalism
+     * Exception that proves the rule
+     * Originalism
+     * Tenth Amendment
+
+Footnotes[edit]
+
+    1. ^ United States Government Printing Office. "Unenumerated Rights
+       --- Ninth Amendment". gpo.gov.
+    2. ^ Alexander Hamilton, Federalist, no. 84, 575--81 (28 May 1788).
+    3. ^ James Madison, Letter to Thomas Jefferson (October 17, 1788).
+       Madison often expressed this idea, for example in a letter to
+       George Washington dated December 5, 1789 ("If a line can be drawn
+       between the powers granted and the rights retained, it would seem
+       to be the same thing, whether the latter be secured by declaring
+       that they shall not be abridged, or that the former shall not be
+       extended").
+    4. ^ Virginia Ratification Resolution (June 26, 1788).
+    5. ^ Amendments Offered in Congress by James Madison June 8, 1789
+    6. ^ ^a ^b ^c ^d ^e James Madison,Speech Introducing Bill of Rights
+       (June 8, 1789).
+    7. ^ Roe v. Wade, 314 F. Supp. 1217 at 1223 (1970).
+    8. ^ Roe v. Wade, 410 U.S. 113 (1973). Findlaw.com. Retrieved
+       2007-06-04.
+    9. ^ Laurence H. Tribe, American Constitutional Law 776 n. 14 (2nd ed.
+       1998).
+   10. ^ Bernard Bailyn, Remarks at White House Millennium Evening (2000).
+   11. ^ Doherty, Brian, Radicals for Capitalism: A Freewheeling History
+       of the Modern American Libertarian Movement, pg. 28 (2007)
+   12. ^ ^a ^b Randy E. Barnett (November 2006). "The Ninth Amendment: It
+       Means What It Says". Texas Law Review (UT Law School Publications)
+       85 (1): 1–82. Retrieved 2013-07-20.
+   13. ^ Thomas B. McAffee, Federalism and the Protection of Rights: The
+       Modern Ninth Amendment's Spreading Confusion, 1996 B.Y.U. Law Rev.
+       351 (via archive.org).
+   14. ^ Frederic Jesup Stimson, The Law of the Federal and State
+       Constitutions of the United States; Book One, Origin and Growth of
+       the American Constitutions, 2004, Introductory, Lawbook Exchange
+       Ltd, ISBN 1-58477-369-3. According to Stimson:
+
+     It was at first believed by our greatest judges and jurists that the
+     whole English Constitution was implied in the Federal Constitution ;
+     that there is, as it were, an unwritten Constitution which we
+     inherited in America and which consisted, not only of the English
+     Constitution where not expressly altered by our own, but of all
+     matters of natural right and justice. Doubtless this is the intended
+     meaning of the Ninth Amendment…. Such is not, perhaps, the modern
+     view ; but the question has become, in fact, academic, for the
+     reason that in 120 years of interpretation our Supreme Court has
+     ever found some clause in the Federal Constitution into which to
+     read any English constitutional principle not therein expressly
+     altered.
+   15. ^ Charles Lund Black, A New Birth of Freedom, 1999, p. 10, Yale
+       University Press, ISBN 0-300-07734-3. According to Black, "The
+       Academic writing on this amendment seems to me in great part a
+       multidirectional fluttering flight from the Amendment’s rather
+       plain meaning….”
+   16. ^ Nicholas Johnson, Beyond the Second Amendment: An Individual
+       Right to Arms Viewed Through The Ninth Amendment, 24 Rutgers L.J.
+       1, 64-67 (1992).
+   17. ^ ^a ^b United Public Workers v. Mitchell, 330 U.S. 75 (1947). See
+       also Jenkins v. Commissioner of Internal Revenue, 483 F.3d 90 (2d
+       Cir 2007).
+
+Further reading[edit]
+
+Books[edit]
+
+     * Barnett, Randy E. (2005). Restoring the Lost Constitution: The
+       Presumption of Liberty. Princeton, NJ: Princeton University Press.
+       ISBN 0-691-12376-4.
+     * Farber, Daniel A. (2007). Retained by the People: The "Silent"
+       Ninth Amendment and the Constitutional Rights Americans Don't Know
+       They Have. Perseus Books Group. ISBN 0-465-02298-7.
+     * Lash, Kurt T. (2009). The Lost History of the Ninth Amendment.
+       Oxford University Press. ISBN 0-19-537261-1.
+
+Articles[edit]
+
+     * Barnett, Randy. "The Ninth Amendment: It Means What It Says", Texas
+       Law Review, Vol. 85, p. 1 (2006).
+     * Barnett, Randy. "Kurt Lash's Majoritarian Difficulty", Stanford Law
+       Review, Vol. 60 (2008).
+     * Lash, Kurt. "The Lost Original Meaning of the Ninth Amendment",
+       Texas Law Review, Vol. 83 (2004).
+     * Lash, Kurt. "The Lost Jurisprudence of the Ninth Amendment", Texas
+       Law Review, Vol. 83 (2005).
+     * Lash, Kurt. "A Textual-Historical Theory of the Ninth Amendment",
+       Stanford Law Review, Vol. 60, p. 906 (2008).
+     * McConnell, Michael. "The Ninth Amendment in Light of Text and
+       History", Cato Supreme Court Review 13 (2009-2010).
+     * Williams, Ryan. "The Ninth Amendment as a Rule of Construction",
+       Columbia Law Review, Vol. 111, p. 498 (2011).
+
+External links[edit]
+
+     * "CRS Annotated Constitution: 9th Amendment" by the Congressional
+       Research Service (2000)
+     * "Proposed Amendments to the Constitution" by James Madison (1789)
+     * "Bill of Rights Institute: Ninth Amendment"
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Ninth_Amendment_to_the_Unite
+   d_States_Constitution&oldid=623326704"
+   Categories:
+     * 1791 in law
+     * Amendments to the United States Constitution
+     * 1791 in American politics
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Беларуская
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * עברית
+     * Polski
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 29 August 2014 at 15:58.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

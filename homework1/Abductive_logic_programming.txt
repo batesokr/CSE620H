@@ -1,0 +1,446 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Abductive logic programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Abductive logic programming (ALP) is a high level
+   knowledge-representation framework that can be used to solve problems
+   declaratively based on abductive reasoning. It extends normal logic
+   programming by allowing some predicates to be incompletely defined,
+   declared as abducible predicates. Problem solving is effected by
+   deriving hypotheses on these abducible predicates (abductive
+   hypotheses) as solutions of problems to be solved. These problems can
+   be either observations that need to be explained (as in classical
+   abduction) or goals to be achieved (as in normal logic programming). It
+   can be used to solve problems in Diagnosis, Planning, Natural Language
+   and Machine Learning. It has also been used to interpret Negation as
+   failure as a form of abductive reasoning.
+
+Contents
+
+     * 1 Syntax
+     * 2 Informal meaning and problem solving
+          + 2.1 Example 1
+          + 2.2 Example 2
+          + 2.3 Example 3
+     * 3 Formal semantics
+     * 4 Implementation and systems
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+Syntax[edit]
+
+   Abductive logic programs have three components, <P,A,IC>, where:
+     * P is a logic program of exactly the same form as in Logic
+       Programming
+     * A is a set of predicate names, called the abducible predicates
+     * IC is a set of first order classical formulae.
+
+   Normally, the logic program P does not contain any clauses whose head
+   (or conclusion) refers to an abducible predicate. (This restriction can
+   be made without loss of generality.) Also in practice, many times the
+   integrity constraints in IC are often restricted to the form of
+   denials, i.e. clauses of the form:
+   false:- A1,...,An, not B1, ..., not Bm.
+
+   Such a constraint means that it is not possible for all A1,...,An to be
+   true and at the same time all of B1,...,Bm to be false.
+
+Informal meaning and problem solving[edit]
+
+   The clauses in P define a set of non-abducible predicates and through
+   this they provide a description (or model) of the problem domain. The
+   integrity constraints in IC specify general properties of the problem
+   domain that need to be respected in any solution of our problem.
+
+   A problem, G, which expresses either an observation that needs to be
+   explained or a goal that is desired, is represented by a conjunction of
+   positive and negative (NAF) literals. Such problems are solved by
+   computing "abductive explanations" of G.
+
+   An abductive explanation of a problem G is a set of positive (and
+   sometimes also negative) ground instances of the abducible predicates,
+   such that, when these are added to the logic program P, the problem G
+   and the integrity constraints IC both hold. Thus abductive explanations
+   extend the logic program P by the addition of full or partial
+   definitions of the abducible predicates. In this way, abductive
+   explanations form solutions of the problem according to the description
+   of the problem domain in P and IC. The extension or completion of the
+   problem description given by the abductive explanations provides new
+   information, hitherto not contained in the solution to the problem.
+   Quality criteria to prefer one solution over another, often expressed
+   via integrity constraints, can be applied to select specific abductive
+   explanations of the problem G.
+
+   Computation in ALP combines the backwards reasoning of normal logic
+   programming (to reduce problems to sub-problems) with a kind of
+   integrity checking to show that the abductive explanations satisfy the
+   integrity constraints.
+
+   The following two examples, written in simple structured English rather
+   than in the strict syntax of ALP, illustrate the notion of abductive
+   explanation in ALP and its relation to problem solving.
+
+Example 1[edit]
+
+   The abductive logic program, \langle P,A,\mathit{IC} \rangle , has in P
+   the following sentences:
+  Grass is wet if it rained.
+  Grass is wet if the sprinkler was on.
+  The sun was shining.
+
+   The abducible predicates in A are "it rained" and "the sprinkler was
+   on" and the only integrity constraint in \mathit{IC} is:
+  false if it rained and the sun was shining.
+
+   The observation that the grass is wet has two potential explanations,
+   "it rained" and "the sprinkler was on", which entail the observation.
+   However, only the second potential explanation, "the sprinkler was on",
+   satisfies the integrity constraint.
+
+Example 2[edit]
+
+   Consider the abductive logic program consisting of the following
+   (simplified) clauses:
+  X is a citizen if X is born in the USA.
+  X is a citizen if X is born outside the USA and X is a resident of the USA and
+ X is naturalized.
+  X is a citizen if X is born outside the USA and Y is the mother of X and Y is
+a citizen and X is registered.
+  Mary is the mother of John.
+  Mary is a citizen.
+
+   together with the five abducible predicates, "is born in the USA", "is
+   born outside the USA", "is a resident of the USA", "is naturalized" and
+   "is registered" and the integrity constraint:
+  false if John is a resident of the USA.
+
+   The goal "John is citizen" has two abductive solutions, one of which is
+   "John is born in the USA", the other of which is "John is born outside
+   the USA" and "John is registered". The potential solution of becoming a
+   citizen by residence and naturalization fails because it violates the
+   integrity constraint.
+
+   A more complex example that is also written in the more formal syntax
+   of ALP is the following.
+
+Example 3[edit]
+
+   The abductive logic program below describes a simple model of the
+   lactose metabolism of the bacterium E. Coli. The program P describes
+   the fact that E. coli can feed on the sugar lactose if it makes two
+   enzymes permease and galactosidase. Like all enzymes (E), these are
+   made if they are coded by a gene (G) that is expressed. These enzymes
+   are coded by two genes (lac(y) and lac(z)) in cluster of genes (lac(X))
+   – called an operon – that is expressed when the amounts (amt) of
+   glucose are low and lactose are high or when they are both at medium
+   level. The abducibles, A, declare all ground instances of the
+   predicates "amount" as assumable. This reflects the fact that in the
+   model the amounts at any time of the various substances are unknown.
+   This is incomplete information that is to be determined in each problem
+   case. The integrity constraints state that the amount of a substance
+   (S) can only take one value.
+
+   Domain Knowledge (P)
+  feed(lactose):-make(permease),make(galactosidase).
+  make(Enzyme):-code(Gene,Enzyme),express(Gene).
+  express(lac(X)):-amount(glucose,low),amount(lactose,hi).
+  express(lac(X)):-amount(glucose,medium),amount(lactose,medium).
+  code(lac(y),permease).
+  code(lac(z),galactosidase).
+  temperature(low):-amount(glucose,low).
+
+   Integrity Constraints (IC)
+  false :- amount(S,V1), amount(S,V2), V1  \neq  V2.
+
+   Abducibles (A)
+  abducible_predicate(amount).
+
+   The problem goal is G=feed(lactose) . This can arise either as an
+   observation to be explained or as a state of affairs to be achieved by
+   finding a plan. This goal has two abductive explanations:
+
+   \Delta_1=\{amount(lactose,hi), amount(glucose,low)\}
+
+   \Delta_2=\{amount(lactose,medium), amount(glucose,medium)\}
+
+   The decision which of the two to adopt could depend on addition
+   information that is available, e.g. it may be known that when the level
+   of glucose is low then the organism exhibits a certain behaviour - in
+   the model such additional information is that the temperature of the
+   organism is low - and by observing the truth or falsity of this it is
+   possible to choose the first or second explanation respectively.
+
+   Once an explanation has been chosen, then this becomes part of the
+   theory, which can be used to draw new conclusions. The explanation and
+   more generally these new conclusions form the solution of the problem.
+
+Formal semantics[edit]
+
+   The formal semantics of the central notion of an abductive explanation
+   in ALP, can be defined in the following way.
+
+   Given an abductive logic program, \langle P,A,\mathit{IC}\rangle , an
+   abductive explanation for a problem G is a set \Delta of ground atoms
+   on abducible predicates such that:
+     * P \cup \Delta \models G
+     * P \cup \Delta \models IC
+     * P \cup \Delta is consistent
+
+   This definition leaves open the choice of the underlying semantics of
+   logic programming through which we give the exact meaning of the
+   entailment relation \models and the notion of consistency of the
+   (extended) logic programs. Any of the different semantics of logic
+   programming such as the completion, stable or well-founded semantics
+   can (and have been used in practice) to give different notions of
+   abductive explanations and thus different forms of ALP frameworks.
+
+   The above definition takes a particular view on the formalization of
+   the role of the integrity constraints \mathit{IC} as restrictions on
+   the possible abductive solutions. It requires that these are entailed
+   by the logic program extended with an abductive solution, thus meaning
+   that in any model of the extended logic program (which we can think off
+   as an ensuing world given \Delta ) the requirements of the integrity
+   constraints are met. In some cases this may be unnecessarily strong and
+   the weaker requirement of consistency, namely that P \cup \mathit{IC}
+   \cup \Delta is consistent, can be sufficient, meaning that there exists
+   at least one model (possible ensuing world) of the extended program
+   where the integrity constraints hold. In practice, in many cases these
+   two ways of formalizing the role of the integrity constraints coincide
+   as the logic program and its extensions always have a unique model.
+   Many of the ALP systems use the entailment view of the integrity
+   constraints as this can be easily implemented without the need for any
+   extra specialized procedures for the satisfaction of the integrity
+   constraints since this view treats the constraints in the same way as
+   the problem goal. Note also that in many practical cases the third
+   condition in this formal definition of an abductive explanation in ALP
+   is either trivially satisfied or it is contained in the second
+   condition via the use of specific integrity constraints that capture
+   consistency.
+
+Implementation and systems[edit]
+
+   Most of the implementations of ALP extend the SLD resolution based
+   computational model of logic programming. ALP can also be implemented
+   by means on its link with Answer Set Programming (ASP), where the ASP
+   systems can be employed. Examples of systems of the former approach are
+   ACLP, A-system, CIFF, SCIFF, ABDUAL and ProLogICA.
+
+See also[edit]
+
+     * Abductive reasoning
+     * Answer set programming
+     * Inductive logic programming
+     * Negation as failure
+     * Argumentation
+
+References[edit]
+
+     * Poole, D.; Goebel, R.; Aleliunas, R. (1987). "Theorist: a logical
+       reasoning system for defaults and diagnosis". In Cercone, Nick;
+       McCalla, Gordon. The Knowledge Frontier: Essays in the
+       Representation of Knowledge. Springer. pp. 331–352.
+       ISBN 978-0-387-96557-4.
+     * Kakas, A.C.; Mancarella, P. (1990). "Generalised Stable Models: A
+       Semantics for Abduction". In Aiello, L.C. ECAI 90: proceedings of
+       the 9th European Conference on Artificial Intelligence. Pitman.
+       pp. 385–391. ISBN 027308822X.
+     * Console, L.; Dupre, D.T.; Torasso, P. (1991). "On the Relationship
+       between Abduction and Deduction". J Logic Computation 1 (5):
+       661–690. doi:10.1093/logcom/1.5.661.
+     * Kakas, A.C.; Kowalski, R.A.; Toni, F. (1993). "Abductive Logic
+       Programming". J Logic Computation 2 (6): 719–770.
+       doi:10.1093/logcom/2.6.719.
+     * Denecker, Marc; De Schreye, Danny (February 1998). "SLDNFA: An
+       Abductive Procedure for Abductive Logic Programs". J. Logic
+       Programming 34 (2): 111–167. doi:10.1016/S0743-1066(97)00074-5.
+       CiteSeerX: 10.1.1.21.6503.
+     * Denecker, M.; Kakas, A.C. (July 2000). "Special issue: abductive
+       logic programming". J. Logic Programming 44 (1-3): 1–4.
+       doi:10.1016/S0743-1066(99)00078-3.
+     * Denecker, M.; Kakas, A.C. (2002). "Abduction in Logic Programming".
+       In Kakas, A.C.; Sadri, F. Computational Logic: Logic Programming
+       and Beyond: Essays in Honour of Robert A. Kowalski. Lecture notes
+       in computer science 2407. Springer. pp. 402–437.
+       ISBN 978-3-540-43959-2.
+     * Poole, D. (1993). "Probabilistic Horn abduction and Bayesian
+       networks" (PDF). Artificial Intelligence, 64 (1): 81–129.
+       doi:10.1016/0004-3702(93)90061-F.
+     * Esposito, F.; Ferilli, S.; Basile, T.M.A.; Di Mauro, N. (February
+       2007). "Inference of abduction theories for handling incompleteness
+       in first-order learning" (PDF). Knowl. Inf. Syst. 11 (2): 217–242.
+       doi:10.1007/s10115-006-0019-5.
+
+External links[edit]
+
+     * ACLP
+     * ACL
+     * SCIFF
+     * Asystem
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Abductive_logic_programming&
+   oldid=611384172"
+   Categories:
+     * Logic programming
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Italiano
+     *
+
+   Edit links
+
+     * This page was last modified on 3 June 2014 at 14:21.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,479 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Constraint programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article possibly contains original research. Please improve it by
+   verifying the claims made and adding inline citations. Statements
+   consisting only of original research should be removed. (June 2011)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   In computer science, constraint programming is a programming paradigm
+   wherein relations between variables are stated in the form of
+   constraints. Constraints differ from the common primitives of
+   imperative programming languages in that they do not specify a step or
+   sequence of steps to execute, but rather the properties of a solution
+   to be found. This makes constraint programming a form of declarative
+   programming. The constraints used in constraint programming are of
+   various kinds: those used in constraint satisfaction problems (e.g. "A
+   or B is true"), those solved by the simplex algorithm (e.g. "x ≤ 5"),
+   and others. Constraints are usually embedded within a programming
+   language or provided via separate software libraries.
+
+   Constraint programming can be expressed in the form of constraint logic
+   programming, which embeds constraints into a logic program. This
+   variant of logic programming is due to Jaffar and Lassez, who extended
+   in 1987 a specific class of constraints that were introduced in Prolog
+   II. The first implementations of constraint logic programming were
+   Prolog III, CLP(R), and CHIP.
+
+   Instead of logic programming, constraints can be mixed with functional
+   programming, term rewriting, and imperative languages. Programming
+   languages with built-in support for constraints include Oz (functional
+   programming) and Kaleidoscope (imperative programming). Mostly,
+   constraints are implemented in imperative languages via constraint
+   solving toolkits, which are separate libraries for an existing
+   imperative language.
+
+Contents
+
+     * 1 Constraint logic programming
+     * 2 Domains
+     * 3 Logic programming based constraint logic languages
+     * 4 Constraint programming libraries for imperative programming
+       languages
+     * 5 Some languages that support constraint programming
+     * 6 See also
+     * 7 References
+     * 8 External links
+
+Constraint logic programming[edit]
+
+   Main article: Constraint logic programming
+
+   Constraint programming is an embedding of constraints in a host
+   language. The first host languages used were logic programming
+   languages, so the field was initially called constraint logic
+   programming. The two paradigms share many important features, like
+   logical variables and backtracking. Today most Prolog implementations
+   include one or more libraries for constraint logic programming.
+
+   The difference between the two is largely in their styles and
+   approaches to modeling the world. Some problems are more natural (and
+   thus, simpler) to write as logic programs, while some are more natural
+   to write as constraint programs.
+
+   The constraint programming approach is to search for a state of the
+   world in which a large number of constraints are satisfied at the same
+   time. A problem is typically stated as a state of the world containing
+   a number of unknown variables. The constraint program searches for
+   values for all the variables.
+
+   Temporal concurrent constraint programming (TCC) and non-deterministic
+   temporal concurrent constraint programming (NTCC) are variants of
+   constraint programming that can deal with time. Recently NTCC has
+   proved to be a useful framework for describing and modelling biological
+   systems [1].
+
+Domains[edit]
+
+   The constraints used in constraint programming are typically over some
+   specific domains. Some popular domains for constraint programming are:
+     * boolean domains, where only true/false constraints apply (SAT
+       problem)
+     * integer domains, rational domains
+     * linear domains, where only linear functions are described and
+       analyzed (although approaches to non-linear problems do exist)
+     * finite domains, where constraints are defined over finite sets
+     * mixed domains, involving two or more of the above
+
+   Finite domains is one of the most successful domains of constraint
+   programming. In some areas (like operations research) constraint
+   programming is often identified with constraint programming over finite
+   domains.
+
+   All of the above examples are commonly solved by satisfiability modulo
+   theories (SMT) solvers.
+
+   Finite domain solvers are useful for solving constraint satisfaction
+   problems, and are often based on arc consistency or one of its
+   approximations.
+
+   The syntax for expressing constraints over finite domains depends on
+   the host language. The following is a Prolog program that solves the
+   classical alphametic puzzle SEND+MORE=MONEY in constraint logic
+   programming:
+% This code works in both YAP and SWI-Prolog using the environment-supplied
+% CLPFD constraint solver library.  It may require minor modifications to work
+% in other Prolog environments or using other constraint solvers.
+:- use_module(library(clpfd)).
+sendmore(Digits) :-
+   Digits = [S,E,N,D,M,O,R,Y],     % Create variables
+   Digits ins 0..9,                % Associate domains to variables
+   S #\= 0,                        % Constraint: S must be different from 0
+   M #\= 0,
+   all_different(Digits),          % all the elements must take different values
+                1000*S + 100*E + 10*N + D     % Other constraints
+              + 1000*M + 100*O + 10*R + E
+   #= 10000*M + 1000*O + 100*N + 10*E + Y,
+   label(Digits).                  % Start the search
+
+   The interpreter creates a variable for each letter in the puzzle. The
+   operator ins is used to specify the domains of these variables, so that
+   they range over the set of values {0,1,2,3, ..., 9}. The constraints
+   S#\=0 and M#\=0 means that these two variables cannot take the value
+   zero. When the interpreter evaluates these constraints, it reduces the
+   domains of these two variables by removing the value 0 from them. Then,
+   the constraint all_different(Digits) is considered; it does not reduce
+   any domain, so it is simply stored. The last constraint specifies that
+   the digits assigned to the letters must be such that "SEND+MORE=MONEY"
+   holds when each letter is replaced by its corresponding digit. From
+   this constraint, the solver infers that M=1. All stored constraints
+   involving variable M are awakened: in this case, constraint propagation
+   on the all_different constraint removes value 1 from the domain of all
+   the remaining variables. Constraint propagation may solve the problem
+   by reducing all domains to a single value, it may prove that the
+   problem has no solution by reducing a domain to the empty set, but may
+   also terminate without proving satisfiability or unsatisfiability. The
+   label literals are used to actually perform search for a solution.
+
+Logic programming based constraint logic languages[edit]
+
+     * B-Prolog (Prolog-based, proprietary)
+     * CHIP V5^[1] (Prolog-based, also includes C++ and C libraries,
+       proprietary)
+     * Ciao (Prolog-based, Free software: GPL/LGPL)
+     * ECLiPSe (Prolog-based, open source)
+     * SICStus (Prolog-based, proprietary)
+     * GNU Prolog (free software)
+     * YAP Prolog[2]
+     * SWI Prolog a free Prolog system containing several libraries for
+       constraint solving
+     * Jekejeke Minlog (Prolog-based, proprietary)
+     * F1 Compiler (free software)
+
+Constraint programming libraries for imperative programming languages[edit]
+
+   Constraint programming is often realized in imperative programming via
+   a separate library. Some popular libraries for constraint programming
+   are:
+     * Artelys Kalis (C++, Java, Python library, FICO Xpress module,
+       proprietary)
+     * Cassowary (Smalltalk, C++ and Java library, free software: LGPL, no
+       longer maintained)
+     * CHIP V5 C++ and C libraries (proprietary)
+     * Choco (Java library, free software: X11 style)
+     * Comet (C style language for constraint programming,
+       constraint-based local search and mathematical programming, free
+       binaries available for academic use)
+     * Cream (Java library, free software: LGPL)
+     * Disolver (C++ library, proprietary)
+     * Emma (Python library, proprietary)
+     * Gecode (C++ library, free software: X11 style)
+     * Google CP Solver (Python, Java, C++ and .NET library, Apache
+       license)
+     * IBM ILOG CP (C++ library, proprietary) and CP Optimizer (C++, Java,
+       .NET libraries, proprietary) successor^[2] of ILOG Solver, which
+       was considered the market leader in commercial constraint
+       programming software as of 2006^[3]
+     * JaCoP (Java library, open source) available here
+     * JOpt (Java library, free software)
+     * JSR-331 (Java Constraint Programming API, JCP standard)
+     * Koalog Constraint Solver (Java library, proprietary)
+     * Numberjack (Python platform, free software: LGPL)
+     * Minion (C++ program, GPL)
+     * python-constraint (Python library, GPL)
+     * OscaR (Scala library, LGPL)
+     * Turtle (free software: GPL)
+     * OptaPlanner (Java library, Apache license)
+
+Some languages that support constraint programming[edit]
+
+     * AIMMS, an algebraic modeling language with support for constraint
+       programming.^[4]
+     * Alma-0 a small, strongly typed, constraint language with a limited
+       number of features inspired by logic programming, supporting
+       imperative programming.
+     * AMPL, an algebraic modeling language with support for constraint
+       programming.^[5]
+     * Bertrand a language for building constraint programming systems.
+     * Common Lisp via Screamer (a free software library which provides
+       backtracking and CLP(R), CHiP features).
+     * G12 MiniZinc (a high-level constraint programming system, BSD-style
+       license)
+     * Kaleidoscope, an object-oriented imperative constraint programming
+       language.
+     * Oz
+     * Claire
+     * Curry (Haskell based, with free implementations)
+     * SystemVerilog Computer hardware simulation language has built in
+       constraint solver.
+
+See also[edit]
+
+     * Combinatorial optimization
+     * Constraint satisfaction
+     * Constraint logic programming
+     * Heuristic algorithms
+     * Mathematical programming (Optimization theory)
+     * Nurse scheduling problem
+     * Traveling tournament problem
+     * Concurrent Constraint Programming (CCP)
+
+References[edit]
+
+    1. ^ CHIP V5 COSYTEC
+    2. ^ Frédéric Benhamou; Narendra Jussien; Barry O'Sullivan (2007).
+       Trends in constraint programming. John Wiley and Sons. p. 45.
+       ISBN 978-1-905209-97-2.
+    3. ^ Francesca Rossi; Peter Van Beek; Toby Walsh (2006). Handbook of
+       constraint programming. Elsevier. p. 157. ISBN 978-0-444-52726-4.
+    4. ^ Willem-Jan van Hoeve, Marcel Hunting, and Chris Kuip (2012). "The
+       AIMMS Interface to Constraint Programming".
+    5. ^ "Extending an Algebraic Modeling Language to Support Constraint
+       Programming". INFORMS Journal on Computing 14: 322–344. 2002.
+       doi:10.1287/ijoc.14.4.322.2825.
+
+External links[edit]
+
+     * Association for Constraint Programming
+     * Information on the annual CP conference
+     * On-Line Guide to Constraint Programming
+     * Mozart (Oz based, Free software: X11 style)
+     * Cork Constraint Computation Centre (4C)
+     * Global Constraint Catalog
+
+
+     * v
+     * t
+     * e
+
+   Types of programming languages
+     * Array
+     * Aspect-oriented
+     * Class-based
+     * Concatenative
+     * Concurrent
+     * Data-structured
+     * Dataflow
+     * Declarative
+     * Domain-specific
+     * Dynamic
+     * Esoteric
+     * Event-driven
+     * Extensible
+     * Functional
+     * Imperative
+     * Logic
+     * Macro
+     * Metaprogramming
+     * Multi-paradigm
+     * Object-based
+     * Object-oriented
+     * Pipeline
+     * Procedural
+     * Prototype-based
+     * Reflective
+     * Rule-based
+     * Scripting
+     * Synchronous
+     * Templating
+
+     * Assembly
+     * Compiled
+     * Interpreted
+     * Machine
+
+     * Low-level
+     * High-level
+     * Very high-level
+
+     * First generation
+     * Second generation
+     * Third generation
+     * Fourth generation
+     * Fifth generation
+
+     * Non-English-based
+     * Off-side rule
+     * Visual
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Constraint_programming&oldid
+   =616548074"
+   Categories:
+     * Constraint programming
+     * Programming paradigms
+     * Declarative programming
+
+   Hidden categories:
+     * Articles that may contain original research from June 2011
+     * All articles that may contain original research
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Español
+     * Français
+     * Galego
+     * Italiano
+     * 日本語
+     * Português
+     * Русский
+     * Svenska
+     * Українська
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 11 July 2014 at 17:02.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

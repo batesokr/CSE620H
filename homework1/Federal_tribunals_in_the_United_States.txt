@@ -1,0 +1,425 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Federal tribunals in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   In the United States, the American legal system includes both state
+   courts and United States federal courts. The federal tribunals may be
+   an Article III tribunal (federal court) or another adjudicative body
+   classified as an Article I or an Article IV tribunal. These courts are
+   described in reference to the article of the Constitution from which
+   the tribunal's authority stems.
+
+Contents
+
+     * 1 Article III tribunals
+     * 2 Article I tribunals
+     * 3 Article IV tribunals
+          + 3.1 Congress establishes Article III Court for Puerto Rico
+     * 4 Supreme Court rulings limiting the power of Article I and Article
+       IV tribunals
+     * 5 List of Article I, Article III and Article IV tribunals
+     * 6 See also
+     * 7 References
+
+Article III tribunals[edit]
+
+   Main article: Federal judiciary of the United States
+
+   Article III tribunals consist of certain federal courts. These courts
+   are the Supreme Court of the United States and the inferior courts
+   established by the Congress, which currently are the 13 United States
+   courts of appeals, the 91 United States district courts, and the U.S.
+   Court of International Trade. They constitute the judicial branch of
+   the federal government (which is defined by Article III of the
+   Constitution). Pursuant to the Appointments Clause in Article II, all
+   members of Article III tribunals are appointed by the President and are
+   confirmed by the Senate.
+
+   Under the Constitution, Congress can vest these courts with
+   jurisdiction to hear cases involving the Constitution or federal law
+   and certain cases involving disputes between citizens of different
+   states or countries. Article III includes provisions to protect the
+   courts against influence by the other branches of government: judges
+   may not have their salaries reduced during their tenure in office, and
+   their appointment is for life (barring impeachment).
+
+   The Supreme Court has ruled that only Article III courts may render
+   final judgments in cases involving life, liberty, and private property
+   rights, with limited exceptions, as discussed below.
+
+Article I tribunals[edit]
+
+   Article I tribunals consist of certain federal courts and other forms
+   of adjudicative bodies. These tribunals, as created by Congress, are of
+   various forms, and have differing levels of judicial independence. They
+   can be Article I Courts (also called legislative courts) set up by
+   Congress to review agency decisions, military courts-martial appeal
+   courts, ancillary courts with judges appointed by Article III appeals
+   court judges, or administrative agencies and administrative law judges
+   (ALJs).
+
+   Article I judges do not enjoy the same protections as their Article III
+   counterparts. For example, these judges do not enjoy life tenure, and
+   Congress may reduce their salaries.
+
+   The existence of Article I tribunals has been controversial, and their
+   power has been challenged before the United States Supreme Court, which
+   has determined that Article I tribunals may exist, but that their power
+   must be circumscribed and, when a potential deprivation of life,
+   liberty, property, or property interest is involved, their decisions
+   are often subject to ultimate review in an Article III court.
+
+Article IV tribunals[edit]
+
+   The United States territorial courts are tribunals established in
+   territories of the United States by the United States Congress,
+   pursuant to its power under Article Four of the United States
+   Constitution, the Territorial Clause.^[1] Many United States
+   territorial courts are defunct because the territories under their
+   jurisdictions have become states or have been retroceded.
+
+   An example of a territorial court is the High Court of American Samoa,
+   a court established pursuant to the Constitution of American Samoa. As
+   an unincorporated territory, the Ratification Act of 1929 vested all
+   civil, judicial and military powers in the President, who in turn
+   delegated authority to the Secretary of the Interior in Executive Order
+   10264, who in turn promulgated the Constitution of American Samoa,
+   which authorizes the court. As such, the Secretary retains ultimate
+   authority over the courts.^[2]
+
+   Other United States territorial courts still in existence are:
+     * District Court for the Northern Mariana Islands
+     * District Court of Guam
+     * District Court of the Virgin Islands
+
+Congress establishes Article III Court for Puerto Rico[edit]
+
+   Before 1966, the United States District Court in Puerto Rico was an
+   Article IV court.^[3] In 1966, President Lyndon B. Johnson signed
+   Pub.L. 89–571, 80 Stat. 764, which transformed the Article IV federal
+   district court in Puerto Rico to an Article III Court. This Act of
+   Congress was not conducted pursuant to Article IV of the Constitution,
+   the Territorial Clause, but rather under Article III. This marks the
+   first and only occasion in United States history in which Congress has
+   established an Article III Court in a territory other than the District
+   of Columbia. From then on, judges appointed to serve on the Puerto Rico
+   federal district court have been Article III judges appointed under the
+   Constitution of the United States. Like their mainland brethren they
+   are entitled to life tenure and salary protection.
+
+   This important change in the federal judicial structure of the island
+   was implemented not as a request of the Commonwealth government, but
+   rather at the repeated request of the Judicial Conference of the United
+   States.^[4]
+
+   The District Court of Puerto Rico is part of the First Circuit, which
+   sits in Boston.
+
+Supreme Court rulings limiting the power of Article I and Article IV
+tribunals[edit]
+
+   The concept of a legislative court was first defined by Chief Justice
+   John Marshall in the case of American Ins. Co. v. 356 Bales of Cotton,
+   1 Pet. 511 (1828), which is sometimes referred to as Canter, after a
+   claimant in the case. In this case, a court in what was then the
+   Territory of Florida had made a ruling on the disposition of some bales
+   of cotton that had been recovered from a sunken ship. This clearly fell
+   into the realm of admiralty law, which is part of the federal judicial
+   power according to Article III of the Constitution. Yet the judges of
+   the Florida Territorial Court had four-year terms, not the lifetime
+   appointments required by Article III of the Constitution. Marshall's
+   solution was to declare that territorial courts were established under
+   Article I of the constitution. As such, they could not exercise the
+   federal judicial power, and therefore the law that placed admiralty
+   cases in their jurisdiction was unconstitutional.
+
+   Tenure that is guaranteed by the Constitution is a badge of a judge of
+   an Article III court. The argument that mere statutory tenure is
+   sufficient for judges of Article III courts was authoritatively
+   answered in Ex parte Bakelite Corp.:^[5]
+
+     ... the argument is fallacious. It mistakenly assumes that whether a
+     court is of one class or the other depends on the intention of
+     Congress, whereas the true test lies in the power under which the
+     court was created and in the jurisdiction conferred. Nor has there
+     been any settled practice on the part of Congress which gives
+     special significance to the absence or presence of a provision
+     respecting the tenure of judges. This may be illustrated by two
+     citations. The same Congress that created the Court of Customs
+     Appeals made provision for five additional circuit judges and
+     declared that they should [370 U.S. 530, 597] hold their offices
+     during good behavior; and yet the status of the judges was the same
+     as it would have been had that declaration been omitted. In creating
+     courts for some of the Territories Congress failed to include a
+     provision fixing the tenure of the judges; but the courts became
+     legislative courts just as if such a provision had been included.
+
+   In Glidden Co. v. Zdanok, the court made the following statement
+   regarding courts in unincorporated territories:
+
+     Upon like considerations, Article III has been viewed as
+     inapplicable to courts created in unincorporated territories outside
+     the mainland, Downes v. Bidwell, 182 U.S. 244, 266-267; Balzac v.
+     Porto Rico, 258 U.S. 298, 312-313; cf. Dorr v. United States, 195
+     U.S. 138, 145, 149, and to the consular courts established by
+     concessions from foreign countries, In re Ross, 140 U.S. 453,
+     464-465, 480.
+
+   Ever since Canter, the federal courts have been wrestling with the
+   division between legislative and judicial courts. The Supreme Court
+   most thoroughly delineated the permissible scope of Article I tribunals
+   in Northern Pipeline Co. v. Marathon Pipe Line Co., 458 U.S. 50 (1982),
+   striking down the statute that created the original U.S. bankruptcy
+   court. The Court noted in that opinion that the framers of the
+   Constitution had developed a scheme of separation of powers which
+   clearly required that the judiciary be kept independent of the other
+   two branches via the mechanism of lifetime appointments. This decision
+   was subsequently revisited and affirmed in Stern v. Marshall, 564 U.S.
+   ___ (2011). However, the Court noted three situations (based on
+   historical understanding) in which Congress could give judicial power
+   to non-Article III courts:
+    1. Courts for non-state areas (U.S. territories and the District of
+       Columbia) in which Congress is acting as both local and national
+       government.
+    2. Military courts (or courts-martial), under the historical
+       understanding and clearly laid out exceptions in the Constitution.
+    3. Legislative courts established under the premise that, where
+       Congress could have simply given the Executive Branch the power to
+       make a decision, it has the lesser power to create a tribunal to
+       make that decision. This power is limited to adjudication of public
+       rights, such as the settling of disputes between the citizens and
+       the government.
+
+   The Court also found that Congress has the power under Article I to
+   create adjunct tribunals, so long as the "essential attributes of
+   judicial power" stay in Article III courts. This power derives from two
+   sources. First, when Congress creates rights, it can require those
+   asserting such rights to go through an Article I tribunal. Second,
+   Congress can create non-Article III tribunals to help Article III
+   courts deal with their workload, but only if the Article I tribunals
+   are under the control of the Article III courts. The bankruptcy courts,
+   as well as the tribunals of magistrate judges who decide some issues in
+   the district courts, fall within this category of "adjunct" tribunals.
+   All actions heard in an Article I tribunal are subject to de novo
+   review in the supervising Article III court, which retains the
+   exclusive power to make and enforce final judgments.
+
+   Pursuant to Congress' authority under Article IV, §3, of the
+   Constitution to "make all needful Rules and Regulations respecting the
+   Territory or other Property belonging to the United States;" Congress
+   may create territorial courts and vest them with subject-matter
+   jurisdiction over causes arising under both federal law and local law.
+   But "the Supreme Court long ago determined that in the 'unincorporated'
+   territories, such as American Samoa, the guarantees of the Constitution
+   apply only insofar as its 'fundamental limitations in favor of personal
+   rights' express 'principles which are the basis of all free government
+   which cannot be with impunity transcended.'"^[6]
+
+   The Supreme Court noted in Commodity Futures Trading Commission v.
+   Schor, 478 U.S. 833 (1986), that parties to litigation may voluntarily
+   waive their right to an Article III tribunal and thereby submit
+   themselves to a binding judgment from an Article I tribunal. However,
+   the Supreme Court later noted in Stern v. Marshall, 564 U.S. ___
+   (2011), that a party's right to an Article III tribunal is not always
+   voluntarily waiveable in an Article I tribunal for suits at common law.
+   Similarly, in Granfinanciera, S. A. v. Nordberg, 492 U.S. 33 (1989),
+   the Court noted that a litigant's right to jury trial under Article VII
+   is also not generally waivable in an Article I tribunal for suits at
+   common law. The Supreme Court further noted in Granfinanciera and Stern
+   the parallel analysis of rights under Article III and Article VII.
+
+   The U.S. Supreme Court in the course of the opinion from Rassmussen v.
+   United States (197 U.S. 596, 524) declared (p. 352, L. ed. p. 186, Sup.
+   Ct. Rep. p. 1119):
+
+          'Alaska is one of the territories of the United States. It was
+          so designated in that order [referring to the order of this
+          court assigning to the ninth circuit], and has always been so
+          regarded. And the court established by the act of 1884 is the
+          court of last resort within the limits of that territory. It is,
+          therefore, in every substantial sense, the supreme court of that
+          territory.'
+
+   Article IV judges do not have the authority to decide petitioners'
+   appeals or be appointed to a United States Court of Appeals.^[7] In
+   Nguyen v. United States (2003), the Supreme Court ruled that a panel of
+   the Court of Appeals consisting of two Article III judges and one
+   Article IV judge did not have the authority to decide petitioners'
+   appeals.
+
+List of Article I, Article III and Article IV tribunals[edit]
+
+   Article I tribunals Article III tribunals Article IV tribunals
+     * The District of Columbia judiciary
+          + D.C. Court of Appeals
+          + Superior Court of the District of Columbia
+     * United States Court of Appeals for the Armed Forces
+     * Army Court of Criminal Appeals
+     * Navy-Marine Corps Court of Criminal Appeals
+     * Air Force Court of Criminal Appeals
+     * Coast Guard Court of Criminal Appeals
+     * United States Court of Appeals for Veterans Claims
+     * Armed Services Board of Contract Appeals
+     * Civilian Board of Contract Appeals
+     * Board of Immigration Appeals
+     * Board of Patent Appeals and Interferences
+     * Trademark Trial and Appeal Board
+     * United States Postal Service Board of Contract Appeals
+     * United States Court of Federal Claims
+     * United States Tax Court
+     * United States bankruptcy courts
+     * Social Security Administration's Office of Disability Adjudication
+       and Review
+     * United States immigration courts
+     * United States Merit Systems Protection Board
+     * Board of Veterans' Appeals
+     * United States courts-martial
+     * Guantanamo military commissions
+     * United States Court of Military Commission Review
+
+     * Supreme Court of the United States
+     * United States courts of appeals
+     * United States district courts
+     * United States Foreign Intelligence Surveillance Court of Review
+     * United States Foreign Intelligence Surveillance Court
+     * United States Court of International Trade
+     * United States Alien Terrorist Removal Court
+
+     * United States territorial court
+
+See also[edit]
+
+     * Chapter III Court — analogous concept in Australian law
+     * State court (United States)
+     * Tribunals in the United Kingdom
+
+References[edit]
+
+    1. ^ NGUYEN V. UNITED STATES (01-10873) 540 U.S. 935 (2003), The
+       United States Supreme Court, retrieved 2010-01-06
+    2. ^ Leibowitz, Arnold H (1989). Defining Status: A Comprehensive
+       Analysis of United States Territorial Relations. p. 420.
+       ISBN 978-0-7923-0069-4. "His legal position would not only permit
+       him to investigate and overturn decisions of the judiciary in
+       American Samoa, but the decisions of the Executive and Legislative
+       branches as well. … The very fact that his office exists as an
+       ombudsman, to put it kindly, or as a benevolent dictator — to put
+       it less generously — depreciates all Samoan government institutions
+       and makes the Samoan Constitution adopted in 1960 a giant deceit."
+    3. ^ Balzac v. Porto Rico
+    4. ^ Senate Report No. 1504, 1966 U.S.C.C.A.N. 2786-90.
+    5. ^ Ex parte Bakelite Corp., at 459-460
+    6. ^ Mormons v. Hodel, 830 F.2d 374 (1987), citing Dorr v. United
+       States, 195 U.S. 138 (1904)
+    7. ^ NGUYEN V. UNITED STATES (01-10873) 540 U.S. 935 (2003), The
+       United States Supreme Court, retrieved 2010-01-06
+
+     * Johnny H. Killian and George A. Costello (ed.), ed. (1996). The
+       Constitution of the United States of America: Analysis and
+       Interpretation: Annotations of Cases Decided by the Supreme Court
+       of the United States to June 29, 1992. Government Printing Office:
+       Washington, DC. Senate Document 103–6.
+          + The section on Article III is downloadable as a 1.1 MB PDF at
+            http://www.gpoaccess.gov/constitution/pdf/con006.pdf.
+          + Page 604 of this work asserts that the concept of a
+            legislative court first appears in Canter.
+     * Donald L. Doernberg, C. Keith Wingate, and Donald H. Zeigler (ed.),
+       ed. (2004). Federal Courts, Federalism and Separation of Powers:
+       Cases and Materials. West Group Publishing. ISBN 0-314-14928-7.
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Federal_tribunals_in_the_Uni
+   ted_States&oldid=625253884"
+   Categories:
+     * United States federal courts
+     * Article I tribunals
+     * Judicial branch of the United States government
+     * United States administrative law
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 12 September 2014 at 15:52.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

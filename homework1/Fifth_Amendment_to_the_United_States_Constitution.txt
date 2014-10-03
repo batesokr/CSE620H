@@ -1,0 +1,1469 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Fifth Amendment to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   This lead needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (August 2014)
+
+   The Fifth Amendment (Amendment V) to the United States Constitution is
+   part of the Bill of Rights and protects against unfair treatment in
+   legal processes.
+
+   The Amendment requires that felonies be tried only upon indictment by a
+   grand jury; the Grand Jury Clause is one of the few provisions of the
+   Bill of Rights not held to have been a directly or strictly
+   incorporated in the states under civil law, though it serves as a model
+   for the level of substantive due process required to meet the burden of
+   due process. The grand jury is a pre-constitutional common law
+   institution, and a constitutional fixture in its own right exclusively
+   embracing common law. The process applies to the states to the extent
+   that the states have incorporated grand juries and/or common law. Most
+   states have an alterative civil process. "Although state systems of
+   criminal procedure differ greatly among themselves, the grand jury is
+   similarly guaranteed by many state constitutions and plays an important
+   role in fair and effective law enforcement in the overwhelming [p688]
+   majority of the States." Branzburg v. Hayes (No. 70-85) 1972. The
+   Amendment also provides several trial protections, including the right
+   against self-incrimination (held to also apply to custodial
+   interrogations and before most government bodies) as well as the right
+   to be tried only once ("double jeopardy") in federal court for the same
+   offense. The Amendment also has a Due Process Clause (similar to the
+   one in the 14th Amendment) as well as an implied equal protection
+   requirement (Bolling v. Sharpe). Finally, the Amendment requires that
+   the power of eminent domain be coupled with "just compensation" for
+   those whose property is taken.
+
+Contents
+
+     * 1 Text
+     * 2 Infamous crime
+     * 3 Grand jury
+     * 4 Double jeopardy
+     * 5 Self-incrimination
+          + 5.1 Legal proceeding
+          + 5.2 Custodial interrogation
+          + 5.3 The Act of Production Doctrine
+          + 5.4 Refusal to testify in a criminal case
+          + 5.5 Refusal to testify in a civil case
+          + 5.6 Federal income tax
+          + 5.7 Grants of immunity
+          + 5.8 Record keeping
+          + 5.9 Computer passwords
+          + 5.10 Other
+               o 5.10.1 Salinas v. Texas
+     * 6 Due process
+     * 7 Takings clause
+          + 7.1 Eminent domain
+          + 7.2 "Just compensation"
+     * 8 Equal liberty
+     * 9 See also
+     * 10 References
+     * 11 Further reading
+     * 12 External links
+
+Text[edit]
+
+     No person shall be held to answer for a capital, or otherwise
+     infamous crime, unless on a presentment or indictment of a Grand
+     Jury, except in cases arising in the land or naval forces, or in the
+     Militia, when in actual service in time of War or public danger; nor
+     shall any person be subject for the same offence to be twice put in
+     jeopardy of life or limb; nor shall be compelled in any criminal
+     case to be a witness against himself, nor be deprived of life,
+     liberty, or property, without due process of law; nor shall private
+     property be taken for public use, without just compensation.^[1]
+
+Infamous crime[edit]
+
+   Whether a crime is "infamous" is determined by the nature of the
+   punishment that may be imposed, not the punishment that is actually
+   imposed;^[2] however, crimes punishable by death must be tried upon
+   indictments. The historical origin of "infamous crime" comes from the
+   infamia, an extreme punishment under Roman law by which a citizen was
+   deprived his citizenship.^[3]^[4] In United States v. Moreland, 258
+   U.S. 433 (1922), the Supreme Court held that incarceration in a prison
+   or penitentiary, as opposed to a correction or reformation house,
+   attaches infamy to a crime. In Mackin v. United States, 117 U.S. 348
+   (1886), the Supreme Court judged that "'Infamous crimes' are thus, in
+   the most explicit words, defined to be those 'punishable by
+   imprisonment in the penitentiary.'", while it later in Green v. United
+   States 356 U.S. 165 (1957), stated that "imprisonment in a penitentiary
+   can be imposed only if a crime is subject to imprisonment exceeding one
+   year". Therefore an infamous crime is one that is punished by
+   imprisonment for over one year. Susan Brown, a former defense attorney
+   and Professor of Law at the University of Dayton School of Law,
+   concluded: "Since this is essentially the definition of a felony,
+   infamous crimes translate as felonies."^[5]
+
+Grand jury[edit]
+
+   Further information: Grand juries in the United States
+
+   Grand juries, which return indictments in many criminal cases, are
+   composed of a jury of peers and operate in closed deliberation
+   proceedings; they are given specific instructions regarding the law by
+   the judge. Many constitutional restrictions that apply in court or in
+   other situations do not apply during grand jury proceedings. For
+   example, the exclusionary rule does not apply to certain evidence
+   presented to a grand jury; the exclusionary rule states that evidence
+   obtained in violation of the Fourth, Fifth or Sixth amendments cannot
+   be introduced in court.^[6] Also, an individual does not have the right
+   to have an attorney present in the grand jury room during hearings. An
+   individual would have such a right during questioning by the police
+   while in custody, but an individual testifying before a grand jury is
+   free to leave the grand jury room to consult with his or her attorney
+   outside the room before returning to answer a question.
+   The Bill of Rights in the National Archives.
+
+   Currently, federal law permits the trial of misdemeanors without
+   indictments.^[7] Additionally, in trials of non-capital felonies, the
+   prosecution may proceed without indictments if the defendants waive
+   their Fifth Amendment right.
+
+   Grand jury indictments may be amended by the prosecution only in
+   limited circumstances. In Ex Parte Bain, 121 U.S. 1 (1887), the Supreme
+   Court held that the indictment could not be changed at all by the
+   prosecution. United States v. Miller, 471 U.S. 130 (1985) partly
+   reversed Ex parte Bain; now, an indictment's scope may be narrowed by
+   the prosecution. Thus, lesser included charges may be dropped, but new
+   charges may not be added.
+
+   The Grand Jury Clause of the Fifth Amendment does not protect those
+   serving in the armed forces, whether during wartime or peacetime.
+   Members of the state militia called up to serve with federal forces are
+   not protected under the clause either. In O'Callahan v. Parker, 395
+   U.S. 258 (1969), the Supreme Court held that only charges relating to
+   service may be brought against members of the militia without
+   indictments. That decision was overturned in 1987, when the Court held
+   that members of the militia in actual service may be tried for any
+   offense without indictments.^[8]
+
+   The grand jury indictment clause of the Fifth Amendment has not been
+   incorporated under the Fourteenth Amendment.^[9] This means that the
+   grand jury requirement applies only to felony charges in the federal
+   court system. While many states do employ grand juries, no defendant
+   has a Fifth Amendment right to a grand jury for criminal charges in
+   state court. States are free to abolish grand juries, and many (though
+   not all) have replaced them with preliminary hearing.
+
+Double jeopardy[edit]
+
+   Main article: Double Jeopardy Clause
+
+          [N]or shall any person be subject for the same offense to be
+          twice put in jeopardy of life or limb ...^[10]
+
+   The Double Jeopardy Clause encompasses four distinct prohibitions:
+   subsequent prosecution after acquittal, subsequent prosecution after
+   conviction, subsequent prosecution after certain mistrials, and
+   multiple punishment in the same indictment.^[11] Jeopardy "attaches"
+   when the jury is empaneled in a jury trial, when the first witness is
+   sworn in during a bench trial, or when a plea is accepted
+   unconditionally.^[12]
+
+   Prosecution after acquittal
+
+   The government is not permitted to appeal or try again after the entry
+   of an acquittal, whether a directed verdict before the case is
+   submitted to the jury,^[13] a directed verdict after a deadlocked
+   jury,^[14] an appellate reversal for sufficiency (except by direct
+   appeal to a higher appellate court),^[15] or an "implied acquittal" via
+   conviction of a lesser included offense.^[16] In addition, the
+   government is barred by collateral estoppel from re-litigating against
+   the same defense, a fact necessarily found by the jury in a prior
+   acquittal,^[17] even if the jury hung on other counts.^[18]
+
+   This principle does not prevent the government from appealing a
+   pre-trial motion to dismiss^[19] or other non-merits dismissal,^[20] or
+   a directed verdict after a jury conviction,^[21] nor does it prevent
+   the trial judge from entertaining a motion for reconsideration of a
+   directed verdict, if the jurisdiction has so provided by rule or
+   statute.^[22] Nor does it prevent the government from retrying the
+   defendant after an appellate reversal other than for sufficiency,^[23]
+   including habeas,^[24] or "thirteenth juror" appellate reversals
+   notwithstanding sufficiency^[25] on the principle that jeopardy has not
+   "terminated." There is also an exception for judicial bribery in a
+   bench trial.^[26]
+
+   Multiple punishment, including prosecution after conviction
+
+   In Blockburger v. United States (1932), the Supreme Court announced the
+   following test: the government may separately try and punish the
+   defendant for two crimes if each crime contains an element that the
+   other does not.^[27] Blockburger is the default rule, unless the
+   legislatively intends to depart; for example, Continuing Criminal
+   Enterprise (CCE) may be punished separately from its predicates,^[28]
+   as can conspiracy.^[29]
+
+   The Blockburger test, originally developed in the multiple punishments
+   context, is also the test for prosecution after conviction.^[30] In
+   Grady v. Corbin (1990), the Court held that a double jeopardy violation
+   could lie even where the Blockburger test was not satisfied,^[31] but
+   Grady was overruled in United States v. Dixon (1993).^[32]
+
+   Prosecution after mistrial
+
+   The rule for mistrials depends upon who sought the mistrial. If the
+   defendant moves for a mistrial, there is no bar to retrial, unless the
+   prosecutor acted in "bad faith," i.e. goaded the defendant into moving
+   for a mistrial because the government specifically wanted a
+   mistrial.^[33] If the prosecutor moves for a mistrial, there is no bar
+   to retrial if the trial judge finds "manifest necessity" for granting
+   the mistrial.^[34] The same standard governs mistrials granted sua
+   sponte.
+
+Self-incrimination[edit]
+
+   The Fifth Amendment protects individuals from being forced to
+   incriminate themselves. Incriminating oneself is defined as exposing
+   oneself (or another person) to "an accusation or charge of crime," or
+   as involving oneself (or another person) "in a criminal prosecution or
+   the danger thereof."^[35] The privilege against compelled
+   self-incrimination is defined as "the constitutional right of a person
+   to refuse to answer questions or otherwise give testimony against
+   himself or herself. ... "^[36] To "plead the Fifth" is to refuse to
+   answer any question because "the implications of the question, in the
+   setting in which it is asked" lead a claimant to possess a "reasonable
+   cause to apprehend danger from a direct answer", believing that "a
+   responsive answer to the question or an explanation of why it cannot be
+   answered might be dangerous because injurious disclosure could
+   result."^[37]
+
+   Historically, the legal protection against compelled self-incrimination
+   was directly related to the question of torture for extracting
+   information and confessions.^[38]^[39]
+
+   The legal shift away from widespread use of torture and forced
+   confession dates to turmoil of the late 16th and early 17th century in
+   England.^[40] Anyone refusing to take the oath ex officio mero
+   (confessions or swearing of innocence, usually before hearing any
+   charges) was considered guilty.^[40] Suspected Puritans were pressed to
+   take the oath and then reveal names of other Puritans. Coercion and
+   torture were commonly used to compel "cooperation." Puritans, who were
+   at the time fleeing to the New World, began a practice of refusing to
+   cooperate with interrogations. In the most famous case John Lilburne
+   refused to take the oath in 1637. His case and his call for "freeborn
+   rights" were rallying points for reforms against forced oaths, forced
+   self-incrimination, and other kinds of coercion. Oliver Cromwell's
+   revolution overturned the practice and incorporated protections, in
+   response to a popular group of English citizens known as the Levellers.
+   The Levellers presented The Humble Petition of Many Thousands to
+   Parliament in 1647 with 13 demands, third of which was the right
+   against self-incrimination in criminal cases. These protections were
+   brought to America by Puritans, and were later incorporated into the
+   United States Constitution through the Bill of Rights.
+
+   Protection against compelled self-incrimination is implicit in the
+   Miranda rights statement, which protects the "right to remain silent."
+   This amendment is also similar to Section 13 of the Canadian Charter of
+   Rights and Freedoms. In other Commonwealth of Nations countries like
+   Australia and New Zealand, the right to silence of the accused both
+   during questioning and at trial is regarded as an important right
+   inherited from common law, and is protected in the New Zealand Bill of
+   Rights Act and in Australia through various federal and state acts and
+   codes governing the criminal justice system.
+
+   In South African law the right to silence originating from English
+   common law has been entrenched in Section 35 of the Constitution of the
+   Republic of South Africa, 1996.
+
+   The Supreme Court has held that "a witness may have a reasonable fear
+   of prosecution and yet be innocent of any wrongdoing. The privilege
+   serves to protect the innocent who otherwise might be ensnared by
+   ambiguous circumstances."^[41]
+
+Legal proceeding[edit]
+
+   The Fifth Amendment privilege against compulsory self-incrimination
+   applies when an individual is called to testify in a legal
+   proceeding.^[42] The Supreme Court ruled that the privilege applies
+   whether the witness is in a federal court or, under the incorporation
+   doctrine of the Fourteenth Amendment, in a state court,^[43] and
+   whether the proceeding itself is criminal or civil.^[44]
+
+   The right to remain silent was asserted at grand jury or congressional
+   hearings in the 1950s, when witnesses testifying before the House
+   Committee on Un-American Activities or the Senate Internal Security
+   Subcommittee claimed the right in response to questions concerning
+   their alleged membership in the Communist Party. Under the Red Scare
+   hysteria at the time of McCarthyism, witnesses who refused to answer
+   the questions were accused as "fifth amendment communists". They lost
+   jobs or positions in unions and other political organizations, and
+   suffered other repercussions after "taking the Fifth."
+
+   Senator Joseph McCarthy (R-Wisc.) asked, "Are you now, or have you ever
+   been a member of the Communist party," while he was chairman of the
+   Senate Government Operations Committee Permanent Subcommittee on
+   Investigations. Admitting to a previous communist party membership was
+   not sufficient. Witnesses were also required to "name names," to
+   implicate others they knew to be communists or who had been communists
+   in the past. Academy Award winning director Elia Kazan testified before
+   the House Committee on Un-American Activities that he had belonged to
+   the Communist Party briefly in his youth. He also "named names," which
+   incurred enmity of many in Hollywood. Other entertainers such as Zero
+   Mostel found themselves on a Hollywood blacklist after taking the
+   Fifth, and were unable to find work for a while in the show business.
+
+   The amendment has also been used by defendants and witnesses in
+   criminal cases involving the Mafia.^[citation needed]
+
+   The privilege against self-incrimination does not protect an individual
+   who testifies before a non-governmental, self-regulatory
+   organization—such as the New York Stock Exchange (NYSE)—and the SRO
+   provides information about that testimony to law enforcement agencies
+   who then prosecute the individual, even though the SRO has the power to
+   suspend the individual from its membership. An SRO itself is not a
+   court of law, and cannot send a person to jail. SROs, such as the NYSE
+   and the National Association of Securities Dealers (NASD), are
+   generally not considered to be state actors. See United States v.
+   Solomon,^[45] D. L. Cromwell Invs., Inc. v. NASD Regulation, Inc.,^[46]
+   and Marchiano v. NASD,^[47] SROs also lack subpoena powers, so they
+   rely heavily on requiring testimony from individuals by wielding the
+   threat of a bar from the industry (permanent, if decided by the NASD)
+   when the individual asserts his or her Fifth Amendment privilege
+   against compelled self-incrimination.
+
+Custodial interrogation[edit]
+
+   The Fifth Amendment limits the use of evidence obtained illegally by
+   law enforcement officers. Originally, at common law, even a confession
+   obtained by torture was admissible. However, by the eighteenth century,
+   common law in England provided that coerced confessions were
+   inadmissible. The common law rule was incorporated into American law by
+   the courts. The Supreme Court has repeatedly overruled convictions
+   based on such confessions, in cases such as Brown v. Mississippi, 297
+   U.S. 278 (1936).
+
+   Law enforcement responded by switching to more subtle techniques, but
+   the courts held that such techniques, even if they do not involve
+   physical torture, may render a confession involuntary and inadmissible.
+   In Chambers v. Florida (1940) the Court held a confession obtained
+   after five days of prolonged questioning, during which time the
+   defendant was held incommunicado, to be coerced. In Ashcraft v.
+   Tennessee (1944), the suspect had been interrogated continuously for
+   thirty-six hours under electric lights. In Haynes v. Washington,^[48]
+   the Court held that an "unfair and inherently coercive context"
+   including a prolonged interrogation rendered a confession inadmissible.
+
+   Miranda v. Arizona (1966) was a landmark case involving confessions.
+   Ernesto Miranda had signed a statement confessing the crime, but the
+   Supreme Court held that the confession was inadmissible because the
+   defendant had not been advised of his rights.
+
+   The Court held, "the prosecution may not use statements ... stemming
+   from custodial interrogation of the defendant unless it demonstrates
+   the use of procedural safeguards effective to secure the privilege
+   against self-incrimination. Custodial interrogation is initiated by law
+   enforcement after a person has been taken into custody or otherwise
+   deprived of his freedom of movement before being questioned as to the
+   specifics of the crime.
+
+   As for the procedural safeguards to be employed, unless other fully
+   effective means are devised to inform accused persons of their right of
+   silence and to assure a continuous opportunity to exercise it, the
+   following measures are required. Before any questioning, the person
+   must be warned that he has a right to remain silent, that any statement
+   he does make may be used as evidence against him, and that he has a
+   right to the presence of an attorney, either retained or appointed."
+   The warning to which Chief Justice Earl Warren referred is now called
+   the Miranda warning, and it is customarily delivered by the police to
+   an individual before questioning.
+
+   Miranda has been clarified by several further Supreme Court rulings.
+   For the warning to be necessary, the questioning must be conducted
+   under "custodial" circumstances. A person detained in jail or under
+   arrest is, of course, deemed to be in police custody. Alternatively, a
+   person who is under the reasonable belief that he may not freely leave
+   from the restraint of law enforcement is also deemed to be in
+   "custody." That determination of "reasonableness" is based on a
+   totality of the objective circumstances. A mere presence at a police
+   station may not be sufficient, but neither is such a presence required.
+   Traffic stops are not deemed custodial. The Court has ruled that age
+   can be an objective factor. In Yarborough v. Alvarado (2004), the Court
+   held that "a state-court decision that failed to mention a
+   17-year-old's age as part of the Miranda custody analysis was not
+   objectively unreasonable".^[49] In her concurring opinion Justice
+   O'Connor wrote that a suspect's age may indeed "be relevant to the
+   'custody' inquiry";^[50] the Court did not find it relevant in the
+   specific case of Alvarado. The Court affirmed that age could be a
+   relevant and objective factor in J.D.B. v. North Carolina where they
+   ruled that "so long as the child's age was known to the officer at the
+   time of police questioning, or would have been objectively apparent to
+   a reasonable officer, its inclusion in the custody analysis is
+   consistent with the objective nature of that test"^[49]
+
+   The questioning does not have to be explicit to trigger Miranda rights.
+   For example, two police officers engaging in a conversation designed to
+   elicit an incriminating statement from a suspect would constitute
+   questioning. A person may choose to waive his Miranda rights, but the
+   prosecution has the burden of showing that such a waiver was actually
+   made.
+
+   A confession not preceded by a Miranda warning where one was necessary
+   cannot be admitted as evidence against the confessing party in a
+   judicial proceeding. The Supreme Court, however, has held that if a
+   defendant voluntarily testifies at the trial that he did not commit the
+   crime, his confession may be introduced to challenge his credibility,
+   to "impeach" the witness, even if it had been obtained without the
+   warning.
+
+   In Hiibel v. Sixth Judicial District Court of Nevada, the Supreme Court
+   ruled 5–4 on June 21, 2004 that the Fourth, Fifth, and Fourteenth
+   Amendments do not give people the right to refuse to give their name
+   when questioned by police where a state's stop and identify statutes
+   obligate disclosure of such information.
+
+   In June 2010, the Supreme Court ruled in Berghuis v. Thompkins that
+   criminal suspects must now unambiguously invoke their right to remain
+   silent. Unless and until the suspect actually states that they are
+   relying on that right, their subsequent voluntary statements can be
+   used in court and police can continue to interact with (or question)
+   them. The mere act of remaining silent is, on its own, insufficient to
+   imply the suspect has invoked their rights. Furthermore, a voluntary
+   reply even after lengthy silence can be construed as implying a waiver.
+
+The Act of Production Doctrine[edit]
+
+   Under the Act of Production Doctrine, the act of an individual in
+   producing documents or materials (e.g., in response to a subpoena) may
+   have a "testimonial aspect" for purposes of the individual's right to
+   assert the Fifth Amendment privilege against self-incrimination to the
+   extent that the individual's act of production provides information not
+   already in the hands of law enforcement personnel about the (1)
+   existence; (2) custody; or (3) authenticity, of the documents or
+   materials produced. See United States v. Hubbell.
+
+Refusal to testify in a criminal case[edit]
+
+   In Griffin v. California, the Supreme Court ruled that a prosecutor may
+   not ask the jury to draw an inference of guilt from a defendant's
+   refusal to testify in his own defense. The Court overturned as
+   unconstitutional under the federal constitution a provision of the
+   California state constitution that explicitly granted such power to
+   prosecutors.^[51]
+
+Refusal to testify in a civil case[edit]
+
+   While defendants are entitled to assert the privilege against compelled
+   self-incrimination in a civil court case, there are consequences to the
+   assertion of the privilege in such an action.
+
+   The Supreme Court has held that "the Fifth Amendment does not forbid
+   adverse inferences against parties to civil actions when they refuse to
+   testify in response to probative evidence offered against them." Baxter
+   v. Palmigiano,^[52] "[A]s Mr. Justice Brandeis declared, speaking for a
+   unanimous court in the Tod case, 'Silence is often evidence of the most
+   persuasive character.'"^[53] "'Failure to contest an assertion ... is
+   considered evidence of acquiescence ... if it would have been natural
+   under the circumstances to object to the assertion in question.'"^[54]
+
+   In Baxter, the state was entitled to an adverse inference against
+   Palmigiano because of the evidence against him and his assertion of the
+   Fifth Amendment privilege.
+
+   Some civil cases are considered "criminal cases" for the purposes of
+   the Fifth Amendment. In Boyd v. United States, the U.S. Supreme Court
+   stated that "A proceeding to forfeit a person's goods for an offence
+   against the laws, though civil in form, and whether in rem or in
+   personam, is a "criminal case" within the meaning of that part of the
+   Fifth Amendment which declares that no person "shall be compelled, in
+   any criminal case, to be a witness against himself."^[55]
+
+Federal income tax[edit]
+
+   In some cases, individuals may be legally required to file reports that
+   call for information that may be used against them in criminal cases.
+   In United States v. Sullivan,^[56] the United States Supreme Court
+   ruled that a taxpayer could not invoke the Fifth Amendment's
+   protections as the basis for refusing to file a required federal income
+   tax return. The Court stated: "If the form of return provided called
+   for answers that the defendant was privileged from making[,] he could
+   have raised the objection in the return, but could not on that account
+   refuse to make any return at all. We are not called on to decide what,
+   if anything, he might have withheld."^[57]
+
+   In Garner v. United States,^[58] the defendant was convicted of crimes
+   involving a conspiracy to "fix" sporting contests and to transmit
+   illegal bets. During the trial the prosecutor introduced, as evidence,
+   the taxpayer's federal income tax returns for various years. In one
+   return the taxpayer had showed his occupation to be "professional
+   gambler." In various returns the taxpayer had reported income from
+   "gambling" or "wagering." The prosecution used this to help contradict
+   the taxpayer's argument that his involvement was innocent. The taxpayer
+   tried unsuccessfully to keep the prosecutor from introducing the tax
+   returns as evidence, arguing that since the taxpayer was legally
+   required to report the illegal income on the returns, he was being
+   compelled to be a witness against himself. The Supreme Court agreed
+   that he was legally required to report the illegal income on the
+   returns, but ruled that the privilege against self-incrimination still
+   did not apply. The Court stated that "if a witness under compulsion to
+   testify makes disclosures instead of claiming the privilege, the
+   Government has not 'compelled' him to incriminate himself."^[59]
+
+   Sullivan and Garner are viewed as standing, in tandem, for the
+   proposition that on a required federal income tax return a taxpayer
+   would probably have to report the amount of the illegal income, but
+   might validly claim the privilege by labeling the item "Fifth
+   Amendment" (instead of "illegal gambling income," "illegal drug sales,"
+   etc.)^[60] The United States Court of Appeals for the Eleventh Circuit
+   has stated: "Although the source of income might be privileged, the
+   amount must be reported."^[61] The U.S. Court of Appeals for the Fifth
+   Circuit has stated: ". ... the amount of a taxpayer's income is not
+   privileged even though the source of income may be, and Fifth Amendment
+   rights can be exercised in compliance with the tax laws "by simply
+   listing his alleged ill-gotten gains in the space provided for
+   'miscellaneous' income on his tax form."^[62] In another case, the
+   Court of Appeals for the Fifth Circuit stated: "While the source of
+   some of [the defendant] Johnson's income may have been privileged,
+   assuming that the jury believed his uncorroborated testimony that he
+   had illegal dealings in gold in 1970 and 1971, the amount of his income
+   was not privileged and he was required to pay taxes on it."^[63] In
+   1979, the U.S. Court of Appeals for the Tenth Circuit stated: "A
+   careful reading of Sullivan and Garner, therefore, is that the
+   self-incrimination privilege can be employed to protect the taxpayer
+   from revealing the information as to an illegal source of income, but
+   does not protect him from disclosing the amount of his income."^[64]
+
+Grants of immunity[edit]
+
+   If the government gives an individual immunity, then that individual
+   may be compelled to testify. Immunity may be "transactional immunity"
+   or "use immunity"; in the former, the witness is immune from
+   prosecution for offenses related to the testimony; in the latter, the
+   witness may be prosecuted, but his testimony may not be used against
+   him. In Kastigar v. United States,^[65] the Supreme Court held that the
+   government need only grant use immunity to compel testimony. The use
+   immunity, however, must extend not only to the testimony made by the
+   witness, but also to all evidence derived therefrom. This scenario most
+   commonly arises in cases related to organized crime.
+
+Record keeping[edit]
+
+   A statutorily required record-keeping system may go too far such that
+   it implicates a record-keeper's right against self-incrimination. A
+   three part test laid out by Albertson v. Subversive Activities Control
+   Board,^[66] is used to determine this: 1. the law targets a highly
+   selective group inherently suspect of criminal activities; 2. the
+   activities sought to be regulated are already permeated with criminal
+   statutes as opposed to essentially being non-criminal and largely
+   regulatory; and 3. the disclosure compelled creates a likelihood of
+   prosecution and is used against the record-keeper. In this case, the
+   Supreme Court struck down an order by the Subversive Activities Control
+   Board requiring members of the Communist Party to register with the
+   government and upheld an assertion of the privilege against
+   self-incrimination, on the grounds that statute under which the order
+   had been issued was "directed at a highly selective group inherently
+   suspect of criminal activities."
+
+   In Leary v. United States,^[67] the court struck down the Marijuana Tax
+   Act because its record keeping statute required self-incrimination.
+
+   In Haynes v. United States,^[68] the Supreme Court ruled that, because
+   convicted felons are prohibited from owning firearms, requiring felons
+   to register any firearms they owned constituted a form of
+   self-incrimination and was therefore unconstitutional.
+
+Computer passwords[edit]
+
+   Courts have given conflicting decisions on whether forced disclosure of
+   computer passwords is a violation of the Fifth Amendment.
+
+   In In re Boucher (2009), the US District Court of Vermont ruled that
+   the Fifth Amendment might protect a defendant from having to reveal an
+   encryption password, or even the existence of one, if the production of
+   that password could be deemed a self-incriminating "act" under the
+   Fifth Amendment. In Boucher, production of the unencrypted drive was
+   deemed not to be a self-incriminating act, as the government already
+   had sufficient evidence to tie the encrypted data to the
+   defendant.^[69]
+
+   In January 2012 a federal judge in Denver ruled that a bank-fraud
+   suspect was required to give an unencrypted copy of a laptop hard drive
+   to prosecutors.^[70]^[71] However, in February 2012 the Eleventh
+   Circuit ruled otherwise - finding that requiring a defendant to produce
+   an encrypted drive's password would violate the Constitution, becoming
+   the first federal circuit court to rule on the issue.^[72]^[73] In
+   April 2013, a District Court magistrate judge in Wisconsin refused to
+   compel a suspect to provide the encryption password to his hard drive
+   after FBI agents had unsuccessfully spent months trying to decrypt the
+   data.^[74]^[75]
+
+Other[edit]
+
+   Corporations may also be compelled to maintain and turn over records;
+   the Supreme Court has held that the Fifth Amendment protections against
+   self-incrimination extend only to "natural persons."^[76] The Court has
+   also held that a corporation's custodian of records can be forced to
+   produce corporate documents even if the act of production would
+   incriminate him personally.^[77] The only limitation on this rule is
+   that the jury cannot be told that the custodian personally produced
+   those documents in any subsequent prosecution of him or her, but the
+   jury is still allowed to draw adverse inferences from the content of
+   the documents combined with the position of the custodian in the
+   corporation.
+
+   As a condition of employment, workers may be required to answer their
+   employer's narrowly defined questions regarding conduct on the job. If
+   an employee invokes the Garrity rule (sometimes called the Garrity
+   Warning or Garrity Rights) before answering the questions, then the
+   answers cannot be used in criminal prosecution of the employee.^[78]
+   This principle was developed in Garrity v. New Jersey, 385 U.S. 493
+   (1967). The rule is most commonly applied to public employees such as
+   police officers.
+
+   In Boyd v. United States,^[79] the U.S. Supreme Court stated that "It
+   is equivalent to a compulsory production of papers to make the
+   nonproduction of them a confession of the allegations which it is
+   pretended they will prove".
+
+   On June 1, 2010, the Supreme Court ruled in Berghuis v. Thompkins that
+   the right was non-self-executing and a criminal suspect must
+   specifically invoke the right against self-incrimination in order for
+   constitutional protections to apply.^[80] The case centered around the
+   interrogation of murder suspect Van Chester Thompkins, who remained
+   virtually silent for hours, before giving a few brief responses to
+   police questions. Most significantly, Thompkins answered "yes" when
+   asked, "Do you pray to God to forgive you for shooting that boy down?"
+   The statement was introduced at trial and Thompkins was convicted. In a
+   5-4 ruling, the Court held that criminal suspects who do not clearly
+   state their intention to remain silent are presumed to have waived
+   their Fifth Amendment rights. Ironically, suspects must speak in order
+   for their silence to be legally protected. The new rule will defer to
+   police in cases where the suspect fails to unambiguously assert the
+   right to remain silent.
+
+Salinas v. Texas[edit]
+
+   The Supreme Court extended the standard from Berghuis v. Thompkins in
+   Salinas v. Texas in 2013, holding that a suspect's silence in response
+   to a specific question posed during an interview with police when the
+   suspect was not in custody and the suspect had been voluntarily
+   answering other questions during that interview could be used against
+   him in court where he did not explicitly invoke his Fifth Amendment
+   right to silence in response to the specific question.^[81] Of the five
+   justices who concluded that the suspect's silence could be used against
+   him in these circumstances, Justices Alito, Roberts and Kennedy
+   concluded that the defendant's Fifth Amendment claim failed because he
+   did not expressly invoke the privilege. The other two Justices, Thomas
+   and Scalia, concluded that the defendant's claim would fail even if he
+   had invoked the privilege, on the theory that the prosecutor's comment
+   at the trial—regarding the defendant's silence in response to a
+   question during the police interview—did not compel the defendant to
+   give self-incriminating testimony.^[82] The Court stated that there was
+   no "ritualistic formula" necessary to assert this privilege, but that a
+   person could not do so "by simply standing mute." If an individual
+   fails to invoke his right, and is later charged with a crime, the
+   prosecution may use his silence at trial as evidence of his guilt.^[83]
+
+Due process[edit]
+
+   Main article: Due Process Clause
+
+Takings clause[edit]
+
+Eminent domain[edit]
+
+   Main article: Eminent domain
+
+   The Supreme Court has held that the federal government and each state
+   has the power of eminent domain—the power to take private property for
+   "public use". The Takings Clause, the last clause of the Fifth
+   Amendment, limits the power of eminent domain by requiring that "just
+   compensation" be paid if private property is taken for public use. The
+   just compensation provision of the Fifth Amendment did not originally
+   apply directly to the states, but since Chicago, B. & Q. Railroad Co.
+   v. Chicago (1897), federal courts have held that the Fourteenth
+   Amendment extended the effects of that provision to the states. The
+   federal courts, however, have shown much deference to the
+   determinations of Congress, and even more so to the determinations of
+   the state legislatures, of what constitutes "public use". The property
+   need not actually be used by the public; rather, it must be used or
+   disposed of in such a manner as to benefit the public welfare or public
+   interest. One exception that restrains the federal government is that
+   the property must be used in exercise of a government's enumerated
+   powers.
+
+   The owner of the property that is taken by the government must be
+   justly compensated. When determining the amount that must be paid, the
+   government does not need to take into account any speculative schemes
+   in which the owner claims the property was intended to be used.
+   Normally, the fair market value of the property determines "just
+   compensation". If the property is taken before the payment is made,
+   interest accrues (though the courts have refrained from using the term
+   "interest").
+
+   The federal courts have not restrained state and local governments from
+   seizing privately owned land for private commercial development on
+   behalf of private developers. This was upheld on June 23, 2005, when
+   the Supreme Court issued its opinion in Kelo v. City of New London.
+   This 5–4 decision remains controversial. The majority opinion, by
+   Justice Stevens, found that it was appropriate to defer to the city's
+   decision that the development plan had a public purpose, saying that
+   "the city has carefully formulated a development plan that it believes
+   will provide appreciable benefits to the community, including, but not
+   limited to, new jobs and increased tax revenue." Justice Kennedy's
+   concurring opinion observed that in this particular case the
+   development plan was not "of primary benefit to ... the developer" and
+   that if that was the case the plan might have been impermissible. In
+   the dissent, Justice Sandra Day O'Connor argued that this decision
+   would allow the rich to benefit at the expense of the poor, asserting
+   that "Any property may now be taken for the benefit of another private
+   party, but the fallout from this decision will not be random. The
+   beneficiaries are likely to be those citizens with disproportionate
+   influence and power in the political process, including large
+   corporations and development firms." She argued that the decision
+   eliminates "any distinction between private and public use of
+   property—and thereby effectively delete[s] the words 'for public use'
+   from the Takings Clause of the Fifth Amendment". A number of states, in
+   response to Kelo, have passed laws and/or state constitutional
+   amendments which make it more difficult for state governments to seize
+   private land. Takings that are not "for public use" are not directly
+   covered by the doctrine,^[84] however such a taking might violate due
+   process rights under the Fourteenth amendment, or other applicable law.
+
+   The exercise of the police power of the state resulting in a taking of
+   private property was long held to be an exception to the requirement of
+   government paying just compensation. However the growing trend under
+   the various state constitution's taking clauses is to compensate
+   innocent third parties whose property was destroyed or "taken" as a
+   result of police action.^[85]
+
+"Just compensation"[edit]
+
+   The last two words of the amendment promise "just compensation" for
+   takings by the government. In United States v. 50 Acres of Land (1984),
+   the Supreme Court wrote that "The Court has repeatedly held that just
+   compensation normally is to be measured by "the market value of the
+   property at the time of the taking contemporaneously paid in money."
+   Olson v. United States, 292 U.S. 246 (1934) ... Deviation from this
+   measure of just compensation has been required only "when market value
+   has been too difficult to find, or when its application would result in
+   manifest injustice to owner or public." United States v. Commodities
+   Trading Corp., 339 U.S. 121, 123 (1950).
+
+Equal liberty[edit]
+
+   The Due Process clause of the Fifth Amendment was relied upon by the
+   Supreme Court in the 2013 case United States v. Windsor to overturn
+   section 3 of the Defense of Marriage Act, a provision that defined
+   marriage as being only the legal union of one man and one woman for
+   purposes of various federal statutes and regulations.^[86]
+
+See also[edit]
+
+     * United States constitutional criminal procedure
+
+References[edit]
+
+    1. ^ Cornell University Law School. "Bill of Rights from Cornell
+       University Law School". Retrieved 2007-12-16.
+    2. ^ Ex parte Wilson, 114 U.S. 417 (1885)
+    3. ^ United States v. Cox, 342 F.2d 167, 187 fn.7 (5th Cir. 1965)
+       (Wisdom, J., specially concurring) citing Greenidge, 37.
+    4. ^ Greenidge, Abel Hendy Jones (1894). Infamia: Its Place in Roman
+       Public and Private Law. London: Claredon Press. Retrieved 29 August
+       2014.
+    5. ^ Brown, Susan. "Federal Grand Jury - "Infamous crimes"--part 1".
+       Retrieved 14 June 2012.
+    6. ^ United States v. Calandra, 414 U.S. 338 (1974)
+    7. ^ Duke v. United States, 301 U.S. 492 (1937)
+    8. ^ Solorio v. United States, 483 U.S. 435 (1987)
+    9. ^ Hurtado v. California, 110 U.S. 517 (1884)
+   10. ^ Harper, Timothy (October 2, 2007). The Complete Idiot's Guide to
+       the U.S. Constitution. Penguin Group. p. 109.
+       ISBN 978-1-59257-627-2. "However, the Fifth Amendment contains
+       several other important provisions for protecting your rights. It
+       is the source of the double jeopardy doctrine, which prevents
+       authorities from trying a person twice for the same crime ..."
+   11. ^ North Carolina v. Pearce, 395 U.S. 711 (1969).
+   12. ^ Crist v. Bretz, 437 U.S. 28 (1978).
+   13. ^ Fong Foo v. United States, 369 U.S. 141 (1962); Sanabria v.
+       United States, 437 U.S. 54 (1978).
+   14. ^ United States v. Martin Linen Supply Co., 430 U.S. 564 (1977).
+   15. ^ Burks v. United States, 437 U.S. 1 (1978).
+   16. ^ Green v. United States, 355 U.S. 184 (1957).
+   17. ^ Ashe v. Swenson, 397 U.S. 436 (1970).
+   18. ^ Yeager v. United States, 557 U.S. 110 (2009).
+   19. ^ Serfass v. United States, 420 U.S. 377 (1973).
+   20. ^ United States v. Scott, 437 U.S. 82 (1978).
+   21. ^ Wilson v. United States, 420 U.S. 332 (1975).
+   22. ^ Smith v. Massachusetts, 543 U.S. 462 (2005).
+   23. ^ Ball v. United States, 163 U.S. 662 (1896).
+   24. ^ United States v. Tateo, 377 U.S. 463 (1964).
+   25. ^ Tibbs v. Florida, 457 U.S. 31 (1982).
+   26. ^ Aleman v. Judges of the Circuit Court of Cook County, 138 F.3d
+       302 (7th Cir. 1998).
+   27. ^ Blockburger v. United States, 284 U.S. 299 (1932). See, e.g.,
+       Brown v. Ohio, 432 U.S. 161 (1977).
+   28. ^ Garrett v. United States, 471 U.S. 773 (1985); Rutledge v. United
+       States, 517 U.S. 292 (1996).
+   29. ^ United States v. Felix, 503 U.S. 378 (1992).
+   30. ^ Missouri v. Hunter, 459 U.S. 359 (1983).
+   31. ^ Grady v. Corbin, 495 U.S. 508 (1990).
+   32. ^ United States v. Dixon, 509 U.S. 688 (1993).
+   33. ^ Oregon v. Kennedy, 456 U.S. 667 (1982).
+   34. ^ Arizona v. Washington, 434 U.S. 497 (1978).
+   35. ^ Black's Law Dictionary, p. 690 (5th ed. 1979).
+   36. ^ From "Self-Incrimination, Privilege Against," Barrons Law
+       Dictionary, p. 434 (2d ed. 1984).
+   37. ^ Ohio v. Reiner, 532 U.S. 17 (2001), citing Hoffman v. U.S., 351
+       U.S. 479 (1951); cf. Counselman v. Hitchcock, 142 U.S. 547 (1892)
+   38. ^ Amar, Akhil Reed (1998). The Bill of Rights. New Haven: Yale
+       University Press. p. 84. ISBN 0-300-08277-0.
+   39. ^ Amar, Akhil Reed (2005). America's Constitution. New York: Random
+       House. p. 329. ISBN 1-4000-6262-4.
+   40. ^ ^a ^b Greaves, Richard L. (1981). "Legal Problems". Society and
+       religion in Elizabethan England. Minneapolis, Minnesota: University
+       of Minnesota Press. pp. 649, 681. ISBN 0-8166-1030-4. OCLC 7278140.
+       Retrieved 19 July 2009. "This situation worsened in the 1580s and
+       1590s when the machinery of ... the High Commission, was turned
+       against Puritans ... in which a key weapon was the oath ex officio
+       mero, with its capacity for self incrimination ... Refusal to take
+       this oath usually was regarded as proof of guilt."
+   41. ^ Ohio v. Reiner, 532 U.S. 17 (2001).
+   42. ^ See, e.g., Rule 608(b), Federal Rules of Evidence, as amended
+       through Dec. 1, 2012.
+   43. ^ Michael J. Z. Mannheimer, "Ripeness of Self-Incrimination Clause
+       Disputes," Journal of Criminal Law and Criminology, Vol. 95, No. 4,
+       p. 1261, footnote 1 (Northwestern Univ. School of Law 2005), citing
+       Malloy v. Hogan, 378 U.S. 1 (1964)).
+   44. ^ McCarthy v. Arndstein, 266 U.S. 34 (1924)).
+   45. ^ 509 F. 2d 863 (2d Cir. 1975).
+   46. ^ 132 F. Supp. 2d 248, 251-53 (S.D.N.Y. 2001), aff'd, 279 F.3d 155,
+       162 (2d Cir. 2002), cert. denied, 537 U.S. 1028 (2002).
+   47. ^ 134 F. Supp. 2d 90, 95 (D.D.C. 2001).
+   48. ^ 373 U.S. 503 (1963).
+   49. ^ ^a ^b J.D.B. v. North Carolina, "United States Supreme Court",
+       June 16, 2011, accessed June 20th, 2011.
+   50. ^ Yarborough v. Alvarado, "United States Supreme Court", June 1,
+       2004, accessed June 20th, 2011.
+   51. ^ 380 U.S. 609 (1965)
+   52. ^ 425 U.S. 308, 318 (1976).
+   53. ^ Id. at 319 (quoting United States ex rel. Bilokumsky v. Tod, 263
+       U.S. 149, 153-154 (1923)).
+   54. ^ Id. (quoting United States v. Hale, 422 U.S. 171, 176 (1975)).
+   55. ^ Boyd v. United States
+   56. ^ 274 U.S. 259 (1927).
+   57. ^ United States v. Sullivan, 274 U.S. 259 (1927).
+   58. ^ 424 U.S. 648 (1976).
+   59. ^ Garner v. United States, 424 U.S. 648 (1976).
+   60. ^ Miniter, Frank (2011). Saving the Bill of Rights: Exposing the
+       Left's Campaign to Destroy American Exceptionalism. Regnery
+       Publishing. p. 204. ISBN 978-1-59698-150-8.
+   61. ^ United States v. Pilcher, 672 F.2d 875 (11th Cir.), cert. denied,
+       459 U.S. 973 (1982).
+   62. ^ United States v. Wade, 585 F.2d 573 (5th Cir. 1978), cert.
+       denied, 440 U.S. 928 (1979) (italics in original).
+   63. ^ United States v. Johnson, 577 F.2d 1304 (5th Cir. 1978) (italics
+       in original).
+   64. ^ United States v. Brown, 600 F.2d 248 (10th Cir. 1979).
+   65. ^ 406 U.S. 441 (1972).
+   66. ^ 382 U.S. 70 (1965).
+   67. ^ 395 U.S. 6 (1969).
+   68. ^ 390 U.S. 85 (1968).
+   69. ^ In re Grand Jury Subpoena to Sebastien Boucher, No. 2:06-mj-91,
+       2009 WL 424718 (D. Vt. Feb 19, 2009).
+   70. ^ See docket entry 247, "ORDER GRANTING APPLICATION UNDER THE ALL
+       WRITS ACT REQUIRING DEFENDANT FRICOSU TO ASSIST IN THE EXECUTION OF
+       PREVIOUSLY ISSUED SEARCH WARRANTS", United States v. Fricosu, case
+       no. 10-cr-00509-REB-02, Jan. 23, 2012, U.S. District Court for the
+       District of Colorado, at [1].
+   71. ^ Jeffrey Brown, Cybercrime Review (January 27, 2012). "Fifth
+       Amendment held not violated by forced disclosure of unencrypted
+       drive".
+   72. ^ In Re Grand Jury Subpoena Duces Tecum Dated March 25, 2011 671
+       F.3d 1335 (11th Cir. 2012) (the cited reporter is incorrect and
+       leads to Minesen Co. v. McHugh, 671 F.3d 1332, 1335 (Fed. Cir.
+       2012). ).
+   73. ^ Jeffrey Brown, Cybercrime Review (February 25, 2012). "11th Cir.
+       finds Fifth Amendment violation with compelled production of
+       unencrypted files".
+   74. ^ Kravets, David (23 April 2013). "Here’s a Good Reason to Encrypt
+       Your Data". Wired. Condé Nast. Retrieved 24 April 2013.
+   75. ^ U.S. v Jeffrey Feldman, THE DECRYPTION OF A SEIZED DATA STORAGE
+       SYSTEM (E.D. Wis. 19 April 2013).
+   76. ^ U.S. v. Kordel, 397 U.S. 1 (1970).
+   77. ^ Braswell v. U.S., 487 U.S. 99 (1988).
+   78. ^ INternational Association of Fire Chiefs (2011). Chief Officer:
+       Principles and Practice. Jones & Bartlett Publishers.
+       ISBN 978-0-7637-7929-0.
+   79. ^ 116 U.S. 616 (1886).
+   80. ^ Justice Kennedy (2010-06-01). "Berghuis V. Thompkins".
+       Law.cornell.edu. Retrieved 2013-07-14.
+   81. ^ Jesse J. Holland (June 17, 2013). "Court says pre-Miranda silence
+       can be used". Miami Herald. Associated Press. Retrieved
+       2013-06-13.
+   82. ^ See Salinas v. Texas, no. 12-246, U.S. Supreme Court (June 17,
+       2013).
+   83. ^ Mukasey, Marc L.; Jonathan N. Halpern; Floren J. Taylor;
+       Katherine M. Sullivan; Bracewell & Giuliani LLP (June 21, 2013).
+       "Salinas v. Texas: Your Silence May Be Used Against You Re: U.S.
+       Supreme Court Litigation". The National Law Review. Retrieved 7
+       July 2013.
+   84. ^ See Berman v. Parker.
+   85. ^ Wegner v.Milwaukee Mutual, City of Minneapolis 479 N.W.2d 38
+       (Minn. 1991) and Steele v. City of Houston 603 S.W.2d 786 (1980)
+   86. ^ UNITED STATES v. WINDSOR 570 U. S. (2013)
+
+Further reading[edit]
+
+     * Amar, Akhil Reed; Lettow, Renée B. (1995). "Fifth Amendment First
+       Principles: The Self-Incrimination Clause". Michigan Law Review
+       (The Michigan Law Review Association) 93 (5): 857–928.
+       doi:10.2307/1289986. JSTOR 1289986.  |accessdate= requires |url=
+       (help)
+     * Davies, Thomas Y. (2003). "Farther and Farther From the Original
+       Fifth Amendment". Tennessee Law Review (70): 987–1045. Retrieved
+       2010-04-06.
+     * Fifth Amendment with Annotations
+
+External links[edit]
+
+     * CRS Annotated Constitution: Fifth Amendment
+     * Privilege Against Self Incrimination by R. Carter Pittman, 1935
+     * 1954 essay on reasons for pleading the 5th by Howard Fast
+     * 5th Amendment at the Populist Party—news and essays related to the
+       Fifth Amendment, at the Populist Party of America
+     * Don't Talk to the Police – Professor James Duane of the Regent
+       University School of Law
+     * Don't Talk to the Police on YouTube – Officer George Bruch from the
+       Virginia Beach police department
+     * How to Flex Your Rights During Police Encounters
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+
+     * v
+     * t
+     * e
+
+   United States Fifth Amendment criminal procedure case law
+
+
+   Grand Jury Clause
+     * Hurtado v. California (1884)
+     * Ex parte Wilson (1885)
+     * United States v. Petit (1885)
+     * Mackin v. United States (1886)
+     * Ex parte Bain (1887)
+     * Parkinson v. United States (1887)
+     * McNulty v. California (1893)
+     * Wong Wing v. United States (1896)
+     * Maxwell v. Dow (1900)
+     * Lem Woon v. Oregon (1913)
+     * United States v. Moreland (1922)
+     * Costello v. United States (1956)
+     * Lawn v. United States (1958)
+     * Green v. United States (1958)
+     * Stirone v. United States (1960)
+     * Beck v. Washington (1962)
+     * Midland Asphalt Corp. v. United States (1989)
+     * United States v. Cotton (2002)
+     * United States v. Miller (2007)
+
+
+
+   Double Jeopardy Clause
+
+   After acquittal
+     * United States v. Randenbush (1834)
+     * Ball v. United States (1896)
+     * Burton v. United States (1906)
+     * Helvering v. Mitchell (1938)
+     * Green v. United States (1957)
+     * Fong Foo v. United States (1962)
+     * United States v. Tateo (1964)
+     * Ashe v. Swenson (1970)
+     * Wilson v. United States (1975)
+     * Serfass v. United States (1975)
+     * United States v. Martin Linen Supply Co. (1977)
+     * Burks v. United States (1978)
+     * Crist v. Bretz (1978)
+     * Sanabria v. United States (1978)
+     * United States v. Scott (1978)
+     * Bullington v. Missouri (1981)
+     * Tibbs v. Florida (1982)
+     * Arizona v. Rumsey (1984)
+     * Poland v. Arizona (1986)
+     * Witte v. United States (1995)
+     * Sattazahn v. Pennsylvania (2003)
+     * Smith v. Massachusetts (2005)
+     * Yeager v. United States (2009)
+
+   After conviction
+     * United States v. Wilson (1833)
+     * United States v. La Franca (1931)
+     * United States ex rel. Marcus v. Hess (1943)
+     * Rex Trailer Co. v. United States (1956)
+     * Ludwig v. Massachusetts (1976)
+     * Brown v. Ohio (1977)
+     * Harris v. Oklahoma (1977)
+     * Garrett v. United States (1985)
+     * United States v. Halper (1989)
+     * Grady v. Corbin (1990)
+     * United States v. Felix (1992)
+     * United States v. Dixon (1993)
+     * Department of Revenue of Montana v. Kurth Ranch (1994)
+
+   After mistrial
+     * United States v. Perez (1824)
+     * United States v. Dinitz (1976)
+     * Arizona v. Washington (1978)
+     * Oregon v. Kennedy (1982)
+     * Renico v. Lett (2010)
+     * Blueford v. Arkansas (2012)
+
+   Multiple punishment
+     * Ex parte Lange (1873)
+     * Blockburger v. United States (1932)
+     * Whalen v. United States (1980)
+     * Missouri v. Hunter (1983)
+     * Rutledge v. United States (1996)
+
+   Dual sovereignty doctrine
+     * Bartkus v. Illinois (1959)
+     * Waller v. Florida (1970)
+     * Heath v. Alabama (1985)
+     * United States v. Lara (2004)
+
+   Other
+     * Ex parte Bigelow (1885)
+     * Palko v. Connecticut (1937)
+     * Louisiana ex rel. Francis v. Resweber (1947)
+     * Baxstrom v. Herold (1966)
+     * North Carolina v. Pearce (1969)
+     * Benton v. Maryland (1969)
+     * Morris v. Mathews (1986)
+
+
+   Self-Incrimination Clause
+     * Griffin v. California (1965)
+     * Tehan v. United States ex rel. Shott (1966)
+     * Williams v. Florida (1970)
+     * Brooks v. Tennessee (1972)
+     * Lakeside v. Oregon (1978)
+     * Mitchell v. United States (1999)
+
+
+     * v
+     * t
+     * e
+
+   United States criminal due process case law
+
+
+   Reasonable doubt
+     * Leland v. Oregon (1952)
+     * Holland v. United States (1954)
+     * Leary v. United States (1969)
+     * In re Winship (1970)
+     * Cool v. United States (1972)
+     * Mullaney v. Wilbur (1975)
+     * Patterson v. New York (1977)
+     * Taylor v. Kentucky (1978)
+     * County Court of Ulster Cty. v. Allen (1979)
+     * Sandstrom v. Montana (1979)
+     * Jackson v. Virginia (1979)
+     * Murray v. Carrier (1986)
+     * Cage v. Louisiana (1990)
+     * Sullivan v. Louisiana (1993)
+     * Victor v. Nebraska (1994)
+     * Schlup v. Delo (1995)
+
+
+   Brady disclosure
+     * Brady v. Maryland (1963)
+     * Giglio v. United States (1972)
+     * Moore v. Illinois (1972)
+     * United States v. Agurs (1976)
+     * California v. Trombetta (1984)
+     * United States v. Bagley (1985)
+     * Arizona v. Youngblood (1988)
+     * Kyles v. Whitley (1995)
+     * Wood v. Bartholomew (1995)
+     * Strickler v. Greene (1999)
+     * Williams v. Taylor (2000)
+     * United States v. Ruiz (2002)
+     * Illinois v. Fisher (2004)
+     * Banks v. Dretke (2004)
+     * Youngblood v. West Virginia (2006)
+     * Cone v. Bell (2009)
+     * Smith v. Cain (2012)
+
+
+   Mental competence
+     * Bishop v. United States (1956)
+     * Dusky v. United States (1960)
+     * Pate v. Robinson (1966)
+     * Drope v. Missouri (1975)
+     * Riggins v. Nevada (1992)
+     * Medina v. California (1992)
+     * Godinez v. Moran (1993)
+     * Cooper v. Oklahoma (1996)
+     * Sell v. United States (2003)
+     * Indiana v. Edwards (2008)
+
+
+   Prosecutorial misconduct
+     * Mooney v. Holohan (1935)
+     * Hysler v. Florida (1942)
+     * Pyle v. Kansas (1942)
+     * New York ex rel. Whitman v. Wilson (1943)
+     * White v. Ragen (1945)
+     * Mesarosh v. United States (1956)
+     * Alcorta v. Texas (1957)
+     * Napue v. Illinois (1959)
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Fifth_Amendment_to_the_Unite
+   d_States_Constitution&oldid=625259551"
+   Categories:
+     * 1791 in law
+     * Amendments to the United States Constitution
+     * Fifth Amendment to the United States Constitution
+     * 1791 in American politics
+     * Eminent domain
+
+   Hidden categories:
+     * Articles needing additional references from August 2014
+     * All articles needing additional references
+     * All articles with unsourced statements
+     * Articles with unsourced statements from February 2014
+     * Pages using citations with accessdate and no URL
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Беларуская
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * עברית
+     * Polski
+     * Português
+     * Русский
+     * Suomi
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 12 September 2014 at 16:43.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

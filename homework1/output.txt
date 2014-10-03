@@ -1,0 +1,1590 @@
+Loading corpus using files listed in constitution_corpus.txt
+Loaded corpus of 63962 words from 296 file(s).
+------[ Starting analysis ]------
+Top 10 significant words...
+searches: 23.7016
+probable: 22.6389
+exclusionary: 19.2148
+seizure: 14.735
+arrest: 14.4944
+expectation: 13.6493
+suspicion: 13.5464
+landynski: 13.2416
+seizures: 12.0019
+warrants: 11.93
+Lines with one ore more significant words:
+1[0]:	   #alternate Wikipedia (en) alternate copyright Wikipedia Atom feed
+2[0]:	
+3[0]:	Fourth Amendment to the United States Constitution
+4[0]:	
+5[0]:	   From Wikipedia, the free encyclopedia
+6[0]:	   Jump to: navigation, search
+7[0]:	   This is a good article. Click here for more information.
+8[0]:	   United States of America
+9[0]:	   Great Seal of the United States
+10[0]:	   This article is part a series on the
+11[0]:	                      United States Constitution
+12[0]:	                         Preamble and Articles
+13[0]:	   of the Constitution
+14[0]:	     * Preamble
+15[0]:	
+16[0]:	     * I
+17[0]:	     * II
+18[0]:	     * III
+19[0]:	     * IV
+20[0]:	     * V
+21[0]:	     * VI
+22[0]:	     * VII
+23[0]:	
+24[0]:	                    Amendments to the Constitution
+25[0]:	     * Ratified Amendments
+26[0]:	       The first ten Amendments are collectively known as the Bill of
+27[0]:	       Rights
+28[0]:	
+29[0]:	     * I
+30[0]:	     * II
+31[0]:	     * III
+32[0]:	     * IV
+33[0]:	     * V
+34[0]:	     * VI
+35[0]:	     * VII
+36[0]:	     * VIII
+37[0]:	     * IX
+38[0]:	     * X
+39[0]:	     * XI
+40[0]:	     * XII
+41[0]:	     * XIII
+42[0]:	     * XIV
+43[0]:	     * XV
+44[0]:	     * XVI
+45[0]:	     * XVII
+46[0]:	     * XVIII
+47[0]:	     * XIX
+48[0]:	     * XX
+49[0]:	     * XXI
+50[0]:	     * XXII
+51[0]:	     * XXIII
+52[0]:	     * XXIV
+53[0]:	     * XXV
+54[0]:	     * XXVI
+55[0]:	     * XXVII
+56[0]:	
+57[0]:	     * Unratified Amendments
+58[0]:	
+59[0]:	     * Congressional Apportionment
+60[0]:	     * Titles of Nobility
+61[0]:	     * Corwin
+62[0]:	     * Child Labor
+63[0]:	     * Equal Rights
+64[0]:	     * D.C. Voting Rights
+65[0]:	
+66[0]:	                     Full text of the Constitution
+67[0]:	   and Amendments
+68[0]:	     * Preamble & Articles I–VII
+69[0]:	     * Amendments I–X
+70[0]:	     * Amendments XI–XXVII
+71[0]:	     * Unratified Amendments
+72[0]:	
+73[0]:	     * US Government Portal
+74[0]:	     * Law Portal
+75[0]:	
+76[0]:	     * v
+77[0]:	     * t
+78[0]:	     * e
+79[0]:	
+80[0]:	   The Bill of Rights in the National Archives
+81[0]:	
+82[0]:	   The Fourth Amendment (Amendment IV) to the United States Constitution
+83[1]:	   is the part of the Bill of Rights that prohibits unreasonable searches
+84[1]:	   and seizures and requires any warrant to be judicially sanctioned and
+85[1]:	   supported by probable cause. It was adopted in response to the abuse of
+86[0]:	   the writ of assistance, a type of general search warrant issued by the
+87[0]:	   British government and a major source of tension in pre-Revolutionary
+88[0]:	   America. The Fourth Amendment was introduced in Congress in 1789 by
+89[0]:	   James Madison, along with the other amendments in the Bill of Rights,
+90[0]:	   in response to Anti-Federalist objections to the new Constitution.
+91[0]:	   Congress submitted the amendment to the states on September 28, 1789.
+92[0]:	   By December 15, 1791, the necessary three-quarters of the states had
+93[0]:	   ratified it. On March 1, 1792, Secretary of State Thomas Jefferson
+94[0]:	   announced the adoption of the amendment.
+95[0]:	
+96[0]:	   Because the Bill of Rights did not initially apply to the states, and
+97[0]:	   federal criminal investigations were less common in the first century
+98[0]:	   of the nation's history, there is little significant case law for the
+99[0]:	   Fourth Amendment before the 20th century. The amendment was held to
+100[0]:	   apply to the states in Mapp v. Ohio (1961).
+101[0]:	
+102[2]:	   Under the Fourth Amendment, search and seizure (including arrest)
+103[0]:	   should be limited in scope according to specific information supplied
+104[0]:	   to the issuing court, usually by a law enforcement officer who has
+105[0]:	   sworn by it. Fourth Amendment case law deals with three central
+106[0]:	   questions: what government activities constitute "search" and
+107[2]:	   "seizure"; what constitutes probable cause for these actions; and how
+108[0]:	   violations of Fourth Amendment rights should be addressed. Early court
+109[0]:	   decisions limited the amendment's scope to a law enforcement officer's
+110[0]:	   physical intrusion onto private property, but with Katz v. United
+111[0]:	   States (1967), the Supreme Court held that its protections, such as the
+112[0]:	   warrant requirement, extend to the privacy of individuals as well as
+113[0]:	   physical locations. Law enforcement officers need a warrant for most
+114[1]:	   search and seizure activities, but the Court has defined a series of
+115[2]:	   exceptions for consent searches, motor vehicle searches, evidence in
+116[1]:	   plain view, exigent circumstances, border searches, and other
+117[0]:	   situations.
+118[0]:	
+119[1]:	   The exclusionary rule is one way the amendment is enforced. Established
+120[0]:	   in Weeks v. United States (1914), this rule holds that evidence
+121[0]:	   obtained through a Fourth Amendment violation is generally inadmissible
+122[0]:	   at criminal trials. Evidence discovered as a later result of an illegal
+123[0]:	   search may also be inadmissible as "fruit of the poisonous tree,"
+124[0]:	   unless it inevitably would have been discovered by legal means.
+125[0]:	
+126[0]:	Contents
+127[0]:	
+128[0]:	     * 1 Text
+129[0]:	     * 2 Background
+130[0]:	          + 2.1 English law
+131[0]:	          + 2.2 Colonial America
+132[0]:	     * 3 Proposal and ratification
+133[0]:	     * 4 Applicability
+134[0]:	          + 4.1 Search
+135[1]:	          + 4.2 Seizure
+136[0]:	               o 4.2.1 Exceptions
+137[0]:	          + 4.3 Warrant
+138[1]:	          + 4.4 Probable cause
+139[0]:	     * 5 Exceptions to the warrant requirement
+140[0]:	          + 5.1 Consent
+141[0]:	          + 5.2 Plain view and open fields
+142[0]:	          + 5.3 Exigent circumstance
+143[0]:	          + 5.4 Motor vehicle
+144[2]:	          + 5.5 Searches incident to a lawful arrest
+145[0]:	          + 5.6 Border search exception
+146[0]:	          + 5.7 Foreign intelligence surveillance
+147[0]:	          + 5.8 Other exceptions
+148[1]:	     * 6 Exclusionary rule
+149[0]:	          + 6.1 Limitations
+150[0]:	     * 7 See also
+151[0]:	     * 8 Notes
+152[0]:	     * 9 References
+153[0]:	     * 10 External links
+154[0]:	
+155[0]:	Text
+156[0]:	
+157[0]:	     The right of the people to be secure in their persons, houses,
+158[2]:	     papers, and effects,^[a] against unreasonable searches and seizures,
+159[1]:	     shall not be violated, and no Warrants shall issue, but upon
+160[1]:	     probable cause, supported by Oath or affirmation, and particularly
+161[0]:	     describing the place to be searched, and the persons or things to be
+162[0]:	     seized.^[2]
+163[0]:	
+164[0]:	Background
+165[0]:	
+166[0]:	English law
+167[0]:	
+168[0]:	   Charles Pratt, 1st Earl Camden established the English common law
+169[1]:	   precedent against general search warrants.
+170[0]:	
+171[0]:	   Like many other areas of American law, the Fourth Amendment finds its
+172[0]:	   roots in English legal doctrine. Sir Edward Coke, in Semayne's case
+173[0]:	   (1604), famously stated: "The house of every one is to him as his
+174[0]:	   castle and fortress, as well for his defence against injury and
+175[0]:	   violence as for his repose."^[3] Semayne's Case acknowledged that the
+176[0]:	   King did not have unbridled authority to intrude on his subjects'
+177[0]:	   dwellings but recognized that government agents were permitted to
+178[2]:	   conduct searches and seizures under certain conditions when their
+179[0]:	   purpose was lawful and a warrant had been obtained.^[4]
+180[0]:	
+181[0]:	   The 1760s saw a growth in the intensity of litigation against state
+182[1]:	   officers, who, using general warrants, conducted raids in search of
+183[0]:	   materials relating to John Wilkes's publications attacking both
+184[0]:	   government policies and the King himself. The most famous of these
+185[0]:	   cases involved John Entick, whose home was forcibly entered by the
+186[0]:	   King's Messenger Nathan Carrington, along with others, pursuant to a
+187[0]:	   warrant issued by George Montagu-Dunk, 2nd Earl of Halifax authorizing
+188[0]:	   them "to make strict and diligent search for ... the author, or one
+189[0]:	   concerned in the writing of several weekly very seditious papers
+190[0]:	   intitled, 'The Monitor or British Freeholder, No 257, 357, 358, 360,
+191[0]:	   373, 376, 378, and 380,'" and seized printed charts, pamphlets and
+192[0]:	   other materials. Entick filed suit in Entick v Carrington, argued
+193[0]:	   before the Court of King's Bench in 1765. Charles Pratt, 1st Earl
+194[1]:	   Camden ruled that both the search and the seizure was unlawful, as the
+195[1]:	   warrant authorized the seizure of all of Entick's papers—not just the
+196[1]:	   criminal ones—and as the warrant lacked probable cause to even justify
+197[0]:	   the search. By holding that "[O]ur law holds the property of every man
+198[0]:	   so sacred, that no man can set his foot upon his neighbour's close
+199[0]:	   without his leave",^[5] Entick established the English precedent that
+200[0]:	   the executive is limited in intruding on private property by common
+201[0]:	   law.^[4]
+202[0]:	
+203[0]:	Colonial America
+204[0]:	
+205[0]:	   Homes in Colonial America, on the other hand, did not enjoy the same
+206[0]:	   sanctity as their British counterparts, because legislation had been
+207[0]:	   explicitly written so as to enable enforcement of British
+208[0]:	   revenue-gathering policies on customs; until 1750, in fact, the only
+209[0]:	   type of warrant defined in the handbooks for justices of the peace was
+210[0]:	   the general warrant.^[4] During what scholar William Cuddihy called the
+211[1]:	   "colonial epidemic of general searches", the authorities possessed
+212[0]:	   almost unlimited power to search for anything at any time, with very
+213[0]:	   little oversight.^[6]
+214[0]:	   Massachusetts lawyer James Otis protested British use of general
+215[1]:	   warrants in the American colonies.
+216[0]:	
+217[0]:	   In 1756, the colony of Massachusetts enacted legislation that barred
+218[1]:	   the use of general warrants. This represented the first law in American
+219[1]:	   history curtailing the use of seizure power. Its creation largely
+220[0]:	   stemmed from the great public outcry over the Excise Act of 1754, which
+221[0]:	   gave tax collectors unlimited powers to interrogate colonists
+222[0]:	   concerning their use of goods subject to customs. The act also
+223[0]:	   permitted the use of a general warrant known as a writ of assistance,
+224[0]:	   allowing tax collectors to search the homes of colonists and seize
+225[0]:	   "prohibited and uncustomed" goods.^[7]
+226[0]:	
+227[0]:	   A crisis erupted over the writs of assistance on December 27, 1760 when
+228[0]:	   the news of King George II's death on October 23 arrived in Boston. All
+229[0]:	   writs automatically expired six months after the death of the King and
+230[0]:	   would have had to be re-issued by George III, the new king, to remain
+231[0]:	   valid.^[8]
+232[0]:	
+233[0]:	   In mid-January 1761, a group of over 50 merchants represented by James
+234[0]:	   Otis petitioned the court to have hearings on the issue. During the
+235[0]:	   five-hour hearing on February 23, 1761, Otis vehemently denounced
+236[1]:	   British colonial policies, including their sanction of general warrants
+237[0]:	   and writs of assistance.^[9] Future US President John Adams, who was
+238[0]:	   present in the courtroom when Otis spoke, viewed these events as "the
+239[0]:	   spark in which originated the American Revolution."^[10] However, the
+240[0]:	   court ruled against Otis.^[11]
+241[0]:	
+242[0]:	   Because of the name he had made for himself in attacking the writs,
+243[0]:	   Otis was elected to the Massachusetts colonial legislature and helped
+244[0]:	   pass legislation requiring that special writs of assistance be "granted
+245[0]:	   by any judge or justice of the peace upon information under oath by any
+246[0]:	   officer of the customs" and barring all other writs. The governor
+247[0]:	   overturned the legislation, finding it contrary to English law and
+248[0]:	   parliamentary sovereignty.^[12]
+249[0]:	
+250[1]:	   Seeing the danger general warrants presented, the Virginia Declaration
+251[1]:	   of Rights (1776) explicitly forbade the use of general warrants. This
+252[0]:	   prohibition became a precedent for the Fourth Amendment:^[13]
+253[0]:	
+254[1]:	     That general warrants, whereby any officer or messenger may be
+255[0]:	     commanded to search suspected places without evidence of a fact
+256[0]:	     committed, or to seize any person or persons not named, or whose
+257[0]:	     offense is not particularly described and supported by evidence, are
+258[0]:	     grievous and oppressive and ought not to be granted.^[13]
+259[0]:	
+260[0]:	   Article XIV of the Massachusetts Declaration of Rights, written by John
+261[0]:	   Adams and enacted in 1780 as part of the Massachusetts Constitution,
+262[1]:	   added the requirement that all searches must be "reasonable" and served
+263[0]:	   as another basis for the language of the Fourth Amendment:^[14]
+264[0]:	
+265[0]:	     Every subject has a right to be secure from all unreasonable
+266[2]:	     searches, and seizures of his person, his houses, his papers, and
+267[1]:	     all his possessions. All warrants, therefore, are contrary to this
+268[0]:	     right, if the cause or foundation of them be not previously
+269[0]:	     supported by oath or affirmation; and if the order in the warrant to
+270[1]:	     a civil officer, to make search in suspected places, or to arrest
+271[0]:	     one or more suspected persons, or to seize their property, be not
+272[0]:	     accompanied with a special designation of the persons or objects of
+273[2]:	     search, arrest, or seizure: and no warrant ought to be issued but in
+274[0]:	     cases, and with the formalities, prescribed by the laws.^[15]
+275[0]:	
+276[0]:	   By 1784, eight state constitutions contained a provision against
+277[0]:	   general warrants.^[16]
+278[0]:	
+279[0]:	Proposal and ratification
+280[0]:	
+281[0]:	   Main article: United States Bill of Rights
+282[0]:	
+283[0]:	   After several years of comparatively weak government under the Articles
+284[0]:	   of Confederation, a Constitutional Convention in Philadelphia proposed
+285[0]:	   a new constitution on September 17, 1787, featuring a stronger chief
+286[0]:	   executive and other changes. George Mason, a Constitutional Convention
+287[0]:	   delegate and the drafter of Virginia's Declaration of Rights, proposed
+288[0]:	   that a bill of rights listing and guaranteeing civil liberties be
+289[0]:	   included. Other delegates—including future Bill of Rights drafter James
+290[0]:	   Madison—disagreed, arguing that existing state guarantees of civil
+291[0]:	   liberties were sufficient and that any attempt to enumerate individual
+292[0]:	   rights risked the implication that other, unnamed rights were
+293[0]:	   unprotected. After a brief debate, Mason's proposal was defeated by a
+294[0]:	   unanimous vote of the state delegations.^[17]
+295[0]:	
+296[0]:	   For the constitution to be ratified, however, nine of the thirteen
+297[0]:	   states were required to approve it in state conventions. Opposition to
+298[0]:	   ratification ("Anti-Federalism") was partly based on the Constitution's
+299[0]:	   lack of adequate guarantees for civil liberties. Supporters of the
+300[0]:	   Constitution in states where popular sentiment was against ratification
+301[0]:	   (including Virginia, Massachusetts, and New York) successfully proposed
+302[0]:	   that their state conventions both ratify the Constitution and call for
+303[0]:	   the addition of a bill of rights.^[18] Four state conventions proposed
+304[0]:	   some form of restriction on the authority of the new federal government
+305[0]:	   to conduct searches.^[16]
+306[0]:	   James Madison, drafter of the Bill of Rights
+307[0]:	
+308[0]:	   In the 1st United States Congress, following the state legislatures'
+309[0]:	   request, James Madison proposed twenty constitutional amendments based
+310[0]:	   on state bills of rights and English sources such as the Bill of Rights
+311[1]:	   1689, including an amendment requiring probable cause for government
+312[1]:	   searches. Congress reduced Madison's proposed twenty amendments to
+313[0]:	   twelve, and these were submitted to the states for ratification on
+314[0]:	   September 25, 1789.^[19]
+315[0]:	
+316[0]:	   By the time the Bill of Rights was submitted to the states for
+317[0]:	   ratification, opinions had shifted in both parties. Many Federalists,
+318[0]:	   who had previously opposed a Bill of Rights, now supported the Bill as
+319[0]:	   a means of silencing the Anti-Federalists' most effective criticism.
+320[0]:	   Many Anti-Federalists, in contrast, now opposed it, realizing that the
+321[0]:	   Bill's adoption would greatly lessen the chances of a second
+322[0]:	   constitutional convention, which they desired.^[20] Anti-Federalists
+323[0]:	   such as Richard Henry Lee also argued that the Bill left the most
+324[0]:	   objectionable portions of the Constitution, such as the federal
+325[0]:	   judiciary and direct taxation, intact.^[21]
+326[0]:	
+327[0]:	   On November 20, 1789, New Jersey ratified eleven of the twelve
+328[0]:	   amendments, including the Fourth. On December 19, 1789, December 22,
+329[0]:	   1789, and January 19, 1790, respectively, Maryland, North Carolina, and
+330[0]:	   South Carolina ratified all twelve amendments.^[22] On January 25 and
+331[0]:	   28, 1790, respectively, New Hampshire and Delaware ratified eleven of
+332[0]:	   the Bill's twelve amendments, including the Fourth.^[22] This brought
+333[0]:	   the total of ratifying states to six of the required ten, but the
+334[0]:	   process stalled in other states: Connecticut and Georgia found a Bill
+335[0]:	   of Rights unnecessary and so refused to ratify, while Massachusetts
+336[0]:	   ratified most of the amendments, but failed to send official notice to
+337[0]:	   the Secretary of State that it had done so. (All three states would
+338[0]:	   later ratify the Bill of Rights for sesquicentennial celebrations in
+339[0]:	   1939.)^[21]
+340[0]:	
+341[0]:	   In February through June of 1790, New York, Pennsylvania, and Rhode
+342[0]:	   Island each ratified eleven of the amendments, including the Fourth.
+343[0]:	   Virginia initially postponed its debate, but after Vermont was admitted
+344[0]:	   to the Union in 1791, the total number of states needed for
+345[0]:	   ratification rose to eleven. Vermont ratified on November 3, 1791,
+346[0]:	   approving all twelve amendments, and Virginia finally followed on
+347[0]:	   December 15, 1791.^[21] Secretary of State Thomas Jefferson announced
+348[0]:	   the adoption of the ten successfully ratified amendments on March 1,
+349[0]:	   1792.^[23]
+350[0]:	
+351[0]:	Applicability
+352[0]:	
+353[0]:	   The Bill of Rights originally only restricted the federal government,
+354[0]:	   and went through a long initial phase of "judicial dormancy";^[24] in
+355[0]:	   the words of historian Gordon S. Wood, "After ratification, most
+356[0]:	   Americans promptly forgot about the first ten amendments to the
+357[0]:	   Constitution."^[25] Federal jurisdiction regarding criminal law was
+358[0]:	   narrow until the late 19th century when the Interstate Commerce Act and
+359[0]:	   Sherman Antitrust Act were passed. As federal criminal jurisdiction
+360[0]:	   expanded to include other areas such as narcotics, more questions about
+361[0]:	   the Fourth Amendment came to the Supreme Court.^[26] The U.S. Supreme
+362[0]:	   Court responded to these questions by outlining the fundamental purpose
+363[0]:	   of the amendment as guaranteeing "the privacy, dignity and security of
+364[0]:	   persons against certain arbitrary and invasive acts by officers of the
+365[0]:	   Government, without regard to whether the government actor is
+366[0]:	   investigating crime or performing another function."^[27] In Mapp v.
+367[0]:	   Ohio (1961),^[28] the U.S. Supreme Court ruled that the Fourth
+368[0]:	   Amendment applies to the states by way of the Due Process Clause of the
+369[0]:	   Fourteenth Amendment.^[29]
+370[0]:	
+371[0]:	   Fourth Amendment case law deals with three central issues: what
+372[1]:	   government activities constitute "search" and "seizure"; what
+373[1]:	   constitutes probable cause for these actions; how violations of Fourth
+374[0]:	   Amendment rights should be addressed.^[30]
+375[0]:	
+376[0]:	   The Fourth Amendment typically requires "a neutral and detached
+377[0]:	   authority interposed between the police and the public," and it is
+378[2]:	   offended by "general warrants" and laws that allows searches to be
+379[0]:	   conducted "indiscriminately and without regard to their connection with
+380[0]:	   [a] crime under investigation.",^[31] for the "basic purpose of the
+381[0]:	   Fourth Amendment, which is enforceable against the States through the
+382[1]:	   Fourteenth, through its prohibition of "unreasonable" searches and
+383[1]:	   seizures is to safeguard the privacy and security of individuals
+384[0]:	   against arbitrary invasions by governmental officials."^[32]
+385[0]:	
+386[1]:	   The Fourth Amendment has been held to mean that a search or an arrest
+387[0]:	   generally requires a judicially sanctioned warrant, because the basic
+388[1]:	   rule under the Fourth Amendment is that arrests and "searches conducted
+389[0]:	   outside the judicial process, without prior approval by judge or
+390[0]:	   magistrate, are per se unreasonable."^[33] In order for such a warrant
+391[1]:	   to be considered reasonable, it must be supported by probable cause and
+392[0]:	   be limited in scope according to specific information supplied by a
+393[0]:	   person (usually a law enforcement officer) who has sworn by it and is
+394[0]:	   therefore accountable to the issuing court. The Supreme Court further
+395[0]:	   held in Chandler v. Miller (1997): "To be reasonable under the Fourth
+396[0]:	   Amendment, a search ordinarily must be based on individualized
+397[1]:	   suspicion of wrongdoing. But particularized exceptions to the main rule
+398[0]:	   are sometimes warranted based on 'special needs, beyond the normal need
+399[0]:	   for law enforcement.' ... When such 'special needs' are alleged, courts
+400[0]:	   must undertake a context-specific inquiry, examining closely the
+401[0]:	   competing private and public interests advanced by the parties."^[34]
+402[2]:	   The amendment applies to governmental searches and seizures, but not
+403[0]:	   those done by private citizens or organizations who are not acting on
+404[0]:	   behalf of a government.^[35] In Ontario v. Quon (2010), the Court held
+405[0]:	   the amendment to also apply to the government when acting as an
+406[0]:	   employer, ruling that a government could search a police officer's text
+407[0]:	   messages that were sent over that government's pager.^[27]^[36]
+408[0]:	
+409[0]:	Search
+410[0]:	
+411[0]:	   Potter Stewart wrote the majority decision in Katz v. United States,
+412[0]:	   which expanded Fourth Amendment protections to electronic surveillance.
+413[0]:	
+414[0]:	   One threshold question in the Fourth Amendment jurisprudence is whether
+415[0]:	   a "search" has occurred. Initial Fourth Amendment case law hinged on a
+416[0]:	   citizen's property rights—that is, when the government physically
+417[0]:	   intrudes on "persons, houses, papers, or effects" for the purpose of
+418[0]:	   obtaining information, a "search" within the original meaning of the
+419[0]:	   Fourth Amendment has occurred. Early 20th-century Court decisions, such
+420[0]:	   as Olmstead v. United States (1928), held that Fourth Amendment rights
+421[0]:	   applied in cases of physical intrusion, but not to other forms of
+422[0]:	   police surveillance (e.g., wiretaps).^[37] In Silverman v. United
+423[0]:	   States (1961), the Court stated of the amendment that "at the very core
+424[0]:	   stands the right of a man to retreat into his own home and there be
+425[0]:	   free from unreasonable governmental intrusion."^[38]
+426[0]:	
+427[0]:	   Fourth Amendment protections expanded significantly with Katz v. United
+428[0]:	   States (1967).^[37]^[39] In Katz, the Supreme Court expanded that focus
+429[0]:	   to embrace an individual's right to privacy, and ruled that a search
+430[0]:	   had occurred when the government wiretapped a telephone booth using a
+431[0]:	   microphone attached to the outside of the glass. While there was no
+432[0]:	   physical intrusion into the booth, the Court reasoned that: 1) Katz, by
+433[0]:	   entering the booth and shutting the door behind him, had exhibited his
+434[1]:	   expectation that "the words he utters into the mouthpiece will not be
+435[1]:	   broadcast to the world"; and 2) society believes that his expectation
+436[0]:	   was reasonable. Justice Potter Stewart wrote in the majority opinion
+437[0]:	   that "the Fourth Amendment protects people, not places".^[40] A
+438[0]:	   "search" occurs for purposes of the Fourth Amendment when the
+439[1]:	   government violates a person's "reasonable expectation of
+440[1]:	   privacy."^[41] Katz's reasonable expectation of privacy thus provided
+441[0]:	   the basis to rule that the government's intrusion, though electronic
+442[0]:	   rather than physical, was a search covered by the Fourth Amendment, and
+443[0]:	   thus necessitated a warrant.^[37]^[42] The Court said that it was not
+444[0]:	   recognizing any general right to privacy in the Fourth Amendment,^[43]
+445[0]:	   and that this wiretap could have been authorized if proper procedures
+446[0]:	   had been followed.^[42]
+447[0]:	
+448[0]:	   This decision in Katz was later developed into the now commonly used
+449[0]:	   two-prong test, adopted in Smith v. Maryland (1979),^[44] for
+450[0]:	   determining whether the Fourth Amendment is applicable in a given
+451[0]:	   circumstance:^[45]^[46]
+452[1]:	    1. a person "has exhibited an actual (subjective) expectation of
+453[0]:	       privacy"; and
+454[1]:	    2. society is prepared to recognize that this expectation is
+455[0]:	       (objectively) reasonable.
+456[0]:	
+457[1]:	   An individual has no legitimate expectation of privacy in information
+458[0]:	   provided to third parties.^[44]^[47] In Smith, the Supreme Court held
+459[1]:	   individuals have no "legitimate expectation of privacy" regarding the
+460[0]:	   telephone numbers they dial because they knowingly give that
+461[0]:	   information to telephone companies when they dial a number.^[48]
+462[0]:	
+463[0]:	   Following Katz, the vast majority of Fourth Amendment search cases have
+464[0]:	   turned on the right to privacy, but in United States v. Jones (2012),
+465[0]:	   the Court ruled that the Katz standard did not replace earlier case
+466[0]:	   law, but rather, has supplemented it.^[49] In Jones, law enforcement
+467[0]:	   officers had attached a GPS device on a car's exterior without Jones'
+468[0]:	   knowledge or consent. The Court concluded that Jones was a bailee to
+469[0]:	   the car, and so had a property interest in the car.^[50] Therefore,
+470[0]:	   since the intrusion on the vehicle—a common law trespass—was for the
+471[0]:	   purpose of obtaining information, the Court ruled that it was a search
+472[0]:	   under the Fourth Amendment. The Court used similar "trespass" reasoning
+473[0]:	   in Florida v. Jardines (2013), to rule that bringing a drug detection
+474[0]:	   dog to sniff at the front door of a home was a search.^[51]
+475[0]:	
+476[0]:	   In certain situations, law enforcement may perform a search when they
+477[1]:	   have a reasonable suspicion of criminal activity, even if it falls
+478[2]:	   short of probable cause necessary for an arrest. Under Terry v. Ohio
+479[0]:	   (1968), law enforcement officers are permitted to conduct a limited
+480[2]:	   warrantless search on a level of suspicion less than probable cause
+481[0]:	   under certain circumstances. In Terry, the Supreme Court ruled that
+482[0]:	   when a police officer witnesses "unusual conduct" that leads that
+483[0]:	   officer to reasonably believe "that criminal activity may be afoot",
+484[0]:	   that the suspicious person has a weapon and that the person is
+485[0]:	   presently dangerous to the officer or others, the officer may conduct a
+486[0]:	   "pat-down search" (or "frisk") to determine whether the person is
+487[0]:	   carrying a weapon.^[52] This detention and search is known as a Terry
+488[0]:	   stop. To conduct a frisk, officers must be able to point to specific
+489[0]:	   and articulable facts which, taken together with rational inferences
+490[0]:	   from those facts, reasonably warrant their actions.^[53] As established
+491[0]:	   in Florida v. Royer (1983), such a search must be temporary, and
+492[0]:	   questioning must be limited to the purpose of the stop (e.g., officers
+493[1]:	   who stop a person because they have reasonable suspicion to believe
+494[0]:	   that the person was driving a stolen car, cannot, after confirming that
+495[0]:	   it is not stolen, compel the person to answer questions about anything
+496[0]:	   else, such as the possession of contraband).^[54]^[55]
+497[0]:	
+498[1]:	Seizure
+499[0]:	
+500[1]:	   The Fourth Amendment proscribes unreasonable seizure of any person,
+501[0]:	   person's home (including its curtilage) or personal property without a
+502[1]:	   warrant. A seizure of property occurs when there is "some meaningful
+503[0]:	   interference with an individual's possessory interests in that
+504[0]:	   property",^[56] such as when police officers take personal property
+505[0]:	   away from an owner to use as evidence, or when they participate in an
+506[1]:	   eviction.^[57] The amendment also protects against unreasonable seizure
+507[0]:	   of persons, including a brief detention.^[58]
+508[0]:	
+509[1]:	   A seizure does not occur just because the government questions an
+510[1]:	   individual in a public place. The exclusionary rule would not bar
+511[0]:	   voluntary answers to such questions from being offered into evidence in
+512[0]:	   a subsequent criminal prosecution. The person is not being seized if
+513[0]:	   his freedom of movement is not restrained.^[54]^[59] The government may
+514[0]:	   not detain an individual even momentarily without reasonable, objective
+515[0]:	   grounds, with few exceptions. His refusal to listen or answer does not
+516[0]:	   by itself furnish such grounds.^[58]
+517[0]:	
+518[0]:	   Per United States v. Mendenhall (1980), a person is seized within the
+519[0]:	   meaning of the Fourth Amendment only when, by means of physical force
+520[0]:	   or show of authority, his freedom of movement is restrained and, in the
+521[0]:	   circumstances surrounding the incident, a reasonable person would
+522[0]:	   believe that he was not free to leave.^[58] In Florida v. Bostick
+523[0]:	   (1991), the Court ruled that as long as the police do not convey a
+524[0]:	   message that compliance with their requests is required, the police
+525[0]:	   contact is a "citizen encounter" that falls outside the protections of
+526[0]:	   the Fourth Amendment.^[60] If a person remains free to disregard
+527[1]:	   questioning by the government, there has been no seizure and therefore
+528[0]:	   no intrusion upon the person's privacy under the Fourth Amendment.^[58]
+529[0]:	
+530[0]:	   When a person is arrested and taken into police custody, he has been
+531[0]:	   seized (i.e., a reasonable person who is handcuffed and placed in the
+532[0]:	   back of a police car would not think they were free to leave). A person
+533[0]:	   subjected to a routine traffic stop on the other hand, has been seized,
+534[0]:	   but is not "arrested" because traffic stops are a relatively brief
+535[0]:	   encounter and are more analogous to a Terry stop than to a formal
+536[1]:	   arrest.^[61] If a person is not under suspicion of illegal behavior, a
+537[0]:	   law enforcement official is not allowed to place an individual under
+538[1]:	   arrest simply because this person does not wish to state his identity,
+539[0]:	   provided specific state regulations do not specify this to be the
+540[1]:	   case.^[62] A search incidental to an arrest that is not permissible
+541[0]:	   under state law does not violate the Fourth Amendment, so long as the
+542[1]:	   arresting officer has probable cause.^[63]^[64] In Maryland v. King
+543[0]:	   (2013), the Court upheld the constitutionality of police swabbing for
+544[0]:	   DNA upon arrests for serious crimes, along the same reasoning that
+545[1]:	   allows police to take fingerprints or photographs of those they arrest
+546[0]:	   and detain.^[65]^[66]
+547[0]:	
+548[0]:	Exceptions
+549[0]:	
+550[0]:	   The government may not detain an individual even momentarily without
+551[1]:	   reasonable and articulable suspicion, with a few exceptions. In
+552[0]:	   Delaware v. Prouse (1979), the Court ruled an officer has made an
+553[1]:	   illegal seizure when he stops an automobile and detains the driver in
+554[0]:	   order to check his driver's license and the registration of the
+555[1]:	   automobile, unless the officer has articulable and reasonable suspicion
+556[0]:	   that a motorist is unlicensed or that an automobile is not registered,
+557[1]:	   or either the vehicle or an occupant is otherwise subject to seizure
+558[0]:	   for violation of law.^[67]^[68]
+559[0]:	
+560[0]:	   Where society's need is great, no other effective means of meeting the
+561[0]:	   need is available, and intrusion on people's privacy is minimal,
+562[0]:	   certain discretionless checkpoints toward that end may briefly detain
+563[0]:	   motorists. In United States v. Martinez-Fuerte (1976), the Supreme
+564[0]:	   Court allowed discretionless immigration checkpoints.^[69] In Michigan
+565[0]:	   Dept. of State Police v. Sitz (1990), the Supreme Court allowed
+566[0]:	   discretionless sobriety checkpoints.^[70] In Illinois v. Lidster
+567[0]:	   (2004), the Supreme Court allowed focused informational
+568[0]:	   checkpoints.^[71] However, in City of Indianapolis v. Edmond (2000),
+569[0]:	   the Supreme Court ruled that discretionary checkpoints or general
+570[0]:	   crime-fighting checkpoints are not allowed.^[72]
+571[0]:	
+572[0]:	Warrant
+573[0]:	
+574[0]:	   Under the Fourth Amendment, law enforcement must receive written
+575[0]:	   permission from a court of law, or otherwise qualified magistrate, to
+576[0]:	   lawfully search and seize evidence while investigating criminal
+577[0]:	   activity. A court grants permission by issuing a writ known as a
+578[1]:	   warrant. A search or seizure is generally unreasonable and
+579[0]:	   unconstitutional if conducted without a valid warrant^[73] and the
+580[1]:	   police must obtain a warrant whenever practicable. ^[74] Searches and
+581[1]:	   seizures without a warrant are not considered unreasonable if one of
+582[0]:	   the specifically established and well-delineated exceptions to the
+583[0]:	   warrant requirement applies.^[37]^[75]^[76] These exceptions apply
+584[0]:	   "[o]nly in those exceptional circumstances in which special needs,
+585[0]:	   beyond the normal need for law enforcement, make the warrant and
+586[1]:	   probable cause requirement impracticable."^[77]
+587[0]:	
+588[0]:	   In these situations where the warrant requirement doesn't apply a
+589[1]:	   search or seizure nonetheless must be justified by some individualized
+590[1]:	   suspicion of wrongdoing.^[78] However, the U.S. Supreme Court carved
+591[1]:	   out an exception to the requirement of individualized suspicion. It
+592[0]:	   ruled that, "In limited circumstances, where the privacy interests
+593[0]:	   implicated by the search are minimal and where an important
+594[0]:	   governmental interest furthered by the intrusion would be placed in
+595[1]:	   jeopardy by a requirement of individualized suspicion" a search [or
+596[1]:	   seizure] would still be reasonable.^[79]
+597[0]:	
+598[1]:	Probable cause
+599[0]:	
+600[1]:	   Main article: Probable cause
+601[0]:	
+602[2]:	   The standards of probable cause differ for an arrest and a search. The
+603[2]:	   government has a probable cause to make an arrest when "the facts and
+604[0]:	   circumstances within their knowledge and of which they had reasonably
+605[0]:	   trustworthy information" would lead a prudent person to believe that
+606[0]:	   the arrested person had committed or was committing a crime.^[80]
+607[3]:	   Probable cause to arrest must exist before the arrest is made. Evidence
+608[1]:	   obtained after the arrest may not apply retroactively to justify the
+609[0]:	   arrest.^[81]
+610[0]:	
+611[0]:	   When police conduct a search, the amendment requires that the warrant
+612[1]:	   establish probable cause to believe that the search will uncover
+613[0]:	   criminal activity or contraband. They must have legally sufficient
+614[0]:	   reasons to believe a search is necessary. In Carroll v. United States
+615[1]:	   (1925), the Supreme Court stated that probable cause to search is a
+616[0]:	   flexible, common-sense standard.^[82]^[83] To that end, the Court ruled
+617[1]:	   in Dumbra v. United States (1925) that the term probable cause means
+618[0]:	   "less than evidence that would justify condemnation",^[84] reiterating
+619[0]:	   Carroll's assertion that it merely requires that the facts available to
+620[0]:	   the officer would "warrant a man of reasonable caution" in the belief
+621[0]:	   that specific items may be contraband or stolen property or useful as
+622[0]:	   evidence of a crime.^[85] It does not demand any showing that such a
+623[0]:	   belief be correct or more likely true than false. A "practical,
+624[0]:	   non-technical" probability that incriminating evidence is involved is
+625[0]:	   all that is required.^[86] In Illinois v. Gates (1983), the Court ruled
+626[0]:	   that the reliability of an informant is to be determined based on the
+627[0]:	   "totality of the circumstances."^[87]
+628[0]:	
+629[0]:	Exceptions to the warrant requirement
+630[0]:	
+631[0]:	Consent
+632[0]:	
+633[0]:	   Main article: Consent search
+634[0]:	
+635[0]:	   If a party gives consent to a search, a warrant is not required. There
+636[0]:	   are exceptions and complications to the rule, including the scope of
+637[0]:	   the consent given, whether the consent is voluntarily given, and
+638[0]:	   whether an individual has the right to consent to a search of another's
+639[0]:	   property.^[88] In Schneckloth v. Bustamonte (1973), the Court ruled
+640[0]:	   that a consent search is still valid even if the police do not inform a
+641[0]:	   suspect of his right to refuse the search.^[89] This contrasts with
+642[0]:	   Fifth Amendment rights, which cannot be relinquished without an
+643[0]:	   explicit Miranda warning from police.^[90]
+644[0]:	
+645[0]:	   The Court stated in United States v. Matlock (1974) that a third party
+646[0]:	   co-occupant could give consent for a search without violating a
+647[0]:	   suspect's Fourth Amendment rights.^[91]^[92] Per the Court's ruling in
+648[0]:	   Illinois v. Rodriguez (1990),^[93] a consent search is still considered
+649[0]:	   valid if police accept in good faith the consent of an "apparent
+650[0]:	   authority", even if that party is later discovered to not have
+651[0]:	   authority over the property in question.^[92]
+652[0]:	
+653[0]:	Plain view and open fields
+654[0]:	
+655[0]:	   Main articles: Plain view doctrine and Open-fields doctrine
+656[0]:	
+657[0]:	   According to the plain view doctrine as defined in Coolidge v. New
+658[0]:	   Hampshire (1971),^[94] if an officer is lawfully present, he may seize
+659[0]:	   objects that are in "plain view". However, the officer must have had
+660[1]:	   probable cause to believe that the objects are contraband.^[95]
+661[0]:	
+662[0]:	   Similarly, "open fields" such as pastures, open water, and woods may be
+663[0]:	   searched without a warrant, on the ground that conduct occurring
+664[1]:	   therein would have no reasonable expectation of privacy. The doctrine
+665[0]:	   was first articulated by the Court in Hester v. United States (1924),
+666[0]:	   which stated that "the special protection accorded by the Fourth
+667[0]:	   Amendment to the people in their 'persons, houses, papers, and
+668[0]:	   effects,' is not extended to the open fields."^[96]
+669[0]:	
+670[0]:	   In Oliver v. United States (1984),^[97] the police ignored a "no
+671[0]:	   trespassing" sign and a fence, trespassed onto the suspect's land
+672[0]:	   without a warrant, followed a path for hundreds of feet, and discovered
+673[0]:	   a field of marijuana. The Supreme Court ruled that no search had taken
+674[1]:	   place, because there was no privacy expectation regarding an open
+675[0]:	   field:
+676[0]:	
+677[0]:	     open fields do not provide the setting for those intimate activities
+678[0]:	     that the Amendment is intended to shelter from government
+679[0]:	     interference or surveillance. There is no societal interest in
+680[0]:	     protecting the privacy of those activities, such as the cultivation
+681[0]:	     of crops, that occur in open fields.^[98]
+682[0]:	
+683[0]:	   While open fields are not protected by the Fourth Amendment, the
+684[0]:	   curtilage, or outdoor area immediately surrounding the home, is
+685[0]:	   protected. Courts have treated this area as an extension of the house
+686[0]:	   and as such subject to all the privacy protections afforded a person's
+687[0]:	   home (unlike a person's open fields) under the Fourth Amendment. The
+688[0]:	   curtilage is "intimately linked to the home, both physically and
+689[0]:	   psychologically," and is where "privacy expectations are most
+690[0]:	   heightened."^[99] However, courts have held aerial surveillance of
+691[0]:	   curtilage not to be included in the protections from unwarranted search
+692[0]:	   so long as the airspace above the curtilage is generally accessible by
+693[0]:	   the public. An area is curtilage if it "harbors the intimate activity
+694[0]:	   associated with the sanctity of a man's home and the privacies of
+695[0]:	   life."^[100] Courts make this determination by examining "whether the
+696[0]:	   area is included within an enclosure surrounding the home, the nature
+697[0]:	   of the uses to which the area is put, and the steps taken by the
+698[0]:	   resident to protect the area from observation by people passing
+699[0]:	   by."^[101] The Court has acknowledged that a doorbell or knocker is
+700[0]:	   typically treated as an invitation, or license, to the public to
+701[0]:	   approach the front door of the home to deliver mail, sell goods,
+702[0]:	   solicit for charities, etc. This license extends to the police, who
+703[0]:	   have the right to try engaging a home's occupant in a "knock and talk"
+704[0]:	   for the purpose of gathering evidence without a warrant. However, they
+705[0]:	   cannot bring a drug detection dog to sniff at the front door of a home
+706[0]:	   without either a warrant or consent of the homeowner or resident.^[102]
+707[0]:	
+708[0]:	Exigent circumstance
+709[0]:	
+710[0]:	   Main article: Exigent circumstance in United States law
+711[0]:	
+712[1]:	   Law enforcement officers may also conduct warrantless searches in
+713[0]:	   several types of exigent circumstances where obtaining a warrant is
+714[0]:	   dangerous or impractical. One example is the Terry stop, which allows
+715[0]:	   police to frisk suspects for weapons.^[103] The Court also allowed a
+716[0]:	   search of arrested persons in Weeks v. United States (1914) to preserve
+717[0]:	   evidence that might otherwise be destroyed and to ensure suspects were
+718[0]:	   disarmed.^[103]^[104] In Carroll v. United States (1925),^[82] the
+719[0]:	   Court ruled that law enforcement officers could search a vehicle that
+720[0]:	   they suspected of carrying contraband without a warrant.^[103] The
+721[0]:	   Court allowed blood to be drawn without a warrant from drunk-driving
+722[0]:	   suspects in Schmerber v. California (1966) on the grounds that the time
+723[0]:	   to obtain a warrant would allow a suspect's blood alcohol content to
+724[0]:	   reduce.^[103]^[105] Warden v. Hayden (1967) provided an exception to
+725[0]:	   the warrant requirement if officers were in "hot pursuit" of a
+726[0]:	   suspect.^[106]^[103]
+727[0]:	
+728[0]:	Motor vehicle
+729[0]:	
+730[0]:	   Main article: Motor vehicle exception
+731[0]:	
+732[0]:	   The Supreme Court has held that individuals in automobiles have a
+733[1]:	   reduced expectation of privacy, because vehicles generally do not serve
+734[0]:	   as residences or repositories of personal effects. Vehicles may not be
+735[1]:	   randomly stopped and searched; there must be probable cause or
+736[1]:	   reasonable suspicion of criminal activity. Items in plain view may be
+737[0]:	   seized; areas that could potentially hide weapons may also be searched.
+738[1]:	   With probable cause to believe evidence is present, police officers may
+739[0]:	   search any area in the vehicle. However, they may not extend the search
+740[1]:	   to the vehicle's passengers without probable cause to search those
+741[0]:	   passengers or consent from the passengers.^[107]
+742[0]:	
+743[0]:	   In Arizona v. Gant (2009),^[108] the Court ruled that a law enforcement
+744[0]:	   officer needs a warrant before searching a motor vehicle after an
+745[1]:	   arrest of an occupant of that vehicle, unless 1) at the time of the
+746[0]:	   search the person being arrested is unsecured and within reaching
+747[0]:	   distance of the passenger compartment of the vehicle or 2) police
+748[0]:	   officers have reason to believe that evidence for the crime for which
+749[0]:	   the person is being arrested will be found in the vehicle.^[109]
+750[0]:	
+751[2]:	Searches incident to a lawful arrest
+752[0]:	
+753[2]:	   Main article: Searches incident to a lawful arrest
+754[0]:	
+755[1]:	   A common law rule from Great Britain permits searches incident to an
+756[1]:	   arrest without a warrant. This rule has been applied in American law,
+757[0]:	   and has a lengthy common law history.^[110] The justification for such
+758[0]:	   a search is to prevent the arrested individual 1.) from destroying
+759[0]:	   evidence or 2.) using a weapon against the arresting officer by
+760[0]:	   disarming the suspect.^[111] The U.S. Supreme Court ruled that "both
+761[0]:	   justifications for the search-incident-to-arrest exception are absent
+762[0]:	   and the rule does not apply", when "there is no possibility" that the
+763[0]:	   suspect could gain access to a weapon or destroy evidence.^[112] In
+764[0]:	   Trupiano v. United States (1948), the Supreme Court held that "a search
+765[2]:	   or seizure without a warrant as an incident to a lawful arrest has
+766[0]:	   always been considered to be a strictly limited right. It grows out of
+767[1]:	   the inherent necessities of the situation at the time of the arrest.
+768[0]:	   But there must be something more in the way of necessity than merely a
+769[0]:	   lawful arrest."^[113] In United States v. Rabinowitz (1950), the Court
+770[0]:	   reversed Trupiano, holding instead that the officers' opportunity to
+771[0]:	   obtain a warrant was not germane to the reasonableness of a search
+772[1]:	   incident to an arrest. Rabinowitz suggested that any area within the
+773[0]:	   "immediate control" of the arrestee could be searched, but it did not
+774[0]:	   define the term.^[114] In deciding Chimel v. California (1969), the
+775[0]:	   Supreme Court elucidated its previous decisions. It held that when an
+776[1]:	   arrest is made, it is reasonable for the officer to search the arrestee
+777[0]:	   for weapons and evidence.^[115] However, in Riley v. California (2014),
+778[0]:	   the Supreme Court ruled unanimously that police must obtain a warrant
+779[0]:	   to search an arrestee's cellular phone. The Court said that earlier
+780[2]:	   Supreme Court decisions permitting searches incident to an arrest
+781[0]:	   without a warrant do not apply to “modern cellphones, which are now
+782[0]:	   such a pervasive and insistent part of daily life that the proverbial
+783[0]:	   visitor from Mars might conclude they were an important feature of
+784[0]:	   human anatomy,” and noted that US citizens' cellphones today typically
+785[0]:	   contain “a digital record of nearly every aspect of their lives — from
+786[0]:	   the mundane to the intimate.”^[116]^[117]
+787[0]:	
+788[0]:	Border search exception
+789[0]:	
+790[0]:	   Main article: Border search exception
+791[0]:	
+792[1]:	   Searches conducted at the United States border or the equivalent of the
+793[0]:	   border (such as an international airport) may be conducted without a
+794[1]:	   warrant or probable cause subject to the border search
+795[1]:	   exception.^[118]^[119]^[120]^[121] Most border searches may be
+796[1]:	   conducted entirely at random, without any level of suspicion, pursuant
+797[0]:	   to U.S. Customs and Border Protection plenary search authority.
+798[1]:	   However, searches that intrude upon a traveler's personal dignity and
+799[1]:	   privacy interests, such as strip and body cavity searches, must be
+800[0]:	   supported by "reasonable suspicion."^[120]^[122] The U.S. Courts of
+801[0]:	   Appeals for the Fourth and Ninth circuits have ruled that information
+802[0]:	   on a traveler's electronic materials, including personal files on a
+803[0]:	   laptop computer, may be searched at random, without
+804[0]:	   suspicion.^[120]^[123]^[124]
+805[0]:	
+806[0]:	Foreign intelligence surveillance
+807[0]:	
+808[0]:	   The Supreme Court decision in United States v. U.S. District Court
+809[0]:	   (1972)^[125] left open the possibility for a foreign intelligence
+810[0]:	   surveillance exception to the warrant clause.^[126] Three United States
+811[0]:	   Courts of Appeals have recognized a foreign intelligence surveillance
+812[0]:	   exception to the warrant clause, but tied it to certain
+813[0]:	   requirements.^[126] The exception to the Fourth Amendment was formally
+814[0]:	   recognized by the United States Foreign Intelligence Surveillance Court
+815[0]:	   of Review in its 2008 In re Directives^[127] decision.^[128] The lower
+816[0]:	   court held that, "a foreign intelligence exception to the Fourth
+817[0]:	   Amendment's warrant requirement exists when surveillance is conducted
+818[0]:	   to obtain foreign intelligence for national security purposes and is
+819[0]:	   directed against foreign powers or agents of foreign powers reasonably
+820[0]:	   believed to be located outside the United States."^[128] Despite the
+821[0]:	   foregoing citation the Fourth Amendment prohibitions against
+822[2]:	   unreasonable searches and seizures nonetheless apply to the contents of
+823[0]:	   all communications, whatever the means, because, "a person's private
+824[0]:	   communications are akin to personal papers."^[129] To protect the
+825[0]:	   telecommunication carriers cooperating with the US government from
+826[0]:	   legal action, the Congress passed a bill updating the Foreign
+827[0]:	   Intelligence Surveillance Act of 1978 to permit this type of
+828[0]:	   surveillance.^[130]
+829[0]:	
+830[0]:	Other exceptions
+831[0]:	
+832[1]:	   In New Jersey v. T. L. O. (1985), the Supreme Court ruled that searches
+833[1]:	   in public schools do not require warrants, as long as the searching
+834[0]:	   officers have reasonable grounds for believing that the search will
+835[0]:	   result in the finding of evidence of illegal activity.^[76] However, in
+836[0]:	   Safford Unified School District v. Redding (2009),^[131] the Court
+837[0]:	   ruled that school officials violated the Fourth Amendment when they
+838[0]:	   strip searched a 13-year-old girl based only on a student claiming to
+839[0]:	   have received drugs from that student.^[132] Similarly, in Samson v.
+840[0]:	   California (2006), the Court ruled that government offices may be
+841[0]:	   searched for evidence of work-related misconduct by government
+842[1]:	   employees on similar grounds.^[133] Searches of prison cells are
+843[1]:	   subject to no restraints relating to reasonableness or probable
+844[0]:	   cause.^[134]
+845[0]:	
+846[1]:	Exclusionary rule
+847[0]:	
+848[1]:	   Main article: Exclusionary rule
+849[0]:	
+850[0]:	   One way courts enforce the Fourth Amendment is through the use of the
+851[1]:	   exclusionary rule. The rule provides that evidence obtained through a
+852[0]:	   violation of the Fourth Amendment is generally not admissible by the
+853[0]:	   prosecution during the defendant's criminal trial.^[135] The Court
+854[0]:	   stated in Elkins v. United States (1960)^[136] that the rule's function
+855[0]:	   "is to deter—to compel respect for the constitutional guaranty in the
+856[0]:	   only effectively available way—by removing the incentive to disregard
+857[0]:	   it."^[135]
+858[0]:	
+859[1]:	   The Court adopted the exclusionary rule in Weeks v. United States
+860[0]:	   (1914),^[104] prior to which all evidence, no matter how seized, could
+861[0]:	   be admitted in court.^[137] In Silverthorne Lumber Co. v. United States
+862[0]:	   (1920)^[138] and Nardone v. United States (1939),^[139] the Court ruled
+863[0]:	   that leads or other evidence resulting from illegally obtained evidence
+864[0]:	   are also inadmissible in trials. Justice Felix Frankfurter described
+865[0]:	   this secondary evidence in the Nardone decision as the "fruit of the
+866[0]:	   poisonous tree".^[140] The Supreme Court rejected incorporating the
+867[1]:	   exclusionary rule by way of the Fourteenth Amendment in Wolf v.
+868[0]:	   Colorado (1949),^[141] but explicitly overruled this decision in Mapp
+869[0]:	   v. Ohio (1961),^[28] making the Fourth Amendment (including the
+870[1]:	   exclusionary rule) applicable in state proceedings.^[142]
+871[0]:	
+872[1]:	   The exclusionary rule and its effectiveness have often been
+873[0]:	   controversial, particularly since its 1961 application to state
+874[0]:	   proceedings. Critics charge that the rule hampers police investigation
+875[0]:	   and can result in freeing guilty parties convicted on reliable
+876[0]:	   evidence; other critics state that the rule has not been successful in
+877[1]:	   deterring illegal police searches. Proponents argue that the number of
+878[0]:	   criminal convictions overturned under the rule has been minimal and
+879[0]:	   that no other effective mechanism exists to enforce the Fourth
+880[0]:	   Amendment.^[135] In 1982, California passed a "Victim's Bill of Rights"
+881[1]:	   containing a provision to repeal the exclusionary rule; though the bill
+882[0]:	   could not affect federally mandated rights under the Fourth Amendment,
+883[0]:	   it blocked the state courts from expanding these protections
+884[0]:	   further.^[143]^[144]
+885[0]:	
+886[0]:	Limitations
+887[0]:	
+888[1]:	   Responding to criticisms of the exclusionary rule, the Supreme Court
+889[0]:	   has instituted numerous limitations to the rule.^[135] In United States
+890[0]:	   v. Calandra (1974),^[145] the Court ruled that in questioning
+891[0]:	   witnesses, grand juries may use evidence that allegedly was illegally
+892[0]:	   obtained because, "the damage to that institution from the
+893[1]:	   unprecedented extension of the exclusionary rule outweighs the benefit
+894[0]:	   of any possible incremental deterrent effect."^[146]
+895[0]:	
+896[1]:	   Several cases in 1984 further restricted the exclusionary rule. In
+897[0]:	   United States v. Leon,^[147] the Court, applying the "good faith" rule,
+898[0]:	   ruled that evidence seized by officers relying in good faith on a
+899[0]:	   warrant was still admissible, even though the warrant was later found
+900[0]:	   to be defective. Evidence would be excluded, however, if an officer
+901[0]:	   dishonestly or recklessly prepared an affidavit to seek a warrant, the
+902[0]:	   issuing magistrate abandoned his neutrality, or the warrant lacked
+903[0]:	   sufficient particularity.^[148] The Court determined in Nix v.
+904[0]:	   Williams^[149] that "fruit of the poisonous tree" evidence could still
+905[0]:	   be introduced if a prosecutor could demonstrate that it would have been
+906[0]:	   an "inevitable discovery" of legitimate investigation.^[150] In Segura
+907[0]:	   v. United States,^[151] the Court ruled that evidence illegally found
+908[0]:	   without a search warrant is admissible if the evidence is later found
+909[0]:	   and legally seized based on information independent of the illegal
+910[0]:	   search.^[152]
+911[0]:	
+912[0]:	   In Arizona v. Evans (1995)^[153] and Herring v. United States
+913[1]:	   (2009),^[154] the Court ruled that the exclusionary rule does not apply
+914[0]:	   to evidence found due to negligence regarding a government database, as
+915[0]:	   long as the arresting police officer relied on that database in "good
+916[0]:	   faith" and the negligence was not pervasive.^[155]^[156] In Davis v.
+917[1]:	   United States (2011),^[157] the Court ruled that the exclusionary rule
+918[0]:	   does not apply to a Fourth Amendment violation resulting from a
+919[0]:	   reasonable reliance on binding appellate precedent.^[158]
+920[0]:	
+921[0]:	   The rule has also been held not to apply in the following
+922[0]:	   circumstances:
+923[0]:	     * evidence illegally seized by a "private actor" (i.e., not a
+924[0]:	       governmental employee)^[159]
+925[0]:	     * evidence seized from a common carrier^[160]
+926[0]:	     * tax hearings^[161]
+927[0]:	     * evidence collected by U.S. Customs agents^[162]
+928[0]:	     * deportation hearings^[163]
+929[0]:	     * military discharge proceedings^[164]
+930[0]:	     * evidence seized by probation or parole officers^[165]
+931[0]:	     * child protective proceedings^[166]
+932[0]:	     * probation or parole revocation hearings^[167]
+933[0]:	
+934[0]:	See also
+935[0]:	
+936[0]:	     * Article 8 of the European Convention on Human Rights
+937[0]:	     * Section Eight of the Canadian Charter of Rights and Freedoms
+938[0]:	     * subpoena ad testificandum
+939[0]:	     * subpoena duces tecum
+940[0]:	
+941[0]:	Notes
+942[0]:	
+943[0]:	    1. ^ Effects are items of property.^[1]
+944[0]:	
+945[0]:	   Citations
+946[0]:	    1. ^ Denniston, Lyle (April 25, 2014). "Argument preview: Police and
+947[0]:	       cellphone privacy". SCOTUSblog. Retrieved July 1, 2014.
+948[0]:	    2. ^ Official Bill of Rights in the National Archives
+949[0]:	    3. ^ Coke's Rep. 91a, 77 Eng. Rep. 194 (K.B. 1604)
+950[0]:	    4. ^ ^a ^b ^c Kilman & Costello (2006), p. 1281–1282.
+951[0]:	    5. ^ Entick v Carrington, 2 Wils. K. B. 275, 291; 95 Eng. Rep. 807,
+952[0]:	       817 (K. B. 1765)
+953[0]:	    6. ^ Levy (1995), p. 150.
+954[0]:	    7. ^ Davies (1999).
+955[0]:	    8. ^ Wroth & Zobel (1965), p. 113, fn 22: "The writs of assistance did
+956[0]:	       not become an issue until news of King George II's death arrived in
+957[0]:	       Boston December 27, 1760."
+958[0]:	    9. ^ Wroth & Zobel (1965), p. 113, fn 23.
+959[0]:	   10. ^ Adams & Adams (1856), p. 59.
+960[0]:	   11. ^ Lasson (1937), p. 57–61.
+961[0]:	   12. ^ Lasson (1937), p. 66.
+962[0]:	   13. ^ ^a ^b Levy (1995), p. 161.
+963[0]:	   14. ^ Roots, Roger (January 13, 2010). "The Originalist Case for the
+964[1]:	       Fourth Amendment Exclusionary Rule". Gonzaga Law Review. p. 20 (fn.
+965[0]:	       118). Retrieved 8 January 2012.
+966[0]:	   15. ^ Mass. Const. pt. 1, art. XIV.
+967[0]:	   16. ^ ^a ^b Cuddihy, William (1986). "Fourth Amendment, Historical
+968[0]:	       Origins of". Encyclopedia of the American Constitution.
+969[0]:	       – via HighBeam Research (subscription required). Retrieved 27 July
+970[0]:	       2013.
+971[0]:	   17. ^ Beeman (2009), p. 341–43.
+972[0]:	   18. ^ Maier (2010), p. 431.
+973[0]:	   19. ^ "Bill of Rights". National Archives. Archived from the original
+974[0]:	       on April 4, 2013. Retrieved April 4, 2013.
+975[0]:	   20. ^ Wood (2009), p. 71.
+976[0]:	   21. ^ ^a ^b ^c Levy, Leonard W. (1986). "Bill of Rights (United
+977[0]:	       States)". Encyclopedia of the American Constitution.
+978[0]:	       – via HighBeam Research (subscription required). Retrieved July 16,
+979[0]:	       2013.
+980[0]:	   22. ^ ^a ^b Labunski (2006), p. 245.
+981[0]:	   23. ^ Labunski (2006), p. 255.
+982[0]:	   24. ^ Labunski (2006), p. 258–59.
+983[0]:	   25. ^ Wood (2009), p. 72.
+984[0]:	   26. ^ Lasson (1937), p. 106.
+985[0]:	   27. ^ ^a ^b Ontario v. Quon, 130 S.Ct. 2619, 560 U.S. ___ (2010),
+986[0]:	       (Docket No. 08-1332).
+987[0]:	   28. ^ ^a ^b Mapp v. Ohio, 367 U.S. 643 (1961).
+988[1]:	   29. ^ Landynski, Jacob W. (1986). "Mapp v. Ohio". Encyclopedia of the
+989[0]:	       American Constitution.  – via HighBeam Research (subscription
+990[0]:	       required). Retrieved July 28, 2013.
+991[0]:	   30. ^ Arenella, Peter (1992). "Fourth Amendment". Encyclopedia of the
+992[0]:	       American Constitution.  – via HighBeam Research (subscription
+993[0]:	       required). Retrieved July 28, 2013.
+994[0]:	   31. ^ Berger v. New York, 388 U.S. 41, 54,59 (1967).
+995[0]:	   32. ^ Camara v. Municipal Court of City and County of San Francisco,
+996[0]:	       387 U.S. 523 (1967).
+997[0]:	   33. ^ Arizona v. Gant, 556 U.S. 332 (2009), at page 338.
+998[0]:	   34. ^ Chandler v. Miller, 520 U.S. 305 (1997).
+999[0]:	   35. ^ United States v. Jacobsen, 466 U.S. 109 (1984): "This Court
+1000[0]:	       has ... consistently construed this protection as proscribing only
+1001[0]:	       governmental action; it is wholly inapplicable to a search or
+1002[1]:	       seizure, even an unreasonable one, effected by a private individual
+1003[0]:	       not acting as an agent of the Government or with the participation
+1004[0]:	       or knowledge of any governmental official." (punctuation omitted).
+1005[0]:	   36. ^ "City of Ontario v. Quon". SCOTUSblog. Retrieved December 28,
+1006[0]:	       2013.
+1007[0]:	   37. ^ ^a ^b ^c ^d Schwartz, Herman (1986). "Katz v. United States 389
+1008[0]:	       U.S. 347 (1967)". Encyclopedia of the American Constitution.
+1009[0]:	       – via HighBeam Research (subscription required). Retrieved July 28,
+1010[0]:	       2013.
+1011[0]:	   38. ^ Silverman v. United States, 365 U.S. 505, 511 (1961).
+1012[0]:	   39. ^ Katz v. United States, 389 U.S. 347 (1967).
+1013[0]:	   40. ^ Katz, 389 U.S. at 351.
+1014[0]:	   41. ^ Katz, 389 U.S. at 351; at 360-61 (Harlan, J., concurring)
+1015[0]:	   42. ^ ^a ^b Schroeder, Steve (2012). The Lure: The True Story of How
+1016[0]:	       the Department of Justice Brought Down Two of the World's Most
+1017[0]:	       Dangerous Cyber Criminals. Cengage Learning. p. 127.
+1018[0]:	       ISBN 1-4354-5713-7.
+1019[0]:	   43. ^ Morgan, Candace. "Challenges and Issues Today" in Intellectual
+1020[0]:	       Freedom Manual, pp. 41–42 (American Library Association, Office for
+1021[0]:	       Intellectual Freedom, 2010).
+1022[0]:	   44. ^ ^a ^b Smith v. Maryland, 442 U.S. 735 (1979).
+1023[0]:	   45. ^ Freiwald, Susan (2007). "First Principles of Communications
+1024[0]:	       Privacy". Stanford Technlogy Law Review (3).
+1025[0]:	   46. ^ Sorosky, Schuyler. "United States v. Forrester: An Unwarranted
+1026[0]:	       Narrowing of the Fourth Amendment", Loyola of Los Angeles Law
+1027[0]:	       Review, Vol. 41, p. 1121, 1126 (2008).
+1028[0]:	   47. ^ "Smith v. Maryland". The Oyez Project at IIT Chicago-Kent College
+1029[0]:	       of Law. The Oyez Project at IIT Chicago-Kent College of Law.
+1030[0]:	       Retrieved 13 January 2014. "Because the Fourth Amendment does not
+1031[0]:	       apply to information that is voluntarily given to third parties,
+1032[0]:	       the telephone numbers that are regularly and voluntarily provided
+1033[0]:	       to telephone companies by their customers do not gain Fourth
+1034[0]:	       Amendment protections."
+1035[0]:	   48. ^ Smith, 442 U.S. at 742.
+1036[0]:	   49. ^ United States v. Jones, 565 U.S. ___ (2012), (Docket No.
+1037[0]:	       10-1259).
+1038[0]:	   50. ^ Denniston, Lyle (January 23, 2012). "Opinion recap: Tight limit
+1039[0]:	       on police GPS use". SCOTUSblog. Retrieved 23 January 2012.
+1040[0]:	   51. ^ Florida v. Jardines, 569 U.S. ___ (2013), (Docket No. 11-564).
+1041[0]:	   52. ^ Terry v. Ohio, 392 U.S. 1 (1968)
+1042[1]:	   53. ^ Landynski, Jacob W. (1986). "Terry v. Ohio 392 U.S. 1 (1968)
+1043[0]:	       Sibron v. New York 392 U.S. 40 (1968)". Encyclopedia of the
+1044[0]:	       American Constitution.  – via HighBeam Research (subscription
+1045[0]:	       required). Retrieved July 28, 2013.
+1046[0]:	   54. ^ ^a ^b Florida v. Royer, 460 U.S. 491, 497–98 (1983).
+1047[0]:	   55. ^ "Florida v. Royer". casebriefs.com. Retrieved July 28, 2013.
+1048[0]:	   56. ^ Jacobsen, 466 U.S. at 113.
+1049[0]:	   57. ^ Soldal v. Cook County, 506 U.S. 56, 61 (1992). "The right against
+1050[2]:	       unreasonable seizures would be no less transgressed if the seizure
+1051[0]:	       of the house was undertaken to collect evidence, verify compliance
+1052[0]:	       with a housing regulation, effect an eviction by the police, or on
+1053[0]:	       a whim, for no reason at all."
+1054[0]:	   58. ^ ^a ^b ^c ^d United States v. Mendenhall, 446 U.S. 544 (1980).
+1055[0]:	   59. ^ Dunaway v. New York, 442 U.S. 200, 210 n. 12, 99 S.Ct. 2248, 2255
+1056[0]:	       n. 12, 60 L.Ed.2d 824 (1979).
+1057[0]:	   60. ^ Florida v. Bostick, 501 U.S. 429, 439 (1991).
+1058[0]:	   61. ^ Knowles v. Iowa, 525 U.S. 113, 117 (1998).
+1059[0]:	   62. ^ Moritz, Rob (April 5, 2008). "Fed appeals court says refusal to
+1060[1]:	       identify no cause for arrest". Arkansas News Bureau. Archived from
+1061[0]:	       the original on 2008-06-13. Retrieved April 6, 2012.
+1062[0]:	   63. ^ Virginia v. Moore, 553 U.S. ___ (2008), (Docket No. 06-1082).
+1063[1]:	   64. ^ "Court allows search and seizure in Va. case". USA Today. April
+1064[0]:	       23, 2008. Retrieved April 11, 2012.
+1065[0]:	   65. ^ Maryland v. King, 569 U.S. ___ (2013), (Docket No. 12-207).
+1066[0]:	   66. ^ June, Daniel. (June 3, 2013)"Supreme Court Approves Use of DNA
+1067[0]:	       Swabbing in Serious Arrests". JDJournal. Accessed August 2, 2013.
+1068[0]:	   67. ^ Delaware v. Prouse, 440 U.S. 648 (1979).
+1069[1]:	   68. ^ Landynski, Jacob W. (1986). "Automobile search". Encyclopedia of
+1070[0]:	       the American Constitution.  – via HighBeam Research (subscription
+1071[0]:	       required). Retrieved July 28, 2013.
+1072[0]:	   69. ^ United States v. Martinez-Fuerte, 428 U.S. 543 (1976).
+1073[0]:	   70. ^ Michigan Dept. of State Police v. Sitz 496 U.S. 444 (1990).
+1074[0]:	   71. ^ Illinois v. Lidster, 540 U.S. 419 (2004).
+1075[0]:	   72. ^ City of Indianapolis v. Edmond, 531 U.S. 32 (2000).
+1076[0]:	   73. ^ Maryland v. Dyson, 527 U.S. 465 (1999).
+1077[0]:	   74. ^ Andrews v. Fuoss, 417 F.3d 813 (8th Cir. 2005).
+1078[0]:	   75. ^ Flippo v. West Virginia, 528 U.S. 11 (1999); California v.
+1079[0]:	       Acevedo, 500 U.S. 565 (1991).
+1080[0]:	   76. ^ ^a ^b New Jersey v. T. L. O., 469 U.S. 325 (1985). "[W]arrantless
+1081[1]:	       searches are per se unreasonable, subject only to a few
+1082[0]:	       specifically delineated and well-recognized exceptions. ...
+1083[1]:	       full-scale searches – whether conducted in accordance with the
+1084[0]:	       warrant requirement or pursuant to one of its exceptions – are
+1085[0]:	       "reasonable" in Fourth Amendment terms only on a showing of
+1086[1]:	       probable cause to believe that a crime has been committed and that
+1087[0]:	       evidence of the crime will be found in the place to be searched."
+1088[0]:	   77. ^ T. L. O., 469 U.S., Blackmun, J., concurring.
+1089[1]:	   78. ^ Keeley III., Charles J. (2006). "Article 8 - Subway Searches:
+1090[1]:	       Which Exception to the Warrant and Probable Cause Requirements
+1091[1]:	       Applies to Suspicionless Searches of Mass Transit Passengers To
+1092[0]:	       Prevent Terrorism?". Fordham Law Review 74 (6): 3236. Retrieved 28
+1093[0]:	       December 2013.
+1094[0]:	   79. ^ Skinner v. Railway Labor Executives Association, 489 U.S. 602
+1095[0]:	       (1989).
+1096[0]:	   80. ^ Beck v. Ohio, 379 U.S. 89, 91 (1964).
+1097[0]:	   81. ^ Johnson v. United States, 333 U.S. 10 (1948).
+1098[0]:	   82. ^ ^a ^b Carroll v. United States, 267 U.S. 132 (1925).
+1099[1]:	   83. ^ Landynski, Jacob W. (1986). "Carroll v. United States 267 U.S.
+1100[0]:	       132 (1925)". Encyclopedia of the American Constitution.
+1101[0]:	       – via HighBeam Research (subscription required). Retrieved July 28,
+1102[0]:	       2013.
+1103[0]:	   84. ^ Dumbra v. United States, 268 U.S. 435 (1925).
+1104[0]:	   85. ^ Carroll, 267 U.S. at 162.
+1105[0]:	   86. ^ Texas v. Brown, 460 U.S. 730, 742 (1983).
+1106[0]:	   87. ^ Illinois v. Gates, 462 U.S. 213 (1983).
+1107[0]:	   88. ^ Holcomb, J. W. (March 2003).Obtaining Written Consent to Search.
+1108[0]:	       FBI Law Enforcement Bulletin
+1109[0]:	   89. ^ Schneckloth v. Bustamonte, 412 U.S. 218 (1973).
+1110[1]:	   90. ^ Landynski, Jacob W. (1986). "Schneckloth v. Bustamonte 412 U.S.
+1111[0]:	       218 (1973)". Encyclopedia of the American Constitution.
+1112[0]:	       – via HighBeam Research (subscription required). Retrieved July 31,
+1113[0]:	       2013.
+1114[0]:	   91. ^ United States v. Matlock, 415 U.S. 164 (1974).
+1115[1]:	   92. ^ ^a ^b Crawford, Kimberly A. (August 1, 1996). "Consent searches:
+1116[0]:	       guidelines for officers". The FBI Law Enforcement Bulletin.
+1117[0]:	       – via HighBeam Research (subscription required). Retrieved July 31,
+1118[0]:	       2013.
+1119[0]:	   93. ^ Illinois v. Rodriguez, 497 U.S. 177 (1990).
+1120[0]:	   94. ^ Coolidge v. New Hampshire, 403 U.S. 443 (1971).
+1121[1]:	   95. ^ Landynski, Jacob W. (1986). "Plain View Doctrine". Encyclopedia
+1122[0]:	       of the American Constitution.  – via HighBeam Research
+1123[0]:	       (subscription required). Retrieved July 31, 2013.
+1124[0]:	   96. ^ Hester v. United States, 265 U.S. 57 (1924).
+1125[0]:	   97. ^ Oliver v. United States, 466 U.S. 170 (1984).
+1126[0]:	   98. ^ Oliver, 466 U.S. at 179.
+1127[0]:	   99. ^ California v. Ciraolo, 476 U.S. 207, 213 (1986).
+1128[0]:	   100. ^ United States v. Dunn, 480 U.S. 294, 300 (1987).
+1129[0]:	   101. ^ Dunn, 480 U.S. at 301.
+1130[0]:	   102. ^ Jardines, 569 U. S. (slip op., at 6). "This implicit license
+1131[0]:	       typically permits the visitor to approach the home by the front
+1132[0]:	       path, knock promptly, wait briefly to be received, and then (absent
+1133[0]:	       invitation to linger longer) leave. Complying with the terms of
+1134[0]:	       that traditional invitation does not require fine-grained legal
+1135[0]:	       knowledge; it is generally managed without incident by the Nation's
+1136[0]:	       Girl Scouts and trick-or-treaters."
+1137[1]:	   103. ^ ^a ^b ^c ^d ^e Landynski, Jacob W. (1986). "Exigent
+1138[0]:	       Circumstances Search". Encyclopedia of the American Constitution.
+1139[0]:	       – via HighBeam Research (subscription required). Retrieved July 31,
+1140[0]:	       2013.
+1141[0]:	   104. ^ ^a ^b Weeks v. United States, 232 U.S. 383 (1914).
+1142[0]:	   105. ^ Schmerber v. California, 384 U.S. 757 (1966).
+1143[0]:	   106. ^ Warden v. Hayden, 387 U.S. 294 (1967).
+1144[0]:	   107. ^ Hendrie, Edward (August 1, 2005). "The motor vehicle exception".
+1145[0]:	       The FBI Law Enforcement Bulletin.  – via HighBeam Research
+1146[0]:	       (subscription required). Retrieved July 31, 2013.
+1147[0]:	   108. ^ Arizona v. Gant, 556 U.S. ___ (2009), (Docket No. 07-542)
+1148[0]:	   109. ^ Moore, Kristina (April 21, 2009). "Limits on warrantless car
+1149[1]:	       searches, compensation to terrorism victims, veterans benefit
+1150[0]:	       disputes". SCOTUSblog. Retrieved April 22, 2009.
+1151[0]:	   110. ^ Kerr, Orin (2010-12-14) The Origins of the "Search Incident to
+1152[1]:	       Arrest" Exception, The Volokh Conspiracy
+1153[0]:	   111. ^ "Riley v. California - Concerning the Constitutionality of a
+1154[1]:	       Warrantless Cell Phone Search Incident to Arrest". Electronic
+1155[0]:	       Privacy Information Center. Retrieved 1 July 2014.
+1156[0]:	   112. ^ Arizona v. Gant, 556 U.S. 332 (2009), at page 339.
+1157[0]:	   113. ^ Trupiano v. United States, 334 U.S. 699 (1948).
+1158[0]:	   114. ^ United States v. Rabinowitz, 339 U.S. 56 (1950).
+1159[0]:	   115. ^ Chimel v. California, 395 U.S. 752 (1969).
+1160[0]:	   116. ^ Liptak, Adam (June 25, 2014). "Major Ruling Shields Privacy of
+1161[0]:	       Cellphones". The New York Times. Retrieved June 25, 2014.
+1162[0]:	   117. ^ Charlie Savage, Hannah Fairfield and Josh Williams (June 25,
+1163[0]:	       2014). "Between the Lines of the Cellphone Privacy Ruling". The New
+1164[0]:	       York Times. Retrieved June 25, 2014.
+1165[0]:	   118. ^ Henderson v. United States, 390 F.2d 805 (9th Cir. 1967).
+1166[0]:	   119. ^ United States v. Guadalupe-Garza, 421 F.2d 876 (9th Cir. 1970).
+1167[0]:	   120. ^ ^a ^b ^c Upright, Scott J. (October 1, 2009). "Suspicionless
+1168[1]:	       border seizures of electronic files: the overextension of the
+1169[0]:	       border search exception to the Fourth Amendment". William and Mary
+1170[0]:	       Law Review.  – via HighBeam Research (subscription required).
+1171[0]:	       Retrieved August 1, 2013.
+1172[0]:	   121. ^ United States v. Flores-Montano, 541 U.S. 149 (2004), United
+1173[0]:	       States v. Montoya De Hernandez, 473 U.S. 531 (1985), and United
+1174[0]:	       States v. Ramsey, 431 U.S. 606 (1977).
+1175[0]:	   122. ^ Flores-Montano, 541 U.S. at 152–53.
+1176[0]:	   123. ^ United States v. Ickes, 393 F.3d 501 (4th Cir. 2005).
+1177[0]:	   124. ^ United States v. Arnold, 523 F.3d 941 (9th Cir. 2008).
+1178[0]:	   125. ^ United States v. U.S. District Court, 407 U.S. 297 (1972).
+1179[0]:	   126. ^ ^a ^b Vladeck, Steve (23 May 2013). "More on Clapper and the
+1180[0]:	       Foreign Intelligence Surveillance Exception". Lawfare Blog - Hard
+1181[0]:	       National Security Choices. Retrieved 17 July 2013.
+1182[0]:	   127. ^ Selya, Bruce M. (August 22, 2008). "United States Foreign
+1183[0]:	       Intelligence Surveillance Court of Review Case No. 08-01 In Re
+1184[0]:	       Directives [redacted text] Pursuant to Section 105B of the Foreign
+1185[0]:	       Intelligence Surveillance Act". U.S. Foreign Intelligence
+1186[0]:	       Surveillance Court of Review (via the Federation of American
+1187[0]:	       Scientists). Retrieved July 15, 2013.
+1188[0]:	   128. ^ ^a ^b Vladeck, Steve (22 May 2013). "Why Clapper Matters: The
+1189[0]:	       Future of Programmatic Surveillance". Lawfare Blog - Hard National
+1190[0]:	       Security Choices. Retrieved 17 July 2013.
+1191[0]:	   129. ^ John D Bates (3 October 2011). "[redacted]". United States
+1192[0]:	       Foreign Intelligence Surveillance Court. pp. 73–74.
+1193[0]:	   130. ^ "U.S. Spy Bill Protecting Telecoms Heads To President Bush".
+1194[0]:	       Retrieved July 14, 2008.
+1195[0]:	   131. ^ Safford Unified School District v. Redding, 557 U.S. ___ (2009),
+1196[0]:	       (Docket No. 08-479).
+1197[0]:	   132. ^ Denniston, Lyle (June 25, 2009). "Analysis: Some expansion of
+1198[0]:	       student privacy". SCOTUSblog. Retrieved June 25, 2009.
+1199[0]:	   133. ^ Samson v. California, 547 U.S. 843 (2006).
+1200[0]:	   134. ^ Goring, Darlene C. (1984). "Fourth Amendment—Prison Cells: Is
+1201[0]:	       there a Right to Privacy". Journal of Criminal Law and Criminology
+1202[0]:	       75 (3): 609. doi:10.2307/1143635. JSTOR 1143635. Retrieved
+1203[0]:	       September 19, 2013.
+1204[1]:	   135. ^ ^a ^b ^c ^d Levy, Leonard W. (1986). "Exclusionary Rule".
+1205[0]:	       Encyclopedia of the American Constitution.  – via HighBeam Research
+1206[0]:	       (subscription required). Retrieved July 31, 2013.
+1207[0]:	   136. ^ Elkins v. United States, 364 U.S. 206 (1960).
+1208[1]:	   137. ^ Landynski, Jacob W. (1986). "Weeks v. United States 232 U.S. 383
+1209[0]:	       (1914)". Encyclopedia of the American Constitution.  – via HighBeam
+1210[0]:	       Research (subscription required). Retrieved July 31, 2013.
+1211[0]:	   138. ^ Silverthorne Lumber Co. v. United States, 251 U.S. 385 (1920).
+1212[0]:	   139. ^ Nardone v. United States, 308 U.S. 338 (1939).
+1213[1]:	   140. ^ Landynski, Jacob W. (1986). "Silverthorne Lumber Co. v. United
+1214[0]:	       States 251 U.S. 385 (1920)". Encyclopedia of the American
+1215[0]:	       Constitution.  – via HighBeam Research (subscription required).
+1216[0]:	       Retrieved July 31, 2013.
+1217[0]:	   141. ^ Wolf v. Colorado, 338 U.S. 25 (1949).
+1218[0]:	   142. ^ "Mapp v. Ohio". Supreme Court Drama: Cases That Changed America.
+1219[0]:	        – via HighBeam Research (subscription required). 2001. Retrieved
+1220[0]:	       July 31, 2013.
+1221[0]:	   143. ^ "California's Backfire on Crime". The New York Times. June 21,
+1222[0]:	       1982. Retrieved July 31, 2013.
+1223[0]:	   144. ^ Crisera (1990), p. 1587.
+1224[0]:	   145. ^ United States v. Calandra, 414 U.S. 338 (1974).
+1225[0]:	   146. ^ Calandra, 414 U.S. at 354.
+1226[0]:	   147. ^ United States v. Leon, 468 U.S. 897 (1984).
+1227[0]:	   148. ^ Leon, 468 U.S. at 926.
+1228[0]:	   149. ^ Nix v. Williams, 467 U.S. 431 (1984).
+1229[0]:	   150. ^ Levy, Leonard W. (1986). "Nix v. Williams 467 U.S. 431 (1984)".
+1230[0]:	       Encyclopedia of the American Constitution.  – via HighBeam Research
+1231[0]:	       (subscription required). Retrieved July 31, 2013.
+1232[0]:	   151. ^ Segura v. United States, 468 U.S. 796 (1984).
+1233[0]:	   152. ^ Hendrie, Edward M. (September 1, 1997). "The Inevitable
+1234[1]:	       Discovery Exception to the Exclusionary Rule". The FBI Law
+1235[0]:	       Enforcement Bulletin.  – via HighBeam Research (subscription
+1236[0]:	       required). Retrieved July 31, 2013.
+1237[0]:	   153. ^ Arizona v. Evans, 514 U.S. 1 (1995).
+1238[0]:	   154. ^ Herring v. United States, 555 U.S. 135 (2009).
+1239[0]:	   155. ^ Stinger, C. Maureen (February 13, 1996). "Arizona v. Evans:
+1240[1]:	       Adapting the Exclusionary Rule to Advancing Computer Technology".
+1241[0]:	       The Richmond Journal of Law and Technology. Retrieved January 16,
+1242[0]:	       2009.
+1243[0]:	   156. ^ "Court says evidence is valid despite police error". Retrieved
+1244[0]:	       January 14, 2009.
+1245[0]:	   157. ^ Davis v. United States, 131 S.Ct. 2419, 564 U.S. ___ (2011),
+1246[0]:	       (Docket No. 09-11328).
+1247[0]:	   158. ^ Denniston, Lyle (June 25, 2011). "Opinion analysis: The fading
+1248[1]:	       "exclusionary rule"". SCOTUSblog. Retrieved 25 November 2011.
+1249[0]:	   159. ^ Burdeau v. McDowell, 256 U.S. 465 (1921).
+1250[0]:	   160. ^ United States v. Pryba, 502 F.2d 391, 399–400 (Dist. of Columbia
+1251[0]:	       Cir. 1974).
+1252[0]:	   161. ^ United States v. Janis, 428 U.S. 433 (1976).
+1253[0]:	   162. ^ United States v. Andreas, 463 U.S. 765 (1983).
+1254[0]:	   163. ^ INS v. Lopez-Mendoza, 468 U.S. 1032 (1984).
+1255[0]:	   164. ^ Garrett v. Lehman, 751 F.2d 997 (9th. Cir. 1985).
+1256[0]:	   165. ^ Griffin v. Wisconsin, 483 U.S. 868 (1987); United States v.
+1257[0]:	       Knights, 534 U.S. 112 (2001).
+1258[0]:	   166. ^ State in re A.R. & C.P., 937 P.2d 1037, 1042, 1044 (Utah Ct.
+1259[0]:	       App. 1997); In re Antoine, 2007 Conn. Super. LEXIS 1688.
+1260[0]:	   167. ^ Pennsylvania Bd. of Probation and Parole v. Scott, 524 U.S. 357
+1261[0]:	       (1998).
+1262[0]:	
+1263[0]:	References
+1264[0]:	
+1265[0]:	     * Adams, Charles Francis; Adams, John (1856). The Works of John
+1266[0]:	       Adams, Second President of the United States: With a Life of the
+1267[0]:	       Author. Vol. 1 publisher=Little, Brown.
+1268[0]:	     * Beeman, Richard (2009). Plain, Honest Men: The Making of the
+1269[0]:	       American Constitution. Random House.
+1270[0]:	     * Crisera, Maria Lisa (1990). "Reevaluation of the California Corpus
+1271[0]:	       Delicti Rule: A Response to the Invitation of Proposition 8".
+1272[0]:	       California Law Review 78 (6).
+1273[0]:	     * Davies, Thomas Y. (1999). "Recovering the Original Fourth
+1274[0]:	       Amendment". Michigan Law Review 98 (3): 547–750.
+1275[0]:	       doi:10.2307/1290314. JSTOR 1290314.
+1276[0]:	     * Kilman, Johnny; Costello, George, eds. (2006). The Constitution of
+1277[0]:	       the United States of America: Analysis and Interpretation. GPO.
+1278[0]:	     * Labunski, Richard E. (2006). James Madison and the struggle for the
+1279[0]:	       Bill of Rights. Oxford University Press.
+1280[0]:	     * Lasson, Nelson B. (1937). The History and Development of the Fourth
+1281[0]:	       Amendment to the United States Constitution. Johns Hopkins
+1282[0]:	       University Press.
+1283[0]:	     * Levy, Leonard Williams (1995). Seasoned Judgments: The American
+1284[0]:	       Constitution, Rights, and History. Transaction Publishers.
+1285[0]:	     * Maier, Pauline (2010). Ratification: The People Debate the
+1286[0]:	       Constitution, 1787–1788. Simon and Schuster.
+1287[0]:	     * Wood, Gordon S. (2009). Empire of Liberty: A History of the Early
+1288[0]:	       Republic, 1789–1815. Oxford University Press.
+1289[0]:	     * Wroth, Kinvin; Zobel, Hiller B., eds. (1965). Legal Papers of John
+1290[0]:	       Adams. Vol. 2. Belknap Press.
+1291[0]:	
+1292[0]:	External links
+1293[0]:	
+1294[0]:	     * CRS Annotated Constitution: Fourth Amendment, Cornell University
+1295[0]:	
+1296[0]:	
+1297[0]:	     * v
+1298[0]:	     * t
+1299[0]:	     * e
+1300[0]:	
+1301[0]:	   United States Constitution
+1302[0]:	   Text (via Wikisource)
+1303[0]:	     * Preamble and Articles I-VII
+1304[0]:	     * Amendments 1-10
+1305[0]:	     * Amendments 11-27
+1306[0]:	     * Unsuccessful Proposed Amendments
+1307[0]:	     * Debates in State Conventions on the Adoption of the Constitution
+1308[0]:	
+1309[0]:	   Preamble & Articles
+1310[0]:	     * Preamble
+1311[0]:	     * I
+1312[0]:	     * II
+1313[0]:	     * III
+1314[0]:	     * IV
+1315[0]:	     * V
+1316[0]:	     * VI
+1317[0]:	     * VII
+1318[0]:	
+1319[0]:	   Amendments
+1320[0]:	     Ratified
+1321[0]:	                 * 1
+1322[0]:	                 * 2
+1323[0]:	                 * 3
+1324[0]:	                 * 4
+1325[0]:	                 * 5
+1326[0]:	                 * 6
+1327[0]:	                 * 7
+1328[0]:	                 * 8
+1329[0]:	                 * 9
+1330[0]:	                 * 10
+1331[0]:	                 * 11
+1332[0]:	                 * 12
+1333[0]:	                 * 13
+1334[0]:	                 * 14
+1335[0]:	                 * 15
+1336[0]:	                 * 16
+1337[0]:	                 * 17
+1338[0]:	                 * 18
+1339[0]:	                 * 19
+1340[0]:	                 * 20
+1341[0]:	                 * 21
+1342[0]:	                 * 22
+1343[0]:	                 * 23
+1344[0]:	                 * 24
+1345[0]:	                 * 25
+1346[0]:	                 * 26
+1347[0]:	                 * 27
+1348[0]:	
+1349[0]:	     Pending
+1350[0]:	                 * Congressional Apportionment
+1351[0]:	                 * Titles of Nobility
+1352[0]:	                 * Corwin (State Domestic Institutions)
+1353[0]:	                 * Child Labor
+1354[0]:	
+1355[0]:	   Unsuccessful
+1356[0]:	                 * Equal Rights
+1357[0]:	                 * District of Columbia Voting Rights
+1358[0]:	
+1359[0]:	     * List of Constitutional Amendments
+1360[0]:	     * Bill of Rights (Amendments 1-10)
+1361[0]:	     * Reconstruction Amendments (Amendments 13-15)
+1362[0]:	
+1363[0]:	     * Amendment proposal in Congress
+1364[0]:	     * Conventions to propose amendments
+1365[0]:	     * State ratifying conventions
+1366[0]:	
+1367[0]:	   Formation
+1368[0]:	     * History
+1369[0]:	     * Articles of Confederation
+1370[0]:	     * Mount Vernon Conference
+1371[0]:	     * Annapolis Convention
+1372[0]:	     * Philadelphia Convention
+1373[0]:	          + Virginia Plan
+1374[0]:	          + New Jersey Plan
+1375[0]:	          + Connecticut Compromise
+1376[0]:	          + Three-Fifths Compromise
+1377[0]:	          + Committee of Detail
+1378[0]:	          + Signers
+1379[0]:	     * Federalist Papers
+1380[0]:	     * Anti-Federalist Papers
+1381[0]:	     * Massachusetts Compromise
+1382[0]:	     * Virginia Ratifying Convention
+1383[0]:	     * Drafting and ratification timeline
+1384[0]:	
+1385[0]:	   Clauses
+1386[0]:	     * Appointments
+1387[0]:	     * Appropriations
+1388[0]:	     * Assistance of Counsel
+1389[0]:	     * Bill of credit
+1390[0]:	     * Case or Controversy
+1391[0]:	     * Citizenship
+1392[0]:	     * Commerce
+1393[0]:	     * Compact
+1394[0]:	     * Compulsory Process
+1395[0]:	     * Confrontation
+1396[0]:	     * Contract
+1397[0]:	     * Copyright and Patent
+1398[0]:	     * Double Jeopardy
+1399[0]:	     * Due Process
+1400[0]:	     * Equal Protection
+1401[0]:	     * Establishment
+1402[0]:	     * Exceptions
+1403[0]:	     * Excessive Bail
+1404[0]:	     * Ex post facto
+1405[0]:	     * Extradition
+1406[0]:	     * Free Exercise
+1407[0]:	     * Free Speech
+1408[0]:	     * Fugitive Slave
+1409[0]:	     * Full Faith and Credit
+1410[0]:	     * General Welfare
+1411[0]:	     * Guarantee
+1412[0]:	     * Impeachment
+1413[0]:	     * Ineligibility (Emolument)
+1414[0]:	     * Militia
+1415[0]:	     * Natural-born citizen
+1416[0]:	     * Necessary and Proper
+1417[0]:	     * No Religious Test
+1418[0]:	     * Origination
+1419[0]:	     * Petition
+1420[0]:	     * Postal
+1421[0]:	     * Presentment
+1422[0]:	     * Privileges and Immunities
+1423[0]:	     * Privileges or Immunities
+1424[0]:	     * Recommendation
+1425[0]:	     * Self-Incrimination
+1426[0]:	     * Speech or Debate
+1427[0]:	     * Speedy Trial
+1428[0]:	     * State of the Union
+1429[0]:	     * Supremacy
+1430[0]:	     * Suspension
+1431[0]:	     * Take Care
+1432[0]:	     * Takings
+1433[0]:	     * Taxing and Spending
+1434[0]:	     * Territorial
+1435[0]:	     * Title of Nobility
+1436[0]:	     * Treaty
+1437[0]:	     * Trial by Jury
+1438[0]:	     * Vesting
+1439[0]:	     * Vicinage
+1440[0]:	     * War Powers
+1441[0]:	     * List of clauses
+1442[0]:	
+1443[0]:	   Interpretation
+1444[0]:	     * Concurrent powers
+1445[0]:	     * Congressional enforcement
+1446[0]:	     * Constitutional law
+1447[0]:	     * Criminal procedure
+1448[0]:	     * Criminal sentencing
+1449[0]:	     * Dormant Commerce Clause
+1450[0]:	     * Enumerated powers
+1451[0]:	     * Executive privilege
+1452[0]:	     * Incorporation of the Bill of Rights
+1453[0]:	     * Judicial review
+1454[0]:	     * Nondelegation doctrine
+1455[0]:	     * Preemption
+1456[0]:	     * Saxbe fix
+1457[0]:	     * Separation of church and state
+1458[0]:	     * Separation of powers
+1459[0]:	     * Taxation power
+1460[0]:	     * Unitary executive theory
+1461[0]:	
+1462[0]:	   US Government Portal • Law Portal
+1463[0]:	   Retrieved from
+1464[0]:	   "http://en.wikipedia.org/w/index.php?title=Fourth_Amendment_to_the_Unit
+1465[0]:	   ed_States_Constitution&oldid=623962779"
+1466[0]:	   Categories:
+1467[0]:	     * 1791 in American politics
+1468[0]:	     * 1791 in law
+1469[0]:	     * Amendments to the United States Constitution
+1470[0]:	     * Official documents of the United States
+1471[0]:	     * Privacy law in the United States
+1472[2]:	     * Searches and seizures
+1473[0]:	     * United States criminal constitutional law
+1474[0]:	     * United States Fourth Amendment case law
+1475[0]:	
+1476[0]:	   Hidden categories:
+1477[0]:	     * Subscription required using via
+1478[0]:	     * Pages containing links to subscription-only content
+1479[0]:	     * Good articles
+1480[0]:	
+1481[0]:	Navigation menu
+1482[0]:	
+1483[0]:	Personal tools
+1484[0]:	
+1485[0]:	     * Create account
+1486[0]:	     * Log in
+1487[0]:	
+1488[0]:	Namespaces
+1489[0]:	
+1490[0]:	     * Article
+1491[0]:	     * Talk
+1492[0]:	
+1493[0]:	Variants
+1494[0]:	
+1495[0]:	Views
+1496[0]:	
+1497[0]:	     * Read
+1498[0]:	     * View source
+1499[0]:	     * View history
+1500[0]:	
+1501[0]:	More
+1502[0]:	
+1503[0]:	Search
+1504[0]:	
+1505[0]:	   ____________________ Search Go
+1506[0]:	
+1507[0]:	Navigation
+1508[0]:	
+1509[0]:	     * Main page
+1510[0]:	     * Contents
+1511[0]:	     * Featured content
+1512[0]:	     * Current events
+1513[0]:	     * Random article
+1514[0]:	     * Donate to Wikipedia
+1515[0]:	     * Wikimedia Shop
+1516[0]:	
+1517[0]:	Interaction
+1518[0]:	
+1519[0]:	     * Help
+1520[0]:	     * About Wikipedia
+1521[0]:	     * Community portal
+1522[0]:	     * Recent changes
+1523[0]:	     * Contact page
+1524[0]:	
+1525[0]:	Tools
+1526[0]:	
+1527[0]:	     * What links here
+1528[0]:	     * Related changes
+1529[0]:	     * Upload file
+1530[0]:	     * Special pages
+1531[0]:	     * Permanent link
+1532[0]:	     * Page information
+1533[0]:	     * Wikidata item
+1534[0]:	     * Cite this page
+1535[0]:	
+1536[0]:	Print/export
+1537[0]:	
+1538[0]:	     * Create a book
+1539[0]:	     * Download as PDF
+1540[0]:	     * Printable version
+1541[0]:	
+1542[0]:	Languages
+1543[0]:	
+1544[0]:	     * Беларуская
+1545[0]:	     * Deutsch
+1546[0]:	     * Español
+1547[0]:	     * فارسی
+1548[0]:	     * Français
+1549[0]:	     * 한국어
+1550[0]:	     * עברית
+1551[0]:	     * Polski
+1552[0]:	     * Português
+1553[0]:	     * Русский
+1554[0]:	     * Suomi
+1555[0]:	     * 中文
+1556[0]:	     *
+1557[0]:	
+1558[0]:	   Edit links
+1559[0]:	
+1560[0]:	     * This page was last modified on 3 September 2014 at 05:21.
+1561[0]:	     * Text is available under the Creative Commons Attribution-ShareAlike
+1562[0]:	       License; additional terms may apply. By using this site, you agree
+1563[0]:	       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+1564[0]:	       trademark of the Wikimedia Foundation, Inc., a non-profit
+1565[0]:	       organization.
+1566[0]:	
+1567[0]:	     * Privacy policy
+1568[0]:	     * About Wikipedia
+1569[0]:	     * Disclaimers
+1570[0]:	     * Contact Wikipedia
+1571[0]:	     * Developers
+1572[0]:	     * Mobile view
+1573[0]:	
+1574[0]:	     * Wikimedia Foundation
+1575[0]:	     * Powered by MediaWiki

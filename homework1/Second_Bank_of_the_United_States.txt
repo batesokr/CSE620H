@@ -1,0 +1,903 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Second Bank of the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Not to be confused with First Bank of the United States, Bank of United
+   States, or Bank of America, the modern corporation.
+   Second Bank of the United States
+   U.S. National Register of Historic Places
+   U.S. National Historic Landmark
+   2ndBankofUSSouthFacade.JPG
+   The south façade of the Second Bank of the United States at 4th and
+   Chestnut Streets
+   Location 420 Chestnut Street
+   Philadelphia, Pennsylvania
+   Coordinates: 39°56′54.86″N 75°8′55.2″W﻿ / ﻿39.9485722°N 75.148667°W﻿ /
+   39.9485722; -75.148667
+   Built 1818-1824^[2]
+   Architect William Strickland
+   Architectural style Greek Revival
+   Governing body National Park Service
+   NRHP Reference # 87001293^[1]
+   Added to NRHP May 4, 1987
+
+   The Second Bank of the United States, located in Philadelphia,
+   Pennsylvania, was the second federally authorized Hamiltonian National
+   Bank^[3] in the United States during its 20-year charter from February
+   1816^[4] to January 1836.^[5]
+
+   A private corporation with public duties, the bank handled all fiscal
+   transactions for the US Government, and was accountable to Congress and
+   the US Treasury. Twenty percent of its capital was owned by the federal
+   government, the Bank's single largest stockholder^[6]^[7] Four thousand
+   private investors held 80% of the Bank's capital, including one
+   thousand Europeans. The bulk of the stocks were held by a few hundred
+   wealthy Americans.^[8] In its time, the institution was the largest
+   monied corporation in the world.^[9]
+
+   The essential function of the Bank was to regulate the public credit
+   issued by private banking institutions through the fiscal duties it
+   performed for the US Treasury, and to establish a sound and stable
+   national currency.^[10]^[11] The federal deposits endowed the BUS with
+   its regulatory capacity.^[5]^[12]
+
+   Modeled on Alexander Hamilton's First Bank of the United States,^[13]
+   the Second Bank was chartered by President James Madison in 1816 and
+   began operations at its main branch in Philadelphia on January 7,
+   1817,^[14]^[15] managing twenty-five branch offices nationwide by
+   1832.^[16]
+
+   The efforts to renew the Bank's charter put the institution at the
+   center of the general election of 1832, in which the Bank's president
+   Nicholas Biddle and pro-Bank National Republicans led by Henry Clay
+   clashed with the "hard-money"^[17]^[18] Andrew Jackson administration
+   and eastern banking interests in the Bank War.^[19]^[20] Failing to
+   secure recharter, the Second Bank of the United States became a private
+   corporation in 1836,^[5]^[21] and underwent liquidation in 1838.^[22]
+
+Contents
+
+     * 1 History
+     * 2 Terms of charter
+     * 3 BUS regulatory mechanisms
+     * 4 Architecture
+          + 4.1 Current building use
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+History[edit]
+
+   The political support for the revival of a national banking system was
+   rooted in the early 19th century transformation of the country from
+   simple Jeffersonian agrarianism towards one interdependent with
+   industrialization and finance.^[23]^[24]^[25] In the aftermath of the
+   War of 1812 the federal government suffered from the disarray of an
+   unregulated currency and a lack of fiscal order; business interests
+   sought security for their government bonds.^[26] A national alliance
+   arose to legislate a central bank to address these needs.^[27]^[28]
+
+   The political climate^[27] – dubbed the Era of Good Feelings^[29] –
+   favored the development of national programs and institutions,
+   including a protective tariff, internal improvements and the revival of
+   a Bank of the United States^[13]^[25]^[30] Southern and western support
+   for the Bank, led by Republican nationalists John C. Calhoun of South
+   Carolina and Henry Clay of Kentucky was decisive in the successful
+   chartering effort.^[31] The charter was signed into law by Madison on
+   April 10, 1816.^[32] Subsequent efforts by Calhoun and Clay to earmark
+   the bank's $1.5 million establishment "bonus", and annual dividends
+   estimated at $650,000, as a fund for internal improvements, was vetoed
+   by President James Madison, on strict constructionist grounds.^[33]
+   An 1824 draft on the Bank written and signed by Daniel Webster, its
+   attorney and the director of the Boston branch.
+   A promissory note issued by the Second Bank of the United States,
+   December 15, 1840, for the amount of $1,000.
+
+   Opposition to the Bank's revival emanated from two interests. Old
+   Republicans, represented by John Taylor of Caroline and John Randolph
+   of Roanoke^[34] characterized the Second Bank of the United States as
+   both constitutionally illegitimate and a direct threat to Jeffersonian
+   agrarianism, state sovereignty and the institution of slavery,
+   expressed by Taylor's statement that "...if Congress could incorporate
+   a bank, it might emancipate a slave".^[35]^[36]^[37]^[38] Hostile to
+   the regulatory effects of the central bank,^[39] private banks –
+   proliferating with or without state charters^[40] – had scuttled
+   rechartering of the first BUS in 1811.^[41]^[42] These interests played
+   significant roles in undermining the institution during the
+   administration of US President Andrew Jackson (1829–1837).^[43]
+
+   The BUS was launched in the midst of a major global market readjustment
+   as Europe recovered from the Napoleonic Wars^[44] The central bank was
+   charged with restraining uninhibited private bank note issue – already
+   in progress^[44]^[45] – that threatened to create a credit bubble and
+   the risks of a financial collapse. Government land sales in the West,
+   fueled by European demand for agricultural products, ensured that a
+   speculative bubble would form.^[46] Simultaneously, the national bank
+   was engaged in promoting a democratized expansion of credit to
+   accommodate laissez-faire impulses among eastern business entrepreneurs
+   and credit hungry western and southern farmers^[47]^[48]
+
+   Under the management of the first BUS president William Jones, the Bank
+   failed to control paper money issued from its branch banks in the West
+   and South, contributing to the post-war speculative land
+   boom.^[49]^[50] When the US markets collapsed in the Panic of 1819 – a
+   result of global economic adjustments^[51]^[52] – the central bank came
+   under withering criticism for its belated tight money policies –
+   policies that exacerbated mass unemployment and plunging property
+   values.^[53] Further, it transpired that branch directors for the
+   Baltimore office had engaged in fraud and larceny^[54]
+
+   Resigning in January 1819^[55] Jones was replaced by Langdon Cheves,
+   who continued the contraction in credit in an effort to stop inflation
+   and stabilize the Bank, even as the economy began to correct. The
+   central bank's reaction to the crisis – a clumsy expansion, then a
+   sharp contraction of credit – indicated its weakness, not its
+   strength.^[56] The effects were catastrophic, resulting in a protracted
+   recession with mass unemployment and a sharp drop in property values
+   that persisted until 1822.^[53]^[57] The financial crisis raised doubts
+   among the American public as to the efficacy of paper money, and in
+   whose interests a national system of finance operated.^[58] Upon this
+   widespread disaffection the anti-Bank Jacksonian Democrats would
+   mobilize opposition to the BUS in the 1830s.^[58] The national bank was
+   in general disrepute among most Americans when Nicholas Biddle, the
+   third and last president of the Bank, was appointed by President James
+   Monroe in 1823.^[59]
+
+   Under Biddle's guidance, the BUS evolved into a powerful banking
+   institution that produced a strong and sound system of national credit
+   and currency.^[60] From 1823 to 1833, Biddle expanded credit steadily,
+   but with restraint, in a manner that served the needs of the expanding
+   American economy.^[61] In 1831, Albert Gallatin former Secretary of the
+   Treasury under Thomas Jefferson and James Madison wrote that the BUS
+   was fulfilling its charter expectations.^[62]
+
+   By the time of Jackson's inauguration in 1829, the national bank
+   appeared to be on solid footing. The US Supreme Court had affirmed the
+   constitutionality of the Bank under McCulloch v. Maryland, the 1819
+   case which Daniel Webster had argued successfully on its behalf a
+   decade earlier,^[63] the US Treasury recognized the useful services it
+   provided, and the American currency was healthy and stable.^[64] Public
+   perceptions of the central bank were generally positive.^[65]^[66] The
+   Bank first came under attack by the Jackson administration in December
+   1829, on the grounds that it had failed to produce a stable national
+   currency, and that it lacked constitutional legitimacy.^[67]^[68]^[69]
+   Both houses of Congress responded with committee investigations and
+   reports affirming the historical precedents for the Bank's
+   constitutionality and its pivotal role in furnishing a uniform
+   currency.^[70] Jackson rejected these findings, and privately
+   characterized the Bank as a corrupt institution, dangerous to American
+   liberties.^[71]
+   A Democratic cartoon from 1833 showing Jackson destroying the bank with
+   his "Order for the Removal," to the approval of the Uncle Sam like
+   figure to the right, and the annoyance of the bank's president, shown
+   as the Devil himself. Numerous politicians and editors who were given
+   favorable loans from the bank run for cover as the financial temple
+   crashes down.
+
+   Biddle made repeated overtures to Jackson and his cabinet to secure a
+   compromise on the Bank's rechartering (its term due to expire in 1836)
+   without success.^[72]^[73] Jackson and the anti-Bank forces persisted
+   in their condemnation of the BUS,^[67]^[74] provoking an early
+   recharter campaign by pro-Bank National Republicans under Henry
+   Clay.^[75]^[76] Clay's political ultimatum to Jackson^[77] – with
+   Biddle's financial and political support^[78]^[79] – sparked the Bank
+   War^[80]^[81] and placed the fate of the BUS at center of the 1832
+   presidential election.^[82]
+
+   Jackson mobilized his political base^[83] by vetoing the recharter
+   bill^[84] and – the veto sustained^[85] – easily won reelection on his
+   anti-Bank platform.^[86] Jackson proceeded to destroy the Bank as a
+   financial and political force by removing its federal
+   deposits,^[87]^[88]^[89] and in 1833, federal revenue was diverted into
+   selected private banks by executive order, ending the regulatory role
+   of the Second Bank of the United States.^[5]
+
+   In hopes of extorting a rescue of the Bank, Biddle induced a
+   short-lived financial crisis^[59]^[90] that was initially blamed on
+   Jackson's executive action.^[91]^[92] By 1834, a general backlash
+   against Biddle's tactics developed, ending the panic^[93]^[94] and all
+   recharter efforts were abandoned.^[21]
+
+   In February 1836, the Bank became a private corporation under
+   Pennsylvania commonwealth law.^[5] It suspended payment in 1839 and was
+   liquidated in 1841.^[22]
+
+Terms of charter[edit]
+
+   The Second Bank of the United States was America's central bank,
+   comparable to the Bank of England and the Bank of France, with one key
+   distinction – the United States government owned one-fifth (20%) of its
+   capital. Whereas other central banks of that era were wholly private,
+   the BUS was more characteristic of a government bank.^[95]
+
+   Under its charter, the Bank had a capital limit of $35 million,
+   $7.5 million of which represented the government-owned share. The
+   central bank was required to remit a "bonus" payment of $1.5 million,
+   payable in three installments,^[7] to the government for the privilege
+   of using the public funds, interest free, in its private banking
+   ventures.^[96] The institution was answerable for its performance to
+   the US Treasury and Congress^[97] and subject to Treasury Department
+   inspection.^[7]
+
+   As exclusive fiscal agent for the federal government,^[98] it provided
+   a number of services as part of its charter including: holding and
+   transfer of all US deposits, payment and receipt of all government
+   transactions, and processing of tax payments.^[99] In other words, the
+   BUS was "the depository of the federal government, which was its
+   principal stockholder and customer".^[100]
+
+   The chief personnel for the Bank comprised twenty-five directors, five
+   of whom were appointed by the President of the United States, subject
+   to Senate approval.^[7] Federally appointed directors were barred from
+   acting as officials in other banks. Two of the three BUS presidents,
+   William Jones and Nicholas Biddle, were chosen from among these
+   government directors.^[97]
+
+   Headquartered in Philadelphia, Pennsylvania, the Bank was authorized to
+   establish branch offices where it deemed suitable and these were immune
+   from state taxation.^[7]
+
+BUS regulatory mechanisms[edit]
+
+   The primary regulatory task of the Second Bank of the United States, as
+   chartered by Congress in 1816, was to restrain the uninhibited
+   proliferation of paper money (bank notes) by state or private
+   lenders,^[39] which was highly profitable to these institutions.^[101]
+
+   In this capacity, the Bank would preside over this democratization of
+   credit,^[14]^[102] contributing to a vast and profitable disbursement
+   of bank loans to farmers, small manufacturers and entrepreneurs,
+   encouraging rapid and healthy economic expansion.^[14]
+
+   Historian Bray Hammond describes the mechanism by which the Bank
+   exerted its anti-inflationary influence:
+
+     Receiving the checks and notes of local banks deposited with the
+     [BUS] by government collectors of revenue, the [BUS] had constantly
+     to come back on the local banks for settlements of the amounts which
+     the checks and notes called for. It had to do so because it made
+     those amounts immediately available to the Treasury, wherever
+     desired. Since settlement by the local banks was in specie i.e.
+     silver and gold coin, the pressure for settlement automatically
+     regulated local banking lending: for the more the local banks lent
+     the larger amount of their notes and checks in use and the larger
+     the sums they had to settle in specie. This loss of specie reduced
+     their power to lend.^[103]
+
+   Under this banking regime, the impulse towards over speculation, with
+   the risks of creating a national financial crisis, would be avoided, or
+   at least mitigated.^[104] It was just this mechanism that the local
+   private banks found objectionable, because it yoked their lending
+   strategies to the fiscal operations of the national government,
+   requiring them to maintain adequate gold and silver reserves to meet
+   their debt obligations to the US Treasury.^[39] The proliferation of
+   banking institutions – from 31 banks in 1801 to 788 in 1837^[105] –
+   meant that the Second Bank faced strong opposition from this sector
+   during the Jackson administration.^[14]
+   The building in a book published in 1875
+   The north façade of the Second Bank of the United States, facing
+   Chestnut Street (2013)
+
+Architecture[edit]
+
+   The architect of the Second Bank of the United States was William
+   Strickland (1788–1854), a former student of Benjamin Latrobe
+   (1764–1820), the man who is often called the first
+   professionally-trained American architect. Latrobe and Strickland were
+   both disciples of the Greek Revival style. Strickland would go on to
+   design many other American public buildings in this style, including
+   financial structures such as the New Orleans, Dahlonega, Mechanics
+   National Bank (also in Philadelphia) and Charlotte branch mints in the
+   mid-to-late 1830s, as well as the second building for the main U.S.
+   Mint in Philadelphia in 1833.
+
+   Strickland's design for the Second Bank of the United States remains
+   fairly straightforward. The hallmarks of the Greek Revival style can be
+   seen immediately in the north and south façades, which use a large set
+   of steps leading up to the main level platform, known as the stylobate.
+   On top of these, Strickland placed eight severe Doric columns, which
+   are crowned by an entablature containing a triglyph frieze and simple
+   triangular pediment. The building appears much as an ancient Greek
+   temple, hence the stylistic name. The interior consists of an entrance
+   hallway in the center of the north façade flanked by two rooms on
+   either side. The entry leads into two central rooms, one after the
+   other, that span the width of the structure east to west. The east and
+   west sides of the first large room are each pierced by large arched fan
+   window. The building's exterior uses Pennsylvania blue marble, which,
+   due to the manner in which it was cut, has begun to deteriorate from
+   the exposure to the elements of weak parts of the stone.^[106] This
+   phenomenon is most visible on the Doric columns of the south façade.
+   Construction lasted from 1819 to 1824.
+
+   The Greek Revival style used for the Second Bank contrasts with the
+   earlier, Federal style in architecture used for the First Bank of the
+   United States, which also still stands and is located nearby in
+   Philadelphia. This can be seen in the more Roman-influenced Federal
+   structure's ornate, colossal Corinthian columns of its façade, which is
+   also embellished by Corinthian pilasters and a symmetric arrangement of
+   sash windows piercing the two stories of the façade. The roofline is
+   also topped by a balustrade and the heavy modillions adorning the
+   pediment give the First Bank an appearance much more like a Roman villa
+   than a Greek temple.
+
+Current building use[edit]
+
+   Since the bank's closing in 1841, the edifice has performed a variety
+   of functions. As of 2006, it is included as one of the main structures
+   in Independence National Historical Park in downtown Philadelphia,
+   alongside many other important early American structures such as
+   Independence Hall and the Philadelphia Merchants' Exchange.
+
+   The structure is open daily free of charge and serves as an art
+   gallery, housing a large and famous collection of portraits of
+   prominent early Americans painted by Charles Willson Peale and many
+   others.
+
+See also[edit]
+
+   Portal icon Philadelphia portal
+     * Banking in the Jacksonian Era
+     * Federal Reserve Act
+     * Federal Reserve System
+     * First Bank of the United States
+     * History of central banking in the United States
+     * Panic of 1837
+
+References[edit]
+
+   Notes
+    1. ^ "National Register Information System". National Register of
+       Historic Places. National Park Service. 2006-03-15.
+    2. ^ Gallery, John Andrew, ed. (2004). Philadelphia Architecture: A
+       Guide to the City (2nd ed.). Philadelphia: Foundation for
+       Architecture. ISBN 0962290815. , p.35
+    3. ^ The Bank of the United States Credit Principle circa 20 minute
+       mark onward, (July 30, 2013)
+    4. ^ Dangerfield, 1966, pp. 76–77
+    5. ^ ^a ^b ^c ^d ^e Hammond, 1947, p. 155
+    6. ^ Hammond, 1947, p.149
+    7. ^ ^a ^b ^c ^d ^e Dangerfield, 1966, p. 12
+    8. ^ Hofstadter, 1948, pp. 60–61
+    9. ^ Hammond, 1956, p. 102
+   10. ^ Hammond, 1947, pp. 149–150
+   11. ^ Dangerfield, 1966, pp. 10–11
+   12. ^ Hammond, 1956, p. 9
+   13. ^ ^a ^b Remini, 1993, p.140
+   14. ^ ^a ^b ^c ^d Wilentz, 2008, p. 205
+   15. ^ Remini, 1993, p. 145
+   16. ^ Wilentz, 2008, p. 365
+   17. ^ Meyer, 1953, pp. 212–213
+   18. ^ Schlesinger, 1945, pp. 115–116
+   19. ^ Hammond, 1956, p. 100
+   20. ^ Hammond, 1957, p. 359
+   21. ^ ^a ^b Wilentz, 2008, p. 401
+   22. ^ ^a ^b Hammond, 1947, p. 157
+   23. ^ Hammond, 1956, p. 10
+   24. ^ Dangerfield, 1966, pp. 88–89
+   25. ^ ^a ^b Wilentz, 2008, p. 181
+   26. ^ Wilentz, 2008, pp. 204–205, Hammond, 1947, p. 149
+   27. ^ ^a ^b Dangerfield, 1966, p. 10
+   28. ^ Wilentz, 2008, p. 204-205
+   29. ^ Wilentz, 2008, p. 182
+   30. ^ Schlesinger, 1945, p. 11
+   31. ^ Wilentz, 2008, pp. 203, 205, Schlesinger, 1945, pp. 11–12,
+       Dangerfield, 1966, p. 10-11
+   32. ^ Dangerfield, 1966, p. 11
+   33. ^ Minicucci, 2004
+   34. ^ Remini, 1981, p. 32
+   35. ^ Varon, 2008, p. 36
+   36. ^ Dangerfield, 1966, p. 98
+   37. ^ Schlesinger, 1945, pp. 20–21
+   38. ^ Wilentz, 2008, pp. 203, 214
+   39. ^ ^a ^b ^c Hammond, 1947, p. 150
+   40. ^ Dangerfield, 1966, p. 87
+   41. ^ Hammond, 1947, p. 152
+   42. ^ Wilentz, 2008, pp. 203–204
+   43. ^ Hammond, 1947, p.153
+   44. ^ ^a ^b Wilentz, 2008, p. 206
+   45. ^ Dangerfield, 1966, p. 76
+   46. ^ Dangerfield, 1966, pp. 73–74
+   47. ^ Hofstadter, 1948, pp. 55–56
+   48. ^ Wilentz, 2008, pp. 205–207
+   49. ^ Dangerfield, 1966, pp. 80–81, 85
+   50. ^ Remini, 1981, p. 28
+   51. ^ Wilentz, 2005, p. 206
+   52. ^ Dangerfield, 1966, pp. 86, 89
+   53. ^ ^a ^b Dangerfield, 1966, p. 84
+   54. ^ Dangerfield, pp. 81, 83
+   55. ^ Dangerfield, 1966, p. 80
+   56. ^ Dangerfield, 1966, pp. 85–86
+   57. ^ Wilentz, 2008, pp. 207–208
+   58. ^ ^a ^b Dangerfield, 1966, p. 89
+   59. ^ ^a ^b Hammond, 1947, p. 151
+   60. ^ Remini, 1981, p. 229
+   61. ^ Hofstadter, 1948, p. 62
+   62. ^ Hammond, 1947, p.150
+   63. ^ Killenbeck, 2006, pp. 98–109
+   64. ^ Hammon, 1947, p. 151
+   65. ^ Hammond, 1957, p. 371
+   66. ^ Schlesinger, 1945, p. 77
+   67. ^ ^a ^b Wilentz, 2008, p. 362
+   68. ^ Hammond, 1947, pp. 151–152
+   69. ^ Remini, 1981, pp. 228–229, 303
+   70. ^ Hammond, 1957, pp. 377–378
+   71. ^ Hammond, 1957, p. 379
+   72. ^ Hofstadter, 1948, pp. 59–60
+   73. ^ Schlesinger, 1945, p. 81
+   74. ^ Remini, 1981, pp. 301–302
+   75. ^ Remini, 1981, pp. 341–342
+   76. ^ Hammond, 1957, p. 385
+   77. ^ Remini, 1981, p. 365
+   78. ^ Wilentz, 2005, p. 369
+   79. ^ Remini, 1981, p. 343
+   80. ^ Schlesinger, 1945, p. 87
+   81. ^ Remini, 1981, p. 361
+   82. ^ Remini, 1981, p. 374
+   83. ^ Schlesinger, 1945, p. 91
+   84. ^ Schlesinger, 1945, p.87
+   85. ^ Wellman, 1966, p. 132
+   86. ^ Remini, 1981, pp. 382–383, 389
+   87. ^ Remini, 1981, pp. 375–376
+   88. ^ Wilentz, 2008, pp. 392–393
+   89. ^ Schlesinger, 1945, p. 98
+   90. ^ Hofstadter, 1948, pp. 61–62
+   91. ^ Wilentz, 2008, p. 396
+   92. ^ Schlesinger, 1945, p. 103
+   93. ^ Wilentz, 2008, p. 400
+   94. ^ Schlesinger, 1945, p. 112–113
+   95. ^ Hammond, 1947, p. 140
+   96. ^ Wilentz, 2008, p. 364
+   97. ^ ^a ^b Hammond, 1947, p. 149
+   98. ^ Wellman, 1966, p. 92, Hammond, 1947, p. 149
+   99. ^ Wilentz, 2005, p. 365
+   100. ^ Hammond, 1947, p. 149, Hammond, 1957, p. 9
+   101. ^ Wilentz, 2008, pp. 74–75
+   102. ^ Hofstadter, 1948, p. 56
+   103. ^ Hammond, 1956, pp. 9–10
+   104. ^ Hammond, 1947, p. 149-150, Wilentz, 2008, p. 205, Hofstadter,
+       1948, p. 56
+   105. ^ Hammond, 1947, p. 153
+   106. ^ "Pennsylvania Blue Marble". Second Bank of the United States.
+       National Park Service.
+
+   Bibliography
+     * Bodenhorn, Howard. A History of Banking in Antebellum America:
+       Financial Markets and Economic Development in an Era of
+       Nation-Building (2000). Stresses how all banks promoted faster
+       growth in all regions.
+     * Dangerfield, George. The Awakening of American Nationalism:
+       1815-1828. New York: Harper & Row, 1965. ISBN 978-0-88133-823-2
+     * Feller, Daniel "The bank war", in Julian E. Zelizer, ed. The
+       American Congress (2004), pp 93–111.
+     * Govan, Thomas Payne (1959). Nicolas Biddle, Nationalist and Public
+       Banker, 1786–1844. Chicago: University of Chicago Press.
+     * Hammond, Bray. "Jackson, Biddle, and the Bank of the United
+       States", The Journal of Economic History, Vol. 7, No. 1 (May,
+       1947), pp. 1–23 in Essays on Jacksonian America, Ed. Frank Otto
+       Gatell. Holt, Rinehart and Winston, Inc. New York. 1970.
+       JSTOR 2113597
+     * Hammond, Bray. 1957. Banks and Politics in America, from the
+       Revolution to the Civil War. Princeton, Princeton University Press.
+     * Hammond, Bray. 1953. "The Second Bank of the United States.
+       Transactions of the American Philosophical Society, New Ser., Vol.
+       43, No. 1 (1953), pp. 80–85 JSTOR 1005664
+     * Hofstadter, Richard. Great Issues in American History: From the
+       Revolution to the Civil War, 1765–1865 (1958).
+     * Killenbeck, Mark R. "M'Culloch v. Maryland: Securing a Nation".
+       Lawrence, KS: University Press of Kansas, 2006.
+     * McGrane, Reginald C. Ed. The Correspondence of Nicholas Biddle
+       (1919)
+     * Meyers, Marvin. 1953. "The Jacksonian Persuasion". American
+       Quarterly Vol. 5 No. 1 (Spring, 1953) in Essays on Jacksonian
+       America, Ed. Frank Otto Gatell. Holt, Rinehart and Winston, Inc.
+       New York.
+     * Minicucci, Stephen. 2004. Internal Improvements and the Union,
+       1790–1860, Studies in American Political Development, Vol. 18,
+       Issue 2: p. 160-185, October 2004, Cambridge University Press DOI:
+       10.1017/S0898588X04000094
+     * Ratner, Sidney, James H. Soltow, and Richard Sylla. The Evolution
+       of the American Economy: Growth, Welfare, and Decision Making.
+       (1993)
+     * Remini Robert V. Andrew Jackson and the Bank War: A Study in the
+       Growth of Presidential Power (1967).
+     * Remini, Robert V. 1981. Andrew Jackson and the Course of American
+       Freedom, 1822–1832. vol. II. Harper & Row, New York.
+     * Remini, Robert V. 1984. Andrew Jackson and the Course of American
+       Freedom, 1833–1845. vol. III. Harper & Row, New York.
+     * Remini, Robert. V. 1993. Henry Clay: Statesman for the Union. W. W.
+       Norton & Company, New York.
+     * Schlesinger, Arthur Meier Jr. Age of Jackson (1946). Pulitzer prize
+       winning intellectual history; strongly pro-Jackson.
+     * Schweikart, Larry. Banking in the American South from the Age of
+       Jackson to Reconstruction (1987)
+     * Taylor; George Rogers, ed. Jackson Versus Biddle: The Struggle over
+       the Second Bank of the United States (1949).
+     * Temin, Peter. The Jacksonian Economy (1969)
+     * Varon, Elizabeth R. Disunion!: The Coming of the American Civil
+       War, 1789–1859. Chapel Hill, NC: University of North Carolina
+       Press, 2008.
+     * Wellman, Paul I. 1984. The House Divides: The Age of Jackson and
+       Lincoln. Doubleday and Company, Inc., New York.
+     * Wilburn, Jean Alexander. Biddle's Bank: The Crucial Years (1967).
+     * Wilentz, Sean. 2008. The Rise of American Democracy: Jefferson to
+       Lincoln. W.W. Horton and Company. New York.
+
+External links[edit]
+
+   Wikimedia Commons has media related to Second Bank of the United
+   States.
+     * First and Second Banks of the United States – a digital collection
+       of the original documents related to the formation of the First
+       (1791–1811) and Second (1816–1836) Banks of the United States,
+       digitized by the Federal Reserve Bank of St. Louis.
+     * Second Bank – official site at Independence Hall National
+       Historical Park
+     * The Second Bank of the United States – a history of the Bank by
+       Ralph C. H. Catterall of the University of Chicago, 1902 – on
+       Google Books
+     * Andrew Jackson on the Web : Bank of the United States
+     * Second Bank of the United States at the Historic American Buildings
+       Survey (HABS) (Library of Congress)
+
+
+     * v
+     * t
+     * e
+
+   James Madison
+     * March 16, 1751 – June 28, 1836
+
+     * 4th President of the United States (1809–1817)
+     * 5th U.S. Secretary of State (1801–1809)
+     * United States House of Representatives (1789–1797)
+     * Congress of the Confederation (1781–1783)
+     * Virginia House of Delegates (1776–1779, 1784–1786)
+
+   "Father of the
+   Constitution"
+     * 1786 Annapolis Convention
+     * Constitutional Convention
+     * Virginia Plan
+     * Constitution of the United States
+     * United States Bill of Rights
+          + 27th amendment
+     * The Federalist Papers
+          + written by Madison
+          + No. 10
+          + No. 51
+     * Virginia Ratifying Convention
+     * Constitution drafting and ratification timeline
+     * Notes of Debates in the Federal Convention of 1787
+     * Founding Fathers
+
+   Presidency
+     * First inauguration
+     * Second inauguration
+     * Tecumseh's War
+          + Battle of Tippecanoe
+     * War of 1812
+          + origins
+          + Burning of Washington
+          + The Octagon House
+          + Treaty of Ghent
+          + results
+     * Second Barbary War
+     * Era of Good Feelings
+     * Second Bank of the United States
+     * State of the Union Address (1810
+     * 1814
+     * 1815
+     * 1816)
+     * Cabinet
+     * Federal judiciary appointments
+     * Seven Buildings residence
+
+   Other noted
+   accomplisments
+     * Democratic-Republican Party
+          + First Party System
+          + republicanism
+     * Supervised the Louisiana Purchase
+     * Library of Congress
+     * Virginia and Kentucky Resolutions
+     * Report of 1800
+     * Residence Act
+          + Compromise of 1790
+
+   Other writings
+     * The Papers of James Madison
+
+   Life
+     * Early life and career
+     * Belle Grove Plantation, birthplace
+     * Montpelier
+
+   Elections
+     * U.S. House of Representatives election, 1789
+     * 1790
+     * 1792
+     * 1794
+     * U.S. presidential election, 1808
+     * 1812
+
+   Legacy and
+   popular culture
+     * James Madison Memorial Building
+     * James Madison University
+     * Madison Square
+     * Madison River
+     * Madison, Wisconsin
+     * Madison Street
+     * U.S. postage stamps
+     * James Madison Memorial Fellowship Foundation
+     * James Madison Freedom of Information Award
+     * James Madison Award
+     * James Madison Institute
+     * A More Perfect Union (1989 film)
+     * Liberty's Kids (2002 miniseries)
+
+   Family
+     * Dolley Madison (wife)
+     * John Payne Todd (stepson)
+     * James Madison, Sr. (father)
+     * Nelly Conway Madison (mother)
+     * Ambrose Madison (grandfather)
+     * James Madison (cousin)
+     * George Madison (second-cousin)
+     * Thomas Madison (second-cousin)
+     * John Madison (great-grandfather)
+     * Lucy Washington (sister-in-law)
+
+   Related
+     * American Enlightenment
+     * Marbury v. Madison
+     * National Gazette
+     * Paul Jennings
+     * Madisonian Model
+     * American Philosophical Society
+     * The American Museum magazine
+     * Virginia dynasty
+
+   US Presidency Portal • American Revolutionary War Portal
+     * ← Thomas Jefferson
+     * James Monroe →
+
+     * Commons page Commons
+     * Wikipedia book Book:Federalist Papers
+     * Wikibooks page Wikibooks
+     * Wikiquote page Wikiquote
+     * Wikisource page Wikisource
+
+
+           * v
+     * t
+     * e
+
+   U.S. National Register of Historic Places in Pennsylvania
+       Topics
+                     * Contributing property
+                     * Keeper of the Register
+                     * Historic district
+                     * History of the National Register of Historic Places
+                     * National Park Service
+                     * Property types
+
+   Lists by county
+                     * Adams
+                     * Allegheny
+                     * Armstrong
+                     * Beaver
+                     * Bedford
+                     * Berks
+                     * Blair
+                     * Bradford
+                     * Bucks
+                     * Butler
+                     * Cambria
+                     * Cameron
+                     * Carbon
+                     * Centre
+                     * Chester
+                          + East
+                          + North
+                          + South
+                     * Clarion
+                     * Clearfield
+                     * Clinton
+                     * Columbia
+                     * Crawford
+                     * Cumberland
+                     * Dauphin
+                     * Delaware
+                     * Elk
+                     * Erie
+                     * Fayette
+                     * Forest
+                     * Franklin
+                     * Fulton
+                     * Greene
+                     * Huntingdon
+                     * Indiana
+                     * Jefferson
+                     * Juniata
+                     * Lackawanna
+                     * Lancaster
+                     * Lawrence
+                     * Lebanon
+                     * Lehigh
+                     * Luzerne
+                     * Lycoming
+                     * McKean
+                     * Mercer
+                     * Mifflin
+                     * Monroe
+                     * Montgomery
+                     * Montour
+                     * Northampton
+                     * Northumberland
+                     * Perry
+                     * Philadelphia
+                     * Pike
+                     * Potter
+                     * Schuylkill
+                     * Snyder
+                     * Somerset
+                     * Sullivan
+                     * Susquehanna
+                     * Tioga
+                     * Union
+                     * Venango
+                     * Warren
+                     * Washington
+                     * Wayne
+                     * Westmoreland
+                     * Wyoming
+                     * York
+
+    Lists by city
+                     * Pittsburgh
+                     * Lancaster
+                     * Philadelphia
+                          + Center City
+                          + North
+                          + Northeast
+                          + Northwest
+                          + South
+                          + Southwest
+                          + West
+
+     Other lists
+                     * European archaeological sites
+                     * Native American archaeological sites
+                     * Bridges (covered)
+                     * National Historic Landmarks (Philadelphia)
+
+     * Category Category
+     * Portal NRHP portal
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Second_Bank_of_the_United_St
+   ates&oldid=620028746"
+   Categories:
+     * 14th United States Congress
+     * 1816 establishments in the United States
+     * 1841 disestablishments
+     * Art galleries in Pennsylvania
+     * Bank buildings on the National Register of Historic Places in
+       Philadelphia, Pennsylvania
+     * Historic American Buildings Survey in Pennsylvania
+     * Banks based in Pennsylvania
+     * Banks established in 1816
+     * Commercial buildings completed in 1824
+     * Buildings and structures in Independence National Historical Park
+     * Companies disestablished in the 1840s
+     * Defunct banks of the United States
+     * Defunct companies based in Pennsylvania
+     * Economic history of the United States
+     * Greek Revival architecture in Pennsylvania
+     * History of the United States (1789–1849)
+     * Museums in Philadelphia, Pennsylvania
+     * National Historic Landmarks in Pennsylvania
+     * Presidency of Andrew Jackson
+     * Presidency of James Madison
+     * Independence National Historical Park
+
+   Hidden categories:
+     * Coordinates on Wikidata
+     * Commons category template with no category set
+     * Commons category with page title same as on Wikidata
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Français
+     * 한국어
+     * 日本語
+     * Português
+     * Русский
+     * Українська
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 6 August 2014 at 00:30.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

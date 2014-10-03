@@ -1,0 +1,187 @@
+#include <iomanip>
+#include <iterator>
+#include <algorithm>
+#include <sstream>
+#include "batesokr_hw3.h"
+
+Matrix::Matrix(){
+  this->r = 1;  
+  this->c = 1;
+  this->width = 5;
+  this->precision = 5;
+  this->matrix = std::vector<std::vector<double>> (1,std::vector<double>(1,0.0));
+}
+
+Matrix::Matrix(const int& r, const int& c){
+  this->r = r;
+  this->c = c;
+  this->width = 5;
+  this->precision = 5;
+  this->matrix = std::vector<std::vector<double>> (r, std::vector<double>(c,0.0));
+}
+
+Matrix::Matrix(const Matrix& src){
+  this->r = src.r;
+  this->c = src.c;
+  this->width = src.width;
+  this->precision = src.precision;
+  this->matrix =std::vector<std::vector<double>> (this->r, std::vector<double>(this->c,0.0));
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<this->c; j++){
+      this->matrix[i][j] = src.matrix[i][j];
+    }
+  }
+  //std::cout << *this << std::endl;
+}
+
+double& Matrix::operator()(const int& r, const int& c){
+  return this->matrix[r][c];
+}
+
+Matrix::~Matrix(){}
+
+Matrix Matrix::operator+(const Matrix& other) const{
+  // Check for invalid matrices
+  if(this->r != other.r || this->c != other.c){
+    return Matrix(0,0);
+  }
+
+  Matrix mat = Matrix(this->r, this->c);
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<this->c; j++){
+      mat(i,j) = this->matrix[i][j] + other.matrix[i][j];
+    }
+  }
+
+  return mat;
+}
+
+Matrix Matrix::operator-(const Matrix& other) const{
+  // Check for invalid matrices
+  if(this->r != other.r || this->c != other.c){
+    return Matrix(0,0);
+  }
+
+  Matrix mat = Matrix(this->r, this->c);
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<this->c; j++){
+      mat(i,j) = this->matrix[i][j] - other.matrix[i][j];
+    }
+  }
+
+  return mat;
+}
+
+Matrix Matrix::operator*(const Matrix& other) const{
+  if(this->c != other.r){
+    return Matrix(0,0);
+  }
+
+  Matrix mat(this->r, other.c);
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<other.c; j++){
+      for(int k=0; k<this->c; k++){
+	mat(i,j) += this->matrix[i][k] * other.matrix[k][j];
+      }
+    }
+  }
+  return mat;
+}
+
+Matrix Matrix::operator*(const double& factor) const{
+  Matrix mat(this->r, this->c);
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<this->c; j++){
+      mat(i,j) = this->matrix[i][j] * factor;
+    }
+  }
+  return mat;
+}
+
+Matrix& Matrix::operator*=(const double& factor){
+  *this = (*this)*factor;
+  return *this;
+}
+
+Matrix Matrix::operator/(const double& factor) const{
+  Matrix mat(this->r, this->c);
+  for(int i=0; i<this->r; i++){
+    for(int j=0; j<this->c; j++){
+      mat(i,j) = this->matrix[i][j] / factor;
+    }
+  }
+  return mat;
+}
+
+Matrix& Matrix::operator/=(const double& factor){
+  *this = (*this)/factor;
+  return *this;
+}
+
+Matrix Matrix::operator~() const{
+  Matrix mat(this->c, this->r);
+  for(int r=0; r<this->r; r++){
+    for(int c=0; c<this->c; c++){
+      mat(c,r) = this->matrix[r][c];
+    }
+  }
+  return mat;
+}
+
+Matrix Matrix::operator>>(const int& n) const{
+  Matrix mat(this->r, this->c+n);
+  for(int r=0; r<this->r; r++){
+    for(int c=0; c<n; c++){
+      mat(r,c) = 0.0;
+    }
+    for(int c=n; c<mat.c; c++){
+      mat(r,c) = this->matrix[r][c-n];
+    }
+  }
+  return mat;
+}
+
+Matrix Matrix::operator<<(const int& n) const{
+  if(n >= this->c){
+    return Matrix(this->r, 0);
+  }
+  std::cout << "BEGIN" << std::endl;
+  Matrix mat(this->r, this->c-n);
+  for(int r=0; r<this->r; r++){
+    for(int c=0; c<this->c-n; c++){
+      mat(r,c) = this->matrix[r][c+n];
+    }
+  }
+   return mat;
+}
+
+Matrix& Matrix::setFormat(const int& width, const int& precision){
+  this->width = width;
+  this->precision = precision;
+  return *this;
+}
+
+std::ostream& operator<<(std::ostream& os, const Matrix& mat){
+  for(int r=0; r<mat.r; r++){
+    for(int c=0; c<mat.c; c++){
+      os << std::setw(mat.width) << std::setprecision(mat.precision)
+	 << mat.matrix[r][c];
+    }
+    os << std::endl;
+  }
+  return os;
+}
+
+std::istream& operator>>(std::istream& is, Matrix& mat){
+  int rows, cols;
+  double d;
+  is >> rows >> cols;
+  std::cout << rows <<  " x " << cols << std::endl;
+  for(int i=0; i<rows; i++){
+    for(int j=0; j<cols; j++){
+      is >> d;
+      mat.matrix[i][j] = d;
+    }
+  }
+  return is;
+}

@@ -1,0 +1,240 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Expression-oriented programming language
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   An expression-oriented programming language is a programming language
+   where every (or nearly every) construction is an expression and thus
+   yields a value. The typical exceptions are macro definitions,
+   preprocessor commands, and declarations, which expression-oriented
+   languages often treat as statements rather than expressions. Some
+   expression-oriented languages introduce a void return type to be
+   yielded by expressions that merely cause side-effects.
+
+   ALGOL 68 and Lisp are examples of expression-oriented languages. Pascal
+   is not an expression-oriented language. All functional programming
+   languages are expression-oriented.
+
+Contents
+
+     * 1 Criticism
+     * 2 See also
+     * 3 Notes
+     * 4 References
+
+Criticism[edit]
+
+   Critics, including language designers,^[1] blame expression-orientation
+   for an entire class of programming mistake wherein a programmer
+   introduces an assignment expression where they meant to test for
+   equality. For example, the designers of Ada and Java were so worried
+   about this type of mistake, they restricted control expressions to
+   those that evaluate strictly to the boolean data type.^[2]^[3] The
+   designers of Python had similar worries but took the alternative
+   strategy of implementing assignment as a statement rather than an
+   expression, thus prohibiting assignment from nesting inside of any
+   other statement or expression.^[4]
+
+   However, notation provokes such errors, not semantics.^[citation
+   needed] From the perspective of expression-orientation, the choice of
+   assignment notation made by C-style languages, the equals sign, =, can
+   be considered a poor choice due to the equals sign's similarity to, and
+   hazardously small typing distance^[nb 1] from the notation C-style
+   languages choose for the equality operator, ==, make it an occasion for
+   error. The expression-ness of assignment is not the root cause. Other
+   language families make different notational choices for assignment^[5]
+   that do not have this problem, such as variable ← expression in APL,
+   variable <- expression in OCaml, S, and R, variable := expression in
+   ALGOL 68 and Standard ML, or (setq variable expression) in Lisp and
+   Scheme. Furthermore, many expression-oriented languages are also
+   functional languages. In these languages, assignment is either rare,
+   or, in the case of purely functional languages, impossible.
+
+See also[edit]
+
+     * Command-query separation
+
+Notes[edit]
+
+    1. ^ In fact, considering the automatic repetition feature of typical
+       computer keyboards, the minimum string distance between = and == is
+       effectively zero, the worst possible collision.
+
+References[edit]
+
+    1. ^ Java Code Conventions "10.4 Variable Assignments"
+    2. ^ Java Language Specification "14.9 The if Statement"
+    3. ^ Introducing Ada
+    4. ^ The Python Language Reference "6.2. Assignment statements"
+    5. ^ Rigaux, Pascal (2008-08-29). "Syntax Across Languages: Assignment
+       or Declaration". Language Study. SourceForge. Retrieved
+       2010-04-17.
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Expression-oriented_programm
+   ing_language&oldid=621641790"
+   Categories:
+     * Programming language classification
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2014
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 17 August 2014 at 16:06.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

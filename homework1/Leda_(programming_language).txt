@@ -1,0 +1,135 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Leda (programming language)
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Not to be confused with the Library of Efficient Data types and
+   Algorithms (LEDA)
+
+   Leda is a multiparadigm programming language whose goal is to
+   successfully mix imperative, object-oriented, functional, and
+   logic-based programming features into one language.
+
+   It is described in the book Multiparadigm Programming in Leda^[1]
+   written by the principal designer Dr. Timothy Budd at Oregon State
+   University.
+
+References[edit]
+
+    1. ^ Budd, Timothy (1995). Doran Cote, Lynne; Suarez-Rivas, Maite;
+       Lafferty, Deborah, eds. Multiparadigm programming in Leda. Reading,
+       Massachusetts: Addison-Wesley. ISBN 0-201-82080-3. LCCN 94034433.
+       OCLC 31045432. Retrieved February 12, 2012.
+
+External links[edit]
+
+     * Leda Project official home page, little information, many broken
+       links (but see here)
+
+   Stub icon This programming language–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Leda_(programming_language)&
+   oldid=541690646"
+   Categories:
+     * Functional logic programming languages
+     * Multi-paradigm programming languages
+     * Programming languages created in the 1990s
+     * Programming language topic stubs
+
+   Hidden categories:
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Italiano
+     * Русский
+     * Українська
+     *
+
+   Edit links
+
+     * This page was last modified on 2 March 2013 at 09:58.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

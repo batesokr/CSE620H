@@ -1,0 +1,262 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Non-structured programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Non-structured programming is the historically earliest programming
+   paradigm capable of creating Turing-complete algorithms. It has been
+   followed historically by procedural programming and then
+   object-oriented programming, both of them considered as structured
+   programming.
+
+   Unstructured programming has been heavily criticized for producing
+   hardly-readable ("spaghetti") code and is sometimes considered a bad
+   approach for creating major projects, but had been praised for the
+   freedom it offers to programmers and has been compared to how Mozart
+   wrote music.^[1]
+
+   There are both high- and low-level programming languages that use
+   non-structured programming. These include early versions of BASIC (such
+   as MSX BASIC and GW-BASIC), JOSS, FOCAL, MUMPS, TELCOMP, COBOL,
+   machine-level code, early assembler systems (without procedural
+   metaoperators), assembler debuggers and some scripting languages such
+   as MS-DOS batch file language.
+
+Contents
+
+     * 1 Features and typical concepts
+          + 1.1 Basic concepts
+          + 1.2 Data types
+     * 2 References
+     * 3 Further reading
+     * 4 External links
+
+Features and typical concepts[edit]
+
+Basic concepts[edit]
+
+   A program in a non-structured language usually consists of sequentially
+   ordered commands, or statements, usually one in each line. The lines
+   are usually numbered or may have labels: this allows the flow of
+   execution to jump to any line in the program.
+
+   Non-structured programming introduces basic control flow concepts such
+   as loops, branches and jumps. Although there is no concept of
+   procedures in the non-structured paradigm^[citation needed],
+   subroutines are allowed. Unlike a procedure, a subroutine may have
+   several entry and exit points, and a direct jump into or out of
+   subroutine is (theoretically) allowed. This flexibility allows
+   realization of coroutines.
+
+   There is no concept of local variables in non-structured programming
+   (although for assembly programs, general purpose registers may serve
+   the same purpose after saving on entry), but labels and variables can
+   have a limited area of effect (For example, a group of lines). This
+   means there is no (automatic) context refresh when calling a
+   subroutine, so all variables might retain their values from the
+   previous call. This makes general recursion difficult, but some cases
+   of recursion--where no subroutine state values are needed after the
+   recursive call--are possible if variables dedicated to the recursive
+   subroutine are explicitly cleared (or re-initialized to their original
+   value) on entry to the subroutine. The depth of nesting also may be
+   limited to one or two levels.
+
+Data types[edit]
+
+   Non-structured languages allow only basic data types, such as numbers,
+   strings and arrays^[citation needed] (numbered sets of variables of the
+   same type). The introduction of arrays into non-structured languages
+   was a notable step forward, making stream data processing possible
+   despite the lack of structured data types^[citation needed].
+
+References[edit]
+
+    1. ^ William W. Cobern. A positive albeit ambiguous case for BASIC
+       programming in secondary science teaching.
+
+Further reading[edit]
+
+     * Cobb, Gary W. (1978). "A measurement of structure for unstructured
+       programming languages". ACM SIGSOFT Software Engineering Notes 3
+       (5): 140–147. doi:10.1145/953579.811114. ISSN 0163-5948.
+
+External links[edit]
+
+   The Wikibook Computer Programming has a page on the topic of: Control
+     * BPStruct - A tool to structure concurrent systems (programs,
+       process models)
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Non-structured_programming&o
+   ldid=592418619"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from January 2010
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * فارسی
+     * 한국어
+     * 日本語
+     * Srpskohrvatski / српскохрватски
+     * Türkçe
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 26 January 2014 at 02:43.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

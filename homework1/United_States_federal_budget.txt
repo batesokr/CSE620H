@@ -1,0 +1,2073 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States federal budget
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Part of a series on Government
+                              United States
+   budget and debt topics
+   U.S. Budget & Debt Topics
+   Major dimensions
+     * Economy · Expenditures
+     * Federal budget · Financial position
+     * Military budget · Public debt
+     * Taxation · Unemployment
+
+   Programs
+     * Medicare · Social programs
+     * Social Security
+
+   Contemporary issues
+     * Fiscal cliff · Budget sequestration in 2013
+     * Bowles-Simpson Commission · Bush tax cuts
+     * Debt-ceiling crisis (2011 · 2013)  · Deficit reduction
+     * Health care reform · Political debates
+     * Social Security debate · "Starve the beast"
+     * Subprime mortgage crisis
+     * Financial crisis of 2007–08
+     * Government shutdowns of 1995–96
+     * Government shutdown of 2013
+
+   Terminology
+   Cumulative deficit  · Interest  · Debt  · Balance of payments  ·
+   Inflation
+     * v
+     * t
+     * e
+
+   Part of a series on Government
+                              Public finance
+   Detail from the mural "Government" by Elihu Vedder in the Library of
+   Congress
+   Policies
+     * Agricultural
+     * Economic
+     * Energy
+     * Industrial
+     * Investement
+     * Social
+     * Trade
+
+     * Fiscal
+     * Monetary
+     * Policy mix
+
+   Fiscal policy
+     * Budget
+          + policy
+     * Debt
+          + external
+          + internal
+     * Deficit / Surplus
+     * Finance ministry
+     * Fiscal union
+     * Revenue
+     * Spending
+          + deficit
+     * Tax
+
+   Monetary policy
+     * Bank reserves
+       (requirements)
+
+     * Discount window
+
+     * Gold reserves
+
+     * Interest rate
+
+     * Monetary authority
+          + central bank
+          + currency board
+
+     * Monetary base
+
+     * Monetary (currency) union
+
+     * Money supply
+
+   Trade policy
+     * Balance of trade
+     * Free trade
+     * Gains from trade
+     * Non-tariff barrier
+     * Protectionism
+     * Tariff
+     * Trade bloc
+     * Trade creation
+     * Trade diversion
+     * Trade / Commerce ministry
+
+     * Revenue
+     * Spending
+
+     * Non-tax revenue
+     * Tax revenue
+
+     * Discretionary spending
+     * Mandatory spending
+
+   Optimum
+     * Balanced budget (fiscal)
+
+     * Growth (trade and investment)
+
+     * Price stability (monetary)
+
+   Reform
+     * Fiscal adjustment
+     * Monetary reform
+
+     * v
+     * t
+     * e
+
+   Fiscal Year 2013 U.S. Federal Spending – Cash or Budget Basis.
+   Fiscal Year 2013 U.S. Federal Receipts.
+
+   The Budget of the United States Government often begins as the
+   President's proposal to the U.S. Congress which recommends funding
+   levels for the next fiscal year, beginning October 1. However, Congress
+   is the body required by law to pass appropriations annually and to
+   submit funding bills passed by both houses to the President for
+   signature. Congressional decisions are governed by rules and
+   legislation regarding the federal budget process. Budget committees set
+   spending limits for the House and Senate committees and for
+   Appropriations subcommittees, which then approve individual
+   appropriations bills to allocate funding to various federal programs.
+
+   If Congress fails to pass an annual budget, a series of Appropriations
+   bills must be passed as "stop gap" measures. After Congress approves an
+   appropriations bill, it is sent to the President, who may sign it into
+   law, or may veto it (as he would a budget when passed by the Congress).
+   A vetoed bill is sent back to Congress, which can pass it into law with
+   a two-thirds majority in each chamber. Congress may also combine all or
+   some appropriations bills into an omnibus reconciliation bill. In
+   addition, the president may request and the Congress may pass
+   supplemental appropriations bills or emergency supplemental
+   appropriations bills.
+
+   Several government agencies provide budget data and analysis. These
+   include the Government Accountability Office (GAO), Congressional
+   Budget Office, the Office of Management and Budget (OMB) and the U.S.
+   Treasury Department. These agencies have reported that the federal
+   government is facing a series of important long-run financing
+   challenges, primarily driven by an aging population and spending for
+   healthcare programs such as Medicare and Medicaid. In the short-term,
+   deficits are projected to return to their historical average relative
+   to the size of the economy by 2014.^[1]
+
+Contents
+
+     * 1 Budget principles
+          + 1.1 Budget authority versus outlays
+          + 1.2 Federal budget data
+          + 1.3 Federal budget projections
+     * 2 Major receipt categories
+          + 2.1 Tax policy
+               o 2.1.1 Tax descriptions
+               o 2.1.2 Tax expenditures
+     * 3 Major expenditure categories
+          + 3.1 Mandatory spending and social safety nets
+          + 3.2 Discretionary spending
+          + 3.3 Interest expense
+     * 4 Understanding deficits and debt
+          + 4.1 Relationship of deficit and debt
+          + 4.2 Debt categories
+          + 4.3 Risks associated with the debt
+          + 4.4 Government budget balance as a sectoral component
+     * 5 CBO budget projections
+          + 5.1 Short-term outlook
+          + 5.2 Long-term outlook
+     * 6 Contemporary issues and debates
+          + 6.1 Conceptual arguments
+          + 6.2 Austerity vs. stimulus
+          + 6.3 The "fiscal cliff" and "sequester"
+          + 6.4 Causes of change
+          + 6.5 Healthcare reform
+          + 6.6 Spending out of proportion to threats
+     * 7 Proposed deficit reduction
+          + 7.1 Strategies
+          + 7.2 Specific proposals
+               o 7.2.1 Government commission proposals
+               o 7.2.2 President Obama's proposals
+               o 7.2.3 Congressional proposals
+               o 7.2.4 Private expert panel proposals
+          + 7.3 Timing of solutions
+     * 8 Total outlays in recent budget submissions
+     * 9 See also
+     * 10 References
+     * 11 External links
+          + 11.1 Recent CBO documents
+          + 11.2 "Chart talk" examples
+          + 11.3 Budget games and simulations
+
+Budget principles[edit]
+
+   The U.S. Constitution (Article I, section 9, clause 7) states that "No
+   money shall be drawn from the Treasury, but in Consequence of
+   Appropriations made by Law; and a regular Statement and Account of
+   Receipts and Expenditures of all public Money shall be published from
+   time to time."
+
+   Each year, the President of the United States submits his budget
+   request to Congress for the following fiscal year as required by the
+   Budget and Accounting Act of 1921. Current law (31 U.S.C. § 1105(a))
+   requires the president to submit a budget no earlier than the first
+   Monday in January, and no later than the first Monday in February.
+   Typically, presidents submit budgets on the first Monday in February.
+   The budget submission has been delayed, however, in some new
+   presidents' first year when the previous president belonged to a
+   different party.
+
+   The federal budget is calculated largely on a cash basis. That is,
+   revenues and outlays are recognized when transactions are made.
+   Therefore, the full long-term costs of entitlement programs such as
+   Medicare, Social Security, and the federal portion of Medicaid are not
+   reflected in the federal budget. By contrast, many businesses and some
+   other national governments have adopted forms of accrual accounting,
+   which recognizes obligations and revenues when they are incurred. The
+   costs of some federal credit and loan programs, according to provisions
+   of the Federal Credit Reform Act of 1990, are calculated on a net
+   present value basis.^[2]
+
+   Federal agencies cannot spend money unless funds are authorized and
+   appropriated. Typically, separate Congressional committees have
+   jurisdiction over authorization and appropriations. The House and
+   Senate Appropriations Committees currently have 12 subcommittees, which
+   are responsible for drafting the 12 regular appropriations bills that
+   determine amounts of discretionary spending for various federal
+   programs. Appropriations bills must pass both the House and Senate and
+   then be signed by the president in order to give federal agencies the
+   legal budget authority to spend.^[3] In many recent years, regular
+   appropriations bills have been combined into "omnibus" bills.
+
+   Congress may also pass "special" or "emergency" appropriations.
+   Spending that is deemed an "emergency" is exempt from certain
+   Congressional budget enforcement rules. Funds for disaster relief have
+   sometimes come from supplemental appropriations, such as after
+   Hurricane Katrina. In other cases, funds included in emergency
+   supplemental appropriations bills support activities not obviously
+   related to actual emergencies, such as parts of the 2000 Census of
+   Population and Housing. Special appropriations have been used to fund
+   most of the costs of war and occupation in Iraq and Afghanistan so far.
+
+   Budget resolutions and appropriations bills, which reflect spending
+   priorities of Congress, will usually differ from funding levels in the
+   president's budget. The president, however, retains substantial
+   influence over the budget process through his veto power and through
+   his congressional allies when his party has a majority in Congress.
+
+Budget authority versus outlays[edit]
+
+   The amount of budget authority and outlays for a fiscal year usually
+   differ because the government can incur obligations for future years.
+   This means that budget authority from a previous fiscal year can, in
+   many cases, be used for expenditure of funds in future fiscal years;
+   for example, a multi-year contract.
+
+   Budget authority is the legal authority provided by federal law to
+   enter into financial obligations that will result in immediate or
+   future outlays involving federal government funds. Outlays refer to the
+   issuance of checks, disbursement of cash or electronic transfer of
+   funds made to liquidate a federal obligation and is usually synonymous
+   with "expenditure" or "spending." The term "appropriations" refers to
+   budget authority to incur obligations and to make payments from the
+   Treasury for specified purposes. Some military and some housing
+   programs have multi-year appropriations, in which their budget
+   authority is specified for several coming fiscal years.
+
+   In the congressional budgeting process, an "authorization" (technically
+   the "authorization act") provides the legal authority for the executive
+   branch to act, establishes an account which can receive money to
+   implement the action, and sets a limit on how much money may be
+   expended. However, this account remains empty until Congress approves
+   an "appropriation", which requires the U.S. Treasury to provide funds
+   (up to the limit provided for in the authorization). Congress is not
+   required to appropriate as much money as is authorized.^[4]
+
+   Congress may both authorize and appropriate in the same bill. Known as
+   "authorization bills", such legislation usually provides for a
+   multi-year authorization and appropriation. Authorization bills are
+   particularly useful when funding entitlement programs (benefits which
+   federal law says an individual has a right to, regardless if any money
+   is appropriated), where estimating the amount of funds to be spent is
+   difficult. Authorization bills are also useful when giving a federal
+   agency the right to borrow money, sign contracts, or provide loan
+   guarantees. In 2007, two-thirds of all federal spending came through
+   authorization bills.^[5]
+
+   A "backdoor authorization" occurs when an appropriation is made and an
+   agency required to spend the money even when no authorizing legislation
+   has been enacted. A "backdoor appropriation" occurs when authorizing
+   legislation requires an agency to spend a specific amount of money on a
+   specific project within a specific period of time. Because the agency
+   would be violating the law if it did not do so, it is required to spend
+   the money — even if no appropriation has been made. Backdoor
+   appropriations are particularly vexsome because removing the
+   appropriate requires amending federal law, which is often politically
+   impossible to do within a short period of time. Backdoor authorizations
+   and appropriations are sources of significant friction in Congress.
+   Authorization and appropriations committees jealously guard their
+   legislative rights, and the congressional budgeting process can break
+   down when committees overstep their boundaries and are retaliated
+   against.^[6]
+
+Federal budget data[edit]
+
+   Several government agencies provide budget data. These include the
+   Government Accountability Office (GAO), the Congressional Budget Office
+   (CBO), the Office of Management and Budget (OMB) and the U.S. Treasury
+   Department. The CBO publishes The Budget and Economic Outlook in
+   January, which covers a ten-year window and is typically updated in
+   August. It also publishes a Long-Term Budget Outlook in July and a
+   Monthly Budget Review. The OMB, which is responsible for organizing the
+   President's budget presented in February, typically issues a budget
+   update in July. The GAO and the Treasury issue Financial Statements of
+   the U.S. Government, usually in the December following the close of the
+   federal fiscal year, which occurs September 30. There is a
+   corresponding Citizen's Guide, a short summary. The Treasury Department
+   also produces a Combined Statement of Receipts, Outlays, and Balances
+   each December for the preceding fiscal year, which provides detailed
+   data on federal financial activities.
+
+   Historical tables within the President's Budget (OMB) provide a wide
+   range of data on federal government finances. Many of the data series
+   begin in 1940 and include estimates of the President’s Budget for
+   2009–2014. Additionally, Table 1.1 provides data on receipts, outlays,
+   and surpluses or deficits for 1901–1939 and for earlier multi-year
+   periods. This document is composed of 17 sections, each of which has
+   one or more tables. Each section covers a common theme. Section 1, for
+   example, provides an overview of the budget and off-budget totals;
+   Section 2 provides tables on receipts by source; and Section 3 shows
+   outlays by function. When a section contains several tables, the
+   general rule is to start with tables showing the broadest overview data
+   and then work down to more detailed tables. The purpose of these tables
+   is to present a broad range of historical budgetary data in one
+   convenient reference source and to provide relevant comparisons likely
+   to be most useful. The most common comparisons are in terms of
+   proportions (e.g., each major receipt category as a percentage of total
+   receipts and of the gross domestic product).^[7]
+
+Federal budget projections[edit]
+
+   The Congressional Budget Office (CBO) projects budget data such as
+   revenues, expenses, deficits, and debt as part of its "Long-term Budget
+   Outlook" which is released annually. The 2014 Outlook included
+   projections for debt through 2039 and beyond. CBO outlined several
+   scenarios that result in a range of outcomes. The "Extended Baseline"
+   scenario and "Extended Alternative Fiscal" scenario both result in a
+   much higher level of debt relative to the size of the economy (GDP) as
+   the country ages and healthcare costs rise faster than the rate of
+   economic growth. CBO also identified scenarios involving significant
+   austerity measures, which maintain or reduce the debt relative to GDP
+   over time.^[8]
+
+   The sooner austerity steps are taken (e.g., raising revenues or
+   reducing spending or a combination of both), the smaller those changes
+   can be to maintain or reduce the debt level projected in 2039. For
+   example, under the baseline scenario, stabilizing the ratio of debt to
+   GDP at 74% (its current level) would require non-interest spending cuts
+   and/or tax hikes of 1.2% of GDP annually if implemented in 2015, or
+   1.5% of GDP annually if begun in 2020. To bring the debt to GDP ratio
+   back to its 40-year average of 39%, the austerity measures required
+   would be 2.6% GDP if begun in 2015 and 3.2% GDP if begun in 2020. Over
+   the 1974 to 2013 period, federal spending averaged 20.5% GDP and
+   revenue 17.4% GDP. For scale, a 2% GDP reduction in spending would be
+   approximately a 10% spending cut.^[8]
+
+Major receipt categories[edit]
+
+   Main article: Taxation in the United States
+
+   During FY2013, the federal government collected approximately $2.77
+   trillion in tax revenue, up $326 billion or 13% versus FY2012 revenues
+   of $2.45 trillion. Primary receipt categories included individual
+   income taxes ($1,316B or 47%), Social Security/Social Insurance taxes
+   ($948B or 34%), and corporate taxes ($274B or 10%). Other revenue types
+   included excise, estate and gift taxes. Revenues rose across all
+   categories in FY2013 versus FY2012 as tax cuts expired and the economy
+   improved.^[9]
+
+   FY2013 revenues were 16.7% GDP, versus 15.2% GDP in FY2012.^[9] Tax
+   revenues averaged approximately 18.3% of gross domestic product (GDP)
+   over the 1970-2009 period, generally ranging plus or minus 2% from that
+   level. Tax revenues are significantly affected by the economy.
+   Recessions typically reduce government tax collections as economic
+   activity slows. For example, tax revenues declined from $2.5 trillion
+   in 2008 to $2.1 trillion in 2009, and remained at that level in 2010.
+   From 2008 to 2009, individual income taxes declined 20%, while
+   corporate taxes declined 50%. At 15.1% of GDP, the 2009 and 2010
+   collections were the lowest level of the past 50 years.^[10]^[11]
+
+Tax policy[edit]
+
+   Revenue and Expense as % GDP.
+
+Tax descriptions[edit]
+
+   The federal personal income tax is progressive, meaning a higher
+   marginal tax rate is applied to higher ranges of income. For example,
+   in 2010 the tax rate that applied to the first $17,000 in taxable
+   income for a couple filing jointly was 10%, while the rate applied to
+   income over $379,150 was 35%. The top marginal tax rate has declined
+   considerably since 1980. For example, the top tax rate was lowered from
+   70% to 50% in 1980 and reached as low as 28% in 1988. The Bush tax cuts
+   of 2001 and 2003, extended by President Obama in 2010, lowered the top
+   rate from 39.6% to 35%.^[12] The American Taxpayer Relief Act of 2012
+   raised the income tax rates for individuals earning over $400,000 and
+   couples over $450,000. There are numerous exemptions and deductions,
+   that typically result in a range of 35-40% of U.S. households owing no
+   federal income tax. The recession and tax cut stimulus measures
+   increased this to 51% for 2009, versus 38% in 2007.^[13]
+
+   The federal payroll tax (FICA) which partially funds Social Security
+   and Medicare was a flat tax until 2013. It is now a progressive tax.
+   For the Social Security portion, employers and employees each pay 6.2%
+   of the workers gross pay, a total of 12.4%. The Social Security portion
+   is capped at $113,700 for 2013, meaning income above this amount is not
+   subject to the tax. The Medicare portion is also paid by employer and
+   employee each at 1.45% and is not capped. Starting in 2013, an
+   additional 0.9 percent more in Medicare taxes was applied to income of
+   more than $200,000 ($250,000 for married couples filing jointly).^[14]
+   For calendar years 2011 and 2012, the employee's portion of the payroll
+   tax was reduced to 4.2% as an economic stimulus measure; this expired
+   for 2013.^[15]
+
+Tax expenditures[edit]
+
+   The term "tax expenditures" refers to income exemptions or deductions
+   that reduce the tax collections that would be made applying a
+   particular tax rate alone. According to the Center for American
+   Progress, annual tax expenditures have increased from $526 billion in
+   1982 to $1,025 billion in 2010, adjusted for inflation (measured in
+   2010 dollars).^[16] Economist Mark Zandi wrote in July 2011 that tax
+   expenditures should be considered a form of government spending.^[17]
+
+   In November 2009, The Economist estimated the additional federal tax
+   revenue generated from eliminating certain tax expenditures, for the
+   2013–2014 period. These included: income exemptions for
+   employer-provided health insurance ($215 billion); and various income
+   deductions such as mortgage interest ($147B), state & local taxes
+   ($65B), capital gains on homes ($60B), property taxes ($33B) and
+   municipal bond interest ($37B). This subset totals $557 billion.^[18]
+   The Congressional Joint Committee on Taxation estimated in 2008 the
+   amount of federal tax expenditures for the five year (2008–2012)
+   period.^[19]
+
+Major expenditure categories[edit]
+
+   Main article: Expenditures in the United States federal budget
+   CBO projections of U.S. Federal spending as % GDP 2014-2024
+
+   During FY 2013, the federal government spent $3.5 trillion on a budget
+   or cash basis, down $84 billion or 2.4% vs. FY 2012 spending of $3.54
+   trillion. Major categories of FY 2013 spending included: Social
+   Security ($803B or 23% of spending), Medicare & Medicaid ($760B or
+   22%), Defense Department ($608B or 18%), and interest($259B or 7%).
+   Healthcare and Social Security spending increased $81B (5.5%) versus
+   2012, while Defense spending fell $47B (7.2%).^[9]
+
+   Expenditures are classified as mandatory, with payments required by
+   specific laws, or discretionary, with payment amounts renewed annually
+   as part of the budget process. Expenditures averaged 20.4% GDP over the
+   past 40 years, generally ranging +/-2% GDP from that level. The 2013
+   spend was 20.8% GDP, versus 2012 spend of 22.0% GDP.^[9]
+
+   CBO projects that spending for Social Security, Healthcare programs and
+   interest costs will rise relative to GDP over the 2014-2024 period,
+   while defense and other discretionary spending will decline relative to
+   GDP.^[20]
+
+Mandatory spending and social safety nets[edit]
+
+   Social Security - Ratio of Covered Workers to Retirees
+   Entitlement Spending Risks
+
+   Social Security, Medicare, and Medicaid expenditures are funded by more
+   permanent Congressional appropriations and so are considered mandatory
+   spending. Social Security and Medicare are sometimes called
+   "entitlements," because people meeting relevant eligibility
+   requirements are legally entitled to benefits, although most pay taxes
+   into these programs throughout their working lives. Some programs, such
+   as Food Stamps, are appropriated entitlements. Some mandatory spending,
+   such as Congressional salaries, is not part of any entitlement program.
+   Mandatory spending accounted for 57.4% of total federal outlays in
+   FY2012, with net interest payments accounting for an additional 6.3%.
+   In 2000, these were 53.2% and 12.5%, respectively.^[21]
+
+   Mandatory spending is expected to continue increasing as a share of
+   GDP. This is due in part to demographic trends, as the number of
+   workers continues declining relative to those receiving benefits. For
+   example, the number of workers per retiree was 5.1 in 1960; this
+   declined to 3.0 in 2010 and is projected to decline to 2.2 by
+   2030.^[22]^[23] These programs are also affected by per-person costs,
+   which are also expected to increase at a rate significantly higher than
+   the economy. This unfavorable combination of demographics and
+   per-capita rate increases is expected to drive both Social Security and
+   Medicare into large deficits during the 21st century. Unless these
+   long-term fiscal imbalances are addressed by reforms to these programs,
+   raising taxes or drastic cuts in discretionary programs, the federal
+   government will at some point be unable to pay its obligations without
+   significant risk to the value of the dollar (inflation).^[24]^[25]
+     * Medicare was established in 1965 and expanded thereafter. Spending
+       for Medicare during 2013 was $585 billion.^[26] In 2009, the
+       program covered an estimated 45 million persons (38 million aged
+       and 7 million disabled). It consists of four distinct parts which
+       are funded differently: Hospital Insurance, mainly funded by a
+       dedicated payroll tax of 2.9% of earnings, shared equally between
+       employers and workers; Supplementary Medical Insurance, funded
+       through beneficiary premiums (set at 25% of estimated program costs
+       for the aged) and general revenues (the remaining amount,
+       approximately 75%); Medicare Advantage, a private plan option for
+       beneficiaries, funded through the Hospital Insurance and
+       Supplementary Medical Insurance trust funds; and the "Part D"
+       prescription drug benefits, for which funding is included in the
+       Supplementary Medical Insurance trust fund and is financed through
+       beneficiary premiums (about 25%) and general revenues (about
+       75%).^[27] Spending on Medicare and Medicaid is projected to grow
+       dramatically in coming decades. The number of persons enrolled in
+       Medicare is expected to increase from 47 million in 2010 to 80
+       million by 2030.^[28] While the same demographic trends that affect
+       Social Security also affect Medicare, rapidly rising medical prices
+       appear to be a more important cause of projected spending
+       increases. CBO expects Medicare and Medicaid to continue growing,
+       rising from 5.3% GDP in 2009 to 10.0% in 2035 and 19.0% by 2082.
+       CBO has indicated healthcare spending per beneficiary is the
+       primary long-term fiscal challenge.^[29] Various reform strategies
+       were proposed for healthcare,^[30] and in March 2010, the Patient
+       Protection and Affordable Care Act was enacted as a means of health
+       care reform. CBO reduced its per capita Medicare spending
+       assumptions by $1,000 for 2014 and $2,300 for 2019, relative to its
+       2010 estimate for those years.^[31] If this trend continues, it
+       will significantly improve the long-term budget outlook.^[32]
+
+   Note: CBO estimates that policy changes with a 0.6% of GDP annual
+   impact are sufficient to address the 75-year program shortfall.
+   Abbreviations are explained in the chart page. Source: CBO Report-July
+   2010.
+     * Social Security is a social insurance program officially called
+       "Old-Age, Survivors, and Disability Insurance" (OASDI), in
+       reference to its three components. It is primarily funded through a
+       dedicated payroll tax of 12.4%. During 2013, total benefits of $808
+       billion were paid out versus $768 billion in 2012, an increase of
+       $40 billion or 5.2%.^[26] Social Security’s total expenditures have
+       exceeded its non-interest income since 2010. The deficit of
+       non-interest income relative to cost was about $49 billion in 2010,
+       $45 billion in 2011, and $55 billion in 2012.^[33] During 2010, an
+       estimated 157 million people paid into the program and 54 million
+       received benefits, roughly 2.91 workers per beneficiary.^[34] Since
+       the Greenspan Commission in the early 1980s, Social Security has
+       cumulatively collected far more in payroll taxes dedicated to the
+       program than it has paid out to recipients—nearly $2.6 trillion in
+       2010. This annual surplus is credited to Social Security trust
+       funds that hold special non-marketable Treasury securities. This
+       surplus amount is commonly referred to as the "Social Security
+       Trust Fund". The proceeds are paid into the U.S. Treasury where
+       they may be used for other government purposes. Social Security
+       spending will increase sharply over the next decades, largely due
+       to the retirement of the baby boom generation. The number of
+       program recipients is expected to increase from 44 million in 2010
+       to 73 million in 2030.^[28] Program spending is projected to rise
+       from 4.8% of GDP in 2010 to 5.9% of GDP by 2030, where it will
+       stabilize.^[35] The Social Security Administration projects that an
+       increase in payroll taxes equivalent to 1.8% of the payroll tax
+       base or 0.6% of GDP would be necessary to put the Social Security
+       program in fiscal balance for the next 75 years. Over an infinite
+       time horizon, these shortfalls average 3.3% of the payroll tax base
+       and 1.2% of GDP.^[36] Various reforms have been debated for Social
+       Security. Examples include reducing future annual cost of living
+       adjustments (COLA) provided to recipients, raising the retirement
+       age, and raising the income limit subject to the payroll tax
+       ($106,800 in 2009).^[37]^[38] Because of the mandatory nature of
+       the program and large accumulated surplus in the Social Security
+       Trust Fund, the Social Security system has the legal authority to
+       compel the government to borrow to pay all promised benefits
+       through 2036, when the Trust Fund is expected to be exhausted.
+       Thereafter, the program under current law will pay approximately
+       75%–78% of promised benefits for the remainder of the
+       century.^[34]^[39]
+
+Discretionary spending[edit]
+
+   Defense Spending 2001–2014.
+   FY 2013 Estimated Federal Spending per 2013 Budget
+     * Military spending: The military budget of the United States during
+       FY 2012 was approximately $651 billion in expenses for the
+       Department of Defense (DoD), $124 billion for the Department of
+       Veterans Affairs, and $47 billion for the Department of Homeland
+       Security, for a total of $822 billion. This was approximately $28
+       billion or 3.3% below 2011 spending.^[40] The U.S. defense budget
+       (excluding spending for the wars in Iraq and Afghanistan, Homeland
+       Security, and Veteran's Affairs) is around 4% of GDP. Adding these
+       other costs places defense spending around 5% GDP. The DoD baseline
+       budget, excluding supplemental funding for the wars, grew from $297
+       billion in FY2001 to a budgeted $534 billion for FY2010, an 81%
+       increase.^[41] According to the CBO, defense spending grew 9%
+       annually on average from fiscal year 2000-2009.^[42] Much of the
+       costs for the wars in Iraq and Afghanistan have not been funded
+       through regular appropriations bills, but through emergency
+       supplemental appropriations bills. As such, most of these expenses
+       were not included in the budget deficit calculation prior to
+       FY2010. Some budget experts argue that emergency supplemental
+       appropriations bills do not receive the same level of legislative
+       care as regular appropriations bills.^[43] During 2011, the U.S.
+       spent more on its military budget than the next 13 countries
+       combined.^[44]
+     * Non-defense discretionary spending is used to fund the executive
+       departments (e.g., the Department of Education) and independent
+       agencies (e.g., the Environmental Protection Agency), although
+       these do receive a smaller amount of mandatory funding as well.
+       Discretionary budget authority is established annually by Congress,
+       as opposed to mandatory spending that is required by laws that span
+       multiple years, such as Social Security or Medicare. The federal
+       government spent approximately $615 billion during 2012 on the
+       Cabinet Departments and Agencies, excluding the Department of
+       Defense, representing 17% of budgeted expenditures or about 4.0% of
+       GDP.^[21]
+
+Interest expense[edit]
+
+   CBO reported that net interest on the public debt was approximately
+   $223 billion in FY2012 (6.3% of spending), down from $230 billion in
+   FY2011.^[21] During FY2012, the GAO reported a figure of $245 billion,
+   down from $251 billion. Government also accrued a non-cash interest
+   expense of $187 billion for intra-governmental debt, primarily the
+   Social Security Trust Fund, for a total interest expense of $432
+   billion. GAO reported that even though the national debt rose in
+   FY2012, the interest rate paid declined.^[45] Should interest rates
+   rise to historical averages, the interest cost would increase
+   dramatically. Historian Niall Ferguson described the risk that foreign
+   investors would demand higher interest rates as the U.S. debt levels
+   increase over time in a November 2009 interview.^[46] As of January
+   2012, public debt owned by foreigners has increased to approximately
+   50% of the total or approximately $5.0 trillion.^[47] As a result,
+   nearly 50% of the interest payments are now leaving the country, which
+   is different from past years when interest was paid to U.S. citizens
+   holding the public debt. Interest expenses are projected to grow
+   dramatically as the U.S. debt increases and interest rates rise from
+   very low levels to more typical historical levels.^[48]
+
+Understanding deficits and debt[edit]
+
+   Deficit and Debt Increases 2001-2013.
+   Main article: National debt of the United States
+
+Relationship of deficit and debt[edit]
+
+   Intuitively, the annual budget deficit should represent the amount
+   added to the national debt.^[49] However, there are certain types of
+   spending ("supplemental appropriations") outside the budget process
+   which are not captured in the deficit computation, which also add to
+   the national debt. Prior to 2009, spending for the wars in Iraq and
+   Afghanistan was often funded through special appropriations excluded
+   from the budget deficit calculation. In FY2010 and prior, the budget
+   deficit and annual change in the national debt were significantly
+   different. For example, the U.S. added $1 trillion to the national debt
+   in FY2008 but reported a deficit of $455 billion. Due to rules changes
+   implemented under President Obama in 2009, the two figures have moved
+   closer together and were nearly identical in 2013.
+
+Debt categories[edit]
+
+   The total federal debt is divided into "debt held by the public" and
+   "intra-governmental debt." The debt held by the public refers to U.S.
+   government securities or other obligations held by investors (e.g.,
+   bonds, bills and notes), while Social Security and other federal trust
+   funds are part of the intra-governmental debt. As of September 30, 2012
+   the total debt was $16.1 trillion, with debt held by the public of
+   $11.3 trillion and intragovernmental debt of $4.8 trillion.^[50] Debt
+   held by the public as a percentage of GDP rose from 34.7% in 2000 to
+   40.3% in 2008 and 70.0% in 2012.^[51] U.S. GDP was approximately $15
+   trillion during 2011 and an estimated $15.6 trillion for 2012 based on
+   activity during the first two quarters.^[52] This means the total debt
+   is roughly the size of GDP. Economists debate the level of debt
+   relative to GDP that signals a "red line" or dangerous level, or if any
+   such level exists.^[53] By comparison, China's budget deficit was 1.6%
+   of its $10 trillion GDP in 2010, with a debt to GDP ratio of 16%.^[54]
+
+Risks associated with the debt[edit]
+
+   Total Debt $ and % to GDP 2000–2013
+
+   The CBO reported several types of risk factors related to rising debt
+   levels in a July 2010 publication:
+     * A growing portion of savings would go towards purchases of
+       government debt, rather than investments in productive capital
+       goods such as factories and leading to lower output and incomes
+       than would otherwise occur;
+     * Rising interest costs would force reductions in important
+       government programs;
+     * To the extent that additional tax revenues were generated by
+       increasing marginal tax rates, those rates would discourage work
+       and saving, further reducing output and incomes;
+     * Restrictions to the ability of policymakers to use fiscal policy to
+       respond to economic challenges; and
+     * An increased risk of a sudden fiscal crisis, in which investors
+       demand higher interest rates.^[55]
+
+   However, since mid to late 2010, the U.S. Treasury has been obtaining
+   negative real interest rates at Treasury security auctions. At such low
+   rates, government debt borrowing saves taxpayer money according to one
+   economist.^[56] There is no guarantee that such rates will continue,
+   but the trend has remained falling or flat as of October 2012.^[57]
+
+Government budget balance as a sectoral component[edit]
+
+   Main article: Sectoral financial balances
+   Sectoral financial balances in U.S. economy 1990-2012. By definition,
+   the three balances must net to zero. Since 2009, the U.S. capital
+   surplus and private sector surplus have driven a government budget
+   deficit.
+
+   Economist Martin Wolf explained in July 2012 that government fiscal
+   balance is one of three major financial sectoral balances in the U.S.
+   economy, the others being the foreign financial sector and the private
+   financial sector. The sum of the surpluses or deficits across these
+   three sectors must be zero by definition. Since the foreign and private
+   sectors are in surplus, the government sector must be in deficit.
+
+   Wolf argued that the sudden shift in the private sector from deficit to
+   surplus due to the global economic crisis forced the government balance
+   into deficit, writing: "The financial balance of the private sector
+   shifted towards surplus by the almost unbelievable cumulative total of
+   11.2 per cent of gross domestic product between the third quarter of
+   2007 and the second quarter of 2009, which was when the financial
+   deficit of US government (federal and state) reached its peak...No
+   fiscal policy changes explain the collapse into massive fiscal deficit
+   between 2007 and 2009, because there was none of any importance. The
+   collapse is explained by the massive shift of the private sector from
+   financial deficit into surplus or, in other words, from boom to
+   bust."^[58]
+
+   Economist Paul Krugman also explained in December 2011 the causes of
+   the sizable shift from private sector deficit to surplus: "This huge
+   move into surplus reflects the end of the housing bubble, a sharp rise
+   in household saving, and a slump in business investment due to lack of
+   customers."^[59]
+
+CBO budget projections[edit]
+
+Short-term outlook[edit]
+
+   CBO reported in its February 2014 Budget and Economic Outlook (which
+   covers the 2014-2024 period) that deficits were projected to return to
+   approximately the historical average relative to the size of the
+   economy (GDP) by 2014. CBO estimated that under current law, the
+   deficit would total $514 billion in fiscal year 2014 or 3.0% GDP.
+   Deficits would then slowly begin rising again through 2024 due
+   primarily to the pressures of an aging population and rising healthcare
+   costs per person. The debt to GDP ratio would remain stable for much of
+   the decade then begin rising again toward the end of the 10-year
+   forecast window, from 74% in 2014 to 79% in 2024.^[1]
+
+Long-term outlook[edit]
+
+   CBO-Public Debt Under "Extended" and "Alternate" Scenarios
+   Spending for mandatory programs is projected to rise relative to GDP,
+   while discretionary programs decline
+
+   The Congressional Budget Office (CBO) reports its Long-Term Budget
+   Outlook annually, providing at least two scenarios for spending,
+   revenue, deficits, and debt. The 2014 Outlook mainly covers the 25 year
+   period through 2039.
+
+   The "extended baseline scenario" assumes that the laws currently on the
+   books will be implemented, for the most part. CBO reported in July 2014
+   that under this scenario: "If current laws remained generally unchanged
+   in the future, federal debt held by the public would decline slightly
+   relative to GDP over the next few years. After that, however, growing
+   budget deficits would push debt back to and above its current high
+   level. Twenty-five years from now, in 2039, federal debt held by the
+   public would exceed 100 percent of GDP. Moreover, debt would be on an
+   upward path relative to the size of the economy, a trend that could not
+   be sustained indefinitely. By 2039, the deficit would equal 6.5 percent
+   of GDP, larger than in any year between 1947 and 2008, and federal debt
+   held by the public would reach 106 percent of GDP, more than in any
+   year except 1946—even without factoring in the economic effects of
+   growing debt."^[8]
+
+   The "extended alternative fiscal scenario" assumes the continuation of
+   present trends, which result in a more unfavorable debt position and
+   adverse economic consequences relative to the baseline scenario. CBO
+   reported in July 2014 that under this scenario: "[C]ertain policies
+   that are now in place but are scheduled to change under current law are
+   assumed to continue, and some provisions of current law that might be
+   difficult to sustain for a long period are assumed to be modified.
+   Under that scenario, deficits excluding interest payments would be
+   about $2 trillion larger over the first decade than those under the
+   baseline; subsequently, such deficits would be larger than those under
+   the extended baseline by rapidly increasing amounts, doubling as a
+   percentage of GDP in less than 10 years. CBO projects that real GNP in
+   2039 would be about 5 percent lower under the extended alternative
+   fiscal scenario than under the extended baseline with economic
+   feedback, and that interest rates would be about three-quarters of a
+   percentage point higher. Reflecting the budgetary effects of those
+   economic developments, federal debt would rise to 183 percent of GDP in
+   2039."^[8]
+
+   Over the long-term, CBO projects that interest expense and mandatory
+   spending categories (e.g., Medicare, Medicaid and Social Security) will
+   continue to grow relative to GDP, while discretionary categories (e.g.,
+   Defense and other Cabinet Departments) continue to fall relative to
+   GDP. Debt is projected to continue rising relative to GDP under the
+   above two scenarios, although the CBO did also offer other scenarios
+   that involved austerity measures that would bring the debt to GDP ratio
+   down.^[8]
+
+   CBO estimated under the baseline scenario that the U.S. debt held by
+   the public would increase approximately $8.5 trillion between the end
+   of 2014 and 2024. Under a $2 trillion deficit reduction scenario during
+   that first decade, federal debt held by the public in 2039 would stand
+   at 75 percent of GDP, only slightly above the value of 72 percent at
+   the end of 2013. Under a $4 trillion deficit reduction scenario for
+   that decade, federal debt held by the public would fall to 42 percent
+   of GDP in 2039. By comparison, such debt was 35 percent of GDP in 2007
+   and has averaged 39 percent of GDP during the past 40 years.^[8]
+
+   CBO reported in September 2011: "The nation cannot continue to sustain
+   the spending programs and policies of the past with the tax revenues it
+   has been accustomed to paying. Citizens will either have to pay more
+   for their government, accept less in government services and benefits,
+   or both."^[60]
+
+Contemporary issues and debates[edit]
+
+   Main articles: Political debates about the United States federal budget
+   and Deficit reduction in the United States
+   See also: Social Security debate in the United States and Health care
+   reform debate in the United States
+
+   Topics frequently in the news in the 2010-2012 time period included: a)
+   the austerity versus stimulus debate; b) the fiscal cliff including the
+   effects of the Bush tax cuts and related extension; c) causes of
+   deficit and debt increases; and d) the effects of healthcare reform on
+   the budget.
+
+Conceptual arguments[edit]
+
+   Many of the debates surrounding the United States federal budget center
+   around competing macroeconomic schools of thought. In general,
+   Democrats favor the principles of Keynesian economics to encourage
+   economic growth via a mixed economy of both private and public
+   enterprise, a welfare state, and strong regulatory oversight.
+   Conversely, Republicans generally support applying the principles of
+   either laissez-faire or supply-side economics to grow the economy via
+   small government, low taxes, limited regulation, and free
+   enterprise.^[61]^[62] Debates have surrounded the appropriate size and
+   role of the federal government since the founding of the country. These
+   debates also deal with questions of morality, income equality and
+   intergenerational equity. For example, Congress adding to the debt
+   today may or may not enhance the quality of life for future
+   generations, who must also bear the additional interest and taxation
+   burden.^[63]
+
+   Political realities make major budgetary deals difficult to achieve.
+   While Republicans argue conceptually for reductions in Medicare and
+   Social Security, they are hesitant to actually vote to reduce the
+   benefits from these popular programs. Democrats on the other hand argue
+   conceptually for tax increases on the wealthy, yet may be hesitant to
+   vote for them because of the effect on campaign donations from the
+   wealthy. The so-called budgetary "grand bargain" of tax hikes on the
+   rich and removal of some popular tax deductions in exchange for
+   reductions to Medicare and Social Security is therefore elusive.^[64]
+
+   Economic growth and employment are key factors driving recent deficits.
+   The Congressional Budget Office (CBO) estimated in October 2011 that
+   approximately one-third of the deficit projected for fiscal year 2012
+   was due to economic factors, which have caused safety net expenditures
+   to increase and tax revenues to decline with high unemployment.^[65]
+
+Austerity vs. stimulus[edit]
+
+   One of the debates facing the U.S. and Europe during 2012 relates to
+   choices between deficit reduction ("austerity") and running larger
+   budget deficits (via higher spending and tax cuts) to encourage
+   economic growth and employment. Several European countries that
+   implemented austerity policies via government cost reductions and
+   higher taxes during 2010-2011 have initially experienced slowing
+   economies, as predicted by Keynesian economics.^[66]^[67]
+
+   Economists Lawrence Summers and Christina D. Romer wrote in April 2012
+   that larger budget deficits today to stimulate the economy can be
+   coupled with austerity measures that phase in gradually.^[68]^[69] For
+   example, laws could be passed today funding investments in
+   infrastructure to stimulate the economy today while raising the
+   retirement age and raising taxes over time. Former OMB Director Peter
+   Orszag wrote in May 2012: "When policy makers put in place measures
+   carefully designed to reduce the federal deficit in the future, most of
+   them happen...enacting more stimulus today and more deficit reduction
+   to take effect later is exactly what the U.S. needs."^[70]
+
+   Economists Joseph Stiglitz and Mark Zandi both advocated significant
+   mortgage refinancing or write-downs during August 2012 to help provide
+   an economic boost, as over 13 million homeowners are underwater on
+   their homes, which affects their ability to consume.^[71] Economist
+   Amir Sufi at the University of Chicago argued in July 2011 that a high
+   level of household debt is a major factor holding back the economy. His
+   research indicates that areas of the country with lower household debt
+   levels have recovered more quickly from the economic downturn. He
+   advocates mortgage write-downs and other debt reduction ideas.^[72]
+
+   Economist Raghuram Rajan wrote in May 2012 that the U.S. economy was
+   not on a sustainable path pre-crisis and that fiscal and monetary
+   stimulus may not be effective solutions. More long-term measures will
+   be required to make workers more competitive: "Sensible policy lies in
+   improving the capabilities of the workforce across the country, so that
+   they can get sustainable jobs with steady incomes." He also advocated
+   mortgage principal reduction to relieve household debt burdens.^[73]
+
+   Economist Michael Spence analyzed U.S. employment trends from 1990 to
+   2008, separating workforce components into internationally tradable and
+   non-tradable industries. Nearly all job growth from 1990 to 2008 was in
+   the non-tradable industries. These trends are correlated with
+   increasing income inequality and indicate significant structural issues
+   face the U.S. labor market.^[74]
+
+   Economist Paul Krugman argued in December 2012 that there is no
+   short-run fiscal crisis and the emphasis should be on job creation. He
+   warns that a well-financed lobby of "deficit scolds" have created a
+   phony deficit crisis when the government should be spending more to put
+   people to work. He pointed out that the U.S. cannot default because it
+   can print money and that interest rates on government debt are very
+   low, allowing the government to borrow easily. The main risk of fiscal
+   profligacy would be inflation, which might actually help as a devalued
+   dollar would make exports more competitive.^[75]^[76]
+
+The "fiscal cliff" and "sequester"[edit]
+
+   Main articles: United States fiscal cliff and 2013 Sequestration
+   U.S. Federal budget deficit as % GDP assuming continuation of certain
+   policies 2011-2021.
+
+   The CBO estimated that letting current laws take effect beyond 2012
+   would significantly reduce future budget deficits. For example, the
+   Bush tax cuts of 2001 and 2003 (extended by President Obama in 2010)
+   were scheduled to expire at the end of 2012. Other deficit reducers per
+   the CBO include: allowing the automatic spending cuts in the Budget
+   Control Act of 2011 to take effect, allowing other tax cuts enacted in
+   2009 and 2010 by President Obama to expire in 2012, allowing the
+   alternative minimum tax (AMT) to affect more taxpayers, and reducing
+   Medicare reimbursements to doctors. These and other current laws, if
+   allowed to take effect, reduce the deficit from an estimated 4.7% GDP
+   in 2021 to 1.2% GDP.^[77] Total deficit reduction could be as high as
+   $7.1 trillion over a decade if current law is enforced and not
+   overridden.^[78]
+
+   The significant impact of the multiple tax cut expirations and spending
+   reductions that take effect at the end of calendar year 2012 were
+   referred to as the "fiscal cliff."^[79] The CBO estimated in May 2012
+   that allowing current law to take effect would reduce the deficit by a
+   net $560 billion in 2013, roughly half the $1.2 trillion 2011 deficit.
+   Real GDP growth in 2013 would be reduced to 0.5% versus 1.1%, with a
+   high probability of recession during the first half of the year (a 1.3%
+   GDP contraction) followed by 2.3% growth in the second half. Over the
+   long-run, lower deficits and debt support relatively higher growth
+   estimates, however.^[80]^[81] The fiscal cliff was addressed by the
+   American Taxpayer Relief Act of 2012.
+
+Causes of change[edit]
+
+   Cause of change between CBO's 2001 projection of a $5.6 trillion
+   surplus between 2002-2012 and the $6.1 trillion debt increase that
+   actually occurred.
+
+   The U.S. last balanced its budget in 2001, with a 1.3% GDP surplus.
+   Between 2001 and 2012, spending increased by 4.5% GDP (from 18.2% GDP
+   in 2001 to 22.7% GDP in 2012), while revenues declined by 3.7% GDP
+   (from 19.5% GDP in 2001 to 15.8% GDP in 2012), resulting in a 7.0% GDP
+   deficit for 2012. Medicare/Medicaid spending increased by 1.6% GDP and
+   defense spending increased by 1.3% GDP from 2001 to 2012. Individual
+   income tax revenues fell by 2.4% GDP and payroll taxes fell by 1.4% GDP
+   from 2001 to 2012.^[82]
+
+   Economist Paul Krugman summarized the causes of increasing deficits and
+   debt in May 2011: "What happened to the budget surplus the federal
+   government had in 2000? The answer is, three main things. First, there
+   were the Bush tax cuts, which added roughly $2 trillion to the national
+   debt over the last decade. Second, there were the wars in Iraq and
+   Afghanistan, which added an additional $1.1 trillion or so. And third
+   was the Great Recession, which led both to a collapse in revenue and to
+   a sharp rise in spending on unemployment insurance and other safety-net
+   programs."^[83]^[84]
+
+   In June 2012, CBO summarized the cause of change between its January
+   2001 estimate of a $5.6 trillion cumulative surplus between 2002 and
+   2011 and the actual $6.1 trillion cumulative deficit that occurred, an
+   unfavorable "turnaround" or debt increase of $11.7 trillion. Tax cuts
+   and slower-than-expected growth reduced revenues by $6.1 trillion and
+   spending was $5.6 trillion higher. Of this total, the CBO attributes
+   72% to legislated tax cuts and spending increases and 27% to economic
+   and technical factors. Of the latter, 56% occurred from 2009 to
+   2011.^[85]^[86]
+
+   The difference between the projected and actual debt in 2011 can be
+   largely attributed to:
+     * $3.5 trillion – Economic changes (including lower than expected tax
+       revenues and higher safety net spending due to recession)
+     * $1.6 trillion – Bush Tax Cuts (EGTRRA and JGTRRA), primarily tax
+       cuts but also some smaller spending increases
+     * $1.5 trillion – Increased defense and non-defense discretionary
+       spending
+     * $1.4 trillion – Wars in Afghanistan and Iraq
+     * $1.4 trillion – Incremental interest due to higher debt balances
+     * $0.9 trillion – Obama stimulus and tax cuts (ARRA and Tax Act of
+       2010)^[86]
+
+   Several other sources have used CBO data to summarize the results in
+   various ways.^[87]^[88]^[89]
+
+   Economist Martin Wolf explained in July 2012 that when the U.S. economy
+   has a foreign financial surplus (due to its trade deficit) and a
+   private sector financial surplus (because household savings exceeds
+   business investment), the government must run a budget deficit. This is
+   a rule that holds true by definition. He wrote: "The idea that the huge
+   fiscal deficits of recent years have been the result of decisions taken
+   by the current administration is nonsense. No fiscal policy changes
+   explain the collapse into massive fiscal deficit between 2007 and 2009,
+   because there was none of any importance. The collapse is explained by
+   the massive shift of the private sector from financial deficit into
+   surplus or, in other words, from boom to bust."^[90] Economist Paul
+   Krugman also explained in December 2011 the significant shift in the
+   private sector from deficit to surplus.^[59]
+
+Healthcare reform[edit]
+
+   CBO estimated in March 2011 that the Patient Protection and Affordable
+   Care Act (PPACA), the controversial healthcare legislation passed in
+   2010 also known as "Obamacare," is expected to reduce the deficit $210
+   billion total between 2012-2021, with revenues of $813 billion
+   partially offset by outlays of $604 billion.^[91] CBO updated its
+   estimate in July 2012, indicating a repeal of PPACA would add $109
+   billion to the deficit between 2013-2022.^[92]
+
+   CBO estimates that PPACA includes reductions in Medicare of over $700
+   billion during the 2013-2022 period, mainly through slightly reducing
+   the trajectory of spending increases expected prior to PPACA.
+   Individual beneficiaries are not directly impacted; most of the cost
+   savings comes from reducing future payments to hospitals and other
+   service providers relative to previous baseline estimates. In other
+   words, PPACA "bends the curve" on Medicare costs down
+   somewhat.^[93]^[94] Further, since PPACA reduces Medicare payouts, the
+   position of the Medicare Hospital Insurance (HI) Trust Fund is
+   significantly improved. PPACA extended the life of the Medicare HI
+   Trust Fund by 8 years and reduced the 75-year annual shortfall from
+   3.88% of the U.S. payroll tax base to 1.35%.^[95]
+
+Spending out of proportion to threats[edit]
+
+   The U.S. federal budget has been criticized for spending on research
+   and action on harm reduction out of proportion to the magnitude of the
+   underlying threats. For example, heart disease, cancer, strokes,
+   respiratory diseases, diabetes, and Alzheimer's disease claimed about
+   1,650,000 American lives in 2007, when the government spent about $9.6
+   billion researching ways to alleviate those illnesses. In contrast,
+   terrorism had claimed about 300 lives per year on average over the
+   previous decade, but $150 billion was spent to prevent terrorism, not
+   including even more costly defense and war expenses.^[96] However, a
+   major terrorist attack could cause substantial economic disruption. The
+   September 11, 2001 attacks killed almost 3000 people, but caused
+   extensive economic disruption including about $40 billion in insurance
+   losses, a stock market drop which took months to recover, about $15
+   billion in assistance to airlines, substantial tourism losses, and
+   430,000 lost jobs amounting to $2.8 billion in lost wages over the
+   three months following.
+
+Proposed deficit reduction[edit]
+
+   Report of the National Commission on Fiscal Responsibility and
+   Reform-Public Debt as % GDP Under Various Scenarios
+   Main article: Deficit reduction in the United States
+
+Strategies[edit]
+
+   There are a variety of proposed strategies for reducing the federal
+   deficit. These may include policy choices regarding taxation and
+   spending, along with policies designed to increase economic growth and
+   reduce unemployment. For example, a fast-growing economy offers the
+   win-win outcome of a larger proverbial economic pie, with higher
+   employment and tax revenues, lower safety net spending and a lower
+   debt-to-GDP ratio. However, most other strategies represent a tradeoff
+   scenario in which money or benefits are taken from some and given to
+   others. Spending can be reduced from current levels, frozen, or the
+   rate of future spending increases reduced. Budgetary rules can also be
+   implemented to manage spending. Some changes can take place today,
+   while others can phase in over time. Although a still-weak economy
+   limits the scope for large adjustments immediately, addressing the
+   long-term imbalance soon will allow for more reasonable and gradual
+   adjustments.^[97] Tax revenues can be raised in a variety of ways, by
+   raising tax rates, the scope of what is taxed, or eliminating
+   deductions and exemptions ("tax expenditures"). Regulatory uncertainty
+   or barriers can be reduced, as these may cause businesses to postpone
+   investment and hiring decisions.^[98]
+
+   The CBO reported in September 2011 that: "Given the aging of the
+   population and rising costs for health care, attaining a sustainable
+   federal budget will require the United States to deviate from the
+   policies of the past 40 years in at least one of the following ways:
+     * Raise federal revenues significantly above their average share of
+       GDP;
+     * Make major changes to the sorts of benefits provided for Americans
+       when they become older; or
+     * Substantially reduce the role of the rest of the federal government
+       relative to the size of the economy."^[99]
+
+   During June 2012, Federal Reserve Chair Ben Bernanke recommended three
+   objectives for fiscal policy: 1) Take steps to put the federal budget
+   on a sustainable fiscal path; 2) Avoid unnecessarily impeding the
+   ongoing economic recovery; and 3) Design tax policies and spending
+   programs to promote a stronger economy.^[100]
+
+   President Barack Obama stated in June 2012: "What I’ve said is, let’s
+   make long-term spending cuts; let’s initiate long-term reforms; let’s
+   reduce our health care spending; let’s make sure that we’ve got a
+   pathway, a glide-path to fiscal responsibility, but at the same time,
+   let’s not under-invest in the things that we need to do right now to
+   grow. And that recipe of short-term investments in growth and jobs with
+   a long-term path of fiscal responsibility is the right approach to take
+   for, I think, not only the United States but also for Europe."^[101]
+
+Specific proposals[edit]
+
+   A variety of government task forces, expert panels, private
+   institutions, politicians, and journalists have made recommendations
+   for reducing the deficit and slowing the growth of debt. Several
+   organizations have compared the future impact of these plans on the
+   deficit, debt, and economy. One helpful way of measuring the impact of
+   the plans is to compare them in terms of revenue and expense as a
+   percentage of GDP over time, in total and by category. This helps
+   illustrate how the different plan authors have prioritized particular
+   elements of the budget.^[102]
+
+Government commission proposals[edit]
+
+     * President Obama established a budget reform commission, the
+       National Commission on Fiscal Responsibility and Reform which
+       released a draft report in December 2010. The proposal is sometimes
+       called the "Bowles-Simpson" plan after the co-chairs of the
+       Commission. It included various tax and spending adjustments to
+       bring long-run government tax revenue and spending into line at
+       approximately 21% of GDP, with $4 trillion debt avoidance over 10
+       years. Under 2011 policies, the national debt would increase
+       approximately $10 trillion over the 2012-2021 period, so this $4
+       trillion avoidance reduces the projected debt increase to $6
+       trillion.^[103] The Center on Budget and Policy Priorities analyzed
+       the plan and compared it to other plans in October 2012.^[104]
+
+President Obama's proposals[edit]
+
+     * President Obama announced a 10-year (2012–2021) plan in September
+       2011 called: "Living Within Our Means and Investing in the Future:
+       The President’s Plan for Economic Growth and Deficit Reduction."
+       The plan included tax increases on the wealthy, along with cuts in
+       future spending on defense and Medicare. Social Security was
+       excluded from the plan. The plan included a net debt avoidance of
+       $3.2 trillion over 10 years. If the Budget Control Act of 2011 is
+       included, this adds another $1.2 trillion in deficit reduction for
+       a total of $4.4 trillion.^[105] The Bipartisan Policy Center (BPC)
+       evaluated the President's 2012 budget against several alternate
+       proposals, reporting it had revenues relative to GDP similar to the
+       Domenici-Rivlin and Bowles-Simpson expert panel recommendations but
+       slightly higher spending.^[102]
+     * President Obama proposed during July 2012 allowing the Bush tax
+       cuts to expire for individual taxpayers earning over $200,000 and
+       couples earning over $250,000, which represents the top 2% of
+       income earners. Reverting to Clinton-era tax rates for these
+       taxpayers would mean increases in the top rates to 36% and 39.6%
+       from 33% and 35%. This would raise approximately $850 billion in
+       revenue over a decade. It would also mean raising the tax rate on
+       investment income, which is highly concentrated among the wealthy,
+       to 20% from 15%.^[106]
+
+Congressional proposals[edit]
+
+     * The House of Representatives Committee on the Budget, chaired by
+       Rep. Paul Ryan (R), released The Path to Prosperity: Restoring
+       America's Promise and a 2012 budget. The Path focuses on tax reform
+       (lowering income tax rates and reducing tax expenditures or
+       loopholes); spending cuts and controls; and redesign of the
+       Medicare and Medicaid programs. It does not propose significant
+       changes to Social Security.^[107] The Bipartisan Policy Center
+       (BPC) evaluated the 2012 Republican budget proposal, noting it had
+       the lowest spending and tax revenue relative to GDP among several
+       alternatives.^[108]
+     * The Congressional Progressive Caucus (CPC) proposed "The People's
+       Budget" in April 2011, which it claimed would balance the budget by
+       2021 while maintaining debt as a % GDP under 65%. It proposed
+       reversing most of the Bush tax cuts; higher income tax rates on the
+       wealthy and restoring the estate tax, investing in a jobs program,
+       and reducing defense spending.^[109] The BPC evaluated the
+       proposal, noting it had both the highest spending and tax revenue
+       relative to GDP among several alternatives.^[110] The CPC also
+       proposed a 2014 budget called "Back to Work." It included
+       short-term stimulus, defense spending cuts, and tax
+       increases.^[111]
+     * Congressmen Jim Cooper (D-TN) and Steven LaTourette (R-OH) proposed
+       a budget in the House of Representatives in March 2012. While it
+       did not pass the House, it received bi-partisan support, with 17
+       votes in favor from each party. According to the BPC: "...the plan
+       would enact tax reform by lowering both the corporate and
+       individual income tax rates and raising revenue by broadening the
+       base. Policies are endorsed that improve the health of the Social
+       Security program, restrain health care cost growth, control
+       annually appropriated spending, and make cuts to other entitlement
+       programs." The plan proposes to raise approximately $1 trillion
+       less revenue over the 2013-2022 decade than the Simpson-Bowles and
+       Domenici-Rivlin plans, while cutting non-defense discretionary
+       spending more deeply and reducing the defense spending cuts
+       mandated in the Budget Control Act of 2011.^[112] According to the
+       Center on Budget and Policy Priorities, this plan is ideologically
+       to the Right of either the Simpson-Bowles or Domenici-Rivlin
+       plans.^[113]
+     * In May 2012, House Republicans put forward five separate budget
+       proposals for a vote in the Senate. The Republican proposals
+       included the House-approved proposal by House Budget Chairman Paul
+       Ryan and one that was very close in content to the budget proposal
+       submitted earlier in 2012 by President Barack Obama.^[114] The
+       other three proposals each called for greatly reduced government
+       spending. The budget put forward by Senator Mike Lee would halve
+       the government over the next 25 years. Senator Rand Paul's budget
+       included proposed cuts to Medicare, Social Security benefits and
+       the closure of four Cabinet departments. The budget plan from
+       Senator Patrick Toomey aimed to balance the budget within eight
+       years. All five of the proposed plans were rejected in the
+       Senate.^[115]^[116]
+
+Private expert panel proposals[edit]
+
+     * The Peter G. Peterson Foundation solicited proposals from six
+       organizations, which included the American Enterprise Institute,
+       the Bipartisan Policy Center, the Center for American Progress, the
+       Economic Policy Institute, The Heritage Foundation, and the
+       Roosevelt Institute Campus Network. The recommendations of each
+       group were reported in May 2011.^[117]
+     * The Bipartisan Policy Center (BPC) sponsored a Debt Reduction Task
+       Force, co-chaired by Pete V. Domenici and Alice M. Rivlin. The
+       Domenici-Rivlin panel created a report called "Restoring America's
+       Future," which was published in November 2010. The plan claimed to
+       stabilize the debt to GDP ratio at 60%, with up to $6 trillion in
+       debt avoidance over the 2011-2020 period. Specific plan elements
+       included defense and non-defense spending freezes for 4–5 years,
+       income tax reform, elimination of tax expenditures, and a national
+       sales tax or value-added tax (VAT).^[118]^[119]
+     * The Hamilton Project published a guidebook with 15 different
+       proposals from various policy and budget experts in February, 2013.
+       The authors were asked to provide pragmatic, evidenced-based
+       proposals that would both reduce the deficit and bring broader
+       economic benefits. Proposals included a value added tax and
+       reductions to tax expenditures, among others.^[120]
+
+Timing of solutions[edit]
+
+   There is significant debate regarding the urgency of addressing the
+   short-term and long-term budget challenges. Prior to the 2008-2009 U.S.
+   recession, experts argued for steps to be put in place immediately to
+   address an unsustainable trajectory of federal deficits. For example,
+   Fed Chair Ben Bernanke stated in January 2007: "The longer we wait, the
+   more severe, the more draconian, the more difficult the objectives are
+   going to be. I think the right time to start was about 10 years
+   ago."^[121]
+
+   However, experts after the 2008-2009 U.S. recession argued that
+   longer-term austerity measures should not interfere with measures to
+   address the short-term economic challenges of high unemployment and
+   slow growth. Ben Bernanke wrote in September 2011: "...the two
+   goals--achieving fiscal sustainability, which is the result of
+   responsible policies set in place for the longer term, and avoiding
+   creation of fiscal headwinds for the recovery--are not incompatible.
+   Acting now to put in place a credible plan for reducing future deficits
+   over the long term, while being attentive to the implications of fiscal
+   choices for the recovery in the near term, can help serve both
+   objectives."^[122]
+
+   IMF managing director Christine Lagarde wrote in August 2011: "For the
+   advanced economies, there is an unmistakable need to restore fiscal
+   sustainability through credible consolidation [deficit reduction]
+   plans. At the same time we know that slamming on the brakes too quickly
+   will hurt the recovery and worsen job prospects. So fiscal adjustment
+   must resolve the conundrum of being neither too fast nor too slow.
+   Shaping a Goldilocks fiscal consolidation is all about timing. What is
+   needed is a dual focus on medium-term consolidation and short-term
+   support for growth and jobs. That may sound contradictory, but the two
+   are mutually reinforcing. Decisions on future consolidation, tackling
+   the issues that will bring sustained fiscal improvement, create space
+   in the near term for policies that support growth and jobs."^[123]
+
+Total outlays in recent budget submissions[edit]
+
+   Annual U.S. spending 1930-2014 alongside U.S. GDP for comparison.
+     * 2013 United States federal budget – $3.8 trillion (submitted 2012
+       by President Obama)^[124]
+     * 2012 United States federal budget – $3.7 trillion (submitted 2011
+       by President Obama)
+     * 2011 United States federal budget – $3.8 trillion (submitted 2010
+       by President Obama)
+     * 2010 United States federal budget – $3.6 trillion (submitted 2009
+       by President Obama)
+     * 2009 United States federal budget – $3.1 trillion (submitted 2008
+       by President Bush)
+     * 2008 United States federal budget – $2.9 trillion (submitted 2007
+       by President Bush)
+     * 2007 United States federal budget – $2.8 trillion (submitted 2006
+       by President Bush)
+     * 2006 United States federal budget – $2.7 trillion (submitted 2005
+       by President Bush)
+     * 2005 United States federal budget – $2.4 trillion (submitted 2004
+       by President Bush)
+     * 2004 United States federal budget – $2.3 trillion (submitted 2003
+       by President Bush)
+     * 2003 United States federal budget – $2.2 trillion (submitted 2002
+       by President Bush)
+     * 2002 United States federal budget – $2.0 trillion (submitted 2001
+       by President Bush)
+     * 2001 United States federal budget – $1.9 trillion (submitted 2000
+       by President Clinton)
+     * 2000 United States federal budget – $1.8 trillion (submitted 1999
+       by President Clinton)
+     * 1999 United States federal budget – $1.7 trillion (submitted 1998
+       by President Clinton)
+     * 1998 United States federal budget – $1.7 trillion (submitted 1997
+       by President Clinton)
+     * 1997 United States federal budget – $1.6 trillion (submitted 1996
+       by President Clinton)
+     * 1996 United States federal budget – $1.6 trillion (submitted 1995
+       by President Clinton)
+
+   The budget year runs from October 1 to September 30 the following year
+   and is submitted by the President to Congress prior to October for the
+   following year. In this way the budget of 2013 is submitted before the
+   end of September 2012. This means that the budget of 2001 was submitted
+   by Bill Clinton and was in force during most of George W. Bush's first
+   year in office. The budget submitted by George W. Bush in his last year
+   in office was the budget of 2009, which was in force through most of
+   Barack Obama's first year in office.
+
+   The President's budget also contains revenue and spending projections
+   for the current fiscal year, the coming fiscal years, as well as
+   several future fiscal years. In recent years, the President's budget
+   contained projections five years into the future. The Congressional
+   Budget Office (CBO) issues a "Budget and Economic Outlook" each January
+   and an analysis of the President's budget each March. CBO also issues
+   an updated budget and economic outlook in August.
+
+   Actual budget data for prior years is available from the Congressional
+   Budget Office; see the "Historical Budget Data" links on the main page
+   of the "The Budget and Economic Outlook."^[125] and from the Office of
+   Management and Budget (OMB).^[126]
+
+See also[edit]
+
+     * United States public debt
+     * United States fiscal cliff
+     * 2011 U.S. debt ceiling crisis
+     * Starve the beast (policy)
+     * Government budget by country
+     * I.O.U.S.A., documentary film by Patrick Creadon
+     * Modern Monetary Theory
+     * Unemployment in the United States
+     * List of U.S. state budgets
+     * Continuing resolution
+     * Appropriations bill (United States)
+
+References[edit]
+
+    1. ^ ^a ^b CBO Budget and Economic Outlook 2014 to 2024-February 2014
+    2. ^ The Federal Credit Reform Act was passed as part of the Omnibus
+       Budget Reconciliation Act of 1990 (P.L. 101-508)
+    3. ^ A bill can also be enacted by a Congressional override of a
+       presidential veto, or is automatically enacted if the president
+       takes no action within 10 days after receiving the bill.
+    4. ^ Heniff, Bill and Keith, Robert. The Federal Budget Process.
+       Alexandria, Va.: Capitol.Net, 2009, p. 10—27.
+    5. ^ Dewhirst, Robert E. and Rausch, John David. "Authorization
+       Bills." In Encyclopedia of the United States Congress. New York:
+       Facts On File, 2007, p. 27.
+    6. ^ Milakovich, Michael E. and Gordon, George J. Public
+       Administration in America. Boston: Wadsworth Cengage Learning,
+       2013, p. 348-349.
+    7. ^ Historical Tables: Budget of the U.S. Government
+    8. ^ ^a ^b ^c ^d ^e ^f CBO The 2014 Long-Term Budget Outlook
+    9. ^ ^a ^b ^c ^d CBO Monthly Budget Review-September 2013
+   10. ^ CBO Historical Tables
+   11. ^ Bartlett-Are Taxes in the U.S. High or Low?-May 2011
+   12. ^ Tax Foundation-Historical Tax Rates-Retrieved July 2011
+   13. ^ CBPP-Misconceptions and Realities About Who Pays Taxes-March 2011
+   14. ^ Social Security Administration-Social Security and Medicare tax
+       rates-maximum taxable earnings-September 12, 2013
+   15. ^ IRS Publication 15 (2011)
+   16. ^ Center for American Progress-Ten Charts that Prove the U.S. is a
+       Low Tax Country-June 2011
+   17. ^ Washington Post-Mark Zandi-How to Cut the Deficit, and What
+       Happens if We Don't-July 2011
+   18. ^ The Economist-Stemming the Tide-November 2009
+   19. ^ Congressional Joint Committee on Taxation-Estimates of Federal
+       Tax Expenditures for Fiscal Years 2008-2012-Table 2
+   20. ^ CBO-Updated Budget Projections 2014-2024-April 2014
+   21. ^ ^a ^b ^c CBO Historical Tables-February 2013
+   22. ^ Concord Slides
+   23. ^ Social Security Trustees Report 2010-Table IV.B2
+   24. ^ GAO Citizens Guide
+   25. ^ Huffington Post-Lynn Parramore-Nine Deficit Myths We Cannot
+       Afford-April 2010
+   26. ^ ^a ^b CBO Historical Budget Data-February 2014
+   27. ^ Congressional Research Service-Medicare Primer-March 2009
+   28. ^ ^a ^b The Economist-As Boomers Wrinkle-December 2010
+   29. ^ CBO Long Term Budget Outlook – June and August 2010
+   30. ^ Atul Gawande-The New Yorker-The Cost Conundrum-June 2009
+   31. ^ VOX-Sarah Kliff-The Amazing, Mysterious Decline in Medicare's
+       Price Tag-July 2014
+   32. ^ NYT-Quealy and Katz-Medicare Not Such a Budget-Buster
+       Anymore-August 2014
+   33. ^ Social Security Administration-Trustees Report Summary
+       2013-Retrieved 19 June 2014
+   34. ^ ^a ^b 2010 Social Security Trustees Report Summary Press Release
+   35. ^ Heritage Foundation-Book of Charts-As of November 2010
+   36. ^ Trustees Report Long Range Estimates – Section 5a Table IV.B6
+   37. ^ AARP Public Policy Institute-Reform Options for Social Security
+   38. ^ U.S. News and World Report-12 Ways to Fix Social Security-May
+       2010
+   39. ^ Lew, Jacob (February 21, 2011). "Opposing view: Social Security
+       isn't the problem". USA Today. Retrieved 2011-03-14
+   40. ^ OMB Historical Budget Table 4.1-Retrieved November 2013
+   41. ^ DOD – Defense Trend Spending Chart – May 7, 2009
+   42. ^ CBO-Monthly Budget Review-Sept 09
+   43. ^ Anthony Cordesman and Erin Fitzgerald, Resourcing for Defeat,
+       Center for Strategic and International Studies, 2009
+       http://csis.org/publication/resourcing-defeat-0
+   44. ^ Washington Post-Brad Plumer-America’s staggering defense budget,
+       in charts-January 7, 2013
+   45. ^ GAO – Bureau of the Public Debt's Fiscal Years 2012 and 2011
+       Schedules of Federal Debt – November 2012
+   46. ^ Charlie Rose Interview-Niall Ferguson-November 3, 2009
+   47. ^ Treasury-Major Foreign Holders of Treasury Securities
+   48. ^ CBO – The Budget and Economic Outlook: Fiscal Years 2013 to 2023
+       – February 2013
+   49. ^ New Republic-Henry Aaron-The Ultimate, Definitive Guide to the
+       Annual Budget Deficit-July 2014
+   50. ^ Treasury Direct-Monthly Statement of the Public Debt of the
+       United States
+   51. ^ CBO Historical Tables – January 2011
+   52. ^ BEA-GDP News Release Sept 2012-Table 3
+   53. ^ Bernanke, Ben S. (April 27, 2010). "Speech before the National
+       Commission on Fiscal Responsibility and Reform: Achieving fiscal
+       sustainability". Federalreserve.gov. Retrieved February 2, 2011.
+   54. ^ CIA World Factobook-China-Retrieved December 2011
+   55. ^ Congressional Budget Office-"Federal Debt and the Risk of a
+       Fiscal Crisis"-July 2010
+   56. ^ Mark Thoma (November 3, 2011) "Negative Real Interest Rates"
+       Economist's View
+   57. ^ U.S. Treasury government debt instrument interest rate data
+       (chart)
+   58. ^ Financial Times-Martin Wolf-The Balance Sheet Recession in the
+       U.S.- July 2012
+   59. ^ ^a ^b NYT-Paul Krugman-The Problem-December 2011
+   60. ^ CBO Testimony-Confronting the Nation's Fiscal Policy
+       Challenges-September 2011
+   61. ^ Hamby, Alonzo (2011-07-29). "Presidents and Their Debts, F.D.R.
+       to Bush". The New York Times. Retrieved 2011-08-16.
+   62. ^ "The rise of the anti-Keynesians". The Economist. 2011-04-14.
+       Retrieved 2011-08-16.
+   63. ^ Peter G. Peterson Foundation-Citizen's Guide 2010
+   64. ^ "A dirty secret lurks in the struggle over the Grand Bargain".
+       The New York Times. 2013-11-18. Retrieved 2013-11-23.
+   65. ^ CBO Letter to Congressman Van Hollen-October 4, 2011
+   66. ^ NYT-Paul Krugman-How to End This Depression-May 2012
+   67. ^ NYT-Krugman-Myths of Austerity-July 2010
+   68. ^ Financial Times-Lawrence Summers-Growth not Austerity is Best
+       Remedy for Europe-April 2012
+   69. ^ NYT-Christine Romer-Hey Not So Fast on European Austerity-April
+       2012
+   70. ^ Bloomberg-Orszag-History Shows U.S. Can Stimulate Now, Cut
+       Later-May 2012
+   71. ^ NYT-Stiglitz and Zandi-The One Housing Solution Left-Mass
+       Mortgage Refinancing-August 2012
+   72. ^ Bloomberg-Household Debt is at Heart of Weak U.S. Economy-July
+       2011
+   73. ^ Project Syndicate-Raghuram Rajan-Central Bankers Under Siege-May
+       2012
+   74. ^ Council on Foreign Relations-Spence and Hlatshwayo-The Evolving
+       Structure of the American Economy and the Employment
+       Challenge-March 2011
+   75. ^ NYT-Paul Krugman-The Forgotten Millions-December 6, 2012
+   76. ^ NYT-Paul Krugman-Fighting Fiscal Phantoms-Nov 26, 2012
+   77. ^ CBO-Long Term Budget Outlook Graphics-August 2012
+   78. ^ Washington Post-EJ Dionne-Why Doing Nothing Yields $7.1 trillion
+       in deficit cuts-November 16, 2011
+   79. ^ NYT-Recession Possible if Impasse Persists, Budget Office
+       Says-May 2012
+   80. ^ CBO-Economic Effects of Reducing the Fiscal Restraint That Is
+       Scheduled to Occur in 2013-May 2012
+   81. ^ Center on Budget and Policy Priorities-Misguided Fiscal Cliff
+       Fears Pose Challenges to Productive Budget Negotiations-June 2012
+   82. ^ CBO Budget and Economic Outlook 2013-2023-Historical
+       Data-February 2013
+   83. ^ NYT-Paul Krugman-The Unwisdom of Elites-May 2011
+   84. ^ Pew Trusts-10 Key Budget Charts-2011
+   85. ^ NYT-Bruce Bartlett-The Fiscal Legacy of George W. Bush-June 2012
+   86. ^ ^a ^b CBO-Changes in CBO's Baseline Projections Since 2001
+   87. ^ "Where Does our National Debt Come From?". Office of Management
+       and Budget. Retrieved May 25, 2012.
+   88. ^ How the Deficit Got This Big
+   89. ^ The Great Debt Shift
+   90. ^ FT-Martin Wolf-The Balance Sheet Recession in the U.S.-July 2012
+   91. ^ CBO’s Analysis of the Major Health Care Legislation Enacted in
+       March 2010
+   92. ^ CBO-Letter to the Honorable John Boehner providing an estimate
+       for H.R. 6079, the Repeal of Obamacare Act-July 2012
+   93. ^ Washington Post-Sarah Kliff-Romney's Right-Obamacare cuts
+       Medicare by $716 billion; Here’s how-August 2012
+   94. ^ Washington Post-Medicare Timeline-August 2012
+   95. ^ CBPP-Health Reform Strengthens Medicare, Doesn’t “Rob” It-August
+       2012
+   96. ^ Mike Sinn (October 7, 2011) "Anti-Terrorism Spending 50,000 Times
+       More Than on Any Other Cause of Death" Think by Numbers
+   97. ^ Brookings Institute, The Federal Budget Outlook: No News Is Bad
+       News, October 2012
+   98. ^ Bittle, Scott (2011). Where Does the Money Go?. Harper.
+       ISBN 978-0-06-124187-1.
+   99. ^ CBO CBO-Presentation to Macroeconomic Advisers-September 2011
+   100. ^ Ben Bernanke-Economic Outlook and Policy Testimony-June 7, 2012
+   101. ^ President Obama-Remarks by the President-Whitehouse.gov
+   102. ^ ^a ^b BPC-House Democrats' Fiscal Year 2013 Budget-The
+       Details-March 28, 2012
+   103. ^ Fiscal Commission-Final Report-December 2010
+   104. ^ Center on Budget & Policy Priorities-What Was Actually in
+       Bowles-Simpson—And How Can We Compare it With Other Plans?-October
+       2012
+   105. ^ OMB-President Obama-Living within our Means and Investing in Our
+       Future-September 2011-Table S-1
+   106. ^ NYT Editorial Board-The Need to Agree to Agree-July 2012
+   107. ^ House of Representatives-Committee on the Budget-Retrieved April
+       2011
+   108. ^ BPC-Paul Ryan’s Fiscal Year 2013 Budget-March 2012
+   109. ^ CPC-The People's Budget-April 2011
+   110. ^ BPC-Congressional Progressive Caucus Fiscal Year 2013
+       Budget-March 2013
+   111. ^ EPI-The Back to Work Budget-March 13, 2013
+   112. ^ Bipartisan Policy Center-Cooper-LaTourette Proposal-March 2012
+   113. ^ CBPP-Cooper-LaTourette Budget Significantly to the Right of
+       Simpson-Bowles Plan-March 2012
+   114. ^ Ted Barrett (May 16, 2012). "Senate's all-day budget debate
+       dominated by politics". CNN. Retrieved May 21, 2012.
+   115. ^ Brian Faler (May 16, 2012). "Senate Rejects Five Budget Plans
+       Amid Republican Complaints". Bloomberg. Retrieved May 21, 2012.
+   116. ^ Ed Feulner (May 14, 2012). "Senate’s Lee offers proposal that
+       would save the American Dream". The Washington Times. Retrieved May
+       21, 2012.
+   117. ^ PGPF-Solutions Summit-May 2011
+   118. ^ Bipartisan Policy Center Domenici-Rivlin Debt Reduction Task
+       Force-
+   119. ^ CNN-Jeanne Sahadi-New Deficit Plan Would Cut $6
+       trillion-November 2010
+   120. ^ The Hamilton Project-15 Ways to Rethink the Federal
+       Budget-February 2013
+   121. ^ MSNBC-Bernanke Warns of Vicious Cycle in Deficits-January 18,
+       2007
+   122. ^ Federal Reserve-Ben Bernanke-The U.S. Economic Outlook-September
+       2011
+   123. ^ The Financial Times-Christine Lagarde Op Ed-Don't Let Fiscal
+       Brakes Stall Global Recovery-August 2011
+   124. ^ Media report-- OMB data not yet available.
+   125. ^ CBO-Budget and Economic Outlook-2012-2022
+   126. ^ Office of Management and Budget website
+
+External links[edit]
+
+   This article's use of external links may not follow Wikipedia's
+   policies or guidelines. Please improve this article by removing
+   excessive or inappropriate external links, and converting useful links
+   where appropriate into footnote references. (March 2013)
+   Wikimedia Commons has media related to United States federal budget.
+     * Federal Budget 101
+     * Professor L. Randall Wray: Why The Federal Budget Is Not Like a
+       Household Budget
+     * Performance Budgeting: Linking Funding and Results, Marc Robinson
+       (ed.), IMF, 2007
+     * Budget of the United States Government and various supplements back
+       to fiscal year 1923 available on FRASER (Federal Reserve Archival
+       System for Economic Research)
+     * Congressional Budget Office
+     * The Federal Budget from the White House, OMB, includes interactive
+       graphic
+     * FederalSpending.org "Federal Contracts and Grants"
+     * Federal Budget Experts collected news and commentary at The
+       Washington Post
+     * Federal Budget (US) collected news and commentary at The New York
+       Times
+     * The Federal Budget Process
+     * CBPP-Policy Basics-Where Do Our Federal Tax Dollars Go? August,
+       2012
+     * Cogan, John F. (2002). "Federal Budget". In David R. Henderson
+       (ed.). Concise Encyclopedia of Economics (1st ed.). Library of
+       Economics and Liberty.  OCLC 317650570, 50016270 and 163149563
+     * Kotlikoff, Laurence J. (2002). "Federal Deficit". In David R.
+       Henderson (ed.). Concise Encyclopedia of Economics (1st ed.).
+       Library of Economics and Liberty.  OCLC 317650570, 50016270 and
+       163149563
+
+Recent CBO documents[edit]
+
+     * CBO - Long Term Budget Outlook - July 2014 - Summary Slides
+     * CBO - The Budget and Economic Outlook: Fiscal Years 2013 to 2023 -
+       February 2013
+     * CBO Budget and Economic Outlook - June 2012
+     * Confronting the Nation's Fiscal Policy Challenges - September 13,
+       2011
+     * CBO-Social Security Policy Options-July 2010
+
+"Chart talk" examples[edit]
+
+   One of the best ways to understand the long-term budget risks is
+   through helpful charts. The following sources contain charts and
+   commentary:
+     * GAO Fiscal Briefing by David Walker
+     * Perot Charts
+     * The Heritage Foundation's "Budget Chart Book"
+     * Peter G. Peterson Foundation Citizen's Guide
+     * I.O.U.S.A. Movie - 30 Minute YouTube Summary-Narrated by Former GAO
+       Director David Walker
+     * Concord Coalition-Presentation-Short and Long Term Budget Trends
+     * Pew Trusts-10 Fiscal Charts
+     * Bipartisan Policy Center-Budget Plan Comparisons-March 2012
+
+Budget games and simulations[edit]
+
+     * National Priorities Project's Trade-Offs Tool
+     * Committee for a Responsible Federal Budget-Stabilize the Debt
+       Simulator
+     * Build a Better Budget
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+
+     * v
+     * t
+     * e
+
+   United States federal budget
+     * 1990
+     * 1991
+     * 1992
+     * 1993
+     * 1994
+     * 1995
+     * 1996
+     * 1997
+     * 1998
+     * 1999
+     * 2000
+     * 2001
+     * 2002
+     * 2003
+     * 2004
+     * 2005
+     * 2006
+     * 2007
+     * 2008
+     * 2009
+     * 2010
+     * 2011
+     * 2012
+     * 2013
+     * 2014
+     * 2015
+
+
+     * v
+     * t
+     * e
+
+   National government budgets
+     * Australia
+     * Canada
+     * France
+     * Germany
+     * India
+     * Norway
+     * Russia
+     * Switzerland
+     * United Kingdom
+     * United States
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_federal_budget
+   &oldid=624456601"
+   Categories:
+     * United States federal budgets
+
+   Hidden categories:
+     * Articles with inconsistent citation formats
+     * Wikipedia external links cleanup from March 2013
+     * Wikipedia spam cleanup from March 2013
+     * Commons category with local link same as on Wikidata
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Français
+     * Русский
+     *
+
+   Edit links
+
+     * This page was last modified on 6 September 2014 at 20:21.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

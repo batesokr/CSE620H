@@ -1,0 +1,21 @@
+#include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <iterator>
+#include <string>
+#include <set>
+#include <sstream>
+
+int main(int argc, char* argv[]){
+  // Read the file
+  std::ifstream dataFile(argv[1]);
+  dataFile >> std::noskipws;
+
+  // Create a set for the characters to toggle 
+  std::transform(std::istream_iterator<char>(dataFile), std::istream_iterator<char>(), std::ostream_iterator<char>(std::cout), [](char c){
+      
+    });
+
+  // No errors encountered
+  return argc;
+}

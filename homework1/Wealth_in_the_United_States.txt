@@ -1,0 +1,649 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Wealth in the United States
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   This article is about the economic concept of wealth. For a discussion
+   of affluence, see Affluence in the United States.
+   Ambox current red.svg
+   This article is outdated. Please update this article to reflect recent
+   events or newly available information. (December 2011)
+
+   Wealth in the United States is commonly measured in terms of net worth,
+   which is the sum of all assets, including the market value of real
+   estate, like a home, minus all liabilities.^[1]
+   The total net worth of US households and nonprofit organizations
+   1945–2009, unadjusted for inflation or population change.
+
+   For example, a household in possession of an $800,000 house, $5,000 in
+   mutual funds, $30,000 in cars, $20,000 worth of stock in their own
+   company, and a $45,000 IRA would have assets totaling $900,000.
+   Assuming that this household would have a $250,000 mortgage, $40,000 in
+   car loans, and $10,000 in credit card debt, its debts would total
+   $300,000. Subtracting the debts from the worth of this household's
+   assets (900,000 - $300,000 = $600,000), this household would have a net
+   worth of $600,000. Net worth can vary with fluctuations in value of the
+   underlying assets.
+
+   The wealth—more specifically, the median net worth—of households in the
+   United States is varied with relation to race, education, geographic
+   location and gender. As one would expect, households with greater
+   income feature the highest net worths, though high income cannot be
+   taken as an always accurate indicator of net worth. Overall the number
+   of wealthier households is on the rise, with baby boomers hitting the
+   highs of their careers.^[1] In addition, wealth is unevenly
+   distributed, with the wealthiest 25% of US households owning 87%^[2] of
+   the wealth in the United States, which was $54.2 trillion in
+   2009.^[3]^[4]
+
+   Including human capital such as skills, the United Nations estimated
+   the total wealth of the United States in 2008 to be $118
+   trillion.^[5]^[6]
+
+Contents
+
+     * 1 Income vs. wealth
+     * 2 Changes in wealth, 1989–2001
+          + 2.1 Changes in wealth after 2007
+     * 3 Mechanisms to gain wealth
+     * 4 Wealth distribution
+          + 4.1 Income distribution
+          + 4.2 Complications in interpreting income statistics
+          + 4.3 Home ownership and race
+          + 4.4 Statistics
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+Income vs. wealth[edit]
+
+   Main article: Household income in the United States
+
+   While income is often seen as a type of wealth in colloquial language
+   use, wealth and income are two substantially different measures of
+   economic prosperity. While there may be a high correlation between
+   income and wealth, the relationship cannot be described as causal.
+
+Changes in wealth, 1989–2001[edit]
+
+   Year-on-year change in total net worth of US households and nonprofit
+   organizations 1946–2007, unadjusted for inflation or population change.
+
+   When observing the changes in the wealth among American households, one
+   can note an increase in wealthier individuals and a decrease in the
+   number of poor households, while net worth increased most substantially
+   in semi-wealthy and wealthy households. Overall the percentage of
+   households with a negative net worth (more debt than assets) declined
+   from 9.5% in 1989 to 4.1% in 2001.^[1]
+
+   The percentage of net worths ranging from $500,000 to one million
+   doubled while the percentage of millionaires tripled.^[1] From 1995 to
+   2004, there was tremendous growth among household wealth, as it nearly
+   doubled from $21.9 trillion to $43.6 trillion, but the wealthiest
+   quartile of the economic distribution made up 89% of this growth.^[3]
+   During this time frame, wealth became increasingly unequal, and the
+   wealthiest 25% became even wealthier.
+
+   According to US Census Bureau statistics this "Upward shift" is most
+   likely the result of a booming housing market which caused homeowners
+   to experience tremendous increases in home equity. Life-cycles have
+   also attributed to the rising wealth among Americans. With more and
+   more baby-boomers reaching the climax of their careers and the middle
+   aged population making up a larger segment of the population now than
+   ever before, more and more households have achieved comfortable levels
+   of wealth.^[1] Zhu Xiao Di (2004) notes that household wealth usually
+   peaks around families headed by people in their 50s, and as a result,
+   the baby boomer generation reached this age range at the time of the
+   analysis.^[3]
+
+Changes in wealth after 2007[edit]
+
+   Household net worth fell from 2007 to 2009 by a total of $17.5 trillion
+   or 25.5%. This was the equivalent loss of one year of GDP.^[7] By the
+   fourth quarter of 2010, the household net worth had recovered by a
+   growth of 1.3 percent to a total of $56.8 trillion. An additional
+   growth of 15.7 percent is needed just to bring the value to where it
+   was before the recession started in December 2007.^[2]
+
+Mechanisms to gain wealth[edit]
+
+   Assets are known as the raw materials of wealth, and they consist
+   primarily of stocks and other financial and non-financial property,
+   particularly homeownership.^[8] While these assets are unequally
+   distributed, financial assets are much more unequal. In 2004, the top
+   1% controlled 50.3% of the financial assets while the bottom 90% only
+   held 14.4% of the total US financial assets.^[8]
+
+   These discrepancies exist despite the availability of many wealth
+   building tools established by the Federal Government. These include
+   401k plans, 403b plans, and IRAs. Traditional IRAs, 401k and 403b plans
+   are tax shelters created for working individuals. These plans allow for
+   tax sheltered (or pre-tax) contributions of earned income directly to
+   tax sheltered savings accounts. Annual contributions are capped to
+   ensure that high earners cannot enjoy the tax benefit proportionally.
+   The Roth IRA is another tool that can help create wealth in the working
+   and middle classes.
+
+   Assets in Roth IRAs grow tax free; interests, dividends, and capital
+   gains are all exempt from income taxes. Contributions to Roth IRAs are
+   limited to those with annual incomes less than the threshold
+   established yearly by the IRS. The benefits of these plans, however,
+   are only available to workers and families whose incomes and expenses
+   allow them excess funds to commit for a long period, typically until
+   the investor reaches age 59½. The effect of these tools are further
+   limited by the contribution limits placed on them.
+
+Wealth distribution[edit]
+
+   The distribution of net wealth in the United States, 2007. The chart is
+   divided into the top 20% (blue), upper middle 20% (orange), middle 20%
+   (red), and bottom 40% (green).^[9]
+
+   In 2007 the richest 1% of the American population owned 34.6% of the
+   country's total wealth, and the next 19% owned 50.5%. Thus, the top 20%
+   of Americans owned 85% of the country's wealth and the bottom 80% of
+   the population owned 15%. Financial inequality was greater than
+   inequality in total wealth, with the top 1% of the population owning
+   42.7%, the next 19% of Americans owning 50.3%, and the bottom 80%
+   owning 7%.^[10]
+
+   After the Great Recession which started in 2007, the share of total
+   wealth owned by the top 1% of the population grew from 34.6% to 37.1%,
+   and that owned by the top 20% of Americans grew from 85% to 87.7%. The
+   Great Recession also caused a drop of 36.1% in median household wealth
+   but a drop of only 11.1% for the top 1%.^[9]^[10]^[11]
+
+Income distribution[edit]
+
+   Further information: Income in the United States
+
+   Note: The IRS specifically warned that changes in their definition of
+   Adjusted Gross Income makes it impossible to compare pre-1987 AGI with
+   post-1987 AGI, so keep in mind that comparisons should be in gross
+   income or salary and not in AGI. When reading statistics, it behooves
+   the reader to have this awareness. According to the Congressional
+   Budget Office, between 1979 and 2007 incomes of the top 1% of Americans
+   grew by an average of 275%. During the same time period, the 60% of
+   Americans in the middle of the income scale saw their income rise by
+   40%. From 1992-2007 the top 400 income earners in the U.S. saw their
+   income increase 392% and their average tax rate reduced by 37%.^[12] In
+   2009, the average income of the top 1% was $960,000 with a minimum
+   income of $343,927.^[13]^[14]^[15]
+
+   During the economic expansion between 2002 and 2007, the income of the
+   top 1% grew 10 times faster than the income of the bottom 90%. In this
+   period 66% of total income gains went to the 1%, who in 2007 had a
+   larger share of total income than at any time since 1928.^[14]
+   According to PolitiFact and others, the top 400 wealthiest Americans
+   "have more wealth than half of all Americans
+   combined."^[16]^[17]^[18]^[19] Inherited wealth may help explain why
+   many Americans who have become rich may have had a "substantial head
+   start".^[20]^[21] In September 2012, according to the Institute for
+   Policy Studies, "over 60 percent" of the Forbes richest 400 Americans
+   "grew up in substantial privilege".^[22]
+
+Complications in interpreting income statistics[edit]
+
+   Interpreting these income statistics is complicated by several factors:
+   membership in the top 1% changes from year to year, the IRS made large
+   changes in the definition of adjusted gross income in 1987, and numbers
+   for particular income ranges may be distorted by outliers (in the top
+   segment) and failure to include transfer payments (in the lower
+   segments). Income Mobility: The IRS occasionally studies income data
+   from actual households over time, usually over one decade. They
+   actually underestimate income mobility by excluding the most mobile
+   population from their studies: those under age 25.
+
+   Most people only look at annual reported income data split into income
+   quintiles. But those data are less useful because income group members
+   change every year. A majority of households in the top income quintile
+   in one year, for example, will have moved to a lower quintile within a
+   decade. Three out of four households in the top 0.01% of income will no
+   longer be in that small group ten years later. In summary, half of all
+   of U.S. households move from one income quintile to a different income
+   quintile every decade. And actual households who started a decade in
+   the lowest quintile of income, when tracked over the next ten years,
+   will have proportionally more income growth than actual households who
+   started the decade in the highest quintile of income....
+
+   Top 20% income vs. Bottom 20% income households: (1) The average number
+   of people with jobs in a top income quintile household is two, while a
+   majority of bottom income quintile households have no one employed. (2)
+   If there are two adult income earners in a household who are married,
+   their incomes are combined on tax forms. This is very common among top
+   quintile income households. The lowest quintile households, however,
+   include a lot more single-person households, or two unmarried working
+   adults living together, and sharing expenses, but reporting their
+   incomes to the IRS as if they were two separate households. (3) 75% to
+   80% of the actual income for bottom quintile households is transfer
+   payments (aka “welfare”) that are not included in IRS income data. The
+   top income quintile gets a very small percentage of their actual income
+   from transfer payments.
+
+   (4) The IRS warns against comparisons of pre-1987 and post-1987 income
+   data due to significant changes in the definition of adjusted gross
+   income (AGI) that made top quintile households appear to have large
+   reported income gains, when in fact there was no change to their income
+   at all. In addition to the AGI changes, large marginal tax rate
+   reductions during the Reagan Administration caused another large change
+   in tax reporting. A lot of corporate income formerly reported on
+   corporate tax returns was switched to lower tax rate individual tax
+   returns (as Subchapter S corporations). This reporting change appeared
+   to boost top quintile income, when in fact their incomes had not
+   changed. As a result, the top income quintile for households today
+   includes a lot of corporate income previously reported in corporate tax
+   returns, while Subchapter S corporations who lose money are likely to
+   be included in the bottom income quintile households. Income
+   comparisons that compare pre-1987 to post-1987 income are very common,
+   but they are also biased, according to the IRS, and should be ignored.
+   Addition reading on income mobility:
+   http://research.stlouisfed.org/publications/es/11/ES1115.pdf
+
+Home ownership and race[edit]
+
+   Home ownership is one of the main sources of wealth among families in
+   the United States.
+
+Statistics[edit]
+
+     * Family net worth
+     * U.S. mean family net worth by percentile of net worth (1989–2007)
+     * U.S. median family net worth by percentile of net worth (1989–2007)
+
+   The total value of all U.S. household wealth in 2000 was approximately
+   $44 trillion. Prior to the Late-2000s recession which began in December
+   2007 its value was at $65.9 trillion. After, it plunged to $48.5
+   trillion during the first quarter of 2009. The total household net
+   worth rose 1.3% by the fourth quarter of 2009 to $54.2 trillion,
+   indicating the American economy is recovering.
+   Family net worth, by selected characteristics of families, 1989–2007
+   surveys^[23]^[24]
+   Thousands of 2004 dollars
+   Family characteristic 1989 1992 1995 1998 2001 2004 2007
+   Median Mean Median Mean Median Mean Median Mean Median Mean Median Mean
+   Median Mean
+   All Families 68.8 272.6 65.2 245.7 70.8 260.8 83.1 327.5 92.2 422.9
+   93.1 448.2 109.5 506.5
+   Percentiles of income
+   Less than 20 2.6 36.2 5.2 43.4 7.4 54.7 6.8 55.4 8.4 56.2 7.5 72.6 7.3
+   95.8
+   20-39.9 35.3 96.4 36.6 84.6 41.3 97.4 38.4 111.4 39.9 122.7 33.7 121.5
+   34.5 122.8
+   40-59.9 61.1 148.5 52.1 133.3 57.1 126.0 61.9 146.6 67.8 173.3 72.0
+   194.6 80.2 191.1
+   60-79.9 97.5 199.3 99.3 185.4 93.6 198.5 130.2 238.3 152.6 313.2 160.0
+   340.8 186.5 341.5
+   80-89.9 193.5 326.1 151.8 297.1 157.7 316.8 218.5 377.1 280.3 487.0
+   313.3 487.4 324.3 552.0
+   90-100 569.5 1,438.5 479.3 1,266.0 436.9 1,338.0 524.4 1,793.9 887.9
+   2,410.9 924.1 2,534.6 1,018.8 3,009.8
+   Age of head (years)
+   Less than 35 11.4 68.7 12.0 59.7 14.8 53.2 10.6 74.0 12.5 96.6 14.2
+   73.5 10.7 96.5
+   35-44 82.7 216.4 58.7 175.5 64.2 176.8 73.5 227.6 82.6 276.6 69.4 299.2
+   78.8 296.4
+   45-54 144.8 405.1 103.1 353.3 116.8 364.8 122.5 420.2 141.6 517.6 144.7
+   542.7 166.2 602.0
+   55-64 143.5 451.2 150.2 445.4 141.9 471.0 148.2 617.0 197.4 779.5 248.7
+   843.8 231.0 852.0
+   65-74 112.4 410.2 130.0 377.6 136.6 429.3 169.8 541.1 189.4 722.6 190.1
+   690.9 218.0 924.3
+   75 or more 106.2 354.2 114.5 282.3 114.5 317.9 145.6 360.3 165.4 499.6
+   163.1 528.1 194.4 581.0
+   Education of head
+   No high school diploma 35.3 121.8 24.6 92.4 27.9 103.7 24.5 91.4 27.2
+   110.8 20.6 136.5 30.2 130.1
+   High school diploma 54.0 163.3 50.7 147.1 63.9 163.7 62.7 182.9 61.8
+   193.0 68.7 196.8 73.1 229.1
+   Some college 67.4 273.3 76.0 226.0 57.6 232.3 85.6 275.5 77.5 305.7
+   69.3 308.6 77.1 333.1
+   College degree 162.8 530.2 129.4 447.5 128.6 473.6 169.7 612.3 227.2
+   848.0 226.1 851.3 255.6 999.5
+   Race or ethnicity of respondent
+   White non-Hispanic 104.2 333.4 91.9 292.9 94.3 308.7 111.0 391.1 130.2
+   520.2 140.7 561.8 155.1 630.2
+   Nonwhite or Hispanic 9.8 92.1 15.8 102.0 19.5 94.9 19.3 116.5 19.1
+   125.1 24.8 153.1 25.3 208.5
+   Current work status of head
+   Working for someone else 55.7 166.7 51.6 161.0 60.3 168.4 61.2 194.8
+   69.3 240.3 67.2 268.5 84.9 318.7
+   Self-employed 248.7 955.2 190.2 790.6 191.8 862.7 288.0 1,071.3 375.2
+   1,342.9 335.6 1,423.2 353.9 1,785.6
+   Retired 96.9 267.9 92.9 250.1 99.9 277.2 131.0 356.5 123.1 483.6 139.8
+   469.0 146.9 494.4
+   Other not working 1.2 57.6 4.3 70.0 4.5 70.1 4.1 85.8 9.5 192.3 11.8
+   162.3 5.2 113.0
+   Region
+   Northeast 128.1 316.1 84.5 277.2 102.0 308.9 109.3 351.3 99.3 483.2
+   161.7 569.1 145.1 594.2
+   Midwest 77.0 274.8 75.1 228.1 80.8 244.7 93.1 288.5 113.3 363.3 115.0
+   436.1 97.9 425.6
+   South 51.7 192.8 45.5 185.5 54.2 229.5 71.0 309.6 78.6 400.6 63.8 348.0
+   87.4 454.6
+   West 67.2 360.0 94.2 335.4 67.4 286.1 71.1 379.1 93.4 470.4 94.8 523.7
+   142.2 603.3
+   Housing status
+   Owner 147.1 394.8 130.2 355.7 128.1 373.7 153.2 468.7 183.8 596.9 184.4
+   624.9 213.2 708.5
+   Renter or other 2.9 56.3 4.2 50.9 6.0 53.8 4.9 50.4 5.1 58.6 4.0 54.1
+   4.6 64.3
+   Percentiles of net worth
+   Less than 25 0.3 -0.9 0.6 -0.8 1.2 -0.2 0.6 -2.1 1.2 † 1.7 -1.4 1.1
+   -2.1
+   25-49.9 30.9 33.7 30.9 33.4 34.7 37.6 37.9 41.6 43.5 47.2 43.6 47.1
+   49.3 52.7
+   50-74.9 127.0 130.4 115.4 119.2 117.1 122.6 139.7 149.1 168.2 177.9
+   170.7 185.4 200.1 206.7
+   75-89.9 308.2 331.2 268.5 287.4 272.3 293.6 357.7 372.7 458.8 480.7
+   506.8 526.7 520.2 533.6
+   90-100 1,009.5 1,820.7 876.2 1,645.8 836.7 1,766.7 1,039.1 2,244.2
+   1,388.5 2,944.3 1,430.1 3,114.2 1,721.3 3,619.6
+   Note: See note to table 1. † Less than 0.05 ($50).
+
+See also[edit]
+
+   Wikimedia Commons has media related to Wealth.
+     * Economy of the United States
+     * Household income in the United States
+     * Poverty in the United States
+     * Redistribution of wealth#Public opinion
+     * Wealth inequality in the United States
+
+References[edit]
+
+    1. ^ ^a ^b ^c ^d ^e "US Federal Reserve on wealth distribution in the
+       United States". Retrieved 2006-07-12.
+    2. ^ ^a ^b "Americans' net worth up for 3rd straight quarter". U.S.
+       Federal Reserve. 2010-03-11. Retrieved 2010-03-11. ^[dead link]
+    3. ^ ^a ^b ^c Growing Wealth, Inequality, and Housing in the United
+       States. Zhu Xiao Di. Feb. 2007. Joint Center for Housing Studies.
+    4. ^ Wealth Inequality: Data and Models. Marco Cagetti and
+       Mariacristina De Nardi. Aug. 2005. Federal Reserve Bank of Chicago.
+    5. ^ Sponsored by (2012-06-30). "Free exchange: The real wealth of
+       nations". The Economist. Retrieved 2012-07-14.
+    6. ^ "Inclusive Wealth Report - IHDP". Ihdp.unu.edu. 2012-07-09.
+       Retrieved 2012-07-14.
+    7. ^ Broder, David (4 February 2010). "Syndicated column:A sobering
+       message. Budget show US on 'unsustainable path'". Melbourne,
+       Florida: Florida Today. pp. 11A.
+    8. ^ ^a ^b Haskins, Ron: "Wealth and Economic Mobility". Economic
+       Mobility Project, 2007.
+    9. ^ ^a ^b Recent Trends in Household Wealth in the United States:
+       Rising Debt and the Middle-Class Squeeze—an Update to 2007 by
+       Edward N. Wolff, Levy Economics Institute of Bard College, March
+       2010
+   10. ^ ^a ^b Occupy Wall Street And The Rhetoric of Equality Forbes
+       November 1, 2011 by Deborah L. Jacobs
+   11. ^ Wealth, Income, and Power by G. William Domhoff of the UC-Santa
+       Cruz Sociology Department
+   12. ^ It's the Inequality, Stupid By Dave Gilson and Carolyn Perot in
+       Mother Jones, March/April 2011 Issue
+   13. ^ Who are the 1 percent?, CNN, October 29, 2011
+   14. ^ ^a ^b "Tax Data Show Richest 1 Percent Took a Hit in 2008, But
+       Income Remained Highly Concentrated at the Top. Recent Gains of
+       Bottom 90 Percent Wiped Out." Center on Budget and Policy
+       Priorities. Accessed October 2011.
+   15. ^ Top Earners Doubled Share of Nation’s Income, Study Finds New
+       York Times By Robert Pear, October 25, 2011
+   16. ^ Kertscher, Tom; Borowski, Greg (March 10, 2011). "The
+       Truth-O-Meter Says: True - Michael Moore says 400 Americans have
+       more wealth than half of all Americans combined". PolitiFact.
+       Retrieved August 11, 2013.
+   17. ^ Moore, Michael (March 6, 2011). "America Is Not Broke".
+       Huffington Post. Retrieved August 11, 2013.
+   18. ^ Moore, Michael (March 7, 2011). "The Forbes 400 vs. Everybody
+       Else". michaelmoore.com. Archived from the original on 2011-03-09.
+       Retrieved 2014-08-28.
+   19. ^ Pepitone, Julianne (September 22, 2010). "Forbes 400: The
+       super-rich get richer". CNN. Retrieved August 11, 2013.
+   20. ^ Bruenig, Matt (March 24, 2014). "You call this a meritocracy? How
+       rich inheritance is poisoning the American economy". Salon.
+       Retrieved August 24, 2014.
+   21. ^ Staff (March 18, 2014). "Inequality - Inherited wealth". The
+       Economist. Retrieved August 24, 2014.
+   22. ^ Pizzigati, Sam (September 24, 2012). "The 'Self-Made'
+       Hallucination of America's Rich". Institute for Policy Studies.
+       Retrieved August 24, 2014.
+   23. ^ https://www.federalreserve.gov/pubs/oss/oss2/2004/Chartbook.xls
+   24. ^ http://www.census.gov/compendia/statab/2011/tables/11s0720.xls
+
+External links[edit]
+
+     * "Wealth Gap" - A Guide (AP News - January, 2014).
+
+
+     * v
+     * t
+     * e
+
+   United States Life in the United States
+     * Affluence
+     * Crime
+     * Culture
+     * Economic issues
+     * Education (attainment)
+     * Family structure
+     * Health care
+     * Health insurance
+     * Holidays
+     * Income (Household
+     * Personal)
+     * Income inequality
+     * Homelessness
+     * Homeownership
+     * Human rights
+     * Labor unions
+     * Languages
+     * Middle class
+     * Passenger vehicle transport
+     * Political ideologies
+     * Poverty
+     * Race
+     * Religion
+     * Social class
+     * Society
+     * Sports
+     * Standard of living
+     * Wealth
+
+
+     * v
+     * t
+     * e
+
+   Demographics of the United States
+   Demographic history
+   Economic and social
+     * Affluence
+     * Educational attainment
+     * Emigration
+     * Homeownership
+     * Household income
+     * Immigration
+     * Income inequality
+     * Language
+     * LGBT
+     * Middle classes
+     * Personal income
+     * Poverty
+     * Social class
+     * Unemployment by state
+     * Wealth
+
+   Religion
+     * Prominent examples: Buddhists
+     * Christians
+          + Catholics
+          + Protestants, etc.
+     * Hindus
+     * Jainism
+     * Jews
+     * Muslims
+     * Neopagans
+     * Non-religious
+     * Sikhs
+
+   Race and ethnicity
+     * People of the United States/Americans
+     * Ethnic groups in the United States
+     * American people by ethnic or national origin
+     * History of the United States by ethnic group
+     * American culture by ethnicity
+     * Race and ethnicity in the Census
+     * Maps of American ancestries
+     * American ethnicity
+     * 2010 Census
+     * in the Equal Employment Opportunity Commission
+     * Racism
+
+     * - African immigrants to the United States
+          + Central Africans in the United States
+          + Horn Africans in the United States
+          + North Africans in the United States
+          + Southeast Africans in the United States
+          + Southern Africans in the United States
+          + West Africans in the United States
+     * - White Americans: European Americans
+          + English Americans
+          + German Americans
+          + Irish Americans
+          + Italian Americans
+          + French Americans
+          + Basque Americans, etc.
+     * Euro Oceanic American
+          + Australian American, New Zealand American
+     * Non-Hispanic Whites
+     * White Hispanic and Latino Americans
+     * Middle Eastern Americans
+          + Arab Americans
+          + Israeli Americans
+          + Iranian Americans
+     * - Afro-American peoples of the Americas
+          + African Americans
+          + Afro-Caribbean/West Indian Americans,
+          + Black Hispanic and Latino Americans
+     * - Asian Americans
+          + Chinese Americans
+          + Filipino Americans
+          + Indian Americans
+          + Vietnamese Americans
+          + Japanese Americans
+          + Pakistani Americans
+          + Asian Hispanic and Latino Americans, etc.
+     * - Americans from other parts of the Americas: Canadian
+     * Hispanic and Latino Americans
+          + Mexican Americans
+          + Puerto Ricans (Stateside)
+          + Cuban Americans
+          + Colombian Americans, etc.
+     * Belizean American
+     * Guyanese American
+     * Native Americans and Alaska Natives
+     * - Oceanic American: Euro Oceanic and Pacific Islands Americans
+          + Chamorro Americans
+          + Native Hawaiians
+          + Samoan Americans
+          + Tongan Americans, etc.
+     * - Others ethnic groups
+          + Melungeon
+          + Roma in the United States
+     * Multiracial Americans
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Wealth_in_the_United_States&
+   oldid=623247322"
+   Categories:
+     * Wealth in the United States
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from October 2010
+     * Wikipedia articles in need of updating from December 2011
+     * All Wikipedia articles in need of updating
+     * Commons category with local link same as on Wikidata
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 29 August 2014 at 00:35.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

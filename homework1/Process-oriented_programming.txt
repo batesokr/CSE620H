@@ -1,0 +1,221 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Process-oriented programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Process-oriented programming is a programming paradigm that separates
+   the concerns of data structures and the concurrent processes that act
+   upon them. The data structures in this case are typically persistent,
+   complex, and large scale - the subject of general purpose applications,
+   as opposed to specialized processing of specialized data sets seen in
+   high productivity applications (HPC). The model allows the creation of
+   large scale applications that partially share common data sets.
+   Programs are functionally decomposed into parallel processes that
+   create and act upon logically shared data.
+
+   The paradigm was originally invented for parallel computers in the
+   1980s, especially computers built with transputer microprocessors by
+   INMOS, or similar architectures. It evolved to meet deficiencies in the
+   message passing paradigm of Occam^[citation needed] and enable uniform
+   efficiency when porting applications between distributed memory and
+   shared memory parallel computers.
+
+   The first example of the paradigm appears in the programming language
+   Ease designed at Yale University^[1]^[2] in 1990. Similar models have
+   appeared since in the loose combination of SQL databases and objected
+   oriented languages such as Java, often referred to as object-relational
+   models and widely used in large scale distributed systems today. The
+   paradigm is likely to appear on desktop computers as microprocessors
+   increase the number of processors (multicore) per chip.
+
+See also[edit]
+
+     * Massively parallel processing
+     * Parallel computing
+     * Multi-core
+     * Actor model
+
+References[edit]
+
+    1. ^ Ericsson-Zenith (1990). Programming with Ease; Semiotic
+       definition of the language. Yale University, Computer Science
+       Technical Report YALEU/DCS/RR-809.
+    2. ^ Ericsson-Zenith (1992). Process Interaction Models. Paris
+       University.
+
+External links[edit]
+
+     * Process Interaction Models
+     * A new process oriented language with Java-like syntax targeting
+       multiple execution architectures^[dead link]
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Process-oriented_programming
+   &oldid=557304446"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from June 2012
+     * All articles with dead external links
+     * Articles with dead external links from June 2012
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 29 May 2013 at 07:31.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

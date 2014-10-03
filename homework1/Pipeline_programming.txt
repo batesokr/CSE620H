@@ -1,0 +1,347 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Pipeline (software)
+
+   From Wikipedia, the free encyclopedia
+     (Redirected from Pipeline programming)
+   Jump to: navigation, search
+   This article is about software pipelines in general. For the original
+   implementation for shells, see Pipeline (Unix).
+   It has been suggested that Software pipelining be merged into this
+   article. (Discuss) Proposed since April 2014.
+
+   In software engineering, a pipeline consists of a chain of processing
+   elements (processes, threads, coroutines, etc.), arranged so that the
+   output of each element is the input of the next; the name is by analogy
+   to a physical pipeline. Usually some amount of buffering is provided
+   between consecutive elements. The information that flows in these
+   pipelines is often a stream of records, bytes or bits, and the elements
+   of a pipeline may be called filters; this is also called the pipes and
+   filters design pattern. Connecting elements into a pipeline is
+   analogous to function composition.
+
+   Narrowly speaking, a pipeline is linear and one-directional, though
+   sometimes the term is applied to more general flows. For example, a
+   primarily one-directional pipeline may have some communication in the
+   other direction, known as a return channel or backchannel, as in the
+   lexer hack, or a pipeline may be fully bi-directional. Flows with
+   one-directional tree and directed acyclic graph topologies behave
+   similarly to (linear) pipelines – the lack of cycles makes them simple
+   – and thus may be loosely referred to as "pipelines".
+
+Contents
+
+     * 1 Implementation
+     * 2 VM/CMS and MVS
+     * 3 Pseudo-pipelines
+     * 4 Object pipelines
+     * 5 Pipelines in GUIs
+     * 6 Other considerations
+     * 7 History
+     * 8 See also
+     * 9 Notes
+     * 10 External links
+
+Implementation[edit]
+
+   Pipelines are often implemented in a multitasking OS, by launching all
+   elements at the same time as processes, and automatically servicing the
+   data read requests by each process with the data written by the
+   upstream process – this can be called a multiprocessed pipeline. In
+   this way, the CPU will be naturally switched among the processes by the
+   scheduler so as to minimize its idle time. In other common models,
+   elements are implemented as lightweight threads or as coroutines to
+   reduce the OS overhead often involved with processes. Depending upon
+   the OS, threads may be scheduled directly by the OS or by a thread
+   manager. Coroutines are always scheduled by a coroutine manager of some
+   form.
+
+   Usually, read and write requests are blocking operations, which means
+   that the execution of the source process, upon writing, is suspended
+   until all data could be written to the destination process, and,
+   likewise, the execution of the destination process, upon reading, is
+   suspended until at least some of the requested data could be obtained
+   from the source process. This cannot lead to a deadlock, where both
+   processes would wait indefinitely for each other to respond, since at
+   least one of the two processes will soon thereafter have its request
+   serviced by the operating system, and continue to run.
+
+   For performance, most operating systems implementing pipes use pipe
+   buffers, which allow the source process to provide more data than the
+   destination process is currently able or willing to receive. Under most
+   Unices and Unix-like operating systems, a special command is also
+   available which implements a pipe buffer of potentially much larger and
+   configurable size, typically called "buffer". This command can be
+   useful if the destination process is significantly slower than the
+   source process, but it is anyway desired that the source process can
+   complete its task as soon as possible. E.g., if the source process
+   consists of a command which reads an audio track from a CD and the
+   destination process consists of a command which compresses the waveform
+   audio data to a format like MP3. In this case, buffering the entire
+   track in a pipe buffer would allow the CD drive to spin down more
+   quickly, and enable the user to remove the CD from the drive before the
+   encoding process has finished.
+
+   Such a buffer command can be implemented using system calls for reading
+   and writing data. Wasteful busy waiting can be avoided by using
+   facilities such as poll or select or multithreading.
+
+VM/CMS and MVS[edit]
+
+   CMS Pipelines is a port of the pipeline idea to VM/CMS and MVS systems.
+   It supports much more complex pipeline structures than Unix shells,
+   with steps taking multiple input streams and producing multiple output
+   streams. (Such functionality is supported by the Unix kernel, but few
+   programs use it as it makes for complicated syntax and blocking modes,
+   although some shells do support it via arbitrary file descriptor
+   assignment). Due to the different nature of IBM mainframe operating
+   systems, it implements many steps inside CMS Pipelines which in Unix
+   are separate external programs, but can also call separate external
+   programs for their functionality. Also, due to the record-oriented
+   nature of files on IBM mainframes, pipelines operate in a
+   record-oriented, rather than stream-oriented manner.^[citation needed]
+
+Pseudo-pipelines[edit]
+
+   On single-tasking operating systems, the processes of a pipeline have
+   to be executed one by one in sequential order; thus the output of each
+   process must be saved to a temporary file, which is then read by the
+   next process. Since there is no parallelism or CPU switching, this
+   version is called a "pseudo-pipeline".
+
+   For example, the command line interpreter of DOS ('COMMAND.COM')
+   provides pseudo-pipelines with a syntax superficially similar to that
+   of Unix pipelines. The command "DIR | SORT | MORE" would have been
+   executed like this (albeit with more complicated temporary file names):
+    1. Create temporary file 1.TMP
+    2. Run command "DIR", redirecting its output to 1.TMP
+    3. Create temporary file 2.TMP
+    4. Run command "SORT", redirecting its input to 1.TMP and its output
+       to 2.TMP
+    5. Delete 1.TMP, which is no longer needed
+    6. Run command "MORE", redirecting its input to 2.TMP, and presenting
+       its output to the user
+    7. Delete 2.TMP, which is no longer needed
+    8. Return to the command prompt
+
+   All temporary files are stored in the directory pointed to by %TEMP%,
+   or the current directory if %TEMP% isn't set.
+
+   Thus, pseudo-pipes acted like true pipes with a pipe buffer of
+   unlimited size (disk space limitations notwithstanding), with the
+   significant restriction that a receiving process could not read any
+   data from the pipe buffer until the sending process finished
+   completely. Besides causing disk traffic, if one doesn't install a
+   harddisk cache such as SMARTDRV, that would have been unnecessary under
+   multi-tasking operating systems, this implementation also made pipes
+   unsuitable for applications requiring real-time response, like, for
+   example, interactive purposes (where the user enters commands that the
+   first process in the pipeline receives via stdin, and the last process
+   in the pipeline presents its output to the user via stdout).
+
+   Also, commands that produce a potentially infinite amount of output,
+   such as the yes command, cannot be used in a pseudo-pipeline, since
+   they would run until the temporary disk space is exhausted, so the
+   following processes in the pipeline could not even start to run.
+
+Object pipelines[edit]
+
+   Beside byte stream-based pipelines, there are also object pipelines. In
+   an object pipeline, the processes output objects instead of texts;
+   therefore removing the string parsing tasks that are common in UNIX
+   shell scripts. Windows PowerShell uses this scheme and transfers .NET
+   objects. Channels, found in the Limbo programming language, and the
+   IPython ipipe extension are other examples of this metaphor.
+
+Pipelines in GUIs[edit]
+
+   Graphical environments such as RISC OS and ROX Desktop also make use of
+   pipelines. Rather than providing a save dialog box containing a file
+   manager to let the user specify where a program should write data, RISC
+   OS and ROX provide a save dialog box containing an icon (and a field to
+   specify the name). The destination is specified by dragging and
+   dropping the icon. The user can drop the icon anywhere an already-saved
+   file could be dropped, including onto icons of other programs. If the
+   icon is dropped onto a program's icon, it's loaded and the contents
+   that would otherwise have been saved are passed in on the new program's
+   standard input stream.
+
+   For instance, a user browsing the world-wide web might come across a
+   .gz compressed image which they want to edit and re-upload. Using GUI
+   pipelines, they could drag the link to their de-archiving program, drag
+   the icon representing the extracted contents to their image editor,
+   edit it, open the save as dialog, and drag its icon to their uploading
+   software.
+
+   Conceptually, this method could be used with a conventional save dialog
+   box, but this would require the user's programs to have an obvious and
+   easily accessible location in the filesystem that can be navigated to.
+   In practice, this is often not the case, so GUI pipelines are rare.
+
+Other considerations[edit]
+
+   The name 'pipeline' comes from a rough analogy with physical plumbing
+   in that a pipeline usually^[1] allows information to flow in only one
+   direction, like water often flows in a pipe.
+
+   Pipes and filters can be viewed as a form of functional programming,
+   using byte streams as data objects; more specifically, they can be seen
+   as a particular form of monad for I/O.^[2]
+
+   The concept of pipeline is also central to the Cocoon web development
+   framework or to any XProc (the W3C Standards) implementations, where it
+   allows a source stream to be modified before eventual display.
+
+   This pattern encourages the use of text streams as the input and output
+   of programs. This reliance on text has to be accounted when creating
+   graphic shells to text programs.
+
+History[edit]
+
+   Process pipelines were invented by Douglas McIlroy, one of the
+   designers of the first Unix shells, and greatly contributed to the
+   popularity of that operating system. It can be considered the first
+   non-trivial instance of software componentry.
+
+   The idea was eventually ported to other operating systems, such as DOS,
+   OS/2, Windows NT, BeOS, AmigaOS, MorphOS and Mac OS X (the last one
+   being a UNIX OS).
+
+See also[edit]
+
+     * Anonymous pipe
+     * Component-based software engineering
+     * Flow-based programming
+     * GStreamer for a multimedia framework built on plugin pipelines
+     * Iteratees
+     * Named pipe, an operating system construct intermediate to anonymous
+       pipe and file.
+     * Pipeline (computing) for other computer-related versions of the
+       concept.
+     * Kahn process networks to extend the pipeline concept to a more
+       generic directed graph structure
+     * Pipeline (Unix) for details specific to Unix
+     * Plumber - "intelligent pipes" developed as part of Plan 9
+     * Producer-consumer problem for implementation aspects of software
+       pipelines
+     * Programming in the large
+     * Software design pattern
+     * Stream processing
+     * XML pipeline for processing of XML files
+
+Notes[edit]
+
+    1. ^ There are exceptions, such as "broken pipe" signals.
+    2. ^ "Monadic I/O and UNIX shell programming"
+
+External links[edit]
+
+     * Pipeline Processing.
+     * Parallel Programming: Do you know Pipeline Parallelism?
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Pipeline_(software)&oldid=61
+   8036613"
+   Categories:
+     * Software design patterns
+     * Programming paradigms
+     * Inter-process communication
+
+   Hidden categories:
+     * Articles to be merged from April 2014
+     * All articles to be merged
+     * All articles with unsourced statements
+     * Articles with unsourced statements from February 2012
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * فارسی
+     * Italiano
+     * Português
+     * Svenska
+     *
+
+   Edit links
+
+     * This page was last modified on 22 July 2014 at 21:26.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

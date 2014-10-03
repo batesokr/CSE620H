@@ -1,0 +1,1122 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+United States House of Representatives elections, 1792
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   CAPTION: United States House of Representatives elections, 1792
+
+   United States
+     __________________________________________________________________
+
+
+   1790 ←
+           August 27, 1792 - September 6, 1793
+                                              → 1794
+     __________________________________________________________________
+
+   All 105 seats to the United States House of Representatives
+   53 seats were needed for a majority
+     Majority party Minority party
+     Muhlenberg.jpg TheodoreSedgwick.jpg
+   Leader Frederick Muhlenberg Theodore Sedgwick
+   Party Anti-Administration Pro-Administration
+   Leader's seat Pennsylvania-AL Massachusetts-2nd
+   Last election 30 39
+   Seats won 54 51
+   Seat change Increase 24 Increase 12
+     __________________________________________________________________
+
+   Speaker before election
+
+   Jonathan Trumbull
+   Pro-Administration
+                          Elected Speaker
+
+                          Frederick Muhlenberg
+                          Anti-Administration
+
+   Elections to the United States House of Representatives for the 3rd
+   Congress were held in 1792 and 1793, coinciding with the re-election of
+   George Washington as President. While Washington ran for president as
+   an independent, his followers (more specifically, the supporters of
+   Alexander Hamilton) formed the nation's first organized political
+   party, the Federalist Party, whose members and sympathizers are
+   identified as pro-Administration on this page. In response, followers
+   of Thomas Jefferson and James Madison created the opposition
+   Democratic-Republican Party, who are identified as anti-Administration
+   on this page. The Federalists promoted urbanization, industrialization,
+   mercantilism, centralized government, and a broad interpretation of the
+   United States Constitution. In contrast, Democratic-Republicans
+   supported the ideal of an agrarian republic made up of self-sufficient
+   farmers and small, localized governments with limited power.
+
+   Despite nearly unanimous support for Washington as a presidential
+   candidate, Jeffersonian ideas edged out Hamiltonian principles at the
+   ballot box for congressional candidates, with the
+   Democratic-Republicans taking 24 seats more than they had prior to the
+   organization of their political movement. Most of the increase was due
+   to the addition of new seats in Western regions as a result of the
+   United States census of 1790. Dominated by agrarian culture, these
+   Western territories offered strong support to Democratic-Republican
+   congressional candidates. As a result, they secured a thin majority in
+   the legislature.
+
+Contents
+
+     * 1 Election summaries
+     * 2 House composition
+          + 2.1 End of the last Congress
+          + 2.2 Beginning of the next Congress
+     * 3 Late elections to the 2nd Congress
+          + 3.1 Kentucky
+     * 4 Complete returns
+          + 4.1 Connecticut
+          + 4.2 Delaware
+          + 4.3 Georgia
+          + 4.4 Kentucky
+          + 4.5 Maryland
+          + 4.6 Massachusetts
+          + 4.7 New Hampshire
+          + 4.8 New Jersey
+          + 4.9 New York
+          + 4.10 North Carolina
+          + 4.11 Pennsylvania
+          + 4.12 Rhode Island
+          + 4.13 South Carolina
+          + 4.14 Vermont
+          + 4.15 Virginia
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+Election summaries[edit]
+
+   In this period, each state fixed its own date for a congressional
+   general election, as early as August 1792 (in New Hampshire and Rhode
+   Island) and as late as September 1793 (in Kentucky). In some states,
+   the congressional delegation was not elected until after the legal
+   start of the Congress (on the 4th day of March in the odd-numbered
+   year), but as the first session of Congress typically began in November
+   or December, the elections took place before Congress actually met. The
+   3rd Congress first met on December 2, 1793.
+
+   These were the first elections held after reapportionment following the
+   first census. Thirty-six new seats were added,^[1] with 1 state losing
+   1 seat, 3 states having no change, and the remaining 11 states gaining
+   between 1 and 9 seats. This was the first apportionment based on actual
+   census data, the apportionment for the 1st and 2nd Congresses being set
+   by the Constitution using estimated populations.
+
+   CAPTION: ↓
+
+   54                  51
+   Anti-Administration Pro-Administration
+   State Type Date Total
+   seats Anti-
+   Administration Pro-
+   Administration
+   Seats Change Seats Change Seats Change
+   Connecticut At-large September 17, 1792 7 Increase 2 0 Steady 7
+   Increase 2
+   Delaware At-large October 2, 1792 1 Steady 1 Increase 1 0 Decrease 1
+   Georgia At-large^[2] October 1, 1792 2 Decrease 1 2 Decrease 1 0 Steady
+   Maryland District^[3] October 1, 1792 8 Increase 2 4 Increase 1 4
+   Increase 1
+   Massachusetts Mixed^[4] November 2, 1792^[5] 14 Increase 6 3 Increase 2
+   11 Increase 4
+   New Hampshire At-large August 27, 1792 4 Increase 1 1 Increase 1 3
+   Steady
+   New Jersey At-large October 9, 1792 5 Increase 1 0 Steady 5 Increase 1
+   Pennsylvania At-large^[2] October 9, 1792 13 Increase 5 8 Increase 4 5
+   Increase 1
+   Rhode Island At-large August 28, 1792 2 Increase 1 0 Increase 1 2
+   Steady
+   1793 elections
+   Kentucky District (2) September 6, 1793 2 Steady 2 Steady 0 Steady
+   New York District (10) January 2, 1793 10 Increase 4 3 Increase 1 7
+   Increase 3
+   North Carolina District (10) February 15, 1793 10 Increase 5 9 Increase
+   6 1 Decrease 1
+   South Carolina District (6) February 5, 1793 6 Increase 1 5 Increase 3
+   1 Decrease 2
+   Vermont District (2) January 7, 1793^[6] 2 Steady 2 Steady 0 Steady
+   Virginia District (19) March 18, 1793 19 Increase 9 15 Increase 7 4
+   Increase 2
+   Total 105 Increase 36 54
+   51.4% Increase 24 51
+   48.6% Increase 12
+         House seats
+   Anti-Administration
+                         
+                           51.43%
+   Pro-Administration
+                         
+                           48.57%
+
+House composition[edit]
+
+End of the last Congress[edit]
+
+
+
+           A A A A A A
+   A A A A A A A A A A
+   A A A A A A A A A A
+   P P P V A A A A A A
+   P
+   P P P P P P P P P P
+   P P P P P P P P P P
+   P P P P P P P P P P
+           P P P P P P
+
+
+Beginning of the next Congress[edit]
+
+                   A A
+   A A A A A A A A A A
+   A A A A A A A A A A
+   A A A A A A A A A A
+   A A A A A A A A A A
+   A A A A A A A A A A
+   A
+   A A P P P P P P P P
+   P P P P P P P P P P
+   P P P P P P P P P P
+   P P P P P P P P P P
+   P P P P P P P P P P
+                   P P
+   Key:
+        A = Anti-Administration
+        P = Pro-Administration
+        V = Vacant
+
+Late elections to the 2nd Congress[edit]
+
+Kentucky[edit]
+
+   Kentucky was admitted to the union near the end of the 2nd Congress and
+   elected two representatives to serve during the last sessions of that
+   Congress.
+             District                   Result              Candidates
+   Kentucky 1
+   Called the Southern District Anti-Administration win Christopher
+                                                        Greenup (A)^[7]
+                                                        Robert Brackenridge
+   Kentucky 2
+   Called the Northern District Anti-Administration win Alexander D. Orr
+                                                        (A)^[7]
+                                                        Hubbard Taylor
+
+   Greenup took his seat on November 9, 1792 and Orr on November 8,
+   1792.^[8]
+
+Complete returns[edit]
+
+   The first delegate was elected from the Southwest Territory to the 3rd
+   Congress in 1794.
+
+Connecticut[edit]
+
+   Connecticut gained two seats in reapportionment following the 1790
+   census.
+   District Incumbent Party First
+   elected Result Candidates
+   Connecticut At-large
+   7 seats on a general ticket James Hillhouse Pro-Administration 1790
+   Re-elected Jonathan Trumbull, Jr. (P) 14.1%
+   James Hillhouse (P) 13.0%
+   Jonathan Sturges (P) 11.5%
+   Benjamin Huntington (P) 10.6%
+   Jeremiah Wadsworth (P) 10.4%
+   Amasa Learned (P) 9.5%
+   Stephen M. Mitchell (P) 7.8%
+   Uriah Tracy^[9] (P) 6.3%
+   Jonathan Ingersoll^[9] 5.4%
+   Asher Miller 4.3%
+   Zephaniah Swift^[9] (P) 4.3%
+   Tapping Reeve 3.0%
+   Amasa Learned Pro-Administration 1791 (Special) Re-elected
+   Jonathan Sturges Pro-Administration 1788 Re-elected
+   Jonathan Trumbull, Jr. Pro-Administration 1788 Re-elected
+   Jeremiah Wadsworth Pro-Administration 1788 Re-elected
+   None (Seat created) New seat
+   Pro-Administration gain
+   None (Seat created) New seat
+   Pro-Administration gain
+
+   Three special elections followed the 1792 elections in Connecticut
+   after Representatives-elect Sturges and Huntington resigned before the
+   start of Congress and Mitchell was elected to the Senate.
+
+Delaware[edit]
+
+   Main article: United States House of Representatives election in
+   Delaware, 1792
+
+   Delaware's apportionment did not change following the Census of 1790.
+   As in the 1st and 2nd Congresses, each voter cast votes for two
+   separate candidates, at least one of whom had to be from a different
+   county as the voter.
+   District Incumbent Party First
+   elected Result Candidates
+   Delaware At-Large John M. Vining Pro-Administration 1789 Lost
+   re-election
+   Anti-Administration hold John Patten^[10] (A) 38.8%
+   Henry Latimer^[11] (P) 38.3%
+   Francis Many 11.7%
+   Edward Roche 7.9%
+   Andrew Barrett 3.3%
+
+   John Patten (A) was initially declared the winner, but the election was
+   challenged by Henry Latimer. The results of the election were
+   subsequently reversed and Henry Latimer (P) took Delaware's seat in the
+   Third Congress
+
+Georgia[edit]
+
+   Following the Census of 1790, Georgia's apportionment was decreased
+   from 3 seats to 2 (the only state whose representation decreased after
+   the Census of 1790). Georgia switched from separate districts to
+   at-large seats.
+   District Incumbent Party First
+   elected Result Candidates
+   Georgia At-large
+   2 seats on a general ticket John Milledge
+   Redistricted from the 1st district Anti-Administration 1792 (special)
+   Lost re-election
+   Anti-Administration hold Abraham Baldwin (A) 44.5%
+   Thomas P. Carnes (A) 29.5%
+   George Mathews 10.8%
+   John Milledge (A) 8.1%
+   Scattering 7.0%
+   Francis Willis (A) 0.3%
+   Abraham Baldwin
+   Redistricted from the 2nd district Anti-Administration 1789 Re-elected
+   Francis Willis
+   Redistricted from the 3rd district Anti-Administration 1791 Lost
+   re-election
+   Anti-Administration loss
+
+Kentucky[edit]
+
+   District Incumbent Party First
+   elected Result Candidates
+   Kentucky 1
+   Called the Southern District Christopher Greenup Anti-Administration
+   1792 Re-elected Christopher Greenup^[7] (A)
+   Kentucky 2
+   Called the Northern District Alexander D. Orr Anti-Administration 1792
+   Re-elected Alexander D. Orr^[7] (A)
+
+Maryland[edit]
+
+   Maryland increased from 6 to 8 representatives after the Census of
+   1790. The previous mixed district/at-large system was replaced with a
+   conventional district system.
+   District Incumbent Party First
+   elected Result Candidates
+   Maryland 1 Philip Key Pro-Administration 1790 Lost re-election
+   Pro-Administration hold George Dent (P) 44.7%
+   John Parnham (P) 29.8%
+   Philip Key (P) 25.5%
+   Maryland 2 John F. Mercer
+   Redistricted from the 3rd district Anti-Administration 1791 (special)
+   Re-elected John F. Mercer (A) 57.0%
+   John Thomas (P) 42.1%
+   Richard A. Contee 0.9%
+   Maryland 3 None (District created) New seat
+   Pro-Administration gain Uriah Forrest (P) 71.8%
+   William Dorsey (A) 28.1%
+   Others 0.1%
+   Maryland 4 None (District created) New seat
+   Anti-Administration gain Thomas Sprigg (A) 100%
+   Maryland 5 None (District created) New seat
+   Anti-Administration gain Samuel Smith (A) 61.1%
+   Charles Ridgely (A) 38.9%
+   Maryland 6 None (District created) New seat
+   Anti-Administration gain Gabriel Christie (A) 63.6%
+   William Matthews (P) 36.4%
+   Maryland 7 Joshua Seney
+   Redistricted from the 2nd district Anti-Administration 1789 Retired
+   Pro-Administration gain William Hindman^[12] (P) 51.7%
+   James Tilghman (A) 48.3%
+   Maryland 8 William V. Murray
+   Redistricted from the 5th district Pro-Administration 1790 Re-elected
+   William V. Murray (P) 93.8%
+   Littleton Dennis (P) 5.4%
+   Others 0.9%
+
+   John Francis Mercer (A) of the 2nd district resigned April 13, 1794 and
+   was replaced in a special election by Gabriel Duvall (A).
+
+   Uriah Forrest (P) of the 3rd district resigned November 8, 1794 and was
+   replaced in a special election by Benjamin Edwards (P).
+
+Massachusetts[edit]
+
+   Following the Census of 1790, Massachusetts' representation increased
+   from 8 to 14 Representatives and was redistricted into 4 plural
+   districts, plus a single at-large district. The 4th district covered
+   the District of Maine (the modern-day State of Maine). The plural
+   districts were concurrent tickets rather than a single general ticket,
+   though the 1st and 2nd districts appear to have also had a general
+   ticket alongside the more specific tickets.
+
+   As before, a majority was required for election, in those districts
+   where a majority was not achieved, additional ballots were required.
+   District Incumbent Party First
+   elected Result Candidates
+   First ballot Second ballot Third ballot
+   Massachusetts 1 None (District created) New seat
+   Anti-Administration gain Jonathan Jones 39.8%
+   William Heath 31.0%
+   James Bowdoin 23.2%
+   Theophilus Parsons 6.0% Jonathan Jones 29.3%
+   Samuel Holten (A) 25.6%
+   James Bowdoin 17.1%
+   Samuel Sewall (P) 13.1%
+   William Heath 8.3%
+   Joseph Bradley Varnum (A) 3.8%
+   Elbridge Gerry (A) 2.8% Samuel Holten (A) 69.9%
+   Benjamin Austin 30.1%
+   Massachusetts 1
+   Essex Benjamin Goodhue
+   Redistricted from the 2nd district Pro-Administration 1788 Re-elected
+   Benjamin Goodhue (P) 100%
+   Massachusetts 1
+   Middlesex Elbridge Gerry
+   Redistricted from the 3rd district Anti-Administration 1788 Lost
+   re-election
+   Pro-Administration gain Samuel Dexter (P) 61.4%
+   Joseph Bradley Varnum (A) 26.2%
+   Elbridge Gerry (A) 12.4%
+   Massachusetts 1
+   Suffolk Fisher Ames Pro-Administration 1788 Re-elected Fisher Ames (P)
+   62.4%
+   Benjamin Austin 37.6%
+   Massachusetts 2 None (District created) New seat
+   Pro-Administration gain Samuel Lyman (P) 41.3%
+   Theodore Sedgwick (P) 37.9%
+   William Lyman (A) 6.7%
+   Samuel Moorhaus 6.2%
+   Simson Strong 4.%
+   Dwight Foster (P) 3.5% Samuel Lyman (P) 35.4%
+   Dwight Foster (P) 25.1%
+   Thomson J. Skinner (A) 19.6%
+   William Lyman (A) 12.1%
+   Jonathan Grout (A) 4.0%
+   William Shepard (P) 3.8% Dwight Foster (P) 55.3%
+   Samuel Lyman (P) 44.7%
+   Massachusetts 2
+   Berkshire Theodore Sedgwick
+   Redistricted from the 4th district Pro-Administration 1788 Re-elected
+   Theodore Sedgwick (P) 63.8%
+   Thomson J. Skinner (A) 29.1%
+   John Bacon (A) 7.1%
+   Massachusetts 2
+   Hampshire None (District created) New seat
+   Anti-Administration gain Samuel Lyman (P) 37.4%
+   William Lyman (A) 32.3%
+   Thomas Dwight (P) 16.8%
+   Samuel Hinshaur 6.7%
+   John Williams 3.6%
+   Dwight Foster (P) 3.1% William Lyman (A) 38.0%
+   Samuel Lyman (P) 31.3%
+   William Shepard (P) 18.0%
+   Thomas Dwight (P) 12.7% William Lyman (A) 53.1%
+   Samuel Lyman (P) 46.9%
+   Massachusetts 2
+   Worcester Artemas Ward
+   Redistricted from the 7th district Pro-Administration 1790 Re-elected
+   Artemas Ward (P) 59.5%
+   Jonathan Grout (A) 36.8%
+   Dwight Foster (P) 3.8%
+   Massachusetts 3
+   Barnstable, Dukes, & Nantucket George Leonard
+   Redistricted from the 6th district Pro-Administration 1788 Lost
+   re-election
+   Pro-Administration hold Peleg Coffin, Jr. (P) 52.6%
+   George Leonard (P) 34.3%
+   Phanuel Bishop (A) 13.1%
+   Massachusetts 3
+   Bristol & Plymouth Shearjashub Bourne
+   Redistricted from the 5th district Pro-Administration 1790 Re-elected
+   John Davis 49.2%
+   Shearjashub Bourne (P) 26.1%
+   James Warren 24.8% Shearjashub Bourne (P) 53.0%
+   John Davis 40.6%
+   James Warren 6.4%
+   District 4
+   Cumberland None (District created) New seat
+   Pro-Administration gain Daniel Davis 40.0%
+   Peleg Wadsworth (P) 38.6%
+   Robert Southgate 11.7%
+   Josiah Thacker 9.8% Peleg Wadsworth (P) 48.4%
+   Daniel Davis 42.2%
+   Robert Southgate 9.4% Peleg Wadsworth (P) 58.0%
+   Daniel Davis 42.0%
+   Massachusetts 4
+   Lincoln, Hancock, & Washington None (District created) New seat
+   Anti-Administration gain William Lithgow 49.98%
+   Henry Dearborn (A) 32.2%
+   Daniel Coney 11.8%
+   Alan Campbell 6.0% Henry Dearborn (A) 60.9%
+   William Lithgow 39.1%
+   Massachusetts 4
+   York George Thatcher
+   Redistricted from the 8th district Pro-Administration 1788 Re-elected
+   George Thatcher (P) 57.7%
+   Nathaniel Wells 35.4%
+   Tristan Jordan 6.9%
+   Massachusetts at-large None (District created) New seat
+   Pro-Administration gain David Cobb (P) 52.6%
+   Charles Jarvis 9.6%
+   William Heath 6.9%
+   Theodore Sedgwick (P) 4.9%
+   Elbridge Gerry (A) 2.1%
+   Jonathan Jones 1.9%
+   Fisher Ames (P) 1.7%
+   James Sullivan (A) 1.5%
+   Samuel Horton 1.3%
+   Scattering 17.4%
+
+New Hampshire[edit]
+
+   New Hampshire increased from 3 seats to 4 seats after the Census of
+   1790.
+   District Incumbent Party First
+   elected Result Candidates
+   New Hampshire at-large
+   4 seats on a general ticket Jeremiah Smith Pro-Administration 1790
+   Re-elected Jeremiah Smith (P) 24.1%
+   Nicholas Gilman (P) 16.3%
+   John Samuel Sherburne (A) 14.2%
+   Paine Wingate (P) 12.2%
+   Abiel Foster (P) 8.9%
+   James Sheafe (P) 8.2%
+   Nathaniel Peabody 7.7%
+   Timothy Walker 4.0%
+   William Page 2.3%
+   Joshua Atherton 2.3%
+   Samuel Livermore Pro-Administration 1788 Retired
+   Anti-Administration gain
+   Nicholas Gilman Pro-Administration 1788 Re-elected
+   None (Seat created) New seat
+   Pro-Administration gain
+
+New Jersey[edit]
+
+   Following the Census of 1790, New Jersey's apportionment increased from
+   4 to 5 seats.
+   District Incumbent Party First
+   elected Result Candidates^[13]
+   New Jersey At-Large
+   5 seats on a general ticket Elias Boudinot Pro-Administration 1789
+   Re-elected John Beatty (P) 16.4%
+   Jonathan Dayton (P) 13.4%
+   Abraham Clark (P) 11.8%
+   Elias Boudinot (P) 10.8%
+   Lambert Cadwalader (P) 10.1%
+   Thomas Sinnickson (P) 48.7%
+   Aaron Kitchell^[9] (P) 8.6%
+   James Linn 5.2%
+   Jonathan Elmer (P) 4.4%
+   Samuel Dick 4.1%
+   Thomas Henderson 2.9%
+   Abraham Clark Pro-Administration 1791 Re-elected
+   Jonathan Dayton Pro-Administration 1791 Re-elected
+   Aaron Kitchell Pro-Administration 1791 Lost re-election
+   Pro-Administration hold
+   None (Seat created) New seat
+   Pro-Administration gain
+
+   Abraham Clark (P) died on September 15, 1794. The resulting vacancy was
+   filled in a special election by Aaron Kitchell (P)
+
+New York[edit]
+
+   Main article: United States House of Representatives elections in New
+   York, 1793
+
+   Due to re-apportionment following the Census of 1790, New York's
+   congressional delegation grew from 6 to 10. Three incumbents ran for
+   re-election, two of whom won, and the other three incumbents retired.
+   With the increase following re-apportionment, this left seven open
+   seats.
+   District Incumbent Party First
+   elected Result Candidates
+   New York 1 Thomas Tredwell Anti-Administration 1791 (Special)
+   Re-elected Thomas Tredwell (A) 50.1%
+   Joshua Sands (P) 26.6%
+   Harry Peters (P) 23.3%
+   New York 2 None (District created) New seat
+   Pro-Administration gain John Watts (P) 72.6%
+   William S. Livingston (A) 27.3%
+   New York 3 None (District created) New seat
+   Anti-Administration gain Philip Van Courtlandt (A) 55.5%
+   Richard Hatfield (P) 44.5%
+   New York 4 Cornelius C. Schoonmaker Anti-Administration 1790 Lost
+   re-election
+   Pro-Administration gain Peter Van Gaasbeck (P) 47.3%
+   John Hathorn (A) 46.8%
+   John Carpenter (A) 2.3%
+   Cornelius C. Schoonmaker (A) 1.7%
+   William Thompson (A) 1.3%
+   Jesse Woodhull (A) 0.6%
+   New York 5 None (District created) New seat
+   Anti-Administration gain Theodorus Bailey (A) 53.6%
+   James Kent (P) 46.4%
+   New York 6 None (District created) New seat
+   Pro-Administration gain Ezekiel Gilbert (P) 35.1%
+   Peter R. Livingston (A) 34.1%
+   Peter Van Ness (A) 30.8%
+   New York 7 None (District created) New seat
+   Pro-Administration gain John E. Van Alen (P) 56.9%^[14]
+   Henry K. Van Rensselaer (A) 42.5%
+   Thomas Sickles (A) 0.6%
+   New York 8 None (District created) New seat
+   Pro-Administration gain Henry Glen (P) 63.8%
+   Jeremiah Van Rensselaer (A) 36.2%
+   New York 9 James Gordon
+   Redistricted from the 6th district Pro-Administration 1790 Re-elected
+   James Gordon (P) 46.0%
+   John Williams (A) 41.2%
+   John M. Thompson (A) 12.8%
+   New York 10 None (District created) New seat
+   Pro-Administration gain Silas Talbot (P) 34.1%
+   William Cooper (P) 26.6%
+   John Winn (A) 25.7%
+   Andrew Fink (A) 11.3%
+   Josiah Crane (A) 2.4%
+
+   Silas Talbot (P) of the 10th district subsequently resigned from the
+   House to take a Naval appointment June, 1794, no special election held
+   so his seat was vacant for part of the Third Congress
+
+North Carolina[edit]
+
+   Following the Census of 1790, North Carolina's apportionment increased
+   from 5 to 10 seats.
+   District Incumbent Party First
+   elected Result Candidates
+   North Carolina 1 None (District created) New seat
+   Anti-Administration gain Joseph McDowell (A)^[7]
+   North Carolina 2 None (District created) New seat
+   Anti-Administration gain Matthew Locke (A)^[7]
+   Alexander^[15] (P)
+   Montford Stokes
+   North Carolina 3 None (District created) New seat
+   Anti-Administration gain Joseph Winston (A)^[7]
+   Jesse Franklin (A)
+   John Williams (A)
+   James Martin
+   Clarke^[15]
+   North Carolina 4 None (District created) New seat
+   Anti-Administration gain Alexander Mebane (A) 44.8%
+   Stephen Moore (P) 39.0%
+   Ambrose Ramsay 16.2%
+   North Carolina 5 Nathaniel Macon
+   Redistricted from the 2nd district Anti-Administration 1791 Re-elected
+   Nathaniel Macon (A)^[7]
+   North Carolina 6 None (District created) New seat
+   Anti-Administration gain James Gillespie (A)^[7]
+   William Henry Hill (P)
+   Benjamin Smith
+   North Carolina 7 William B. Grove
+   Redistricted from the 5th district Pro-Administration 1791 Re-elected
+   William B. Grove (P) 100%^[7]
+   North Carolina 8 None (District created) New seat
+   Anti-Administration gain William J. Dawson (A) 63.8%
+   Stephen Cabarrus (A) 36.1%
+   William Cumming 0.2%
+   North Carolina 9 John B. Ashe
+   Redistricted from the 3rd district Anti-Administration 1790 Lost
+   re-election
+   Anti-Administration hold Thomas Blount (A)^[7]
+   John B. Ashe (A)
+   John Leigh (P)
+   North Carolina 10 None (District created) New seat
+   Anti-Administration gain Benjamin Williams (A)^[7]
+   William Maclure (A)
+
+Pennsylvania[edit]
+
+   Main article: United States House of Representatives election in
+   Pennsylvania, 1792
+
+   Pennsylvania switched from using districts to electing its
+   representatives on an at-large basis for the 3rd Congress, just as it
+   had done for the 1st Congress. This would be the last time that
+   Pennsylvania would elect all of its Representatives at-large. Due to
+   re-apportionment following the Census of 1790, Pennsylvania's
+   delegation increased from 8 representatives to 13.
+   District Incumbent Party First
+   elected Result Candidates^[16]
+   Pennsylvania At-Large
+   13 seats on a general ticket Thomas Fitzsimons
+   Redistricted from the 1st district Pro-Administration 1788 re-elected
+   William Findley (A) 8.21%
+   Frederick Muhlenberg (A) 8.01%
+   Daniel Hiester (A) 7.96%
+   William Irvine (A) 7.67%
+   John W. Kittera (P) 7.39%
+   Thomas Hartley (P) 7.06%
+   Peter Muhlenberg (A) 5.40%
+   Thomas Fitzsimons (P) 4.46%
+   Andrew Gregg (A) 4.30%
+   James Armstrong (P) 4.29%
+   William Montgomery (A) 4.22%
+   John Smilie (A) 4.15%
+   Thomas Scott (P) 4.13%
+   Samuel Sitgreaves (P) 3.86%
+   Jonathan D. Sergeant (A) 3.74%
+   John Barclay (A) 3.70%
+   Charles Thomson (A) 3.68%
+   William Bingham (P) 3.59%
+   Henry Wynkoop (P) 3.55%
+   Israel Jacobs (P) 0.65%
+   Frederick Muhlenberg
+   Redistricted from the 2nd district Anti-Administration 1788 re-elected
+   Israel Jacobs
+   Redistricted from the 3rd district Pro-Administration 1791 lost
+   re-election
+   Pro-Administration hold
+   Daniel Hiester
+   Redistricted from the 4th district Anti-Administration 1788 re-elected
+   John W. Kittera
+   Redistricted from the 5th district Pro-Administration 1791 re-elected
+   Andrew Gregg
+   Redistricted from the 6th district Anti-Administration 1791 re-elected
+   Thomas Hartley
+   Redistricted from the 7th district Pro-Administration 1788 re-elected
+   William Findley
+   Redistricted from the 8th district Anti-Administration 1791 re-elected
+   None (Seat created) New seat
+   Pro-Administration gain
+   None (Seat created) New seat
+   Anti-Administration gain
+   None (Seat created) New seat
+   Anti-Administration gain
+   None (Seat created) New seat
+   Anti-Administration gain
+   None (Seat created) New seat
+   Anti-Administration gain
+
+Rhode Island[edit]
+
+   Rhode Island gained a second representative from the results of the
+   Census of 1790. Rhode Island did not divide itself into districts, but
+   elected two at-large representatives on separate tickets.
+   District Incumbent Party First
+   elected Result Candidates
+   Rhode Island At-Large Seat A Benjamin Bourne Pro-Administration 1790
+   Re-elected Benjamin Bourne (P) 100%
+   Rhode Island At-Large Seat B None (Seat created) New seat
+   Pro-Administration gain Francis Malbone (P)^[7]
+   Paul Mumford
+
+South Carolina[edit]
+
+   South Carolina gained one representative as a result of the Census of
+   1790, increasing from 5 to 6.
+   District Incumbent Party First
+   elected Result Candidates
+   South Carolina 1 William L. Smith Pro-Administration 1788 Re-elected
+   William L. Smith (P) 61.5%
+   Thomas Tudor Tucker (A) 22.2%
+   Jacob Read (P) 16.4%
+   Thomas Tudor Tucker
+   Redistricted from the 5th district Anti-Administration 1788 Lost
+   re-election
+   Anti-Administration loss
+   South Carolina 2 None (District created) New seat
+   Anti-Administration gain John Hunter (A)^[7]
+   South Carolina 3 None (District created) New seat
+   Anti-Administration gain Lemuel Benton (A)^[7]
+   South Carolina 4 None (District created) New seat
+   Anti-Administration gain Richard Winn (A)^[7]
+   South Carolina 5 None (District created) New seat
+   Anti-Administration gain Alexander Gillon (A)^[7]
+   South Carolina 6 None (District created) New seat
+   Anti-Administration gain Andrew Pickens (A)^[7]
+
+   On October 6, 1794, Alexander Gillon (A) of the 5th district died. A
+   special election was held to fill the resulting vacancy, which elected
+   Robert Goodloe Harper (P)
+
+Vermont[edit]
+
+   Vermont's had no apportionment in the House of Representatives before
+   the census of 1790 because it was not admitted to the Union until 1791.
+   Vermont's election laws at the time required a majority to win election
+   to the House of Representatives. If no candidate won a majority, a
+   runoff election was held, which happened in Vermont's 1st district.
+   District Incumbent Party First
+   elected Result Candidates^[13]
+   First ballot Second ballot
+   Vermont 1
+   Known as the Western District Israel Smith Anti-Administration 1791
+   Re-elected Israel Smith (A) 44.2%
+   Matthew Lyon (A) 33.8%
+   Isaac Tichenor (P) 17.8%
+   Samuel Hitchcock 4.2% Israel Smith (A) 51.0%
+   Matthew Lyon (A) 44.0%
+   Isaac Tichenor (P) 4.3%
+   Samuel Hitchcock 0.6%
+   Others^[17] 0.1%
+   Vermont 2
+   Known as the Eastern District Nathaniel Niles Anti-Administration 1791
+   Re-elected Nathaniel Niles (A) 60.3%
+   Elijah Paine (P) 14.0%
+   Stephen Jacob 7.7%
+   Paul Brigham (A) 4.4%
+   Samuel Cutler 3.9%
+   Daniel Buck (P) 3.5%
+   Isaac Tichenor (P) 2.2%
+   Others 4.0%
+
+Virginia[edit]
+
+   Virginia gained 9 Representatives from the Census of 1790, and in
+   addition, the old 2nd district was lost after its territory became the
+   new State of Kentucky. There were, therefore, 10 new districts created
+   for the 3rd Congress.
+   District Incumbent Party First
+   elected Result Candidates
+   Virginia 1 Alexander White Pro-Administration 1789 Lost re-election
+   Anti-Administration gain Robert Rutherford (A) 56.6%
+   John Smith (A) 25.8%
+   Alexander White (P) 17.6%
+   Virginia 2 Andrew Moore
+   Redistricted from the 3rd district Anti-Administration 1789 Re-elected
+   Andrew Moore (A)^[7]
+   Virginia 3 None (District created) New seat
+   Anti-Administration gain Joseph Neville (A)^[7]
+   George Jackson (A)
+   Jeremiah Jacobs
+   William MacCleery
+   Virginia 4 None (District created) New seat
+   Anti-Administration gain Francis Preston^[7]^[18] (A)
+   Abraham Trigg
+   Virginia 5 None (District created) New seat
+   Pro-Administration gain George Hancock (P) 60.5%
+   Charles Clay 34.0%
+   Calohill Minnis 5.5%
+   Virginia 6 None (District created) New seat
+   Anti-Administration gain Isaac Coles (A)^[7]
+   Virginia 7 Abraham B. Venable
+   Redistricted from the 6th district Anti-Administration 1790 Re-elected
+   Abraham B. Venable (A)^[7]
+   Joseph Wyatt
+   Thomas Scott (P)
+   Tarlton Woodson (P)
+   Virginia 8 None (District created) New seat
+   Anti-Administration gain Thomas Claiborne (A)^[7]
+   Richard Kennon
+   Jesse Brown
+   J. Nicholson
+   Virginia 9 William B. Giles Anti-Administration 1790 Re-elected William
+   B. Giles (A)^[7]
+   Robert Bolling
+   Virginia 10 None (District created) New seat
+   Anti-Administration gain Carter B. Harrison (A)^[7]
+   John H. Briggs
+   Virginia 11 Josiah Parker
+   Redistricted from the 8th district Anti-Administration 1789 Re-elected
+   as Pro-Administration Josiah Parker (P^[19])^[7]
+   John Neirson
+   Virginia 12 John Page
+   Redistricted from the 7th district Anti-Administration 1789 Re-elected
+   John Page (A)^[7]
+   Virginia 13 Samuel Griffin
+   Redistricted from the 10th district Anti-Administration 1789 Re-elected
+   as Pro-Administration Samuel Griffin (P^[20])^[7]
+   Virginia 14 None (District created) New seat
+   Anti-Administration gain Francis Walker (A)^[7]
+   Virginia 15 James Madison, Jr.
+   Redistricted from the 5th district Anti-Administration 1789 Re-elected
+   James Madison, Jr. (A)^[7]
+   Virginia 16 None (District created) New seat
+   Anti-Administration gain Anthony New (A)^[7]
+   John Roane (A)
+   Francis Corbin
+   Virginia 17 Richard Bland Lee
+   Redistricted from the 4th district Pro-Administration 1789 Re-elected
+   Richard Bland Lee (P)^[7]
+   Virginia 18 None (District created) New seat
+   Anti-Administration gain John Nicholas (A)^[7]
+   William Pickett
+   Virginia 19 None (District created) New seat
+   Anti-Administration gain John Heath (A)^[7]
+   Walter Jones (A)
+   Francis L. Lee
+
+See also[edit]
+
+     * 3rd United States Congress
+     * United States presidential election, 1792
+
+References[edit]
+
+     * Unless otherwise noted, election data are from A New Nation Votes
+       and Ourcampaigns.com
+
+    1. ^ 1 Stat. 253
+    2. ^ ^a ^b Changed from district method
+    3. ^ Changed from combined at-large/district method
+    4. ^ 3 Plural districts plus 1 Representatives elected at-large
+    5. ^ Majority required for election, two additional trials were held
+       on January 14, 1793 and April 1, 1793
+    6. ^ Majority required for election which was not met in one of the
+       districts, a second trial was held on March 20, 1793
+    7. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u ^v
+       ^w ^x ^y ^z ^aa ^ab ^ac ^ad ^ae ^af ^ag ^ah ^ai Source does not
+       give numbers of votes or has incomplete data
+    8. ^ http://artandhistory.house.gov/house_history/bioguide-front/2.pdf
+       footnotes 12 and 13
+    9. ^ ^a ^b ^c ^d Elected in subsequent special election
+   10. ^ Election successfully contested
+   11. ^ Successfully contested election
+   12. ^ Also elected in a special election to fill vacancy left when
+       Seney resigned his seat in December, 1792
+   13. ^ ^a ^b Only candidates with at least 1% of the vote listed
+   14. ^ Election was subsequently challenged by Van Rensselaer who
+       claimed electoral irregularities, election was upheld by the House
+   15. ^ ^a ^b source does not give full name
+   16. ^ Wilkes University Elections Statistics Project
+   17. ^ Four individuals received 1 vote each
+   18. ^ Election unsuccessfully contested by Trigg
+   19. ^ Had previously been Anti-Administration, but switched to
+       Pro-Administration/Federalist from this point on
+   20. ^ Had been Anti-Administration in the previous election
+
+External links[edit]
+
+     * http://clerk.house.gov/art_history/house_history/index.html
+
+
+              * v
+     * t
+     * e
+
+   United States House of Representatives elections
+     * 1789
+     * 1790
+     * 1792
+     * 1794
+     * 1796
+     * 1798
+     * 1800
+     * 1802
+     * 1804
+     * 1806
+     * 1808
+     * 1810
+     * 1812
+     * 1814
+     * 1816
+     * 1818
+     * 1820
+     * 1822
+     * 1824
+     * 1826
+     * 1828
+     * 1830
+     * 1832
+     * 1834
+     * 1836
+     * 1838
+     * 1840
+     * 1842
+     * 1844
+     * 1846
+     * 1848
+     * 1850
+     * 1852
+     * 1854
+     * 1856
+     * 1858
+     * 1860
+     * 1862
+     * 1864
+     * 1866
+     * 1868
+     * 1870
+     * 1872
+     * 1874
+     * 1876
+     * 1878
+     * 1880
+     * 1882
+     * 1884
+     * 1886
+     * 1888
+     * 1890
+     * 1892
+     * 1894
+     * 1896
+     * 1898
+     * 1900
+     * 1902
+     * 1904
+     * 1906
+     * 1908
+     * 1910
+     * 1912
+     * 1914
+     * 1916
+     * 1918
+     * 1920
+     * 1922
+     * 1924
+     * 1926
+     * 1928
+     * 1930
+     * 1932
+     * 1934
+     * 1936
+     * 1938
+     * 1940
+     * 1942
+     * 1944
+     * 1946
+     * 1948
+     * 1950
+     * 1952
+     * 1954
+     * 1956
+     * 1958
+     * 1960
+     * 1962
+     * 1964
+     * 1966
+     * 1968
+     * 1970
+     * 1972
+     * 1974
+     * 1976
+     * 1978
+     * 1980
+     * 1982
+     * 1984
+     * 1986
+     * 1988
+     * 1990
+     * 1992
+     * 1994
+     * 1996
+     * 1998
+     * 2000
+     * 2002
+     * 2004
+     * 2006
+     * 2008
+     * 2010
+     * 2012
+     * 2014
+     __________________________________________________________________
+
+   Special elections by Congress
+          110th
+          111th
+          All
+
+   See also
+          Senate elections
+          Presidential elections
+          Gubernatorial elections
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=United_States_House_of_Repre
+   sentatives_elections,_1792&oldid=621855416"
+   Categories:
+     * United States House of Representatives elections, 1792
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * 한국어
+     * Română
+     *
+
+   Edit links
+
+     * This page was last modified on 19 August 2014 at 01:39.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

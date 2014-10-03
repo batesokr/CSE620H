@@ -1,0 +1,272 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Role-oriented programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Role-oriented programming is a form of computer programming aimed at
+   expressing things in terms which are analogous to human conceptual
+   understanding of the world. This should make programs easier to
+   understand and maintain.
+
+   The main idea of role-oriented programming is that humans think in
+   terms of roles. This claim is often backed up by examples of social
+   relations. For example, a student attending a class and the same
+   student at a party are the same person, yet he plays two different
+   roles. In particular, the interactions of this person with the outside
+   world depend on his current role. The roles typically share features,
+   e.g., the intrinsic properties of being a person. This sharing of
+   properties is often handled by the delegation mechanism.
+
+   In the older literature and in the field of databases, it seems that
+   there has been little consideration for the context in which roles
+   interplay with each other. Such a context is being established in newer
+   role- and aspect-oriented programming languages such as Object Teams.
+
+   Many researchers have argued the advantages of roles in modeling and
+   implementation. Roles allow objects to evolve over time, they enable
+   independent and concurrently existing views (interfaces) of the object,
+   explicating the different contexts of the object, and separating
+   concerns. Generally roles are a natural element of our daily concept
+   forming. Roles in programming languages enable objects to have changing
+   interfaces, as we see it in real life - things change over time, are
+   used differently in different contexts, etc.
+
+   A complete overview and taxonomy of Role languages is provided in the
+   Ph.D. thesis [1]
+
+Contents
+
+     * 1 Programming languages with explicit support for roles
+     * 2 Authors of role literature
+     * 3 See also
+     * 4 References
+     * 5 External links
+
+Programming languages with explicit support for roles[edit]
+
+     * Object Teams
+     * powerJava
+     * EpsilonJ
+     * Chameleon
+     * Perl 5 (Moose)
+     * Perl 6
+     * JavaScript Delegation - Functions as Roles (Traits and Mixins)
+
+Authors of role literature[edit]
+
+     * Charles Bachman^[1]
+     * Trygve Reenskaug^[2]
+     * Georg Gottlob
+     * Bent Bruun Kristensen^[3]
+     * Kasper Østerbye
+     * Friedrich Steimann
+     * Stephan Herrmann
+     * Barbara Pernici
+     * Bruce Wallace
+     * Kasper B. Graversen
+
+See also[edit]
+
+     * Object Oriented Role Analysis Method
+     * Object-role modeling
+     * Aspect-oriented programming
+     * Subject-oriented programming
+     * Subject (programming)
+     * Traits (computer science)
+     * Data, context and interaction
+
+References[edit]
+
+    1. ^
+       http://www.computerhistory.org/events/lectures/bachman_04162002/bac
+       hman.shtml
+    2. ^
+       http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Reenska
+       ug%3ATrygve.html
+    3. ^
+       http://www.sigmod.org/dblp/db/indices/a-tree/k/Kristensen%3ABent_Br
+       uun.html
+
+External links[edit]
+
+     * ROPE: Role Oriented Programming Environment for Multiagent Systems
+     * Context Aspect Sensitive Services
+     * Adaptive Plug-and-Play Components for Evolutionary Software
+       Development, by Mira Mezini and Karl Lieberherr
+
+   Stub icon This computer programming–related article is a stub. You can
+             help Wikipedia by expanding it.
+               * v
+               * t
+               * e
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Role-oriented_programming&ol
+   did=622838028"
+   Categories:
+     * Object-based programming languages
+     * Programming paradigms
+     * Computer programming stubs
+
+   Hidden categories:
+     * All stub articles
+     * WikiProject Computer science stubs
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 26 August 2014 at 04:10.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

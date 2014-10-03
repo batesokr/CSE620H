@@ -1,0 +1,4 @@
+This is a small text file
+used for testing. For timings
+generaTe a large text file using
+solution for exercise #3.

@@ -1,0 +1,324 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Semantic-oriented programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+     This article has multiple issues. Please help improve it or discuss
+   these issues on the talk page.
+
+   This article may require cleanup to meet Wikipedia's quality standards.
+   No cleanup reason has been specified. Please help improve this article
+   if you can. (May 2011)
+
+   This article needs attention from an expert on the subject. Please add
+   a reason or a talk parameter to this template to explain the issue with
+   the article. Consider associating this request with a WikiProject. (May
+   2011)
+
+   Question book-new.svg
+   This article does not cite any references or sources. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (May 2011)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Semantic-oriented programming (SOP) is a programming paradigm in which
+   the programmer formulizes the logic of a domain by means of semantic
+   structures. Similar to Concept programming and Concept-oriented
+   programming.
+
+Contents
+
+     * 1 Common features
+     * 2 Goals
+     * 3 SOPlets
+     * 4 SymADE
+     * 5 See also
+     * 6 External links
+
+Common features[edit]
+
+   The way of how these semantic information are represented in the system
+   vary according to the approach chosen (see below), common to these
+   approaches are the following features:
+     * The semantics represent static facts, that is: facts that describe
+       the domain in question at a given moment, and which do not change
+       during runtime (as opposed to Semantic Web for instance)
+     * The system has native access to these semantic structures during
+       compile time and runtime, and can interpret them in order to
+       fulfill the requested features
+     * Clear separation from logic and implementation (where possible)
+     * In many cases, SOP supports the notion of Single Source of Truth
+       (SSoT), such that every semantic concept is stored exactly once,
+       Any possible linkages to this concept are by reference only
+     * A programmer can freely and quickly add new semantic meanings
+       without breaking compatibility with the system environment
+
+Goals[edit]
+
+   The goals of SOP are:
+     * Improving the maintainability of a software
+     * Improving the transparency of a software
+     * Flexibility by allowing exchangeability of logic and/or
+       implementation
+     * Optimal support for agile development processes (refactoring)
+
+SOPlets[edit]
+
+   Soplets is a method of describing semantic concepts as blocks of code,
+   using existing features of the (Java) language, namely annotations and
+   enumerations. Each block of code (called Soplet) represents all
+   properties and features of a given concept (as far as reasonable and
+   feasible), including features outside of the traditional modelling
+   scope, such as translations, documentation, requirement tracking and so
+   on.
+
+   Soplets can be referenced and used from anywhere inside the code. Given
+   the strong-typed nature of the references they can be safely refactored
+   as seen fit.
+
+   A Soplet may be enhanced by one or more (stateless) functions, which
+   are directly attached to the code block. That way also related features
+   related to a given concept (such as calculations, validation,
+   transformations etc.) beyond pure key-value pairs may be associated
+   with a given Soplet.
+
+   The structure of a Soplet is formally defined by the stereotype it
+   implements. This stereotype may be individually composed of several
+   aspects (such as Translatable, Beanable, Bindable, Testable etc.),
+   which in turn may be freely defined by the developer (or which are part
+   of a framework which he uses).
+
+   An open-source plugin (based on the Project Lombok plugin) allows the
+   creation of byte-code during compile-time, based on the information
+   contained in the Soplets. For instance, a data bean may have all of its
+   attributes, getters and setters generated.
+
+SymADE[edit]
+
+   SymADE (Symbolic Adaptable Development Environment) is an open-source
+   IDE and implementation of SOP (Semantic-oriented programming) paradigm.
+
+   In SymADE a program is edited and stored as a tree of semantic nodes
+   (meanings). The tree is edited by structural editor, and programmers
+   can edit either the semantic tree directly or a projection of the
+   semantic tree onto syntax tree. There may be multiple projections of
+   the same tree, and they can be rendered on the screen as reach text, as
+   UML diagrams and so on.
+
+   Semantic meanings are completely user-defined. This allows to use
+   SymADE for creating and editing new domain-specific languages, modify
+   existing languages, use in the same piece of code a mix of multiple
+   languages.
+
+   SymADE is common in spirit with IP (Intentional Programming)and
+   JetBrains MPS. The main difference is that they define and edit syntax
+   trees, but in SymADE you create and edit semantic trees. This gives an
+   unbound possibility for automating code writing, i.e. the actual code
+   can be written by computer based on dialog interaction with
+   programmers. And of cause, the SymADE project is open-source, unlike
+   proprietary IP and MPS development environments.
+
+   The higher automation of code writing will allow to create more complex
+   programs without increasing the amount of abstraction layers - because
+   the computer, not programmers, will take care of the code complexity.
+   This will allow to write more complex programs without increasing
+   resource requirements (CPU speed and memory size).
+
+See also[edit]
+
+     * Model-driven engineering
+     * Domain-specific languages
+     * Service-oriented programming
+     * Language-oriented programming
+     * Aspect-oriented programming
+     * Generative programming
+     * Intentional programming
+     * Automatic programming
+     * Resource-oriented architecture
+     * Transaction-level modeling
+     * Concept programming
+
+External links[edit]
+
+     * SYMbolic Adaptable Development Environment as an open-source,
+       reference implementation of SOP.
+     * Soplets Java based SOP including an open-source Eclipse-based
+       byte-code generator
+
+     * Concept-oriented programming
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Semantic-oriented_programmin
+   g&oldid=597488173"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * Articles needing cleanup from May 2011
+     * All articles needing cleanup
+     * Cleanup tagged articles without a reason field from May 2011
+     * Wikipedia pages needing cleanup from May 2011
+     * Articles needing expert attention with no reason or talk parameter
+     * Articles needing expert attention from May 2011
+     * All articles needing expert attention
+     * Miscellaneous articles needing expert attention
+     * Articles lacking sources from May 2011
+     * All articles lacking sources
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     *
+
+   Edit links
+
+     * This page was last modified on 28 February 2014 at 06:25.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

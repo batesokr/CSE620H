@@ -1,0 +1,511 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Answer set programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Answer set programming (ASP) is a form of declarative programming
+   oriented towards difficult (primarily NP-hard) search problems. It is
+   based on the stable model (answer set) semantics of logic programming.
+   In ASP, search problems are reduced to computing stable models, and
+   answer set solvers — programs for generating stable models—are used to
+   perform search. The computational process employed in the design of
+   many answer set solvers is an enhancement of the DPLL algorithm and, in
+   principle, it always terminates (unlike Prolog query evaluation, which
+   may lead to an infinite loop).
+
+   In a more general sense, ASP includes all applications of answer sets
+   to knowledge representation^[1]^[2] and the use of Prolog-style query
+   evaluation for solving problems arising in these applications.
+
+Contents
+
+     * 1 History
+     * 2 Answer set programming language AnsProlog
+     * 3 Generating stable models
+     * 4 Examples of ASP programs
+          + 4.1 Graph coloring
+          + 4.2 Large clique
+          + 4.3 Hamiltonian cycle
+     * 5 Comparison of implementations
+     * 6 See also
+     * 7 References
+     * 8 External links
+
+History[edit]
+
+   The planning method proposed in 1993 by Dimopoulos, Nebel and
+   Köhler^[3] is an early example of answer set programming. Their
+   approach is based on the relationship between plans and stable
+   models.^[4] Soininen and Niemelä^[5] applied what is now known as
+   answer set programming to the problem of product configuration. The use
+   of answer set solvers for search was identified as a new programming
+   paradigm by Marek and Truszczyński in a paper that appeared in a
+   25-year perspective on the logic programming paradigm published in 1999
+   ^[6] and in [Niemelä 1999].^[7] Indeed, the new terminology of "answer
+   set" instead of "stable model" was first proposed by Lifschitz^[8] in a
+   paper appearing in the same retrospective volume as the
+   Marek-Truszczynski paper.
+
+Answer set programming language AnsProlog[edit]
+
+   Lparse is the name of the program that was originally created as
+   grounding tool (front-end) for the answer set solver smodels. The
+   language that Lparse accepts is now commonly called AnsProlog*,^[9]
+   short for Answer Set Programming in Logic.^[10] It is now used in the
+   same way in many other answer set solvers, including assat, clasp,
+   cmodels, gNt, nomore++ and pbmodels. (dlv is an exception; the syntax
+   of ASP programs written for dlv is somewhat different.)
+
+   An AnsProlog program consists of rules of the form
+<head> :- <body> .
+
+   The symbol :- ("if") is dropped if <body> is empty; such rules are
+   called facts. The simplest kind of Lparse rules are rules with
+   constraints.
+
+   One other useful construct included in this language is choice. For
+   instance, the choice rule
+{p,q,r}.
+
+   says: choose arbitrarily which of the atoms p,q,r to include in the
+   stable model. The lparse program that contains this choice rule and no
+   other rules has 8 stable models—arbitrary subsets of \{p,q,r\} . The
+   definition of a stable model was generalized to programs with choice
+   rules.^[11] Choice rules can be treated also as abbreviations for
+   propositional formulas under the stable model semantics.^[12] For
+   instance, the choice rule above can be viewed as shorthand for the
+   conjunction of three "excluded middle" formulas:
+
+          (p\lor\neg p)\land(q\lor\neg q)\land(r\lor\neg r).
+
+   The language of lparse allows us also to write "constrained" choice
+   rules, such as
+1{p,q,r}2.
+
+   This rule says: choose at least 1 of the atoms p,q,r , but not more
+   than 2. The meaning of this rule under the stable model semantics is
+   represented by the propositional formula
+
+          (p\lor\neg p)\land(q\lor\neg q)\land(r\lor\neg r)
+
+                \land\,(p\lor q\lor r)\land\neg(p\land q\land r).
+
+   Cardinality bounds can be used in the body of a rule as well, for
+   instance:
+:- 2{p,q,r}.
+
+   Adding this constraint to an Lparse program eliminates the stable
+   models that contain at least 2 of the atoms p,q,r . The meaning of this
+   rule can be represented by the propositional formula
+
+                \neg((p\land q)\lor(p\land r)\lor(q\land r)).
+
+   Variables (capitalized, as in Prolog) are used in Lparse to abbreviate
+   collections of rules that follow the same pattern, and also to
+   abbreviate collections of atoms within the same rule. For instance, the
+   Lparse program
+p(a). p(b). p(c).
+q(X) :- p(X), X!=a.
+
+   has the same meaning as
+p(a). p(b). p(c).
+q(b). q(c).
+
+   The program
+p(a). p(b). p(c).
+{q(X):-p(X)}2.
+
+   is shorthand for
+p(a). p(b). p(c).
+{q(a),q(b),q(c)}2.
+
+Generating stable models[edit]
+
+   To find a stable model of the Lparse program stored in file <filename>
+   we use the command
+% lparse <filename> | smodels
+
+   Option 0 instructs smodels to find all stable models of the program.
+   For instance, if file test contains the rules
+1{p,q,r}2.
+s :- not p.
+
+   then the command
+% lparse test | smodels 0
+
+   produces the output
+Answer: 1
+Stable Model: q p
+Answer: 2
+Stable Model: p
+Answer: 3
+Stable Model: r p
+Answer: 4
+Stable Model: q s
+Answer: 5
+Stable Model: r s
+Answer: 6
+Stable Model: r q s
+
+Examples of ASP programs[edit]
+
+Graph coloring[edit]
+
+   An n -coloring of a graph G is a function color\ from its set of
+   vertices to \{1,\dots,n\} such that color(x)\neq color(y) for every
+   pair of adjacent vertices x,y . We would like to use ASP to find an n
+   -coloring of a given graph (or determine that it does not exist).
+
+   This can be accomplished using the following Lparse program:
+c(1..n).
+1 {color(X,I) : c(I)} 1 :- v(X).
+:- color(X,I), color(Y,I), e(X,Y), c(I).
+
+   Line 1 defines the numbers 1,\dots,n to be colors. According to the
+   choice rule in Line 2, a unique color i should be assigned to each
+   vertex x . The constraint in Line 3 prohibits assigning the same color
+   to vertices x and y if there is an edge connecting them.
+
+   If we combine this file with a definition of G , such as
+v(1..100). % 1,...,100 are vertices
+e(1,55). % there is an edge from 1 to 55
+. . .
+
+   and run smodels on it, with the numeric value of n specified on the
+   command line, then the atoms of the form color(\dots,\dots) in the
+   output of smodels will represent an n -coloring of G .
+
+   The program in this example illustrates the "generate-and-test"
+   organization that is often found in simple ASP programs. The choice
+   rule describes a set of "potential solutions" — a simple superset of
+   the set of solutions to the given search problem. It is followed by a
+   constraint, which eliminates all potential solutions that are not
+   acceptable. However, the search process employed by smodels and other
+   answer set solvers is not based on trial and error.
+
+Large clique[edit]
+
+   A clique in a graph is a set of pairwise adjacent vertices. The
+   following lparse program finds a clique of size \geq n in a given
+   graph, or determines that it does not exist:
+n {in(X) : v(X)}.
+:- in(X), in(Y), v(X), v(Y), X!=Y, not e(X,Y), not e(Y,X).
+
+   This is another example of the generate-and-test organization. The
+   choice rule in Line 1 "generates" all sets consisting of \geq n
+   vertices. The constraint in Line 2 "weeds out" the sets that are not
+   cliques.
+
+Hamiltonian cycle[edit]
+
+   A Hamiltonian cycle in a directed graph is a cycle that passes through
+   each vertex of the graph exactly once. The following Lparse program can
+   be used to find a Hamiltonian cycle in a given directed graph if it
+   exists; we assume that 0 is one of the vertices.
+{in(X,Y)} :- e(X,Y).
+
+:- 2 {in(X,Y) : e(X,Y)}, v(X).
+:- 2 {in(X,Y) : e(X,Y)}, v(Y).
+
+r(X) :- in(0,X), v(X).
+r(Y) :- r(X), in(X,Y), e(X,Y).
+
+:- not r(X), v(X).
+
+   The choice rule in Line 1 "generates" all subsets of the set of edges.
+   The three constraints "weed out" the subsets that are not Hamiltonian
+   cycles. The last of them uses the auxiliary predicate r(x) (" x is
+   reachable from 0") to prohibit the vertices that do not satisfy this
+   condition. This predicate is defined recursively in Lines 4 and 5.
+
+   This program is an example of the more general "generate, define and
+   test" organization: it includes the definition of an auxiliary
+   predicate that helps us eliminate all "bad" potential solutions.
+
+Comparison of implementations[edit]
+
+   Early systems, such as Smodels, used backtracking to find solutions. As
+   the theory and practice of Boolean SAT solvers evolved, a number of ASP
+   solvers were built on top of SAT solvers, including ASSAT and Cmodels.
+   These converted ASP formula into SAT propositions, applied the SAT
+   solver, and then converted the solutions back to ASP form. More recent
+   systems, such as Clasp, use a hybrid approach, using conflict-driven
+   algorithms inspired by SAT, without full converting into a
+   boolean-logic form. These approaches allow for significant improvements
+   of performance, often by an order of magnitude, over earlier
+   backtracking algorithms.
+
+   The Potassco project acts as an umbrella for many of the systems below,
+   including clasp, grounding systems (gringo), incremental systems
+   (iclingo), constraint solvers (clingcon), action language to ASP
+   compilers (coala), distributed MPI implementations (claspar), and many
+   others.
+
+   Most systems support variables, but only indirectly, by forcing
+   grounding, by using a grounding system such as Lparse or gringo as a
+   front end. The need for grounding can cause a combinatorial explosion
+   of clauses; thus, systems that perform on-the-fly grounding might have
+   an advantage.
+   Platform Features Mechanics
+   Name OS Licence Variables Function symbols Explicit sets Explicit lists
+   Disjunctive (choice rules) support
+   ASPeRiX Linux GPL Yes No on-the-fly grounding
+   ASSAT Solaris Freeware SAT-solver based
+   Clasp Answer Set Solver Linux, Mac OS, Windows GPL Yes, in Clingo Yes
+   No No Yes, in ClaspD incremental, SAT-solver inspired (nogood,
+   conflict-driven)
+   Cmodels Linux, Solaris GPL Requires grounding Yes incremental,
+   SAT-solver inspired (nogood, conflict-driven)
+   DLV Linux, Mac OS, Windows^[13] free for academic and non-commercial
+   educational use, and for non-profit organizations^[13] Yes Yes No No
+   Yes not Lparse compatible
+   DLV-Complex Linux, Mac OS, Windows Freeware Yes Yes Yes Yes built on
+   top of DLV — not Lparse compatible
+   GnT Linux GPL Requires grounding Yes built on top of smodels
+   nomore++ Linux GPL combined literal+rule-based
+   Platypus Linux, Solaris, Windows GPL distributed, multi-threaded
+   nomore++, smodels
+   Pbmodels Linux ? pseudo-boolean solver based
+   Smodels Linux, Mac OS, Windows GPL Requires grounding No No No No
+   Smodels-cc Linux ? Requires grounding SAT-solver based; smodels
+   w/conflict clauses
+   Sup Linux ? SAT-solver based
+
+See also[edit]
+
+     * Default logic
+     * Logic programming
+     * Non-monotonic logic
+     * Prolog
+     * Stable model semantics
+
+References[edit]
+
+    1. ^ Baral, Chitta (2003). Knowledge Representation, Reasoning and
+       Declarative Problem Solving. Cambridge University Press.
+       ISBN 978-0-521-81802-5.
+    2. ^ Gelfond, Michael (2008). "Answer sets". In van Harmelen, Frank;
+       Lifschitz, Vladimir; Porter, Bruce. Handbook of Knowledge
+       Representation. Elsevier. pp. 285–316. ISBN 978-0-08-055702-1.  as
+       PDF
+    3. ^ Dimopoulos, Y.; Nebel, B.; Köhler, J. (1997). "Encoding planning
+       problems in non-monotonic logic programs". In Steel, Sam; Alami,
+       Rachid. Recent Advances in AI Planning: 4th European Conference on
+       Planning, ECP'97, Toulouse, France, September 24–26, 1997,
+       Proceedings. Lecture notes in computer science: Lecture notes in
+       artificial intelligence 1348. Springer. pp. 273–285.
+       ISBN 978-3-540-63912-1.  as Postscript
+    4. ^ Subrahmanian, V.S.; Zaniolo, C. (1995). "Relating stable models
+       and AI planning domains". In Sterling, Leon. Logic Programming:
+       Proceedings of the Twelfth International Conference on Logic
+       Programming. MIT Press. pp. 233–247. ISBN 978-0-262-69177-2.  as
+       Postscript
+    5. ^ Soininen, T.; Niemelä, I. (1998), Formalizing configuration
+       knowledge using rules with choices (Postscript) (TKO-B142),
+       Laboratory of Information Processing Science, Helsinki University
+       of Technology
+    6. ^ Marek, V.; Truszczyński, M. (1999). "Stable models and an
+       alternative logic programming paradigm". In Apt, Krzysztof R. The
+       Logic programming paradigm: a 25-year perspective (PDF). Springer.
+       pp. 169–181. ISBN 978-3-540-65463-6.
+    7. ^ Niemelä, I. (1999). "Logic programs with stable model semantics
+       as a constraint programming paradigm" (Postscript,gzipped). Annals
+       of Mathematics and Artificial Intelligence 25: 241–273.
+       doi:10.1023/A:1018930122475.
+    8. ^ Lifschitz, V. (1999). Action Languages, Answer Sets, and
+       Planning.  In Apt 1999, pp. 357–374
+    9. ^ Crick, Tom (2009). Superoptimisation: Provably Optimal Code
+       Generation using Answer Set Programming (Ph.D.). University of
+       Bath. Docket 20352.
+   10. ^ Rogelio Davila. "AnsProlog, an overview" (PowerPoint).
+   11. ^ Niemelä, I.; Simons, P.; Soinenen, T. (2000). "Stable model
+       semantics of weight constraint rules". In Gelfond, Michael; Leone,
+       Nicole; Pfeifer, Gerald. Logic Programming and Nonmonotonic
+       Reasoning: 5th International Conference, LPNMR '99, El Paso, Texas,
+       USA, December 2–4, 1999 Proceedings. Lecture notes in computer
+       science: Lecture notes in artificial intelligence 1730. Springer.
+       pp. 317–331. ISBN 978-3-540-66749-0.  as Postscript
+   12. ^ Ferraris, P.; Lifschitz, V. (January 2005). "Weight constraints
+       as nested expressions" (PDF). Theory and Practice of Logic
+       Programming 5 (1-2): 45–74. doi:10.1017/S1471068403001923.  as
+       Postscript
+   13. ^ ^a ^b "DLV System company page". DLVSYSTEM s.r.l. Retrieved 16
+       November 2011.
+
+External links[edit]
+
+     * First ASP System Competition
+     * Second ASP Competition
+     * Third ASP Competition
+     * Fourth ASP Competition
+     * Platypus
+     * A variety of answer set solvers packaged for Debian / Ubuntu
+     * Clasp Answer Set Solver
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Answer_set_programming&oldid
+   =618134547"
+   Categories:
+     * Logic programming
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Français
+     * Português
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 23 July 2014 at 15:19.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

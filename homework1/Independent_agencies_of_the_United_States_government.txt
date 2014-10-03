@@ -1,0 +1,745 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Independent agencies of the United States government
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+
+   Independent agencies of the United States federal government are those
+   agencies that exist outside of the federal executive departments (those
+   headed by a Cabinet secretary). More specifically, the term may be used
+   to describe agencies that, while constitutionally part of the executive
+   branch, are independent of presidential control, usually because the
+   president's power to dismiss the agency head or a member is limited.
+
+   Established through separate statutes passed by the Congress, each
+   respective statutory grant of authority defines the goals the agency
+   must work towards, as well as what substantive areas, if any, over
+   which it may have the power of rulemaking. These agency rules (or
+   regulations), when in force, have the power of federal law.
+
+Contents
+
+     * 1 Functional characteristics
+          + 1.1 Independent regulatory agency
+     * 2 Examples
+          + 2.1 Former agencies
+     * 3 Footnotes
+     * 4 See also
+     * 5 External links
+
+Functional characteristics[edit]
+
+   Independent agencies can be distinguished from the federal executive
+   departments and other executive agencies by their structural and
+   functional characteristics.^[1] Congress can also designate certain
+   agencies explicitly as "independent" in the governing statute, but the
+   functional differences have more legal significance.^[2]
+
+   While most executive agencies have a single director, administrator, or
+   secretary appointed by the President of the United States, independent
+   agencies (in the narrower sense of being outside presidential control)
+   almost always have a commission, board, or similar collegial body
+   consisting of five to seven members who share power over the
+   agency.^[1] (This is why many independent agencies include the word
+   "Commission" or "Board" in their name.) The President appoints the
+   commissioners or board members, subject to Senate confirmation, but
+   they often serve with staggered terms, and often for longer terms than
+   a usual four-year Presidential term,^[3] meaning most Presidents will
+   not have the opportunity to appoint all the commissioners of a given
+   independent agency. Normally the President can designate which
+   Commissioner will serve as the Chairperson.^[3] Normally there are
+   statutory provisions limiting the President's authority to remove
+   commissioners, typically for incapacity, neglect of duty, malfeasance,
+   or other good cause.^[4] In addition, most independent agencies have a
+   statutory requirement of bipartisan membership on the commission, so
+   the President cannot simply fill vacancies with members of his own
+   political party.^[3]
+
+   In reality, the high turnover rate among these commissioners or board
+   members means that most Presidents have the opportunity to fill enough
+   vacancies to constitute a voting majority on each independent agency
+   commission within the first two years of the first term as
+   President.^[5] In some famous instances, Presidents have found the
+   independent agencies more loyal and in lockstep with the President's
+   wishes and policy objectives than some dissenters among the executive
+   agency political appointments.^[6] Presidential attempts to remove
+   independent agency officials have generated most of the important
+   Supreme Court legal opinions in this area.^[3] Presidents normally do
+   have the authority to remove heads of independent agencies, but they
+   must meet the statutory requirements for removal, such as demonstrating
+   that the individual has committed malfeasance. In contrast, the
+   President can remove regular executive agency heads at will.
+
+   If the independent agency exercises any executive powers like
+   enforcement, and most of them do, Congress cannot participate in the
+   regular removal process of commissioners.^[7] Constitutionally,
+   Congress can only participate directly in impeachment proceedings.
+   Congress can, however, pass statutes limiting the circumstances under
+   which the President can remove commissioners of independent
+   agencies.^[8] Members of Congress cannot serve as commissioners on
+   independent agencies that have executive powers,^[9] nor can Congress
+   itself appoint the commissioners - the Appointments Clause of the
+   Constitution vests that power in the President.^[10] The Senate does
+   participate, however, in appointments through "advice and consent",
+   which occurs through confirmation hearings and votes on the President's
+   nominees.
+
+Independent regulatory agency[edit]
+
+   There is a further distinction between an independent agency and an
+   independent regulatory agency. The Paperwork Reduction Act lists 19
+   enumerated "independent regulatory agencies". Generally, the heads of
+   independent regulatory agencies can only be removed for cause, whereas
+   independent agencies such as the Environmental Protection Agency and
+   Cabinet department heads serve "at the pleasure of the President".^[11]
+   Executive Order 12866, which requires cost-benefit analysis for certain
+   regulatory actions, does not apply to independent regulatory
+   agencies.^[11]
+
+Examples[edit]
+
+     * The Central Intelligence Agency (CIA) gathers intelligence and
+       provides national security assessments to policymakers in the
+       United States. It acts as the primary human intelligence provider
+       for the federal government.
+
+     * The Commodity Futures Trading Commission (CFTC) regulates commodity
+       futures and option markets in the United States. The agency
+       protects market participants against manipulation, abusive trade
+       practices and fraud. Through effective oversight and regulation,
+       the CFTC enables the markets to serve better their important
+       functions in the nation's economy providing a mechanism for price
+       discovery and a means of offsetting price risk.
+
+     * The Environmental Protection Agency (EPA) works with state and
+       local governments throughout the United States to control and abate
+       pollution in the air and water and to deal with problems related to
+       solid waste, pesticides, radiation, and toxic substances. EPA sets
+       and enforces standards for air and water quality, evaluates the
+       impact of pesticides and chemical substances, and manages the
+       "Superfund" program for cleaning toxic waste sites.
+
+     * The Federal Communications Commission (FCC) is charged with
+       regulating interstate and international communications by radio,
+       television, wire, satellite, and cable. It licenses radio and
+       television broadcast stations, assigns radio frequencies, and
+       enforces regulations designed to ensure that cable rates are
+       reasonable. The FCC regulates common carriers, such as telephone
+       and telegraph companies, as well as wireless telecommunications
+       service providers.
+
+     * The Federal Election Commission (FEC) oversees campaign financing
+       for all federal elections. The Commission oversees election rules
+       as well as reporting of campaign contributions by the candidates.
+
+     * The Federal Energy Regulatory Commission (FERC) is the United
+       States federal agency with jurisdiction over interstate electricity
+       sales, wholesale electric rates, hydroelectric licensing, natural
+       gas pricing, and oil pipeline rates. FERC also reviews and
+       authorizes liquefied natural gas (LNG) terminals, interstate
+       natural gas pipelines and non-federal hydropower projects.
+
+     * The Federal Maritime Commission (FMC) regulates the international
+       ocean transportation of the United States. It is charged with
+       ensuring a competitive, efficient, and economic ocean
+       transportation system.^[12]
+
+     * The Board of Governors of the Federal Reserve System is the
+       governing body of the Federal Reserve System (frequently referred
+       to as "the Fed"^[13]), the central bank of the United States. It
+       conducts the nation's monetary policy by influencing the volume of
+       credit and money in circulation. The Federal Reserve regulates
+       private banking institutions, works to contain systemic risk in
+       financial markets, and provides certain financial services to the
+       U.S. government, the public, and financial institutions.
+
+     * The Federal Retirement Thrift Investment Board (FRTIB) is one of
+       the smaller Executive Branch agencies, with just over 100
+       employees. It was established to administer the Thrift Savings Plan
+       (TSP), which provides Federal employees the opportunity to save for
+       additional retirement security. The Thrift Savings Plan is a
+       tax-deferred defined contribution plan similar to a private sector
+       401(k) plan.
+
+     * The Federal Trade Commission (FTC) enforces federal antitrust and
+       consumer protection laws by investigating complaints against
+       individual companies initiated by consumers, businesses,
+       congressional inquiries, or reports in the media. The commission
+       seeks to ensure that the nation's markets function competitively by
+       eliminating unfair or deceptive practices.
+
+     * The General Services Administration (GSA) is responsible for the
+       purchase, supply, operation, and maintenance of federal property,
+       buildings, and equipment, and for the sale of surplus items. GSA
+       also manages the federal motor vehicle fleet and oversees
+       telecommuting centers and civilian child care centers.
+
+     * The International Trade Commission (ITC) provides trade expertise
+       to both the legislative and executive branches of government,
+       determines the impact of imports on U.S. industries, and directs
+       actions against certain unfair trade practices, such as patent,
+       trademark, and copyright infringement.
+
+     * The National Aeronautics and Space Administration (NASA) was
+       established in 1958 to run the American space program. It placed
+       the first American satellites and astronauts in orbit, and it
+       launched the Apollo spacecraft that landed men on the moon in 1969.
+       Today, NASA conducts research aboard earth-orbiting satellites and
+       interplanetary probes, explores new concepts in advanced aerospace
+       technology, and operates the U.S. fleet of manned space shuttle
+       orbiters.
+
+     * The National Archives and Records Administration (NARA) preserves
+       the nation's history by overseeing the management of all federal
+       records. The holdings of the National Archives include original
+       textual materials, motion picture films, sound and video
+       recordings, maps, still pictures, and computer data. The
+       Declaration of Independence, the U.S. Constitution, and the Bill of
+       Rights are preserved and displayed at the National Archives
+       building in Washington, D.C.
+
+     * The National Labor Relations Board (NLRB) administers the principal
+       United States labor law, the National Labor Relations Act. The
+       board is vested with the power to prevent or remedy unfair labor
+       practices and to safeguard employees' rights to organize and
+       determine through elections whether to have a union as their
+       bargaining representative.
+
+     * The National Transportation Safety Board (NTSB) investigates all
+       aviation accidents in the United States, and certain major railroad
+       and other accidents.^[14]
+
+     * The Nuclear Regulatory Commission (NRC) was established by the
+       Energy Reorganization Act of 1974 from the United States Atomic
+       Energy Commission, and was first opened January 19, 1975. The NRC
+       oversees reactor safety and security, reactor licensing and
+       renewal, radioactive material safety, and spent fuel management
+       (storage, security, recycling, and disposal).
+
+     * The National Science Foundation (NSF) is a United States government
+       agency that supports fundamental research and education in all the
+       non-medical fields of science and engineering.
+
+     * The Securities and Exchange Commission (SEC) was established to
+       protect investors who buy stocks and bonds. Federal laws require
+       companies that plan to raise money by selling their own securities
+       to file reports about their operations with the SEC, so that
+       investors have access to all material information. The commission
+       has powers to prevent or punish fraud in the sale of securities and
+       is authorized to regulate stock exchanges.
+
+     * The Postal Regulatory Commission (PRC) was created in 1971 as the
+       Postal Rate Commission and strengthened under the Postal
+       Accountability and Enhancement Act enacted in December 2006.
+       Provides regulatory oversight over the activities of the United
+       States Postal Service.
+
+     * The Selective Service System (SSS) is an independent federal agency
+       operating with permanent authorization under the Military Selective
+       Service Act (50 U.S.C. App. 451 et seq.). It is not part of the
+       Department of Defense; however, it exists to serve the emergency
+       manpower needs of the Military by conscripting untrained men, or
+       personnel with professional health care skills, if directed by
+       Congress and the President in a national crisis. Its statutory
+       missions also include being ready to administer an alternative
+       service program, in lieu of military service for men classified as
+       conscientious objectors.
+
+     * The Small Business Administration (SBA) was created in 1953 to
+       advise, assist, and protect the interests of small business
+       concerns. The SBA guarantees loans to small businesses, aids
+       victims of floods and other natural disasters, promotes the growth
+       of minority-owned firms, and helps secure contracts for small
+       businesses to supply goods and services to the federal government.
+
+     * The Social Security Administration (SSA) is the United States
+       federal agency that administers Social Security, a social insurance
+       program consisting of retirement, disability, and survivors'
+       benefits. To qualify for these benefits, most American workers pay
+       Social Security taxes on their earnings; future benefits are based
+       on the employees' contributions.
+
+     * The Surface Transportation Board (STB) was created in the ICC
+       Termination Act of 1995 and is the successor agency to the
+       Interstate Commerce Commission. The STB is an economic regulatory
+       agency that Congress charged with resolving railroad rate and
+       service disputes and reviewing proposed railroad mergers. The STB
+       is decisionally independent, although it is administratively
+       affiliated with the Department of Transportation.
+
+     * The United States Postal Service is defined by statute as an
+       "independent establishment" of the federal government, which
+       replaced the Cabinet-level Post Office Department in 1971. The
+       Postal Service is responsible for the collection, transportation,
+       and delivery of the mails, and for the operation of thousands of
+       local post offices across the country. It also provides
+       international mail service through the Universal Postal Union and
+       other agreements with foreign countries.
+
+     * Other independent agencies: the National Credit Union
+       Administration (NCUA), the Consumer Product Safety Commission
+       (CPSC), and the Consumer Financial Protection Bureau (CFPB)
+       (formally part of the Federal Reserve Board).
+
+Former agencies[edit]
+
+     * The Committee on Public Information was an agency created to
+       influence the U.S. public opinion regarding American participation
+       in World War I. Lasting from April 14, 1917, to June 30, 1919 it
+       was directed by George Creel. The agency used propaganda available
+       to achieve its goals.
+
+     * The Interstate Commerce Commission regulated common carriers and
+       was thus able to render far reaching orders, such as the
+       desegregation of public transportation. After trucking and
+       railroads were largely deregulated, the ICC was replaced with the
+       Surface Transportation Board, within the Department of
+       Transportation.
+
+     * The United States Maritime Commission was intended to formulate a
+       merchant shipbuilding program to design and build five hundred
+       modern merchant cargo ships for the U.S. Merchant Marine. It also
+       formed the United States Maritime Service. In 1950, its functions
+       were transferred to the United States Maritime Administration,
+       which later became part of the Department of Transportation.
+
+     * The Reconstruction Finance Corporation was designed to help finance
+       projects during the Great Depression. It later helped finance the
+       nation's military buildup as World War II approached. Scandals led
+       to its eventual dissolution in 1956.
+
+     * The Office of the United States Nuclear Waste Negotiator was
+       responsible for the placement and long term storage of radioactive
+       waste. It was dissolved in 1995.^[15]
+
+     * The United States Information Agency, which was partially merged
+       into the Department of State in 1999.
+
+Footnotes[edit]
+
+    1. ^ ^a ^b Pierce, Richard; Shapiro, Sidney A.; Verkuil , Paul (5th
+       ed. 2009), Administrative Law and Process, Section 4.4.1b, p. 101,
+       Foundation Press ISBN 1-59941-425-2
+    2. ^ Shane,Peter, Merrill, Richard; Mashaw, Jerry (2003),
+       Administrative Law: The American Public Law Process pp.228-29,
+       Thomson-West: ISBN 978-0-314-14425-6 [1]
+    3. ^ ^a ^b ^c ^d Pierce, Shapiro, & Verkuil (2009) p. 102.
+    4. ^ See, e.g., Humphrey's Executor v. United States, 295 U.S. 602
+       (1935).
+    5. ^ Shane, Merrill, Mashaw (2003) p. 230; Pierce, Shapiro, & Verkuil
+       (2009) p. 102.
+    6. ^ Shane, Merrill, Mashaw (2003) p. 231.
+    7. ^ See Bowsher v. Synar, 478 U.S. 714 (1986), Buckley v. Valeo, 424
+       U.S. 1 (1976)
+    8. ^ Humphrey's Executor v. United States 295 U.S. 602 (1935)
+    9. ^ Buckley v. Valeo, 424 U.S. 1 (1976)
+   10. ^ See Myers v. United States, 272 U.S. 52 (1926); Buckley v. Valeo,
+       424 U.S. 1 (1976)
+   11. ^ ^a ^b Copeland CW. (2013). Economic Analysis and Independent
+       Regulatory Agencies. Administrative Conference of the United
+       States. See more at Benefit-Cost Analysis at Independent Regulatory
+       Agencies.
+   12. ^ Federal Maritime Commission
+   13. ^ See, e.g., "Fed, central banks move to boost global confidence".
+       AP. ^[dead link]
+   14. ^ See "About the NTSB".
+   15. ^ [ Richard H. Stallings Biography, Idaho State University Library]
+
+See also[edit]
+
+     * Federal executive departments
+     * Government-owned corporation
+     * Independent regulatory agency
+     * List of United States federal agencies
+
+External links[edit]
+
+     * List of independent agencies from whitehouse.gov
+     * regulations.gov
+
+
+     * v
+     * t
+     * e
+
+   United States topics
+   History
+
+   Timeline
+              * Pre-Columbian era
+              * Colonial era
+                   + Thirteen Colonies
+                   + Military history
+                   + Continental Congress
+              * American Revolution
+                   + War
+              * American frontier
+              * Federalist Era
+              * War of 1812
+              * Territorial acquisitions
+              * Territorial evolution
+              * Mexican–American War
+              * Civil War
+              * Reconstruction Era
+              * Indian Wars
+              * Gilded Age
+              * Progressive Era
+              * African-American Civil Rights Movement (1896–1954)
+              * Spanish–American War
+              * Imperialism
+              * World War I
+              * Roaring Twenties
+              * Great Depression
+              * World War II
+                   + Home front
+              * Cold War
+              * Korean War
+              * Space Race
+              * African-American Civil Rights Movement (1954–68)
+              * Feminist Movement
+              * Vietnam War
+              * Post-Cold War (1991–present)
+              * War on Terror
+                   + War in Afghanistan
+                   + Iraq War
+              * Timeline of modern American conservatism
+
+   By topic
+              * Demographic
+              * Discoveries
+              * Economic
+                   + Debt ceiling
+              * Inventions
+                   + before 1890
+                   + 1890–1945
+                   + 1946–91
+                   + after 1991
+              * Military
+              * Postal
+              * Technological and industrial
+
+   Geography
+
+     * Cities, towns, and villages
+     * Counties
+     * Extreme points
+     * Islands
+     * Mountains
+          + Peaks
+          + Appalachian
+          + Rocky
+     * National Park System
+     * Regions
+          + West Coast
+          + East Coast
+          + Great Plains
+          + Mid-Atlantic
+          + Midwestern
+          + New England
+          + Northwestern
+          + Northeastern
+          + Southwestern
+          + Southeastern
+          + Western
+          + Eastern
+          + Northern
+          + Southern
+          + Pacific
+     * Rivers
+          + Colorado
+          + Columbia
+          + Mississippi
+          + Missouri
+          + Ohio
+          + Rio Grande
+     * States
+     * Territory
+     * Water supply and sanitation
+
+   Politics
+
+
+   Federal
+
+            Executive
+                          * President
+                               + Executive Office
+                          * Cabinet / Executive departments
+                          * Civil service
+                          * Independent agencies
+                          * Law enforcement
+                          * Public policy
+
+           Legislature
+                          * Congress
+                               + Senate
+                                    o Vice President
+                                    o President pro tem
+                               + House of Representatives
+                                    o Speaker
+
+            Judiciary
+                          * Supreme Court
+                          * Federal judiciary
+                          * Courts of appeals
+                          * District courts
+
+               Law
+                          * Constitution
+                               + Federalism
+                               + Preemption
+                               + Separation of powers
+                          * Bill of Rights
+                               + Civil liberties
+                          * Code of Federal Regulations
+                          * Federal Reporter
+                          * United States Code
+                          * United States Reports
+
+           Intelligence
+                          * Central Intelligence Agency
+                          * Defense Intelligence Agency
+                          * National Security Agency
+                          * Federal Bureau of Investigation
+
+            Uniformed
+                          * Armed Forces
+                               + Air Force
+                               + Army
+                               + Marine Corps
+                               + Navy
+                               + National Guard
+                               + Coast Guard
+                          * NOAA Corps
+                          * Public Health Service Corps
+
+     * Administrative divisions
+     * Elections
+          + Electoral College
+     * Foreign policy
+     * Foreign relations
+     * Ideologies
+     * Local governments
+     * Parties
+          + Democratic Party
+          + Republican Party
+          + Third parties
+     * 51st state
+          + Political status of Puerto Rico
+     * Red states and blue states
+          + Purple America
+     * Scandals
+     * State governments
+     * Uncle Sam
+
+   Economy
+     * Economic issues
+     * Agriculture
+     * Banking
+     * Communications
+     * Companies
+          + by state
+     * Dollar (currency)
+     * Energy
+     * Federal Budget
+     * Federal Reserve System
+     * Financial position
+     * Insurance
+     * Labor unions
+     * Mining
+     * Public debt
+     * Social welfare programs
+     * Taxation
+     * Tourism
+     * Trade
+     * Transportation
+     * Unemployment
+     * Wall Street
+
+   Society
+
+     Culture
+                  * Architecture
+                  * Art
+                  * Cinema
+                  * Crime
+                  * Cuisine
+                  * Dance
+                  * Demographics
+                  * Education
+                  * Family structure
+                  * Fashion
+                  * Flag
+                  * Folklore
+                  * Health care
+                  * Health insurance
+                  * Incarceration
+                  * Languages
+                       + American English
+                       + Spanish
+                       + French
+                       + German
+                       + Italian
+                  * Literature
+                  * Media
+                  * Music
+                  * Names
+                  * People
+                  * Philosophy
+                  * Public holidays
+                  * Radio
+                  * Religion
+                  * Sports
+                  * Television
+                  * Theater
+
+   Social class
+                  * Affluence
+                  * American Dream
+                  * Educational attainment
+                  * Homelessness
+                  * Homeownership
+                  * Household income
+                  * Income inequality
+                  * Middle class
+                  * Personal income
+                  * Poverty
+                  * Professional and working class conflict
+                  * Standard of living
+                  * Smoking
+                  * Wealth
+
+      Issues
+                  * Abortion
+                  * Affirmative action
+                  * Anti-Americanism
+                  * Capital punishment
+                  * Criticism
+                  * Discrimination
+                  * Drug policy
+                  * Energy policy
+                  * Environmental movement
+                  * Exceptionalism
+                  * Gun politics
+                  * Health care reform
+                  * Human rights
+                  * Immigration
+                  * Illegal Immigration
+                  * International rankings
+                  * LGBT rights
+                       + Same-sex marriage
+                  * Nationalism
+                  * Obesity
+                  * Racism
+                  * Separation of church and state
+                  * Terrorism
+
+     * Outline
+     * Index
+
+     * Book
+     * Category
+     * Portal
+     * WikiProject
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Independent_agencies_of_the_
+   United_States_government&oldid=618813917"
+   Categories:
+     * Independent agencies of the United States government
+     * United States administrative law
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from July 2010
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Deutsch
+     * Español
+     * Français
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 28 July 2014 at 13:06.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

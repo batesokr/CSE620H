@@ -1,0 +1,235 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Value-level programming
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   Question book-new.svg
+   This article does not cite any references or sources. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed. (December 2009)
+             Programming paradigms
+     * Action
+     * Agent-oriented
+     * Aspect-oriented
+     * Automata-based
+     * Concurrent computing
+          + Relativistic programming
+     * Data-driven
+     * Declarative (contrast: Imperative)
+          + Constraint
+          + Dataflow
+               o Flow-based
+               o Cell-oriented (spreadsheets)
+               o Reactive
+          + Functional
+               o Functional logic
+          + Logic
+               o Abductive logic
+               o Answer set
+               o Constraint logic
+               o Functional logic
+               o Inductive logic
+     * End-user programming
+     * Event-driven
+          + Service-oriented
+          + Time-driven
+     * Expression-oriented
+     * Feature-oriented
+     * Function-level (contrast: Value-level)
+     * Generic
+     * Imperative (contrast: Declarative)
+          + Procedural
+     * Language-oriented
+          + Natural language programming
+          + Discipline-specific
+          + Domain-specific
+          + Grammar-oriented
+               o Dialecting
+          + Intentional
+     * Metaprogramming
+          + Automatic
+          + Reflective
+               o Attribute-oriented
+          + Homoiconic
+          + Template
+               o Policy-based
+     * Non-structured (contrast: Structured)
+          + Array
+     * Nondeterministic
+     * Parallel computing
+          + Process-oriented
+     * Point-free style
+          + Concatenative
+     * Semantic
+     * Structured (contrast: Non-structured)
+          + Block-structured
+          + Modular (contrast: Monolithic)
+          + Object-oriented (OOP)
+               o By separation of concerns:
+                    # Aspect-oriented
+                    # Role-oriented
+                    # Subject-oriented
+               o Class-based
+               o Prototype-based
+          + Recursive
+     * Value-level (contrast: Function-level)
+     * Probabilistic
+     * Concept
+
+     * v
+     * t
+     * e
+
+   Value-level programming refers to one of the two contrasting
+   programming paradigms identified by John Backus in his work on programs
+   as mathematical objects, the other being function-level programming.
+   Backus originally used the term object-level programming but that term
+   is now prone to confusion with object-oriented programming.
+
+   Value-level programs are those that describe how to combine various
+   values (i.e., numbers, symbols, strings, etc.) to form other values
+   until the final result values are obtained. New values are constructed
+   from existing ones by the application of various value-to-value
+   functions, such as addition, concatenation, matrix inversion, and so
+   on.
+
+   Conventional, von Neumann programs are value-level: expressions on the
+   right side of assignment statements are exclusively concerned with
+   building a value that is then to be stored.
+
+Connection with Data Types[edit]
+
+   The value-level approach to programming invites the study of the space
+   of values under the value-forming operations, and of the algebraic
+   properties of those operations. This is what is called the study of
+   data types, and it has advanced from focusing on the values themselves
+   and their structure, to a primary concern with the value-forming
+   operations and their structure, as given by certain axioms and
+   algebraic laws, that is, to the algebraic study of data types.
+
+Connection with Lambda Calculus languages[edit]
+
+   Lambda calculus-based languages (such as Lisp, ISWIM, and Scheme) are
+   in actual practice value-level languages, although they are not thus
+   restricted by design.
+
+   To see why typical lambda style programs are primarily value-level,
+   consider the usual definition of a value-to-value function, say
+f = λx.E
+
+   here, x must be a value variable (since the argument of f is a value by
+   definition) and E must denote a value too (since f's result is a value
+   by definition). Typically, E is an expression involving the application
+   of value-forming functions to value variables and constants;
+   nevertheless, a few value-forming functions having both function and
+   value arguments do exist and are used for limited purposes.
+
+   If the term values is defined to include the value variables
+   themselves, then the value-level view of programming is one of building
+   values by the application of existing programs (value-forming
+   operations/functions) to other values. Lambda-style programming builds
+   a new program from the result-value by lambda-abstracting the value
+   variables.
+
+See also[edit]
+
+     * Function-level programming (contrast)
+     * Programming paradigms
+
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Value-level_programming&oldi
+   d=543498534"
+   Categories:
+     * Programming paradigms
+
+   Hidden categories:
+     * Articles lacking sources from December 2009
+     * All articles lacking sources
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Galego
+     *
+
+   Edit links
+
+     * This page was last modified on 11 March 2013 at 21:21.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

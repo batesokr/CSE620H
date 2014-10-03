@@ -1,0 +1,711 @@
+   #alternate Edit this page Wikipedia (en) alternate copyright Wikipedia
+   Atom feed
+
+Twelfth Amendment to the United States Constitution
+
+   From Wikipedia, the free encyclopedia
+   Jump to: navigation, search
+   United States of America
+   Great Seal of the United States
+   This article is part a series on the
+                      United States Constitution
+                         Preamble and Articles
+   of the Constitution
+     * Preamble
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+                    Amendments to the Constitution
+     * Ratified Amendments
+       The first ten Amendments are collectively known as the Bill of
+       Rights
+
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+     * VIII
+     * IX
+     * X
+     * XI
+     * XII
+     * XIII
+     * XIV
+     * XV
+     * XVI
+     * XVII
+     * XVIII
+     * XIX
+     * XX
+     * XXI
+     * XXII
+     * XXIII
+     * XXIV
+     * XXV
+     * XXVI
+     * XXVII
+
+     * Unratified Amendments
+
+     * Congressional Apportionment
+     * Titles of Nobility
+     * Corwin
+     * Child Labor
+     * Equal Rights
+     * D.C. Voting Rights
+
+                     Full text of the Constitution
+   and Amendments
+     * Preamble & Articles I–VII
+     * Amendments I–X
+     * Amendments XI–XXVII
+     * Unratified Amendments
+
+     * US Government Portal
+     * Law Portal
+
+     * v
+     * t
+     * e
+
+   The Twelfth Amendment (Amendment XII) to the United States Constitution
+   provides the procedure for electing the President and Vice President.
+   It replaced Article II, Section 1, Clause 3, which provided the
+   original procedure by which the Electoral College functioned. Problems
+   with the original procedure arose in the elections of 1796 and 1800.
+   The Twelfth Amendment refined the process whereby a President and a
+   Vice President are elected by the electors of the Electoral College.
+   The amendment was proposed by the Congress on December 9, 1803, and was
+   ratified by the requisite three–fourths of state legislatures on June
+   15, 1804.
+
+Contents
+
+     * 1 Text
+     * 2 Background
+     * 3 Proposal and ratification
+     * 4 Electoral College under the Twelfth Amendment
+     * 5 Elections since 1804
+     * 6 See also
+     * 7 Notes
+     * 8 External links
+
+Text[edit]
+
+     The Electors shall meet in their respective states, and vote by
+     ballot for President and Vice-President, one of whom, at least,
+     shall not be an inhabitant of the same state with themselves; they
+     shall name in their ballots the person voted for as President, and
+     in distinct ballots the person voted for as Vice-President, and they
+     shall make distinct lists of all persons voted for as President, and
+     all persons voted for as Vice-President and of the number of votes
+     for each, which lists they shall sign and certify, and transmit
+     sealed to the seat of the government of the United States, directed
+     to the President of the Senate.
+
+     The President of the Senate shall, in the presence of the Senate and
+     House of Representatives, open all the certificates and the votes
+     shall then be counted.
+
+     The person having the greatest Number of votes for President, shall
+     be the President, if such number be a majority of the whole number
+     of Electors appointed; and if no person have such majority, then
+     from the persons having the highest numbers not exceeding three on
+     the list of those voted for as President, the House of
+     Representatives shall choose immediately, by ballot, the President.
+     But in choosing the President, the votes shall be taken by states,
+     the representation from each state having one vote; a quorum for
+     this purpose shall consist of a member or members from two-thirds of
+     the states, and a majority of all the states shall be necessary to a
+     choice. And if the House of Representatives shall not choose a
+     President whenever the right of choice shall devolve upon them,
+     before the fourth day of March next following, then the
+     Vice-President shall act as President, as in the case of the death
+     or other constitutional disability of the President.^[1]
+
+     The person having the greatest number of votes as Vice-President,
+     shall be the Vice-President, if such number be a majority of the
+     whole number of Electors appointed, and if no person have a
+     majority, then from the two highest numbers on the list, the Senate
+     shall choose the Vice-President; a quorum for the purpose shall
+     consist of two-thirds of the whole number of Senators, and a
+     majority of the whole number shall be necessary to a choice. But no
+     person constitutionally ineligible to the office of President shall
+     be eligible to that of Vice-President of the United States.^[2]
+
+Background[edit]
+
+   Under the original procedure for the Electoral College, as provided in
+   Article II, Section 1, Clause 3, each elector could vote for two
+   persons. The two people chosen by the elector could not both inhabit
+   the same state as that elector. This prohibition was designed to keep
+   electors from voting for two "favorite sons" of their respective
+   states.^[3] The person receiving the greatest number of votes, provided
+   that number equaled a majority of the electors, was elected President.
+
+   If there was more than one individual who received the same number of
+   votes, and such number equaled a majority of the electors, the House of
+   Representatives would choose one of them to be President. If no
+   individual had a majority, then the House of Representatives would
+   choose from the five individuals with the greatest number of electoral
+   votes. In either case, a majority of state delegations in the House was
+   necessary for a candidate to be chosen to be President.
+
+   Selecting the Vice President was a simpler process. Whichever candidate
+   received the greatest number of votes, except for the one elected
+   President, became Vice President. The Vice President, unlike the
+   President, did not require the votes of a majority of electors. In the
+   event of a tie for second place among multiple candidates, the Senate
+   would choose one of them to be Vice President, with each Senator
+   casting one vote. It was not specified in the Constitution whether the
+   sitting Vice President could cast a tie-breaking vote for Vice
+   President under the original formula.
+
+   Problems developed almost immediately. In the 1796 election, John
+   Adams, the Federalist Party presidential candidate, received a majority
+   of the electoral votes. However, the Federalist electors scattered
+   their second votes, resulting in the Democratic-Republican Party
+   presidential candidate, Thomas Jefferson, receiving the second highest
+   number of electoral votes and thus being elected Vice President.
+
+   The 1800 election exposed a defect in the original formula in that if
+   each member of the Electoral College followed party tickets, there
+   would be a tie between the two candidates from the most popular ticket.
+   The emergence of partisan political activity caused the failure of the
+   original constitutional plan.
+
+   Additionally, it was becoming increasingly apparent that a situation in
+   which the Vice President had been a defeated electoral opponent of the
+   President would impede the ability of the two to effectively work
+   together. By having the Presidential and Vice Presidential elected on a
+   party ticket, this possibility would be eliminated, or at least
+   minimized.
+
+Proposal and ratification[edit]
+
+   Twelfth Amendment in the National Archives
+
+   The Twelfth Amendment was proposed by the 8th Congress on December 9,
+   1803, when it was approved by the House of Representatives by vote of
+   83–42,^[4] having been previously passed by the Senate, 22–10, on
+   December 2.^[5] The amendment was officially submitted to the states on
+   December 12, 1803, and was ratified by the legislatures of the
+   following states:^[6]
+    1. North Carolina — December 21, 1803
+    2. Maryland — December 24, 1803
+    3. Kentucky — December 27, 1803
+    4. Ohio — December 30, 1803
+    5. Pennsylvania — January 5, 1804
+    6. Vermont — January 30, 1804
+    7. Virginia — February 3, 1804
+    8. New York — February 10, 1804
+    9. New Jersey — February 22, 1804
+   10. Rhode Island — March 12, 1804
+   11. South Carolina — May 15, 1804
+   12. Georgia — May 19, 1804
+   13. New Hampshire — June 15, 1804^[7]
+       Having been ratified by the requisite three–fourths of the several
+       states, there being 17 states in the Union at the time, the
+       ratification of the Twelfth Amendment was completed. It was
+       subsequently ratified by:
+   14. Tennessee — July 27, 1804
+   15. Massachusetts — 1961 (After rejection — February 3, 1804)
+
+   The amendment was rejected by:
+    1. Delaware — January 18, 1804
+    2. Connecticut — May 10, 1804.
+
+   On September 25, 1804, in a circular letter to the governors of the
+   states, Secretary of State Madison declared the amendment ratified by
+   three-fourths of the states.
+
+Electoral College under the Twelfth Amendment[edit]
+
+   While the Twelfth Amendment did not change the composition of the
+   Electoral College or the duties of the electors, it did change the
+   process whereby a President and a Vice President are elected. The new
+   electoral process was first used for the 1804 election. Each
+   presidential election since has been conducted under the terms of the
+   Twelfth Amendment.
+
+   The Twelfth Amendment, stipulates that each elector must cast distinct
+   votes for President and Vice President, instead of two votes for
+   President. Additionally, electors may not vote for presidential and
+   vice-presidential candidates who both reside in the elector's state—at
+   least one of them must be an inhabitant of another state.
+
+   The Twelfth Amendment explicitly states that the vice president must
+   meet the same constitutional requirements as provided for the
+   president.^[8] A majority of electoral votes is still required for a
+   person to be elected President or Vice President. If no candidate for
+   President has a majority of the total votes, the House of
+   Representatives, voting by states and with the same quorum requirements
+   as under the original procedure, chooses the President. The Twelfth
+   Amendment requires the House to choose from the three highest receivers
+   of electoral votes, compared to five under the original procedure. If
+   no candidate for Vice President has a majority of the total votes, the
+   Senate, with each Senator having one vote, chooses the Vice President.
+   The Twelfth Amendment requires the Senate to choose between the
+   candidates with the "two highest numbers" of electoral votes. If
+   multiple individuals are tied for second place, the Senate may consider
+   all of them, in addition to the individual with the greatest number of
+   votes. The Twelfth Amendment introduced a quorum requirement of
+   two-thirds of the whole number of Senators for the conduct of
+   balloting. Furthermore, the Twelfth Amendment provides that the votes
+   of "a majority of the whole number" of Senators are required to arrive
+   at a choice.
+
+   In order to prevent deadlocks from keeping the nation leaderless, the
+   Twelfth Amendment provided that if the House could not choose a
+   President before March 4 (then the first day of a Presidential term),
+   the individual elected Vice President would act as President, "as in
+   the case of the death or other constitutional disability of the
+   President." The Twelfth Amendment did not state for how long the Vice
+   President would act as President or if the House could still choose a
+   President after March 4. Section 3 of the Twentieth Amendment modified
+   that provision of the Twelfth Amendment. This amendment, ratified in
+   1933, changed the date upon which a new presidential term commences to
+   January 20, clarifies that the Vice President-elect would only act as
+   President if the House has not chosen a President by January 20, and
+   permits the Congress to direct, through legislation, "who shall then
+   act as President" if there is no President-elect or Vice
+   President-elect by January 20. It also clarifies that if there is no
+   President-elect on January 20, whoever acts as President does so until
+   a person "qualified" to occupy the Presidency is elected to be
+   President.
+
+   There is a point of contention regarding the interpretation of the
+   Twelfth Amendment as it relates to the Twenty-second Amendment,
+   ratified in 1951, which provides that "No person shall be elected to
+   the office of the President more than twice, and no person who has held
+   the office of President, or acted as President, for more than two years
+   of a term to which some other person was elected President shall be
+   elected to the office of the President more than once.
+
+   While it is clear that under the Twelfth Amendment the original
+   constitutional qualifications of age, citizenship, and residency apply
+   to both the President and Vice President, it is unclear whether a
+   two-term president could later serve as Vice President. Some argue that
+   the Twenty-second Amendment and Twelfth Amendment both bar any two-term
+   president from later serving as Vice President as well as from
+   succeeding to the presidency from any point in the United States
+   presidential line of succession.^[9] Others contend that the Twelfth
+   Amendment concerns qualification for service, while the Twenty-second
+   Amendment concerns qualifications for election, and thus a former
+   two-term president is still eligible to serve as vice president.^[10]
+   The practical applicability of this distinction has not been tested, as
+   no former president has ever sought the vice presidency, and thus the
+   courts have never been required to make a judgment regarding the
+   matter.
+
+Elections since 1804[edit]
+
+   Starting with the election of 1804, each Presidential election has been
+   conducted under the Twelfth Amendment.
+   Certificate for the electoral vote for Rutherford B. Hayes and William
+   A. Wheeler for the State of Louisiana
+
+   Only once since then has the House of Representatives chosen the
+   President: In 1824, Andrew Jackson received 99 electoral votes, John
+   Quincy Adams (son of John Adams) 84, William H. Crawford 41 and Henry
+   Clay 37. All of the candidates were members of the
+   Democratic-Republican Party (though there were significant political
+   differences among them), and each had fallen short of the 131 votes
+   necessary to win. Because the House could only consider the top three
+   candidates, Clay could not become President. Crawford's poor health
+   following a stroke made his election by the House unlikely. Andrew
+   Jackson expected the House to vote for him, as he had won a plurality
+   of the popular and electoral votes.^[11] Instead, the House elected
+   Adams on the first ballot with thirteen states, followed by Jackson
+   with seven and Crawford with four.^[12] Clay had endorsed Adams for the
+   Presidency; the endorsement carried additional weight because Clay was
+   the Speaker of the House. When Adams later appointed Clay his Secretary
+   of State, many—particularly Jackson and his supporters—accused the pair
+   of making a "Corrupt Bargain".^[13] In the less contested election for
+   vice president, John C. Calhoun received 182 votes and was elected
+   outright.
+
+   In 1836, the Whig Party nominated different candidates in different
+   regions in the hopes of splintering the electoral vote and denying
+   Martin Van Buren, the Democratic candidate, a majority in the Electoral
+   College, thereby throwing the election into the Whig-controlled House.
+   However, this strategy failed with Van Buren winning majorities of both
+   the popular and electoral vote. In that same election no candidate for
+   Vice President secured a majority in the electoral college as
+   Democratic Vice Presidential nominee Richard Mentor Johnson did not
+   receive the electoral votes of Democratic electors from Virginia,
+   because of his relationship with a former slave. As a result Johnson
+   received 147 electoral votes, one vote short of a majority; to be
+   followed by Francis Granger with 77, John Tyler with 47 and William
+   Smith with 23. This caused the Senate to choose whether Johnson or
+   Granger would be the new Vice President. Johnson won with 33 votes,
+   with Granger receiving 16.^[14]
+
+   Since 1836, no major U.S. party has nominated multiple regional
+   presidential or vice presidential candidates in an election. However,
+   since the Civil War there have been two serious attempts by
+   Southern-based parties to run regional candidates in hopes of denying
+   either of the two major candidates an electoral college majority. Both
+   attempts (in 1948 and 1968) failed, but not by much—in both cases a
+   shift in the result of two close states would have forced the
+   respective elections into the House.^[citation needed]
+
+   In modern elections, a running mate is often selected in order to
+   appeal to a different set of voters. A Habitation Clause issue arose
+   during the 2000 presidential election contested by George W. Bush
+   (running-mate Dick Cheney) and Al Gore (running-mate Joe Lieberman),
+   because it was alleged that Bush and Cheney were both inhabitants of
+   Texas and that the Texas electors therefore violated the Twelfth
+   Amendment in casting their ballots for both. Bush's residency was
+   unquestioned, as he was Governor of Texas at the time. Cheney and his
+   wife had moved to Dallas five years earlier when he assumed the role of
+   chief executive at Halliburton. Cheney grew up in Wyoming and had
+   represented it in Congress. A few months before the election, he
+   switched his voter registration and driver's license to Wyoming and put
+   his home in Dallas up for sale. Three Texas voters challenged the
+   election in a federal court in Dallas and then appealed the decision to
+   the United States Court of Appeals for the Fifth Circuit, where it was
+   dismissed.^[15]
+
+See also[edit]
+
+     * Electoral College (United States)
+     * United States presidential eligibility legislation
+
+Notes[edit]
+
+    1. ^ This sentence is superseded by Section 3 of the Twentieth
+       Amendment
+    2. ^ "Constitution of the United States: Amendments 11-27". National
+       Archives. Retrieved 2008-02-09.
+    3. ^ The Electoral College - Origin and History Dave Leip's Atlas of
+       U.S. Presidential Elections
+    4. ^ "13 Annals of Congress 775 (1805)". Retrieved April 18, 2014.
+    5. ^ "13 Annals of Congress 209 (1805)". Retrieved April 18, 2014.
+    6. ^ "THE CONSTITUTION of the UNITED STATES OF AMERICA: ANALYSIS AND
+       INTERPRETATION, Centennial Edition, INTERIM EDITION: ANALYSIS OF
+       CASES DECIDED BY THE SUPREME COURT OF THE UNITED STATES TO JUNE 26,
+       2013". Washington, DC: U.S. Government Printing Office. 2013.
+       p. 28. Retrieved April 13, 2014.
+    7. ^ Ratification was probably completed on June 15, 1804, when the
+       New Hampshire legislature approved the amendment. However, the
+       state's governor, John Taylor Gilman, vetoed the resolution of
+       ratification on June 20, and the act failed to pass again by the
+       two-thirds vote then required by the state constitution. As Article
+       V of the Constitution specifies that amendments shall become
+       effective "when ratified by the legislatures of three-fourths of
+       the several States or by conventions in three-fourths thereof," it
+       has been generally believed that an approval or veto by a governor
+       is without significance. Nonetheless, if the ratification by New
+       Hampshire be deemed ineffective, then the amendment became
+       operative by Tennessee's ratification on July 27, 1804.
+    8. ^ Article II, Section 1, Clause 5
+    9. ^ Matthew J. Franck (July 31, 2007). "Constitutional Sleight of
+       Hand". National Review. Retrieved April 20, 2014.
+   10. ^ Scott E. Gant; Bruce G. Peabody (2006-06-13). "How to bring back
+       Bill". The Christian Science Monitor. Retrieved 2008-06-12.
+   11. ^ The popular vote in 1824 did not consist of all of the states,
+       since many states chose their electors through their legislatures
+       instead of by a vote of their people.
+   12. ^ Election of 1824: When the House chose the President.
+   13. ^ "The Election of 1824 Was Decided in the House of
+       Representatives". About.com. Retrieved 2009-07-03.
+   14. ^ Senate elects Richard Mentor Johnson as Vice President.
+   15. ^ Bravin, Jess. Obscure Texas Case Offers Peek Into Role Of Court
+       Nominee, The Wall Street Journal, Oct. 7, 2005.
+
+External links[edit]
+
+     * Constitution of the United States, via Wikisource
+     * Twelfth Amendment, via National Archives
+     * CRS Annotated Constitution: Twelfth Amendment, via Cornell Law
+       School
+     * Ellis, E. S. (1903). Thomas Jefferson: A Character Sketch., via
+       Project Gutenberg
+     * U. S. Electoral College, via Office of the Federal Register
+
+
+     * v
+     * t
+     * e
+
+   United States Constitution
+   Text (via Wikisource)
+     * Preamble and Articles I-VII
+     * Amendments 1-10
+     * Amendments 11-27
+     * Unsuccessful Proposed Amendments
+     * Debates in State Conventions on the Adoption of the Constitution
+
+   Preamble & Articles
+     * Preamble
+     * I
+     * II
+     * III
+     * IV
+     * V
+     * VI
+     * VII
+
+   Amendments
+     Ratified
+                 * 1
+                 * 2
+                 * 3
+                 * 4
+                 * 5
+                 * 6
+                 * 7
+                 * 8
+                 * 9
+                 * 10
+                 * 11
+                 * 12
+                 * 13
+                 * 14
+                 * 15
+                 * 16
+                 * 17
+                 * 18
+                 * 19
+                 * 20
+                 * 21
+                 * 22
+                 * 23
+                 * 24
+                 * 25
+                 * 26
+                 * 27
+
+     Pending
+                 * Congressional Apportionment
+                 * Titles of Nobility
+                 * Corwin (State Domestic Institutions)
+                 * Child Labor
+
+   Unsuccessful
+                 * Equal Rights
+                 * District of Columbia Voting Rights
+
+     * List of Constitutional Amendments
+     * Bill of Rights (Amendments 1-10)
+     * Reconstruction Amendments (Amendments 13-15)
+
+     * Amendment proposal in Congress
+     * Conventions to propose amendments
+     * State ratifying conventions
+
+   Formation
+     * History
+     * Articles of Confederation
+     * Mount Vernon Conference
+     * Annapolis Convention
+     * Philadelphia Convention
+          + Virginia Plan
+          + New Jersey Plan
+          + Connecticut Compromise
+          + Three-Fifths Compromise
+          + Committee of Detail
+          + Signers
+     * Federalist Papers
+     * Anti-Federalist Papers
+     * Massachusetts Compromise
+     * Virginia Ratifying Convention
+     * Drafting and ratification timeline
+
+   Clauses
+     * Appointments
+     * Appropriations
+     * Assistance of Counsel
+     * Bill of credit
+     * Case or Controversy
+     * Citizenship
+     * Commerce
+     * Compact
+     * Compulsory Process
+     * Confrontation
+     * Contract
+     * Copyright and Patent
+     * Double Jeopardy
+     * Due Process
+     * Equal Protection
+     * Establishment
+     * Exceptions
+     * Excessive Bail
+     * Ex post facto
+     * Extradition
+     * Free Exercise
+     * Free Speech
+     * Fugitive Slave
+     * Full Faith and Credit
+     * General Welfare
+     * Guarantee
+     * Impeachment
+     * Ineligibility (Emolument)
+     * Militia
+     * Natural-born citizen
+     * Necessary and Proper
+     * No Religious Test
+     * Origination
+     * Petition
+     * Postal
+     * Presentment
+     * Privileges and Immunities
+     * Privileges or Immunities
+     * Recommendation
+     * Self-Incrimination
+     * Speech or Debate
+     * Speedy Trial
+     * State of the Union
+     * Supremacy
+     * Suspension
+     * Take Care
+     * Takings
+     * Taxing and Spending
+     * Territorial
+     * Title of Nobility
+     * Treaty
+     * Trial by Jury
+     * Vesting
+     * Vicinage
+     * War Powers
+     * List of clauses
+
+   Interpretation
+     * Concurrent powers
+     * Congressional enforcement
+     * Constitutional law
+     * Criminal procedure
+     * Criminal sentencing
+     * Dormant Commerce Clause
+     * Enumerated powers
+     * Executive privilege
+     * Incorporation of the Bill of Rights
+     * Judicial review
+     * Nondelegation doctrine
+     * Preemption
+     * Saxbe fix
+     * Separation of church and state
+     * Separation of powers
+     * Taxation power
+     * Unitary executive theory
+
+   US Government Portal • Law Portal
+   Retrieved from
+   "http://en.wikipedia.org/w/index.php?title=Twelfth_Amendment_to_the_Uni
+   ted_States_Constitution&oldid=624804336"
+   Categories:
+     * 1804 in law
+     * Amendments to the United States Constitution
+     * Vice Presidency of the United States
+     * History of the United States (1789–1849)
+     * 1804 in the United States
+     * 8th United States Congress
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from May 2013
+
+Navigation menu
+
+Personal tools
+
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikimedia Shop
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Беларуская
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * עברית
+     * 日本語
+     * Polski
+     * Русский
+     * 中文
+     *
+
+   Edit links
+
+     * This page was last modified on 9 September 2014 at 13:28.
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License; additional terms may apply. By using this site, you agree
+       to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+       trademark of the Wikimedia Foundation, Inc., a non-profit
+       organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
