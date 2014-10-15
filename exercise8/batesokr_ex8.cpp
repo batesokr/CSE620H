@@ -2,11 +2,14 @@
 
 #include <CL/cl.hpp>
 
-#include<string>
-#include<iterator>
-#include<vector>
+#include <string>
+#include <iterator>
+#include <vector>
+#include <iostream>
+#include <fstream>
 
-const std::string cl_file = "toggle.cl";
+const std::string cl_file = "batesokr_toggle.cl";
+const std::string cl_entry_func = "toggle";
 
 std::vector<cl::Device> getDeviceList() {
   // Obtain the platforms
@@ -16,37 +19,72 @@ std::vector<cl::Device> getDeviceList() {
   // Pick the first platform and use its GPU device
   cl_device_type devType = CL_DEVICE_TYPE_GPU;
   std::vector<cl::Device> deviceList;
-  platform[0].getDevices(devType, &deviceList);
+  platformList[0].getDevices(devType, &deviceList);
   return deviceList;
 }
 
-cl::Program getProgram(std::vector<cl::Device>& deviceList, cl::Context& context, 
-		       const std::string& fileName) throw (cl::Error) {
-  
-}
+cl::Kernel getKernel(cl::Device device, cl::Context& context, 
+		      const std::string& fileName, 
+		      const std::string& entry_func) throw (cl::Error) {
+  // Read in the OpenCL program from another file
+  std::ifstream is (fileName, std::ios::in);
+  std::istream_iterator<char> isi (is), eof;
+  std::string file_str (isi, eof);
 
-cl::Kernel getKernel(cl::Context& context, cl::CommandQueue& queue,
-		     const std::string& fileName = "toggle.cl",
-		     const std::string& entryFunc = "toggle") throw (cl::Error) {
-  
+  std::cout << file_str << std::endl;
+
+  // Create the OpenCL program from source
+  cl::Program::Sources sources(1, std::make_pair(file_str.c_str(), 0));
+  cl::Program program(context, sources);
+
+  // Build the program
+  program.build({ device });
+
+  // Create the kernel
+  cl::Kernel kernel (program, entry_func.c_str());
+
+  return kernel;
 }
 
 void toggle_data(std::string& data, const char* const argv[], const int& argc) {
-  // Get the device list
-  std::vector<cl::Device> deviceList = getDeviceList();
-  
-  // Create context and queue
-  cl::Context context = cl::Context(deviceList);
-  cl::Device device = deviceList[0];
-  cl::CommandQueue queue = cl::CommandQueue(context, device);
+  try {
+    // Get the device list
+    std::vector<cl::Device> deviceList = getDeviceList();
+    
+    // Create context and queue
+    cl::Context context = cl::Context(deviceList);
+    cl::Device device = deviceList[0];
+    cl::CommandQueue queue = cl::CommandQueue(context, device);
+    
+    // Get the kernel
+    cl::Kernel kernel = getKernel(device, context, cl_file, 
+				     cl_entry_func);
+    
+    // Create a buffer and copy the host's contents
+    const int ROFlags = CL_MEM_READ_WRITE | CL_MEM_USE_HOST_PTR;
+    const int byteSize = data.size();
+    cl::Buffer buf = cl::Buffer(context,
+				ROFlags,
+				byteSize,
+				const_cast<char*>(&data[0]));
+    
+    kernel.setArg(0, buf);
 
-  // Get the program
-  cl::Program program = 
-  
-  // Replace specified charachters
-  for(int curr = 2; (curr < argc); curr++) {
-    toggle(data, argv[curr][0]);
-  } 
+    // Schedule the kernel for execution on a device
+    queue.enqueueNDRangeKernel(kernel, cl::NullRange,
+			       cl::NDRange(byteSize), cl::NullRange);
+
+    // Sync the data back to host pointer
+    queue.enqueueMapBuffer(buf, CL_TRUE, CL_MAP_READ, 0, byteSize);
+
+  } catch(cl::Error error) {
+    if(error.err() == -11) {
+      std::cout << "Build log:" << std::endl
+		<< program.getBuildInfo<CL_PROGRAM_BUILD_LOG>(device);
+    }
+    std::cout << error.what() << ": " << error.err() << std::endl;
+    
+  }
 }
 
 int main(int argc, char *argv[]) {
@@ -65,7 +103,7 @@ int main(int argc, char *argv[]) {
     toggle_data(data, argv, argc);
     
     // Print the modifed data.
-    std::cout << data;
+    //std::cout << data;
     
     // Exit program
     return 0;
